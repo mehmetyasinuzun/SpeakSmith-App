@@ -99,7 +99,7 @@
     if (!hasIO) { els.forEach(fn); return; }
     var io = new IntersectionObserver(function (es) {
       es.forEach(function (e) { if (e.isIntersecting) { io.unobserve(e.target); fn(e.target); } });
-    }, opts || { rootMargin: '0px 0px -8% 0px', threshold: 0.12 });
+    }, opts || { rootMargin: '0px', threshold: 0 });
     els.forEach(function (el) { io.observe(el); });
   }
   if (root.classList.contains('motion')) {

@@ -345,6 +345,8 @@ figcaption{font-size:13px;color:var(--muted);margin-top:12px;text-align:center}
 .step{min-height:74vh;display:flex;flex-direction:column;justify-content:center;padding-block:28px}
 .step:first-child{min-height:56vh;justify-content:flex-start;padding-top:40px}
 .step:last-child{min-height:60vh}
+/* Son adım ortadayken yapışkan telefon hâlâ yapışık kalsın (kap bitip telefonu başlığın altına itmesin). */
+@media (min-width:901px){html.js .steps{padding-bottom:max(0px,calc(20vh - 40px))}}
 .step .k{font:700 13px/1 var(--mono);color:var(--accent-text);letter-spacing:.06em}
 .step h3{font-size:clamp(26px,3vw,36px);margin-top:12px}
 .step > p{margin-top:14px;font-size:17px;color:var(--ink-2);max-width:34em}
@@ -703,6 +705,10 @@ footer p{max-width:34em}
 @media (max-width:760px){
   html.ss .mbar{display:flex}
   html.ss body{padding-bottom:calc(70px + env(safe-area-inset-bottom,0px))}
+  /* Klavye odağı çubuğun altında kalmasın (WCAG 2.4.11): tarayıcı odaklanan öğeyi çubuğun
+     yüksekliği kadar yukarıda tutar. Çubuk odak kaydırmasından hemen sonra da açılabildiği
+     için yalnız görünürken değil, çubuğun çıkabildiği her durumda geçerli. */
+  html.ss{scroll-padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}
 }
 /* Görünmezken (visibility) sekme sırasına ve ekran okuyucuya girmez. */
 html.show-mbar .mbar{transform:none;visibility:visible;transition:transform .35s var(--ease-out),visibility 0s}
@@ -720,6 +726,8 @@ html.show-mbar .mbar{transform:none;visibility:visible;transition:transform .35s
 .doc table{min-width:600px;font-size:14px}
 .doc td:first-child{white-space:normal}
 .doc code{font-family:var(--mono);font-size:.88em;background:var(--surface-2);padding:2px 6px;border-radius:6px;overflow-wrap:anywhere}
+/* Alan adları dar ekranda kelime ortasından bölünmesin; satıra hiç sığmayan ad yine bölünür. */
+.doc code.host{word-break:normal;overflow-wrap:break-word}
 .doc .summary{margin-top:28px;padding:22px 24px;border-radius:20px;background:var(--surface);border:1px solid var(--line)}
 .doc .summary ul{padding-left:0;list-style:none}
 .doc .summary li{position:relative;padding-left:28px}

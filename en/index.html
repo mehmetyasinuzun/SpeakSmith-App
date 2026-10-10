@@ -257,7 +257,7 @@ var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/l
         <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>On-device transcription.</b> Lecture audio is processed by the Whisper model on the phone.</span></li>
         <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>Turkish that steps back.</b> You choose how much you see; the app tells you, with a number, how much you looked.</span></li>
         <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>A core that works without AI.</b> Lecture Desk, word review, grammar, patterns, shadowing and karaoke.</span></li>
-        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>Your own AI, if you want.</b> A free on-device model (7 models, 378 MB to 3.1 GB) or your own cloud key. Nothing downloads by itself.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>Your own AI, if you want.</b> A free on-device model on Android (7 models, 378 MB to 3.1 GB) or your own cloud key. Nothing downloads by itself.</span></li>
       </ul></div>
       <div class="col no rv" style="--d:1"><h3>No</h3><ul>
         <li><svg aria-hidden="true"><use href="#i-x"/></svg><span><b>Account.</b> No sign-up, no email, no phone number.</span></li>
@@ -436,7 +436,7 @@ var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/l
           <p class="note mt-s">If the character really doesn’t understand you, it says so. Example chat; needs an AI coach.</p></div>
         <div class="card rv" style="--d:1"><span class="k">Presentation · 1–3 minutes</span><h3>Speak, get measured.</h3><p>Without AI, right on the phone: words per minute, which filler word how often, and how many of 6 presentation functions you built. Topic chips need no AI either.</p><div class="statrow"><span class="pill-s mono"><b>128</b> wpm</span><span class="pill-s mono">um <b>×3</b></span><span class="pill-s mono"><b>4/6</b> functions</span></div><p class="note mt-s">Example numbers. If speech recognition or the mic permission is unavailable, you carry on by typing.</p></div>
         <div class="card rv" style="--d:2"><span class="k">Shadowing · sentences for your level</span><h3>Say what you heard, see what’s missing.</h3><div class="diff" aria-label="Comparison example: reschedule missing"><span style="--i:0">I’d</span><span style="--i:1">like</span><span style="--i:2">to</span><span class="miss" style="--i:3">reschedule</span><span style="--i:4">our</span><span style="--i:5">meeting</span></div><p class="note mt-s">It checks the words you said; it is not a pronunciation or phoneme analysis.</p></div>
-        <div class="card rv" style="--d:3"><span class="k">Microphone · only when you start it</span><h3>If it says “Listening”, it really is.</h3><p>In shadowing, presentations and spoken word review the mic turns off as soon as the phone locks or a window opens on top, and never turns itself back on.</p><div class="mic-demo" data-state="on" data-mic='[["on","Listening"],["off","Phone locked · mic off"],["off","Paused — continue where you left off"]]'><i class="dot" aria-hidden="true"></i><span>Listening</span></div></div>
+        <div class="card rv" style="--d:3"><span class="k">Microphone · only when you start it</span><h3>If it says “Listening”, it really is.</h3><p>In shadowing, presentations, improv and spoken word review the mic turns off as soon as the phone locks or a window opens on top, and it doesn’t turn itself back on when you return.</p><div class="mic-demo" data-state="on" data-mic='[["on","Listening"],["off","Phone locked · mic off"],["off","Paused — continue where you left off"]]'><i class="dot" aria-hidden="true"></i><span>Listening</span></div></div>
       </div>
     </div>
     <div class="section-cta"><a class="btn btn-primary" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Get the APK, play your first scene</a><span class="note">Shadowing and presentation metrics work from day one; improv needs an AI coach. The chat characters are fictional.</span></div>
@@ -527,9 +527,9 @@ var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/l
           <ul>
             <li>Share a YouTube lecture: “Watch as a lecture”</li>
             <li>Lecture review as Both / EN / TR first; translate the Turkish again</li>
-            <li>A first day without AI; the on-device coach is optional and downloads on Wi-Fi</li>
-            <li>Weekly quests and presentations work without an AI coach</li>
-            <li>Update notices from inside the app</li>
+            <li>A first day without AI; the on-device coach is optional and you start its download</li>
+            <li>Weekly quests and presentations now work without an AI coach</li>
+            <li>Update notices now come from a public version file</li>
           </ul>
         </div>
       </div>
@@ -539,13 +539,13 @@ var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/l
           <div><span>APK (arm64)</span><span>about 105 MB</span></div>
           <div><span>Lecture speech model</span><span>Base 142 MB · Tiny 75 MB</span></div>
           <div><span>Turkish translation pack</span><span>about 30 MB, once</span></div>
-          <div><span>On-device AI coach</span><span>optional · suggested ~1.1 GB</span></div>
+          <div><span>On-device AI coach</span><span>optional · suggested ~1.3 GB</span></div>
           <div><span>iPhone</span><span>Not yet</span></div>
         </div>
         <div class="card rv" id="verify" style="--d:2;margin-top:16px"><span class="k">Verify the file</span><h3>SHA-256</h3>
-          <p class="note mt-s">speaksmith-v0.8.0-arm64.apk</p>
+          <p class="note mt-s">Compare the SHA-256 digest of the file you downloaded with the one on GitHub’s <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">release page</a>, which lists it next to every file.</p>
+          <p class="note mt-s" data-fill-label="arm64-sha256">speaksmith-arm64.apk, the file the button downloads (the same file as speaksmith-v0.8.0-arm64.apk on the release page):</p>
           <p class="hash" data-fill="arm64-sha256">d37f3594340f233da0dfbc9fbbb6485cc9ceef7a115c4ba9cc4c394a5d3babb5</p>
-          <p class="note mt-s">The <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">release page</a> on GitHub shows the SHA-256 digest next to every file.</p>
           <p class="note mt-s"><b>Won’t install?</b> Versions before 0.5.0 were signed with another key: back up in Settings › Data management, uninstall the old app, install the new one and restore the backup on first launch. The universal APK is only for a first install on an unusual device: it does not install over an existing arm64 or arm32 SpeakSmith (Android treats it as an older version).</p>
           <p class="note mt-s"><b>Coming from 0.7.0 or older?</b> Those versions may not show update notices. Install 0.8.0 on top once from here; after that the app tells you about new versions.</p>
         </div>
@@ -563,7 +563,7 @@ var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/l
       <details><summary>Does it work offline?</summary><div><p>Once the speech model and the Turkish translation pack are downloaded, live lectures are transcribed and translated offline (unless cloud AI is selected). Word review, grammar, patterns, the path and the on-device AI coach also work offline. Adding YouTube content, playing catalogue songs, dictionary look-ups and cloud AI need internet.</p></div></details>
       <details><summary>Does it score my pronunciation?</summary><div><p>No, and we don’t claim to. Shadowing and karaoke transcribe what you said and compare it with the expected text, so they check whether you said the right words. There is no waveform or phoneme-level pronunciation analysis.</p></div></details>
       <details><summary>Does it transcribe lectures taught in Turkish?</summary><div><p>No. The on-device speech models transcribe English speech only. Lecture Desk is built for lectures taught in English.</p></div></details>
-      <details><summary>Where do the karaoke songs come from?</summary><div><p>The catalogue holds only title, artist, level and tempo. Lyrics and audio are not bundled: lyrics come at play time from YouTube’s English captions or LRCLIB, and the video plays in the in-app YouTube player. The option to also try downloading YouTube audio for offline use starts switched off, because YouTube usually doesn’t allow it.</p><p>You can add your own audio file too; if it has no lyrics, “Get lyrics from the audio” uses the on-device Whisper model on Android. With no model on the phone, the file is sent to OpenAI Whisper if your OpenAI key is saved.</p></div></details>
+      <details><summary>Where do the karaoke songs come from?</summary><div><p>The catalogue holds only title, artist, level and tempo. Lyrics and audio are not bundled: lyrics come at play time from YouTube’s English captions or LRCLIB, and the video plays in the in-app YouTube player. The option to also try downloading YouTube audio for offline use starts switched off, because YouTube usually doesn’t allow it.</p><p>You can add your own audio file too. If you pick “AI transcript (Whisper)” as the lyrics source while adding it, the on-device Whisper model writes the lyrics on Android; with no model on the phone (always on the web), the file is sent to OpenAI Whisper if your OpenAI key is saved. On a song you already added, “Get lyrics from the audio” uses only the on-device Whisper model (Android).</p></div></details>
       <details><summary>Is the app in English?</summary><div><p>Yes. Every screen is available in Turkish and English; you choose in onboarding or in Settings. The app is designed for Turkish speakers, so Turkish support (translations, hints) is built in and can be reduced.</p></div></details>
       <details><summary>How do updates arrive?</summary><div><p>On launch the app checks a public version file; if there is a new version it asks you and downloads the APK from the GitHub release page. No identity or usage data is sent.</p><p>If you use 0.7.0 or older, you may not see a notice: install 0.8.0 on top once from <a href="#download">the download section</a>, and the app will tell you about later versions.</p></div></details>
       <details><summary>Is there an iPhone app?</summary><div><p>Not yet. You can open the <a href="../uygulama/">browser version</a> (first load ~7–14 MB); speech recognition there works best in Chrome and Edge and is limited in Safari. Lecture Desk and Whisper features are Android-only.</p></div></details>
