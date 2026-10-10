@@ -1,0 +1,718 @@
+[
+  {
+    "id": "social_new_neighbour_intro",
+    "emoji": "🛗",
+    "titleTr": "Yeni komşuyla tanışma",
+    "titleEn": "Meeting a new neighbour",
+    "briefTr": "Üst kattaki daireye geçen hafta yeni bir komşu taşındı ve asansörde ilk kez karşılaştınız. Kendini tanıt, ona hoş geldin de ve buranın nasıl bir yer olduğunu anlat.",
+    "sceneEn": "The learner meets the person who has just moved into the flat upstairs while they share a lift.",
+    "goalEn": "introduce yourself, welcome them and keep a short friendly conversation going",
+    "partnerRole": "neighbour who moved in yesterday",
+    "userRole": "resident who has lived in the building for years",
+    "level": "A2",
+    "tags": [
+      "social",
+      "introductions",
+      "small-talk"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Hi, I'm on the second floor.",
+      "Welcome to the building!",
+      "How are you settling in?"
+    ]
+  },
+  {
+    "id": "social_decline_dinner_invite",
+    "emoji": "🙏",
+    "titleTr": "Daveti kibarca çevirmek",
+    "titleEn": "Turning down an invitation",
+    "briefTr": "Arkadaşın seni bu akşamki yemeğe çağırıyor ama çok yorgunsun ve gitmek istemiyorsun. Bahane uydurmadan nazikçe hayır de ve başka bir gün buluşmayı teklif et.",
+    "sceneEn": "A friend invites the learner to dinner tonight and the learner wants to say no without hurting them.",
+    "goalEn": "say no politely, give an honest reason and suggest another day",
+    "partnerRole": "close friend making the invitation",
+    "userRole": "friend who is too tired to go out",
+    "level": "A2",
+    "tags": [
+      "social",
+      "invitations",
+      "politeness"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Thanks for asking!",
+      "I'm really tired tonight.",
+      "Could we do it another day?"
+    ]
+  },
+  {
+    "id": "social_compliment_new_flat",
+    "emoji": "✨",
+    "titleTr": "Arkadaşının yeni evi",
+    "titleEn": "A friend's new flat",
+    "briefTr": "Arkadaşın taşındığı eve seni ilk kez çağırdı ve salonu gerçekten çok güzel olmuş. İçten bir iltifat et, beğendiğin bir ayrıntıyı söyle ve burayı nasıl toparladığını sor.",
+    "sceneEn": "The learner visits a friend's newly decorated flat for the first time and reacts to it.",
+    "goalEn": "give a genuine compliment, name one detail you like and ask how they did it",
+    "partnerRole": "friend showing you around the new flat",
+    "userRole": "visitor seeing the flat for the first time",
+    "level": "A2",
+    "tags": [
+      "social",
+      "compliments",
+      "small-talk"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "This place looks great.",
+      "I love that wall.",
+      "How long did it take you?"
+    ]
+  },
+  {
+    "id": "social_forgot_their_name",
+    "emoji": "😅",
+    "titleTr": "Adını unuttun",
+    "titleEn": "Forgotten name",
+    "briefTr": "Bir doğum günü kalabalığında biri yanına gelip seni adınla selamlıyor; sizi geçen yaz tanıştırmışlar ama sen onun adını hiç hatırlamıyorsun. Durumu dürüstçe itiraf et, sohbeti sıcak tut ve adını öğrenmeyi başar.",
+    "sceneEn": "At a birthday party someone greets the learner warmly by name, but the learner cannot remember who they are.",
+    "goalEn": "admit you have forgotten their name without offending them and get their name back into the conversation",
+    "partnerRole": "acquaintance who remembers you well",
+    "userRole": "guest who cannot place their face",
+    "level": "B1",
+    "tags": [
+      "social",
+      "awkward",
+      "introductions"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "This is so embarrassing...",
+      "Remind me where we met?",
+      "Good to see you again!"
+    ]
+  },
+  {
+    "id": "social_late_again_apology",
+    "emoji": "⏰",
+    "titleTr": "Yine geç kaldın",
+    "titleEn": "Late again",
+    "briefTr": "Arkadaşını soğukta kırk dakika beklettin, üstelik bu ay ikinci kez. Bahanenin arkasına saklanmadan özür dile, gerçekten ne olduğunu anlat ve bunu nasıl telafi edeceğini söyle.",
+    "sceneEn": "The learner arrives forty minutes late to meet a friend who has been waiting outside in the cold, for the second time this month.",
+    "goalEn": "apologise sincerely without making excuses and offer to make up for it",
+    "partnerRole": "friend who is cold and quietly annoyed",
+    "userRole": "friend who turned up very late",
+    "level": "B1",
+    "tags": [
+      "social",
+      "apology",
+      "conflict"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'm so sorry — I have no excuse.",
+      "You must be freezing.",
+      "Let me get this one.",
+      "It won't happen again."
+    ]
+  },
+  {
+    "id": "social_split_the_bill",
+    "emoji": "🧾",
+    "titleTr": "Hesabı bölüşmek",
+    "titleEn": "Splitting the bill",
+    "briefTr": "Kalabalık bir masada herkes hesabı eşit bölmek istiyor ama sen yalnızca çorba içtin, diğerleri şarapla ana yemek söyledi. Ortamı germeden kendi payını ayırmayı öner ve nedenini açıkla.",
+    "sceneEn": "At a group dinner everyone wants to split the bill equally, but the learner only had a soup while the others had wine and main courses.",
+    "goalEn": "push back on the equal split politely and propose paying for what you actually had",
+    "partnerRole": "friend at the table holding the bill",
+    "userRole": "guest who only had a soup",
+    "level": "B1",
+    "tags": [
+      "social",
+      "money",
+      "awkward"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "Would you mind if we did it differently?",
+      "I only had the soup.",
+      "Let me put in for my bit.",
+      "I don't want to make it awkward."
+    ]
+  },
+  {
+    "id": "social_friend_cancels_again",
+    "emoji": "📵",
+    "titleTr": "Üçüncü kez iptal",
+    "titleEn": "Cancelled again",
+    "briefTr": "Yakın arkadaşın planlarınızı üst üste üçüncü kez son anda iptal etti; bu da seni yıprattı. Suçlayıcı olmadan nasıl hissettiğini anlat, neler olup bittiğini sor ve bundan sonrası için net bir sınır çiz.",
+    "sceneEn": "The learner tells a close friend how it feels that they have cancelled their plans at the last minute for the third time in a row.",
+    "goalEn": "say how it makes you feel without blaming, ask what is going on and set a clear boundary",
+    "partnerRole": "close friend who gets defensive and apologises too fast",
+    "userRole": "friend who has been let down three times",
+    "level": "B2",
+    "tags": [
+      "social",
+      "conflict",
+      "boundaries"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "Can I be honest with you?",
+      "When you cancel last minute, I feel...",
+      "Is something going on?",
+      "I'd rather know in advance."
+    ]
+  },
+  {
+    "id": "social_heated_dinner_debate",
+    "emoji": "🔥",
+    "titleTr": "Masada gerilen tartışma",
+    "titleEn": "A tense dinner debate",
+    "briefTr": "Verdiğin akşam yemeğinde iki misafir kızışan bir tartışmaya girdi, masadaki herkes sustu. Kimseyi haksız çıkarmadan araya gir, iki tarafın da hak vereceği bir nokta bul, sonra masayı daha hafif bir konuya çek.",
+    "sceneEn": "Two guests at a dinner party are arguing heatedly and the learner tries to cool things down and change the subject.",
+    "goalEn": "de-escalate the argument, acknowledge both sides and steer the conversation somewhere lighter",
+    "partnerRole": "guest who is worked up and wants you to take a side",
+    "userRole": "host trying to keep the evening pleasant",
+    "level": "B2",
+    "tags": [
+      "social",
+      "disagreement",
+      "hosting"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "You both have a point.",
+      "Can we park this for now?",
+      "Let's not spoil a good dinner.",
+      "On a lighter note..."
+    ]
+  },
+  {
+    "id": "social_money_owed_friend",
+    "emoji": "💸",
+    "titleTr": "Arkadaşındaki borç",
+    "titleEn": "The unpaid loan",
+    "briefTr": "Altı ay önce arkadaşına ciddi bir para ödünç verdin; o hiç konusunu açmıyor ve senin de artık o paraya ihtiyacın var. Arkadaşlığı zedelemeden konuyu aç, somut bir ödeme planı iste ve mazeretle geçiştirilmesine izin verme.",
+    "sceneEn": "The learner raises a substantial loan a friend borrowed six months ago and has never mentioned since.",
+    "goalEn": "raise the debt without damaging the friendship and get a concrete repayment plan",
+    "partnerRole": "friend who is embarrassed and keeps deflecting",
+    "userRole": "friend who lent the money and now needs it back",
+    "level": "C1",
+    "tags": [
+      "social",
+      "money",
+      "difficult-conversation"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "There's something I need to bring up.",
+      "I hate having to ask, but...",
+      "What would work for you?",
+      "Could we agree on a date?"
+    ]
+  },
+  {
+    "id": "social_farewell_old_friend",
+    "emoji": "🥂",
+    "titleTr": "Son akşam vedası",
+    "titleEn": "The last evening",
+    "briefTr": "Yıllardır yaşadığın şehirden başka bir ülkeye taşınıyorsun ve bu, en eski arkadaşınla son akşamınız. Şakaya vurup geçiştirmeden bu dostluğun sana ne ifade ettiğini söyle, ona teşekkür et ve bağı nasıl sürdüreceğinize dair somut bir söz ver.",
+    "sceneEn": "On their last evening before moving abroad, the learner says goodbye to their oldest friend, who keeps deflecting with jokes.",
+    "goalEn": "say what the friendship has meant, thank them sincerely and make a concrete promise to stay in touch",
+    "partnerRole": "oldest friend who hides emotion behind jokes",
+    "userRole": "friend who is moving abroad tomorrow",
+    "level": "C1",
+    "tags": [
+      "social",
+      "farewell",
+      "emotions"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I'm not good at this, but...",
+      "You've been there for everything.",
+      "This isn't goodbye for good.",
+      "Come and visit — I mean it."
+    ]
+  },
+  {
+    "id": "social_birthday_invite",
+    "emoji": "🧺",
+    "titleTr": "Doğum günü daveti",
+    "titleEn": "Birthday invitation",
+    "briefTr": "Cumartesi parkta küçük bir doğum günü pikniği yapıyorsun ve dil kursunda yeni tanıştığın arkadaşını da çağırmak istiyorsun. Onu davet et; saati, buluşma yerini ve yanında ne getirebileceğini anlat.",
+    "sceneEn": "The learner invites a new classmate from their language course to a small birthday picnic in the park on Saturday.",
+    "goalEn": "make the invitation clearly and give the time, the meeting point and what to bring",
+    "partnerRole": "classmate you met recently who asks practical questions",
+    "userRole": "person throwing a birthday picnic",
+    "level": "A2",
+    "tags": [
+      "social",
+      "invitations",
+      "celebrations"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Are you free on Saturday?",
+      "It's my birthday picnic.",
+      "We're meeting at two, by the lake.",
+      "Just bring a drink if you like."
+    ]
+  },
+  {
+    "id": "social_congrats_new_job",
+    "emoji": "🎉",
+    "titleTr": "Yeni işe tebrik",
+    "titleEn": "Congrats on the new job",
+    "briefTr": "En yakın arkadaşın aylardır istediği işe sonunda kabul edildiğini müjdeliyor. Onu içtenlikle tebrik et, yeni işiyle ilgili birkaç soru sor ve bunu birlikte kutlamayı teklif et.",
+    "sceneEn": "A best friend shares the news that they have finally got the job they have wanted for months.",
+    "goalEn": "congratulate them warmly, ask a couple of questions about the new job and suggest celebrating together",
+    "partnerRole": "best friend who is excited and a little nervous about starting",
+    "userRole": "friend hearing the good news",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebrations",
+      "compliments"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "That's amazing news!",
+      "You really deserve it.",
+      "When do you start?",
+      "Let's celebrate this weekend!"
+    ]
+  },
+  {
+    "id": "social_sick_friend_check_in",
+    "emoji": "🍲",
+    "titleTr": "Hasta arkadaşı aramak",
+    "titleEn": "Checking on a sick friend",
+    "briefTr": "Arkadaşın iki gündür grip yüzünden evden çıkamıyor ve yalnız yaşıyor. Onu ara, nasıl olduğunu sor ve marketten ihtiyacı olan şeyleri götürmeyi teklif et.",
+    "sceneEn": "The learner phones a friend who lives alone and has been stuck at home with flu for two days.",
+    "goalEn": "ask how they are, show you care and offer to bring them what they need from the shop",
+    "partnerRole": "friend with flu who does not like asking for help",
+    "userRole": "friend calling to check in",
+    "level": "A2",
+    "tags": [
+      "social",
+      "support",
+      "phone"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "How are you feeling?",
+      "Do you need anything?",
+      "I can bring you some soup.",
+      "Get some rest!"
+    ]
+  },
+  {
+    "id": "social_pet_sitting_favour",
+    "emoji": "🐈",
+    "titleTr": "Kediye bakar mısın?",
+    "titleEn": "Can you feed my cat?",
+    "briefTr": "Hafta sonu şehir dışına çıkıyorsun ve kedini besleyecek kimse yok. Kapı komşundan bu iyiliği rica et, kedinin neye ihtiyacı olduğunu ve anahtarı nasıl bırakacağını anlat, sonra ona teşekkür et.",
+    "sceneEn": "The learner is going away for the weekend and asks a friendly next-door neighbour to feed their cat.",
+    "goalEn": "ask for the favour politely, explain what the cat needs and arrange how to hand over the key",
+    "partnerRole": "friendly neighbour who has never looked after a cat",
+    "userRole": "cat owner going away for the weekend",
+    "level": "A2",
+    "tags": [
+      "social",
+      "favours",
+      "neighbours"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Could I ask you a favour?",
+      "She eats twice a day.",
+      "I'll leave the key with you.",
+      "Thank you so much!"
+    ]
+  },
+  {
+    "id": "social_flatmate_late_guitar",
+    "emoji": "🎸",
+    "titleTr": "Gece yarısı gitar",
+    "titleEn": "Late-night guitar",
+    "briefTr": "Saat gece yarısını geçti, yarın sabah önemli bir sınavın var ve ev arkadaşın odasında yüksek sesle gitar çalıyor. Kapısını çal, durumu anlat ve kibarca sesi kısmasını iste.",
+    "sceneEn": "It is past midnight, the learner has an important exam in the morning and their flatmate is playing the guitar loudly in the next room.",
+    "goalEn": "explain the situation and politely ask the flatmate to stop or play much more quietly",
+    "partnerRole": "flatmate who did not realise how loud it was",
+    "userRole": "flatmate with an exam in the morning",
+    "level": "A2",
+    "tags": [
+      "social",
+      "flatmates",
+      "requests"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry to bother you.",
+      "I have an exam tomorrow.",
+      "Could you play more quietly?",
+      "Maybe tomorrow afternoon?"
+    ]
+  },
+  {
+    "id": "social_gift_you_dislike",
+    "emoji": "🎁",
+    "titleTr": "Beğenmediğin hediye",
+    "titleEn": "A gift you don't love",
+    "briefTr": "Arkadaşın sana kendi ördüğü rengârenk bir kazak hediye etti ve yarınki doğum günü yemeğine onu giyip giymeyeceğini soruyor; kazak hiç senin tarzın değil. Emeğine içtenlikle teşekkür et, yalan söylemeden onu kırmamanın bir yolunu bul.",
+    "sceneEn": "A friend has knitted the learner a very colourful jumper and asks whether they will wear it to tomorrow's birthday dinner. It is not the learner's style at all.",
+    "goalEn": "thank them sincerely for the effort and answer honestly without hurting their feelings",
+    "partnerRole": "friend who is proud of the jumper and hopes you love it",
+    "userRole": "friend who received the jumper",
+    "level": "B1",
+    "tags": [
+      "social",
+      "gifts",
+      "politeness"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "You made this yourself?",
+      "So much work went into it.",
+      "It's not what I'd usually wear, but...",
+      "It means a lot that you thought of me."
+    ]
+  },
+  {
+    "id": "social_broke_borrowed_camera",
+    "emoji": "📷",
+    "titleTr": "Ödünç kamerayı düşürdün",
+    "titleEn": "The borrowed camera",
+    "briefTr": "Arkadaşından tatil için ödünç aldığın fotoğraf makinesini düşürdün ve ekranı çatladı. Ona geri verirken ne olduğunu açıkça anlat, özür dile ve tamir ya da yenisi için bir çözüm öner.",
+    "sceneEn": "The learner returns a camera they borrowed from a friend for a holiday. They dropped it and the screen is cracked.",
+    "goalEn": "tell them honestly what happened, apologise and offer to pay for the repair or a replacement",
+    "partnerRole": "friend who loves that camera and is shocked at first",
+    "userRole": "friend who broke the borrowed camera",
+    "level": "B1",
+    "tags": [
+      "social",
+      "apology",
+      "favours"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I have to tell you something.",
+      "I dropped it — I'm really sorry.",
+      "I'll pay for the repair.",
+      "What would you prefer?"
+    ]
+  },
+  {
+    "id": "social_trip_budget",
+    "emoji": "🏕️",
+    "titleTr": "Bütçene uymayan tatil",
+    "titleEn": "A trip you can't afford",
+    "briefTr": "Arkadaş grubun yazın lüks bir otelde bir hafta kalmayı planlıyor ama bu sene bütçen çok kısıtlı. Utanmadan durumunu açıkla ve herkesin katılabileceği daha ucuz bir seçenek öner.",
+    "sceneEn": "The learner's group of friends is planning a week at an expensive hotel this summer, but the learner's budget is very tight this year.",
+    "goalEn": "explain your budget without embarrassment and suggest a cheaper option everyone could join",
+    "partnerRole": "enthusiastic friend organising the trip who has already found the hotel",
+    "userRole": "friend who cannot afford the plan",
+    "level": "B1",
+    "tags": [
+      "social",
+      "plans",
+      "money"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "Money's a bit tight for me this year.",
+      "I'd love to come, but...",
+      "What about camping instead?",
+      "That way everyone can come."
+    ]
+  },
+  {
+    "id": "social_dinner_allergy",
+    "emoji": "🥜",
+    "titleTr": "Yemek davetinde alerji",
+    "titleEn": "Dinner and an allergy",
+    "briefTr": "Arkadaşının yeni sevgilisi seni cumartesi akşamı yemeğe çağırdı ve menüde fıstık soslu tavuk olduğunu söylüyor; senin ciddi bir fıstık alerjin var. Zorluk çıkarıyormuş gibi görünmeden durumu anlat ve ona kolaylık sağlayacak bir öneride bulun.",
+    "sceneEn": "A friend's new partner invites the learner to dinner on Saturday and mentions the main dish is chicken in peanut sauce. The learner has a serious peanut allergy.",
+    "goalEn": "explain the allergy clearly without sounding demanding and offer an easy solution, such as bringing a dish",
+    "partnerRole": "friend's new partner who is keen to impress and a little anxious",
+    "userRole": "guest with a serious peanut allergy",
+    "level": "B1",
+    "tags": [
+      "social",
+      "invitations",
+      "health"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I should mention something.",
+      "I'm allergic to peanuts — quite badly.",
+      "Please don't change everything for me.",
+      "I could bring a dish."
+    ]
+  },
+  {
+    "id": "social_party_full_of_strangers",
+    "emoji": "🍹",
+    "titleTr": "Kimseyi tanımadığın parti",
+    "titleEn": "A party full of strangers",
+    "briefTr": "Bir iş arkadaşının ev partisindesin ama o mutfakta meşgul ve salonda başka kimseyi tanımıyorsun. Sohbet eden küçük bir gruba katıl, kendini tanıt ve ortak bir konu bularak konuşmayı sürdür.",
+    "sceneEn": "At a house party the learner only knows the host, who is busy in the kitchen, so they join a small group of strangers chatting in the living room.",
+    "goalEn": "join the group naturally, introduce yourself and find something in common to keep the conversation going",
+    "partnerRole": "guest in the group who is friendly but in the middle of a story",
+    "userRole": "guest who only knows the host",
+    "level": "B1",
+    "tags": [
+      "social",
+      "parties",
+      "small-talk"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "Mind if I join you?",
+      "How do you all know Sam?",
+      "Sorry, I didn't catch your name.",
+      "No way — me too!"
+    ]
+  },
+  {
+    "id": "social_surprise_party_secret",
+    "emoji": "🤫",
+    "titleTr": "Sürpriz tehlikede",
+    "titleEn": "Keeping the surprise",
+    "briefTr": "Cumartesi en yakın arkadaşına sürpriz bir doğum günü partisi hazırlıyorsunuz; o da bir şeylerden şüphelenip sana o akşamın planını doğrudan soruyor. Sürprizi bozmadan inandırıcı bir bahane uydur ve onu tam saatinde doğru yere gelmeye ikna et.",
+    "sceneEn": "The learner is helping organise a surprise birthday party for their best friend on Saturday. The friend suspects something and asks the learner directly about Saturday evening.",
+    "goalEn": "keep the secret with a believable cover story and get them to the right place at the right time",
+    "partnerRole": "best friend who is suspicious and asks lots of questions",
+    "userRole": "friend helping organise the surprise",
+    "level": "B1",
+    "tags": [
+      "social",
+      "celebrations",
+      "plans"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "Nothing special, why?",
+      "I thought we could just grab dinner.",
+      "Trust me, you'll like it.",
+      "Be there at eight, okay?"
+    ]
+  },
+  {
+    "id": "social_missing_the_wedding",
+    "emoji": "💍",
+    "titleTr": "Düğüne gidemiyorsun",
+    "titleEn": "Missing a friend's wedding",
+    "briefTr": "Üniversiteden yakın arkadaşın yurt dışında evleniyor ama düğün tarihi bitirme sınavınla çakışıyor, uçak biletleri de çok pahalı. Gelemeyeceğini ona kendin söyle, hayal kırıklığını anlayışla karşıla ve o güne başka bir şekilde ortak olmanın yolunu öner.",
+    "sceneEn": "A close friend from university is getting married abroad, but the date clashes with the learner's final exam and flights are very expensive.",
+    "goalEn": "tell them personally that you cannot come, handle their disappointment with empathy and offer another way to be part of the day",
+    "partnerRole": "friend who is hurt and had counted on you being there",
+    "userRole": "friend who cannot make it to the wedding",
+    "level": "B2",
+    "tags": [
+      "social",
+      "weddings",
+      "bad-news"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I wanted to tell you myself.",
+      "I'm gutted I can't be there.",
+      "The timing couldn't be worse.",
+      "Let me take you both out when you're back."
+    ]
+  },
+  {
+    "id": "social_comfort_after_breakup",
+    "emoji": "🫂",
+    "titleTr": "Ayrılık sonrası destek",
+    "titleEn": "After the break-up",
+    "briefTr": "Arkadaşın beş yıllık ilişkisinin bittiğini anlatmak için seni kahveye çağırdı ve sürekli kendini suçluyor. Hazır tavsiyeler vermeden onu dinle, duygularını kabul et ve bu hafta için ona somut bir destek teklif et.",
+    "sceneEn": "Over coffee a friend tells the learner that their relationship of five years has just ended, and keeps blaming themselves.",
+    "goalEn": "listen and acknowledge their feelings without rushing to give advice, and offer concrete support for this week",
+    "partnerRole": "friend who is heartbroken and keeps blaming themselves",
+    "userRole": "friend who is there to listen",
+    "level": "B2",
+    "tags": [
+      "social",
+      "support",
+      "emotions"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "That sounds really hard.",
+      "It's not all on you.",
+      "Do you want advice, or just to vent?",
+      "Why don't you stay at mine this weekend?"
+    ]
+  },
+  {
+    "id": "social_refuse_lend_car",
+    "emoji": "⛽",
+    "titleTr": "Arabanı isteyen arkadaş",
+    "titleEn": "Can I borrow your car?",
+    "briefTr": "Arkadaşın uzun bir hafta sonu yolculuğu için arabanı ödünç istiyor; geçen sefer arabayı boş depoyla ve çamur içinde geri getirmişti. Arkadaşlığınızı bozmadan kararlı bir şekilde hayır de ve ısrarlarına boyun eğme.",
+    "sceneEn": "A friend asks to borrow the learner's car for a long weekend road trip. Last time they returned it with an empty tank and covered in mud.",
+    "goalEn": "say no firmly but kindly, give a clear reason and hold your position when they push",
+    "partnerRole": "friend who is persuasive and keeps pushing",
+    "userRole": "car owner who does not want to lend it again",
+    "level": "B2",
+    "tags": [
+      "social",
+      "saying-no",
+      "boundaries"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'm going to say no this time.",
+      "It's nothing personal.",
+      "Last time it came back...",
+      "Have you thought about renting one?"
+    ]
+  },
+  {
+    "id": "social_group_chat_joke",
+    "emoji": "💬",
+    "titleTr": "Yanlış anlaşılan şaka",
+    "titleEn": "The joke that landed badly",
+    "briefTr": "Arkadaş grubunun mesajlaşma grubunda yaptığın bir şaka, bir arkadaşını herkesin önünde kırmış; o günden beri sana cevap vermiyor. Onunla yüz yüze konuş, niyetini açıkla ama kendini savunmaya kaçmadan kırgınlığını kabul et ve aranızı düzelt.",
+    "sceneEn": "A joke the learner posted in the friends' group chat embarrassed one friend in front of everyone, and that friend has stopped replying. They now meet face to face.",
+    "goalEn": "take responsibility for the impact, explain your intention without getting defensive and repair the friendship",
+    "partnerRole": "friend who felt humiliated and is still cold",
+    "userRole": "friend who posted the joke",
+    "level": "B2",
+    "tags": [
+      "social",
+      "apology",
+      "conflict"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I've been thinking about the chat.",
+      "That's not how I meant it, but I get why it hurt.",
+      "I should have thought first.",
+      "Would it help if I said something in the group?"
+    ]
+  },
+  {
+    "id": "social_reconnect_after_silence",
+    "emoji": "📨",
+    "titleTr": "Bir yıllık sessizlik",
+    "titleEn": "A year of silence",
+    "briefTr": "Eskiden çok yakın olduğun bir arkadaşının mesajlarını yoğunluğunu bahane ederek bir yıl boyunca geçiştirdin; şimdi onu arıyorsun. Mazeret sıralamadan sessizliğinin sorumluluğunu üstlen, onun neler hissettiğini kabul et ve yeniden yakınlaşmak için somut bir buluşma öner.",
+    "sceneEn": "The learner calls a once-close friend whose messages they kept brushing off for a year, claiming to be too busy.",
+    "goalEn": "own the silence without excuses, acknowledge how it felt for them and propose a concrete plan to reconnect",
+    "partnerRole": "friend who is guarded and a bit hurt",
+    "userRole": "friend who went quiet for a year",
+    "level": "B2",
+    "tags": [
+      "social",
+      "apology",
+      "friendship"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I owe you an apology.",
+      "There's no good excuse.",
+      "I've really missed you.",
+      "Can we put a date in the diary?"
+    ]
+  },
+  {
+    "id": "social_overstaying_guest",
+    "emoji": "🛏️",
+    "titleTr": "Uzayan misafirlik",
+    "titleEn": "The guest who stays",
+    "briefTr": "Birkaç günlüğüne kalmak üzere gelen eski arkadaşın üç haftadır salondaki kanepede yatıyor ve gitmekten hiç söz etmiyor. Onu kırmadan konuyu aç ve ayrılması için net bir tarih üzerinde anlaşın.",
+    "sceneEn": "An old friend who came to stay for a few days has been sleeping on the learner's sofa for three weeks and has not mentioned leaving.",
+    "goalEn": "raise the issue kindly but clearly and agree on a specific date for them to move out",
+    "partnerRole": "old friend who is comfortable and keeps avoiding the topic",
+    "userRole": "host whose patience is running out",
+    "level": "B2",
+    "tags": [
+      "social",
+      "boundaries",
+      "hosting"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "Can we talk about your plans?",
+      "It's been great having you, but...",
+      "I need my space back.",
+      "Shall we say by the end of the month?"
+    ]
+  },
+  {
+    "id": "social_worried_about_partner",
+    "emoji": "🚩",
+    "titleTr": "Arkadaşının sevgilisi",
+    "titleEn": "Worried about their partner",
+    "briefTr": "Yakın arkadaşının sevgilisi onu herkesin önünde küçümsüyor, telefonunu karıştırıyor ve arkadaşın son aylarda herkesten uzaklaştı. Sevgilisini suçlamadan ve arkadaşını onu savunmaya itmeden endişeni dile getir, ne karar verirse versin yanında olduğunu hissettir.",
+    "sceneEn": "The learner has noticed that a close friend's partner belittles them in public and goes through their phone, and the friend has been pulling away from everyone.",
+    "goalEn": "voice your concern without attacking the partner or pushing the friend into defending them, and make it clear you will be there whatever they decide",
+    "partnerRole": "close friend who plays the problems down and becomes defensive",
+    "userRole": "friend who is worried",
+    "level": "C1",
+    "tags": [
+      "social",
+      "difficult-conversation",
+      "support"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I care about you, so I'll say this once.",
+      "You haven't seemed yourself lately.",
+      "I'm not asking you to do anything.",
+      "Whatever happens, I'm here."
+    ]
+  },
+  {
+    "id": "social_friends_startup_pitch",
+    "emoji": "🚀",
+    "titleTr": "Arkadaşının girişimi",
+    "titleEn": "A friend's big idea",
+    "briefTr": "Arkadaşın işini bırakıp bir girişim kurmak istiyor ve senden hem birikiminle ortak olmanı hem de dürüst görüşünü istiyor; sen fikrin ciddi açıkları olduğunu düşünüyorsun. Hevesini söndürmeden kaygılarını somut biçimde söyle ve ortaklık teklifini net bir dille geri çevir.",
+    "sceneEn": "A friend plans to quit their job to launch a start-up and asks the learner both to invest their savings and to give an honest opinion. The learner thinks the idea has serious flaws.",
+    "goalEn": "give honest, specific feedback without crushing their enthusiasm and clearly decline to invest",
+    "partnerRole": "friend who is passionate about the idea and hopes you are in",
+    "userRole": "friend being asked to invest",
+    "level": "C1",
+    "tags": [
+      "social",
+      "saying-no",
+      "money"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "You asked me to be honest, so...",
+      "What worries me is...",
+      "Have you tested it with real customers?",
+      "I won't invest, but I'm behind you."
+    ]
+  },
+  {
+    "id": "social_caught_between_friends",
+    "emoji": "🤝",
+    "titleTr": "Arada kalmak",
+    "titleEn": "Caught in the middle",
+    "briefTr": "Doğum günü yemeğini sen düzenliyorsun ve iki yakın arkadaşın arasında büyük bir kavga çıktı; biri, diğeri davet edilirse gelmeyeceğini söylüyor. Taraf tutmadan kendi sınırını çiz, ikisini de önemsediğini göster ve kimseyi dışarıda bırakmayan bir çözüm ara.",
+    "sceneEn": "The learner is organising their birthday dinner. Two close friends have had a serious falling-out, and one says they will not come if the other is invited.",
+    "goalEn": "refuse to take sides, set your own boundary and look for a solution that leaves neither friend out",
+    "partnerRole": "friend who feels betrayed and gives you an ultimatum",
+    "userRole": "friend caught between the two",
+    "level": "C1",
+    "tags": [
+      "social",
+      "conflict",
+      "boundaries"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I'm not going to choose between you.",
+      "I understand you're hurt.",
+      "It's my birthday, and I want you both there.",
+      "What if you just sat at different ends?"
+    ]
+  }
+]

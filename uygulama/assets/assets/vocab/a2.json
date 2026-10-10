@@ -1,0 +1,5371 @@
+[
+  {
+    "english": "personality",
+    "turkish": "kişilik",
+    "example": "She has a very warm personality.",
+    "exampleTr": "Çok sıcak bir kişiliği var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "polite",
+    "turkish": "kibar, nazik",
+    "example": "The waiter was polite and quick.",
+    "exampleTr": "Garson kibar ve hızlıydı.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "rude",
+    "turkish": "kaba",
+    "example": "It is rude to interrupt people.",
+    "exampleTr": "İnsanların sözünü kesmek kabalıktır.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "honest",
+    "turkish": "dürüst",
+    "example": "He is an honest colleague.",
+    "exampleTr": "Dürüst bir iş arkadaşıdır.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "shy",
+    "turkish": "utangaç",
+    "example": "I was shy when I was a child.",
+    "exampleTr": "Çocukken utangaçtım.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "confident",
+    "turkish": "kendine güvenen",
+    "example": "She is confident when she speaks English.",
+    "exampleTr": "İngilizce konuşurken kendine güveniyor.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "patient",
+    "turkish": "sabırlı",
+    "example": "You must be patient with beginners.",
+    "exampleTr": "Yeni başlayanlara karşı sabırlı olmalısın.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ],
+    "tipTr": "\"patient\" hem \"sabırlı\" hem \"hasta\" (isim) demektir."
+  },
+  {
+    "english": "selfish",
+    "turkish": "bencil",
+    "example": "Do not be selfish with your time.",
+    "exampleTr": "Zamanın konusunda bencil olma.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "generous",
+    "turkish": "cömert",
+    "example": "My aunt is very generous.",
+    "exampleTr": "Teyzem çok cömerttir.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "serious",
+    "turkish": "ciddi",
+    "example": "My manager looks serious but he is funny.",
+    "exampleTr": "Müdürüm ciddi görünür ama komiktir.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "lazy",
+    "turkish": "tembel",
+    "example": "I feel lazy on Sunday mornings.",
+    "exampleTr": "Pazar sabahları tembelleşiyorum.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "hard-working",
+    "turkish": "çalışkan",
+    "example": "She is a hard-working student.",
+    "exampleTr": "O çalışkan bir öğrenci.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "reliable",
+    "turkish": "güvenilir",
+    "example": "We need a reliable babysitter.",
+    "exampleTr": "Güvenilir bir bakıcıya ihtiyacımız var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "curious",
+    "turkish": "meraklı",
+    "example": "Children are naturally curious.",
+    "exampleTr": "Çocuklar doğal olarak meraklıdır.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "cheerful",
+    "turkish": "neşeli",
+    "example": "Our neighbour is always cheerful.",
+    "exampleTr": "Komşumuz her zaman neşelidir.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "strict",
+    "turkish": "katı, sert",
+    "example": "Our teacher is strict about homework.",
+    "exampleTr": "Öğretmenimiz ödev konusunda çok katı.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "appearance",
+    "turkish": "görünüş",
+    "example": "Do not judge people by their appearance.",
+    "exampleTr": "İnsanları görünüşlerine göre yargılama.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "look like",
+    "turkish": "benzemek",
+    "example": "You look like your mother.",
+    "exampleTr": "Annene benziyorsun.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ],
+    "tipTr": "\"look like\" görünüş, \"be like\" ise karakter benzerliğidir."
+  },
+  {
+    "english": "middle-aged",
+    "turkish": "orta yaşlı",
+    "example": "A middle-aged man asked for directions.",
+    "exampleTr": "Orta yaşlı bir adam yol sordu.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "good-looking",
+    "turkish": "yakışıklı, güzel",
+    "example": "He is a good-looking actor.",
+    "exampleTr": "Yakışıklı bir aktör.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "slim",
+    "turkish": "ince, zayıf",
+    "example": "She is tall and slim.",
+    "exampleTr": "Uzun boylu ve ince.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ],
+    "tipTr": "\"thin\" bazen olumsuzdur; iltifat için \"slim\" kullanılır."
+  },
+  {
+    "english": "beard",
+    "turkish": "sakal",
+    "example": "My uncle has a grey beard.",
+    "exampleTr": "Amcamın gri bir sakalı var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "moustache",
+    "turkish": "bıyık",
+    "example": "He grew a moustache last winter.",
+    "exampleTr": "Geçen kış bıyık bıraktı.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "curly",
+    "turkish": "kıvırcık",
+    "example": "She has curly brown hair.",
+    "exampleTr": "Kıvırcık kahverengi saçları var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "straight hair",
+    "turkish": "düz saç",
+    "example": "I have straight hair like my father.",
+    "exampleTr": "Babam gibi düz saçlıyım.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "appearance"
+    ]
+  },
+  {
+    "english": "smile",
+    "turkish": "gülümsemek, gülümseme",
+    "example": "She has a lovely smile.",
+    "exampleTr": "Çok güzel bir gülümsemesi var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "feelings"
+    ]
+  },
+  {
+    "english": "adult",
+    "turkish": "yetişkin",
+    "example": "Only adults can sign the form.",
+    "exampleTr": "Formu sadece yetişkinler imzalayabilir.",
+    "level": "A2",
+    "tags": [
+      "people"
+    ]
+  },
+  {
+    "english": "couple",
+    "turkish": "çift",
+    "example": "The couple next door moved out.",
+    "exampleTr": "Yan komşu çift taşındı.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "relationships"
+    ]
+  },
+  {
+    "english": "stranger",
+    "turkish": "yabancı, tanımadık kişi",
+    "example": "A stranger helped me at the station.",
+    "exampleTr": "İstasyonda tanımadığım biri bana yardım etti.",
+    "level": "A2",
+    "tags": [
+      "people"
+    ],
+    "tipTr": "\"stranger\" tanımadık kişi demektir; yabancı uyruklu için \"foreigner\" denir."
+  },
+  {
+    "english": "character",
+    "turkish": "karakter",
+    "example": "He has a strong character.",
+    "exampleTr": "Güçlü bir karakteri var.",
+    "level": "A2",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "get on with",
+    "turkish": "iyi geçinmek",
+    "example": "I get on with my colleagues very well.",
+    "exampleTr": "İş arkadaşlarımla çok iyi geçinirim.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ]
+  },
+  {
+    "english": "get to know",
+    "turkish": "tanımak, yakınlaşmak",
+    "example": "It takes time to get to know people.",
+    "exampleTr": "İnsanları tanımak zaman alır.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ]
+  },
+  {
+    "english": "fall in love",
+    "turkish": "âşık olmak",
+    "example": "People often fall in love on holiday.",
+    "exampleTr": "İnsanlar çoğu zaman tatilde âşık olur.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "feelings"
+    ]
+  },
+  {
+    "english": "get married",
+    "turkish": "evlenmek",
+    "example": "My cousin is getting married in June.",
+    "exampleTr": "Kuzenim haziranda evleniyor.",
+    "level": "A2",
+    "tags": [
+      "relationships"
+    ],
+    "tipTr": "\"marry with\" değil, \"marry someone\" veya \"get married to someone\" denir."
+  },
+  {
+    "english": "argue",
+    "turkish": "tartışmak",
+    "example": "We sometimes argue about money.",
+    "exampleTr": "Bazen para yüzünden tartışırız.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ]
+  },
+  {
+    "english": "apologise",
+    "turkish": "özür dilemek",
+    "example": "You should apologise to her.",
+    "exampleTr": "Ondan özür dilemelisin.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ],
+    "tipTr": "ABD yazımı: apologize."
+  },
+  {
+    "english": "invite",
+    "turkish": "davet etmek",
+    "example": "They invited us to dinner.",
+    "exampleTr": "Bizi akşam yemeğine davet ettiler.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ]
+  },
+  {
+    "english": "introduce",
+    "turkish": "tanıştırmak",
+    "example": "Let me introduce my brother.",
+    "exampleTr": "Kardeşimi tanıştırayım.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ]
+  },
+  {
+    "english": "promise",
+    "turkish": "söz vermek, söz",
+    "example": "I promise to call you tomorrow.",
+    "exampleTr": "Yarın seni arayacağıma söz veriyorum.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ]
+  },
+  {
+    "english": "trust",
+    "turkish": "güvenmek",
+    "example": "I trust my best friend completely.",
+    "exampleTr": "En yakın arkadaşıma tamamen güvenirim.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ]
+  },
+  {
+    "english": "share",
+    "turkish": "paylaşmak",
+    "example": "We share a flat in the city centre.",
+    "exampleTr": "Şehir merkezinde bir daireyi paylaşıyoruz.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ]
+  },
+  {
+    "english": "support",
+    "turkish": "desteklemek, destek",
+    "example": "My family supports my decision.",
+    "exampleTr": "Ailem kararımı destekliyor.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "verbs"
+    ]
+  },
+  {
+    "english": "advice",
+    "turkish": "tavsiye",
+    "example": "Can you give me some advice?",
+    "exampleTr": "Bana biraz tavsiye verebilir misin?",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "communication"
+    ],
+    "tipTr": "\"advice\" sayılamaz: \"an advice\" yerine \"a piece of advice\"."
+  },
+  {
+    "english": "favour",
+    "turkish": "iyilik, ricada bulunma",
+    "example": "Can I ask you a favour?",
+    "exampleTr": "Senden bir ricada bulunabilir miyim?",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ],
+    "tipTr": "ABD yazımı: favor."
+  },
+  {
+    "english": "gossip",
+    "turkish": "dedikodu",
+    "example": "I do not like office gossip.",
+    "exampleTr": "Ofis dedikodusundan hoşlanmam.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "social"
+    ]
+  },
+  {
+    "english": "relationship",
+    "turkish": "ilişki",
+    "example": "They have a good relationship.",
+    "exampleTr": "Aralarında iyi bir ilişki var.",
+    "level": "A2",
+    "tags": [
+      "relationships"
+    ]
+  },
+  {
+    "english": "neighbourhood",
+    "turkish": "mahalle",
+    "example": "Our neighbourhood is very friendly.",
+    "exampleTr": "Mahallemiz çok samimi.",
+    "level": "A2",
+    "tags": [
+      "relationships",
+      "city"
+    ]
+  },
+  {
+    "english": "celebrate",
+    "turkish": "kutlamak",
+    "example": "We celebrate my mother's birthday every year.",
+    "exampleTr": "Her yıl annemin doğum gününü kutlarız.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebration"
+    ]
+  },
+  {
+    "english": "wedding",
+    "turkish": "düğün",
+    "example": "Their wedding is next month.",
+    "exampleTr": "Düğünleri gelecek ay.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebration"
+    ]
+  },
+  {
+    "english": "present",
+    "turkish": "hediye",
+    "example": "I bought a present for my sister.",
+    "exampleTr": "Ablama bir hediye aldım.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebration"
+    ],
+    "tipTr": "İngiltere'de \"present\", ABD'de \"gift\" yaygındır."
+  },
+  {
+    "english": "congratulations",
+    "turkish": "tebrikler",
+    "example": "Congratulations on your new job!",
+    "exampleTr": "Yeni işin için tebrikler!",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebration"
+    ]
+  },
+  {
+    "english": "guest list",
+    "turkish": "davetli listesi",
+    "example": "Your name is on the guest list.",
+    "exampleTr": "Adın davetli listesinde.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "celebration"
+    ]
+  },
+  {
+    "english": "appointment",
+    "turkish": "randevu",
+    "example": "I have an appointment at two o'clock.",
+    "exampleTr": "Saat ikide randevum var.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "health"
+    ],
+    "tipTr": "Doktor randevusu için \"appointment\", arkadaşla buluşma için \"meet up\" kullanılır."
+  },
+  {
+    "english": "meet up",
+    "turkish": "buluşmak",
+    "example": "Let's meet up after work.",
+    "exampleTr": "İşten sonra buluşalım.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "verbs"
+    ]
+  },
+  {
+    "english": "keep in touch",
+    "turkish": "iletişimde kalmak",
+    "example": "We keep in touch by email.",
+    "exampleTr": "E-postayla iletişimde kalıyoruz.",
+    "level": "A2",
+    "tags": [
+      "social",
+      "communication"
+    ]
+  },
+  {
+    "english": "nervous",
+    "turkish": "gergin, heyecanlı",
+    "example": "I get nervous before exams.",
+    "exampleTr": "Sınavlardan önce gerginleşirim.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "stressed",
+    "turkish": "stresli",
+    "example": "She is stressed about the deadline.",
+    "exampleTr": "Teslim tarihi yüzünden stresli.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "work"
+    ]
+  },
+  {
+    "english": "relaxed",
+    "turkish": "rahat, gevşemiş",
+    "example": "I feel relaxed at the weekend.",
+    "exampleTr": "Hafta sonu kendimi rahat hissediyorum.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "upset",
+    "turkish": "üzgün, keyfi kaçmış",
+    "example": "He was upset about the news.",
+    "exampleTr": "Haber onu üzdü.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "disappointed",
+    "turkish": "hayal kırıklığına uğramış",
+    "example": "I was disappointed with the film.",
+    "exampleTr": "Filmde hayal kırıklığına uğradım.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "annoyed",
+    "turkish": "canı sıkkın, kızgın",
+    "example": "I am annoyed with my brother.",
+    "exampleTr": "Kardeşime kızgınım.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "jealous",
+    "turkish": "kıskanç",
+    "example": "Do not be jealous of other people.",
+    "exampleTr": "Başkalarını kıskanma.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "embarrassed",
+    "turkish": "utanmış, mahcup",
+    "example": "I felt embarrassed in the meeting.",
+    "exampleTr": "Toplantıda utandım.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ],
+    "tipTr": "\"embarrassed\" utanmak, \"ashamed\" ise vicdan azabı duymaktır."
+  },
+  {
+    "english": "grateful",
+    "turkish": "minnettar",
+    "example": "I am grateful for your help.",
+    "exampleTr": "Yardımın için minnettarım.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "scared",
+    "turkish": "korkmuş",
+    "example": "The child was scared of the dark.",
+    "exampleTr": "Çocuk karanlıktan korkuyordu.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "comfortable with",
+    "turkish": "rahat hissetmek",
+    "example": "I am comfortable with small groups.",
+    "exampleTr": "Küçük gruplarda kendimi rahat hissederim.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "in a good mood",
+    "turkish": "keyfi yerinde",
+    "example": "My boss is in a good mood today.",
+    "exampleTr": "Patronumun bugün keyfi yerinde.",
+    "level": "A2",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "miss",
+    "turkish": "özlemek",
+    "example": "I miss my family a lot.",
+    "exampleTr": "Ailemi çok özlüyorum.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ],
+    "tipTr": "\"miss\" hem \"özlemek\" hem \"kaçırmak\" demektir."
+  },
+  {
+    "english": "enjoy",
+    "turkish": "keyif almak",
+    "example": "I enjoy walking in the rain.",
+    "exampleTr": "Yağmurda yürümekten keyif alırım.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ],
+    "tipTr": "\"enjoy\" fiilinden sonra -ing gelir: \"enjoy doing\"."
+  },
+  {
+    "english": "hate",
+    "turkish": "nefret etmek",
+    "example": "I hate waiting in queues.",
+    "exampleTr": "Kuyrukta beklemekten nefret ederim.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ]
+  },
+  {
+    "english": "prefer",
+    "turkish": "tercih etmek",
+    "example": "I prefer tea to coffee.",
+    "exampleTr": "Çayı kahveye tercih ederim.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ],
+    "tipTr": "Karşılaştırma \"prefer A to B\" şeklindedir."
+  },
+  {
+    "english": "hope",
+    "turkish": "ummak, umut",
+    "example": "I hope you feel better soon.",
+    "exampleTr": "Umarım yakında iyileşirsin.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ]
+  },
+  {
+    "english": "worry",
+    "turkish": "endişelenmek",
+    "example": "Do not worry about the exam.",
+    "exampleTr": "Sınav için endişelenme.",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "verbs"
+    ]
+  },
+  {
+    "english": "mind",
+    "turkish": "sakıncası olmak",
+    "example": "Do you mind if I open the window?",
+    "exampleTr": "Pencereyi açmamın sakıncası var mı?",
+    "level": "A2",
+    "tags": [
+      "feelings",
+      "social"
+    ],
+    "tipTr": "\"Do you mind...?\" sorusuna \"No\" demek izin vermek demektir."
+  },
+  {
+    "english": "agree",
+    "turkish": "katılmak, aynı fikirde olmak",
+    "example": "I agree with you.",
+    "exampleTr": "Sana katılıyorum.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ],
+    "tipTr": "\"I am agree\" yanlıştır; \"I agree\" doğrudur."
+  },
+  {
+    "english": "disagree",
+    "turkish": "katılmamak",
+    "example": "I disagree with that idea.",
+    "exampleTr": "Bu fikre katılmıyorum.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ]
+  },
+  {
+    "english": "opinion",
+    "turkish": "fikir, görüş",
+    "example": "In my opinion, the price is too high.",
+    "exampleTr": "Bence fiyat çok yüksek.",
+    "level": "A2",
+    "tags": [
+      "opinions"
+    ],
+    "tipTr": "\"in my opinion\" kalıbı kullanılır."
+  },
+  {
+    "english": "decide",
+    "turkish": "karar vermek",
+    "example": "We decided to stay at home.",
+    "exampleTr": "Evde kalmaya karar verdik.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ],
+    "tipTr": "\"decide to do\" kalıbı kullanılır."
+  },
+  {
+    "english": "suggest",
+    "turkish": "önermek",
+    "example": "I suggest taking the early train.",
+    "exampleTr": "Erken treni almanızı öneririm.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ],
+    "tipTr": "\"suggest\" sonrası -ing ya da \"that\" cümlesi gelir, \"suggest me\" yanlıştır."
+  },
+  {
+    "english": "expect",
+    "turkish": "beklemek, ummak",
+    "example": "I expect good news tomorrow.",
+    "exampleTr": "Yarın iyi bir haber bekliyorum.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ]
+  },
+  {
+    "english": "believe",
+    "turkish": "inanmak",
+    "example": "I believe she is right.",
+    "exampleTr": "Bence o haklı.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ]
+  },
+  {
+    "english": "realise",
+    "turkish": "fark etmek",
+    "example": "I did not realise the time.",
+    "exampleTr": "Saatin geç olduğunu fark etmemiştim.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ],
+    "tipTr": "ABD yazımı: realize."
+  },
+  {
+    "english": "doubt",
+    "turkish": "şüphe, şüphelenmek",
+    "example": "I doubt he will come.",
+    "exampleTr": "Geleceğinden şüpheliyim.",
+    "level": "A2",
+    "tags": [
+      "opinions"
+    ]
+  },
+  {
+    "english": "sure",
+    "turkish": "emin",
+    "example": "Are you sure about the address?",
+    "exampleTr": "Adresten emin misin?",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "guess",
+    "turkish": "tahmin etmek",
+    "example": "Guess how old he is.",
+    "exampleTr": "Kaç yaşında olduğunu tahmin et.",
+    "level": "A2",
+    "tags": [
+      "opinions",
+      "verbs"
+    ]
+  },
+  {
+    "english": "career",
+    "turkish": "kariyer",
+    "example": "She wants a career in medicine.",
+    "exampleTr": "Tıp alanında kariyer yapmak istiyor.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "apply for",
+    "turkish": "başvurmak",
+    "example": "I want to apply for a job at a bank.",
+    "exampleTr": "Bir bankadaki işe başvurmak istiyorum.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ],
+    "tipTr": "\"apply for a job\" ama \"apply to a company\" denir."
+  },
+  {
+    "english": "application",
+    "turkish": "başvuru",
+    "example": "My application was successful.",
+    "exampleTr": "Başvurum kabul edildi.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "interview",
+    "turkish": "mülakat, görüşme",
+    "example": "I have an interview on Thursday.",
+    "exampleTr": "Perşembe günü mülakatım var.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "experience",
+    "turkish": "deneyim",
+    "example": "She has five years of experience.",
+    "exampleTr": "Beş yıllık deneyimi var.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ],
+    "tipTr": "\"experience\" deneyim anlamında sayılamazdır."
+  },
+  {
+    "english": "skill",
+    "turkish": "beceri",
+    "example": "Communication is an important skill.",
+    "exampleTr": "İletişim önemli bir beceridir.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "training",
+    "turkish": "eğitim, kurs",
+    "example": "We had training on the new system.",
+    "exampleTr": "Yeni sistem hakkında eğitim aldık.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "education"
+    ]
+  },
+  {
+    "english": "employee",
+    "turkish": "çalışan",
+    "example": "The company has fifty employees.",
+    "exampleTr": "Şirketin elli çalışanı var.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "employer",
+    "turkish": "işveren",
+    "example": "My employer pays for my travel.",
+    "exampleTr": "İşverenim yol masrafımı karşılıyor.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "staff",
+    "turkish": "personel",
+    "example": "The staff are very helpful.",
+    "exampleTr": "Personel çok yardımsever.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ],
+    "tipTr": "\"staff\" topluluk ismidir, genelde çoğul fiil alır."
+  },
+  {
+    "english": "department",
+    "turkish": "departman, bölüm",
+    "example": "I work in the sales department.",
+    "exampleTr": "Satış departmanında çalışıyorum.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "contract",
+    "turkish": "sözleşme",
+    "example": "I signed a one-year contract.",
+    "exampleTr": "Bir yıllık sözleşme imzaladım.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "overtime",
+    "turkish": "fazla mesai",
+    "example": "I worked overtime last night.",
+    "exampleTr": "Dün gece fazla mesai yaptım.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "deadline",
+    "turkish": "son teslim tarihi",
+    "example": "The deadline is next Friday.",
+    "exampleTr": "Son teslim tarihi gelecek cuma.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "report",
+    "turkish": "rapor, bildirmek",
+    "example": "I have to write a report today.",
+    "exampleTr": "Bugün bir rapor yazmam gerekiyor.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "presentation",
+    "turkish": "sunum",
+    "example": "She gave a short presentation.",
+    "exampleTr": "Kısa bir sunum yaptı.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ],
+    "tipTr": "Sunum yapmak: \"give a presentation\"."
+  },
+  {
+    "english": "shift",
+    "turkish": "vardiya",
+    "example": "I work the night shift twice a week.",
+    "exampleTr": "Haftada iki kez gece vardiyasında çalışırım.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "schedule",
+    "turkish": "program, takvim",
+    "example": "My schedule is full this week.",
+    "exampleTr": "Bu hafta programım dolu.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "task",
+    "turkish": "görev",
+    "example": "This task takes about an hour.",
+    "exampleTr": "Bu görev yaklaşık bir saat sürüyor.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "responsible for",
+    "turkish": "sorumlu olmak",
+    "example": "I am responsible for the website.",
+    "exampleTr": "İnternet sitesinden ben sorumluyum.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "in charge of",
+    "turkish": "sorumlusu olmak",
+    "example": "She is in charge of the new team.",
+    "exampleTr": "Yeni ekipten o sorumlu.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "earn",
+    "turkish": "kazanmak (para)",
+    "example": "He earns a good salary.",
+    "exampleTr": "İyi bir maaş kazanıyor.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "money"
+    ],
+    "tipTr": "Para için \"win\" değil \"earn\" kullanılır."
+  },
+  {
+    "english": "promotion",
+    "turkish": "terfi",
+    "example": "He got a promotion last year.",
+    "exampleTr": "Geçen yıl terfi aldı.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "resign",
+    "turkish": "istifa etmek",
+    "example": "She resigned after two years.",
+    "exampleTr": "İki yıl sonra istifa etti.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "retire",
+    "turkish": "emekli olmak",
+    "example": "My father retires next year.",
+    "exampleTr": "Babam gelecek yıl emekli oluyor.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "unemployed",
+    "turkish": "işsiz",
+    "example": "He was unemployed for six months.",
+    "exampleTr": "Altı ay işsiz kaldı.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "teamwork",
+    "turkish": "takım çalışması",
+    "example": "Good teamwork saves a lot of time.",
+    "exampleTr": "İyi takım çalışması çok zaman kazandırır.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "office hours",
+    "turkish": "mesai saatleri",
+    "example": "Please call during office hours.",
+    "exampleTr": "Lütfen mesai saatleri içinde arayın.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "day off",
+    "turkish": "izin günü",
+    "example": "I take a day off on Friday.",
+    "exampleTr": "Cuma günü izin alıyorum.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "sick leave",
+    "turkish": "hastalık izni",
+    "example": "He is on sick leave this week.",
+    "exampleTr": "Bu hafta hastalık izninde.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "health"
+    ]
+  },
+  {
+    "english": "pay rise",
+    "turkish": "maaş zammı",
+    "example": "Everyone hopes for a pay rise in January.",
+    "exampleTr": "Herkes ocakta maaş zammı umuyor.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "money"
+    ],
+    "tipTr": "ABD İngilizcesinde \"raise\" denir."
+  },
+  {
+    "english": "work from home",
+    "turkish": "evden çalışmak",
+    "example": "I work from home on Wednesdays.",
+    "exampleTr": "Çarşambaları evden çalışırım.",
+    "level": "A2",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "attend",
+    "turkish": "katılmak",
+    "example": "I have to attend a meeting at ten.",
+    "exampleTr": "Onda bir toplantıya katılmam gerekiyor.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ],
+    "tipTr": "\"attend\" doğrudan nesne alır: \"attend to a meeting\" yanlıştır."
+  },
+  {
+    "english": "arrange",
+    "turkish": "ayarlamak, düzenlemek",
+    "example": "Can we arrange a call for Monday?",
+    "exampleTr": "Pazartesiye bir görüşme ayarlayabilir miyiz?",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ]
+  },
+  {
+    "english": "organise",
+    "turkish": "düzenlemek",
+    "example": "She organises the team meetings.",
+    "exampleTr": "Ekip toplantılarını o düzenler.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ],
+    "tipTr": "ABD yazımı: organize."
+  },
+  {
+    "english": "manage",
+    "turkish": "yönetmek, başarmak",
+    "example": "He manages a small team.",
+    "exampleTr": "Küçük bir ekibi yönetiyor.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ]
+  },
+  {
+    "english": "complete",
+    "turkish": "tamamlamak",
+    "example": "Please complete the form online.",
+    "exampleTr": "Lütfen formu internetten doldurun.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ]
+  },
+  {
+    "english": "check",
+    "turkish": "kontrol etmek",
+    "example": "Check your email before the meeting.",
+    "exampleTr": "Toplantıdan önce e-postanı kontrol et.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ]
+  },
+  {
+    "english": "sign",
+    "turkish": "imzalamak, tabela",
+    "example": "Sign your name at the bottom.",
+    "exampleTr": "Adınızı aşağıya imzalayın.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "verbs"
+    ]
+  },
+  {
+    "english": "customer service",
+    "turkish": "müşteri hizmetleri",
+    "example": "I called customer service twice.",
+    "exampleTr": "Müşteri hizmetlerini iki kez aradım.",
+    "level": "A2",
+    "tags": [
+      "work",
+      "services"
+    ]
+  },
+  {
+    "english": "subject",
+    "turkish": "ders, konu",
+    "example": "My favourite subject is history.",
+    "exampleTr": "En sevdiğim ders tarih.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "degree",
+    "turkish": "diploma, lisans derecesi",
+    "example": "She has a degree in engineering.",
+    "exampleTr": "Mühendislik diploması var.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "course",
+    "turkish": "kurs, ders",
+    "example": "I am taking an English course.",
+    "exampleTr": "Bir İngilizce kursuna gidiyorum.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "term",
+    "turkish": "dönem",
+    "example": "The new term starts in October.",
+    "exampleTr": "Yeni dönem ekimde başlıyor.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "time"
+    ]
+  },
+  {
+    "english": "timetable",
+    "turkish": "ders programı",
+    "example": "Our timetable changes every term.",
+    "exampleTr": "Ders programımız her dönem değişir.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "time"
+    ]
+  },
+  {
+    "english": "notes",
+    "turkish": "not, ders notu",
+    "example": "I take notes in every lesson.",
+    "exampleTr": "Her derste not alırım.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ],
+    "tipTr": "Not almak: \"take notes\"."
+  },
+  {
+    "english": "revise",
+    "turkish": "tekrar etmek (sınava çalışmak)",
+    "example": "I revise my notes before the exam.",
+    "exampleTr": "Sınavdan önce notlarımı tekrar ederim.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ],
+    "tipTr": "İngiltere'de sınava çalışmak \"revise\" demektir."
+  },
+  {
+    "english": "pass an exam",
+    "turkish": "sınavı geçmek",
+    "example": "I hope to pass an exam in June.",
+    "exampleTr": "Haziranda bir sınavı geçmeyi umuyorum.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "fail",
+    "turkish": "kalmak, başarısız olmak",
+    "example": "He failed the driving test twice.",
+    "exampleTr": "Ehliyet sınavında iki kez kaldı.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ]
+  },
+  {
+    "english": "mark",
+    "turkish": "not, puan",
+    "example": "I got a good mark in maths.",
+    "exampleTr": "Matematikten iyi bir not aldım.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ],
+    "tipTr": "ABD İngilizcesinde \"grade\" denir."
+  },
+  {
+    "english": "certificate",
+    "turkish": "sertifika",
+    "example": "You get a certificate after the course.",
+    "exampleTr": "Kurstan sonra sertifika alırsınız.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "essay",
+    "turkish": "kompozisyon, makale",
+    "example": "I wrote an essay about my city.",
+    "exampleTr": "Şehrim hakkında bir kompozisyon yazdım.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "grammar",
+    "turkish": "dilbilgisi",
+    "example": "English grammar is not so difficult.",
+    "exampleTr": "İngilizce dilbilgisi çok zor değil.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "language"
+    ]
+  },
+  {
+    "english": "pronunciation",
+    "turkish": "telaffuz",
+    "example": "Her pronunciation is very clear.",
+    "exampleTr": "Telaffuzu çok net.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "language"
+    ]
+  },
+  {
+    "english": "vocabulary",
+    "turkish": "kelime dağarcığı",
+    "example": "I want to improve my vocabulary.",
+    "exampleTr": "Kelime dağarcığımı geliştirmek istiyorum.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "language"
+    ],
+    "tipTr": "\"vocabulary\" sayılamazdır: \"vocabularies\" denmez."
+  },
+  {
+    "english": "translate",
+    "turkish": "çevirmek",
+    "example": "Can you translate this sentence?",
+    "exampleTr": "Bu cümleyi çevirebilir misin?",
+    "level": "A2",
+    "tags": [
+      "education",
+      "language"
+    ]
+  },
+  {
+    "english": "explain",
+    "turkish": "açıklamak",
+    "example": "Could you explain that again?",
+    "exampleTr": "Bunu tekrar açıklar mısınız?",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ],
+    "tipTr": "\"explain me\" yanlıştır; \"explain to me\" denir."
+  },
+  {
+    "english": "improve",
+    "turkish": "geliştirmek, iyileşmek",
+    "example": "I want to improve my listening skills.",
+    "exampleTr": "Dinleme becerilerimi geliştirmek istiyorum.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ]
+  },
+  {
+    "english": "practice",
+    "turkish": "pratik, alıştırma",
+    "example": "Speaking needs a lot of practice.",
+    "exampleTr": "Konuşma çok pratik gerektirir.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "make progress",
+    "turkish": "ilerleme kaydetmek",
+    "example": "You make progress when you speak every day.",
+    "exampleTr": "Her gün konuşunca ilerleme kaydedersin.",
+    "level": "A2",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "take part in",
+    "turkish": "katılmak",
+    "example": "I take part in a conversation club.",
+    "exampleTr": "Bir konuşma kulübüne katılıyorum.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "social"
+    ]
+  },
+  {
+    "english": "look up",
+    "turkish": "(sözlükten) bakmak",
+    "example": "I look up new words in the dictionary.",
+    "exampleTr": "Yeni kelimelere sözlükten bakarım.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ]
+  },
+  {
+    "english": "find out",
+    "turkish": "öğrenmek, bulmak",
+    "example": "I want to find out more about the course.",
+    "exampleTr": "Kurs hakkında daha fazlasını öğrenmek istiyorum.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ]
+  },
+  {
+    "english": "give up",
+    "turkish": "vazgeçmek, bırakmak",
+    "example": "Do not give up before the exam.",
+    "exampleTr": "Sınavdan önce pes etme.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ]
+  },
+  {
+    "english": "keep on",
+    "turkish": "devam etmek",
+    "example": "Keep on practising every day.",
+    "exampleTr": "Her gün pratik yapmaya devam et.",
+    "level": "A2",
+    "tags": [
+      "education",
+      "verbs"
+    ],
+    "tipTr": "\"keep on\" sonrası -ing gelir."
+  },
+  {
+    "english": "illness",
+    "turkish": "hastalık",
+    "example": "She missed school because of an illness.",
+    "exampleTr": "Bir hastalık yüzünden okulu kaçırdı.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "symptom",
+    "turkish": "belirti",
+    "example": "A sore throat is a common symptom.",
+    "exampleTr": "Boğaz ağrısı yaygın bir belirtidir.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "sore throat",
+    "turkish": "boğaz ağrısı",
+    "example": "I have a sore throat this morning.",
+    "exampleTr": "Bu sabah boğazım ağrıyor.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "flu",
+    "turkish": "grip",
+    "example": "He is in bed with the flu.",
+    "exampleTr": "Gripten yatıyor.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ],
+    "tipTr": "\"the flu\" kalıbında \"the\" kullanılır."
+  },
+  {
+    "english": "cough",
+    "turkish": "öksürük, öksürmek",
+    "example": "I have a bad cough at night.",
+    "exampleTr": "Geceleri kötü bir öksürüğüm var.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "fever",
+    "turkish": "ateş (hastalık)",
+    "example": "The doctor said it was just a fever.",
+    "exampleTr": "Doktor sadece ateş olduğunu söyledi.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "injury",
+    "turkish": "yaralanma",
+    "example": "He had a knee injury last season.",
+    "exampleTr": "Geçen sezon diz sakatlığı yaşadı.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "sport"
+    ]
+  },
+  {
+    "english": "bleed",
+    "turkish": "kanamak",
+    "example": "My finger started to bleed.",
+    "exampleTr": "Parmağım kanamaya başladı.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "broken",
+    "turkish": "kırık",
+    "example": "My arm is broken.",
+    "exampleTr": "Kolum kırık.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "recover",
+    "turkish": "iyileşmek",
+    "example": "It took a week to recover.",
+    "exampleTr": "İyileşmek bir hafta sürdü.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "verbs"
+    ]
+  },
+  {
+    "english": "treatment",
+    "turkish": "tedavi",
+    "example": "The treatment worked very well.",
+    "exampleTr": "Tedavi çok işe yaradı.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "prescription",
+    "turkish": "reçete",
+    "example": "The doctor gave me a prescription.",
+    "exampleTr": "Doktor bana bir reçete verdi.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "pill",
+    "turkish": "hap",
+    "example": "Take one pill after meals.",
+    "exampleTr": "Yemeklerden sonra bir hap alın.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "ambulance",
+    "turkish": "ambulans",
+    "example": "Someone called an ambulance.",
+    "exampleTr": "Biri ambulans çağırdı.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "city"
+    ]
+  },
+  {
+    "english": "emergency",
+    "turkish": "acil durum",
+    "example": "Call this number in an emergency.",
+    "exampleTr": "Acil durumda bu numarayı arayın.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "city"
+    ]
+  },
+  {
+    "english": "dentist",
+    "turkish": "diş hekimi",
+    "example": "I go to the dentist twice a year.",
+    "exampleTr": "Yılda iki kez diş hekimine giderim.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "jobs"
+    ]
+  },
+  {
+    "english": "exercise",
+    "turkish": "egzersiz, egzersiz yapmak",
+    "example": "I exercise three times a week.",
+    "exampleTr": "Haftada üç kez egzersiz yaparım.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "sport"
+    ]
+  },
+  {
+    "english": "gym",
+    "turkish": "spor salonu",
+    "example": "I go to the gym after work.",
+    "exampleTr": "İşten sonra spor salonuna giderim.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "sport"
+    ]
+  },
+  {
+    "english": "fit",
+    "turkish": "formda",
+    "example": "Walking keeps me fit.",
+    "exampleTr": "Yürümek beni formda tutuyor.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "sport"
+    ],
+    "tipTr": "\"keep fit\" kalıbı formda kalmak demektir."
+  },
+  {
+    "english": "diet",
+    "turkish": "beslenme, diyet",
+    "example": "A balanced diet is important.",
+    "exampleTr": "Dengeli beslenme önemlidir.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "food"
+    ]
+  },
+  {
+    "english": "put on weight",
+    "turkish": "kilo almak",
+    "example": "I put on weight in winter.",
+    "exampleTr": "Kışın kilo alırım.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "lose weight",
+    "turkish": "kilo vermek",
+    "example": "He wants to lose weight before summer.",
+    "exampleTr": "Yazdan önce kilo vermek istiyor.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "give up smoking",
+    "turkish": "sigarayı bırakmak",
+    "example": "My father wants to give up smoking this year.",
+    "exampleTr": "Babam bu yıl sigarayı bırakmak istiyor.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "stress",
+    "turkish": "stres",
+    "example": "Too much stress is bad for your heart.",
+    "exampleTr": "Çok fazla stres kalbe zararlıdır.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "feelings"
+    ]
+  },
+  {
+    "english": "sleep well",
+    "turkish": "iyi uyumak",
+    "example": "I never sleep well before a flight.",
+    "exampleTr": "Uçuştan önce hiç iyi uyuyamam.",
+    "level": "A2",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "breathe",
+    "turkish": "nefes almak",
+    "example": "Breathe slowly and relax.",
+    "exampleTr": "Yavaşça nefes al ve rahatla.",
+    "level": "A2",
+    "tags": [
+      "health",
+      "verbs"
+    ]
+  },
+  {
+    "english": "heart",
+    "turkish": "kalp",
+    "example": "Running is good for your heart.",
+    "exampleTr": "Koşmak kalbin için iyidir.",
+    "level": "A2",
+    "tags": [
+      "body",
+      "health"
+    ]
+  },
+  {
+    "english": "skin",
+    "turkish": "cilt, deri",
+    "example": "Use cream to protect your skin.",
+    "exampleTr": "Cildini korumak için krem kullan.",
+    "level": "A2",
+    "tags": [
+      "body",
+      "health"
+    ]
+  },
+  {
+    "english": "blood",
+    "turkish": "kan",
+    "example": "The nurse took a blood test.",
+    "exampleTr": "Hemşire kan testi aldı.",
+    "level": "A2",
+    "tags": [
+      "body",
+      "health"
+    ]
+  },
+  {
+    "english": "knee",
+    "turkish": "diz",
+    "example": "I hurt my knee at football.",
+    "exampleTr": "Futbolda dizimi incittim.",
+    "level": "A2",
+    "tags": [
+      "body"
+    ]
+  },
+  {
+    "english": "recipe",
+    "turkish": "tarif",
+    "example": "This recipe is from my grandmother.",
+    "exampleTr": "Bu tarif büyükannemden.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ],
+    "tipTr": "\"recipe\" yemek tarifi, \"prescription\" ise ilaç reçetesidir."
+  },
+  {
+    "english": "ingredient",
+    "turkish": "malzeme",
+    "example": "You need five ingredients for this cake.",
+    "exampleTr": "Bu kek için beş malzemeye ihtiyacın var.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "boil",
+    "turkish": "kaynatmak",
+    "example": "Boil the water for five minutes.",
+    "exampleTr": "Suyu beş dakika kaynat.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "fry",
+    "turkish": "kızartmak",
+    "example": "Fry the onions in a little oil.",
+    "exampleTr": "Soğanları biraz yağda kızart.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "bake",
+    "turkish": "fırında pişirmek",
+    "example": "I bake bread at the weekend.",
+    "exampleTr": "Hafta sonu ekmek pişiririm.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "mix",
+    "turkish": "karıştırmak",
+    "example": "Mix the eggs and the flour.",
+    "exampleTr": "Yumurtaları ve unu karıştır.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "add",
+    "turkish": "eklemek",
+    "example": "Add some salt at the end.",
+    "exampleTr": "Sonunda biraz tuz ekle.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "slice",
+    "turkish": "dilim, dilimlemek",
+    "example": "I had a slice of cheese with bread.",
+    "exampleTr": "Ekmekle bir dilim peynir yedim.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "flour",
+    "turkish": "un",
+    "example": "We need flour for the cake.",
+    "exampleTr": "Pasta için una ihtiyacımız var.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "pepper",
+    "turkish": "biber",
+    "example": "Add salt and pepper to the soup.",
+    "exampleTr": "Çorbaya tuz ve biber ekle.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "yoghurt",
+    "turkish": "yoğurt",
+    "example": "I eat yoghurt with fruit.",
+    "exampleTr": "Yoğurdu meyveyle yerim.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "honey",
+    "turkish": "bal",
+    "example": "I put honey in my tea.",
+    "exampleTr": "Çayıma bal koyarım.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "jam",
+    "turkish": "reçel",
+    "example": "We have bread and jam for breakfast.",
+    "exampleTr": "Kahvaltıda ekmek ve reçel yeriz.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "biscuit",
+    "turkish": "bisküvi",
+    "example": "Would you like a biscuit with your tea?",
+    "exampleTr": "Çayının yanında bisküvi ister misin?",
+    "level": "A2",
+    "tags": [
+      "food"
+    ],
+    "tipTr": "ABD İngilizcesinde \"cookie\" denir."
+  },
+  {
+    "english": "dessert",
+    "turkish": "tatlı",
+    "example": "What is for dessert tonight?",
+    "exampleTr": "Bu gece tatlı olarak ne var?",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "english": "starter",
+    "turkish": "başlangıç yemeği",
+    "example": "We shared a starter before the main course.",
+    "exampleTr": "Ana yemekten önce bir başlangıç paylaştık.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "english": "main course",
+    "turkish": "ana yemek",
+    "example": "The main course was fish.",
+    "exampleTr": "Ana yemek balıktı.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "english": "book a table",
+    "turkish": "masa ayırtmak",
+    "example": "I would like to book a table for four.",
+    "exampleTr": "Dört kişilik masa ayırtmak istiyorum.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "english": "takeaway",
+    "turkish": "paket servis",
+    "example": "We ordered a takeaway last night.",
+    "exampleTr": "Dün gece paket servis söyledik.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ],
+    "tipTr": "ABD'de \"takeout\" denir."
+  },
+  {
+    "english": "tip",
+    "turkish": "bahşiş, ipucu",
+    "example": "We left a small tip for the waiter.",
+    "exampleTr": "Garsona küçük bir bahşiş bıraktık.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "restaurant"
+    ]
+  },
+  {
+    "english": "vegetarian",
+    "turkish": "vejetaryen",
+    "example": "My sister is vegetarian.",
+    "exampleTr": "Ablam vejetaryen.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "health"
+    ]
+  },
+  {
+    "english": "spicy",
+    "turkish": "baharatlı, acı",
+    "example": "This sauce is too spicy for me.",
+    "exampleTr": "Bu sos benim için çok acı.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "sweet",
+    "turkish": "tatlı (tat)",
+    "example": "The tea is too sweet.",
+    "exampleTr": "Çay çok tatlı olmuş.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "fresh food",
+    "turkish": "taze gıda",
+    "example": "Fresh food is better than frozen food.",
+    "exampleTr": "Taze gıda dondurulmuştan daha iyidir.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "frozen",
+    "turkish": "dondurulmuş",
+    "example": "I keep frozen peas in the freezer.",
+    "exampleTr": "Dondurucuda dondurulmuş bezelye bulundururum.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "snack",
+    "turkish": "atıştırmalık",
+    "example": "I have a snack in the afternoon.",
+    "exampleTr": "Öğleden sonra bir şeyler atıştırırım.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "meal",
+    "turkish": "öğün, yemek",
+    "example": "We have three meals a day.",
+    "exampleTr": "Günde üç öğün yemek yeriz.",
+    "level": "A2",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "sauce",
+    "turkish": "sos",
+    "example": "The sauce is made with tomatoes.",
+    "exampleTr": "Sos domatesle yapılıyor.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "oven",
+    "turkish": "fırın",
+    "example": "Put the chicken in the oven.",
+    "exampleTr": "Tavuğu fırına koy.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "home"
+    ]
+  },
+  {
+    "english": "run out of",
+    "turkish": "bitmek, tükenmek",
+    "example": "We have run out of milk.",
+    "exampleTr": "Sütümüz bitti.",
+    "level": "A2",
+    "tags": [
+      "food",
+      "verbs"
+    ]
+  },
+  {
+    "english": "housework",
+    "turkish": "ev işi",
+    "example": "We share the housework at home.",
+    "exampleTr": "Evde ev işlerini paylaşırız.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ],
+    "tipTr": "\"housework\" ev işi, \"homework\" ise okul ödevidir."
+  },
+  {
+    "english": "washing machine",
+    "turkish": "çamaşır makinesi",
+    "example": "The washing machine is broken again.",
+    "exampleTr": "Çamaşır makinesi yine bozuldu.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "dishwasher",
+    "turkish": "bulaşık makinesi",
+    "example": "Put the plates in the dishwasher.",
+    "exampleTr": "Tabakları bulaşık makinesine koy.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "vacuum",
+    "turkish": "elektrikli süpürge, süpürmek",
+    "example": "I vacuum the carpet every Saturday.",
+    "exampleTr": "Halıyı her cumartesi süpürürüm.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "iron",
+    "turkish": "ütü, ütülemek",
+    "example": "I iron my shirts on Sunday evening.",
+    "exampleTr": "Gömleklerimi pazar akşamı ütülerim.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "rubbish",
+    "turkish": "çöp",
+    "example": "Please take the rubbish out.",
+    "exampleTr": "Lütfen çöpü dışarı çıkar.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ],
+    "tipTr": "ABD'de \"trash\" veya \"garbage\" denir."
+  },
+  {
+    "english": "furniture",
+    "turkish": "mobilya",
+    "example": "We bought new furniture for the living room.",
+    "exampleTr": "Oturma odası için yeni mobilya aldık.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ],
+    "tipTr": "\"furniture\" sayılamaz: \"a furniture\" yerine \"a piece of furniture\"."
+  },
+  {
+    "english": "cupboard",
+    "turkish": "dolap",
+    "example": "The cups are in the cupboard.",
+    "exampleTr": "Fincanlar dolapta.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "drawer",
+    "turkish": "çekmece",
+    "example": "My passport is in the top drawer.",
+    "exampleTr": "Pasaportum üst çekmecede.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "curtain",
+    "turkish": "perde",
+    "example": "Close the curtains, please.",
+    "exampleTr": "Perdeleri kapat lütfen.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "blanket",
+    "turkish": "battaniye",
+    "example": "I need another blanket tonight.",
+    "exampleTr": "Bu gece bir battaniye daha lazım.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "pillow",
+    "turkish": "yastık",
+    "example": "This pillow is too soft.",
+    "exampleTr": "Bu yastık çok yumuşak.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "balcony",
+    "turkish": "balkon",
+    "example": "We have coffee on the balcony.",
+    "exampleTr": "Balkonda kahve içeriz.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "roof",
+    "turkish": "çatı",
+    "example": "The roof needs repairing.",
+    "exampleTr": "Çatının tamir edilmesi gerekiyor.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "basement",
+    "turkish": "bodrum",
+    "example": "We keep old boxes in the basement.",
+    "exampleTr": "Eski kutuları bodrumda saklarız.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "landlord",
+    "turkish": "ev sahibi",
+    "example": "Our landlord lives upstairs.",
+    "exampleTr": "Ev sahibimiz üst katta oturuyor.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "people"
+    ]
+  },
+  {
+    "english": "pay the bills",
+    "turkish": "faturaları ödemek",
+    "example": "I pay the bills at the end of the month.",
+    "exampleTr": "Faturaları ay sonunda öderim.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "money"
+    ]
+  },
+  {
+    "english": "electricity",
+    "turkish": "elektrik",
+    "example": "The electricity went off last night.",
+    "exampleTr": "Dün gece elektrik kesildi.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "repair",
+    "turkish": "tamir etmek",
+    "example": "Can you repair the tap?",
+    "exampleTr": "Musluğu tamir edebilir misin?",
+    "level": "A2",
+    "tags": [
+      "home",
+      "verbs"
+    ]
+  },
+  {
+    "english": "fix",
+    "turkish": "düzeltmek, tamir etmek",
+    "example": "My brother fixed the door.",
+    "exampleTr": "Kardeşim kapıyı tamir etti.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "verbs"
+    ]
+  },
+  {
+    "english": "tap",
+    "turkish": "musluk",
+    "example": "The tap is dripping.",
+    "exampleTr": "Musluk damlıyor.",
+    "level": "A2",
+    "tags": [
+      "home"
+    ],
+    "tipTr": "ABD'de \"faucet\" denir."
+  },
+  {
+    "english": "plug in",
+    "turkish": "prize takmak",
+    "example": "Plug in the charger, please.",
+    "exampleTr": "Şarj aletini prize tak lütfen.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "technology"
+    ]
+  },
+  {
+    "english": "throw away",
+    "turkish": "atmak, çöpe atmak",
+    "example": "Do not throw away those papers.",
+    "exampleTr": "O kâğıtları atma.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "verbs"
+    ]
+  },
+  {
+    "english": "put away",
+    "turkish": "kaldırmak, yerine koymak",
+    "example": "Put away your clothes, please.",
+    "exampleTr": "Kıyafetlerini yerine kaldır lütfen.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "verbs"
+    ]
+  },
+  {
+    "english": "hang up",
+    "turkish": "asmak, telefonu kapatmak",
+    "example": "Hang up your coat in the hall.",
+    "exampleTr": "Paltonu koridora as.",
+    "level": "A2",
+    "tags": [
+      "home",
+      "verbs"
+    ]
+  },
+  {
+    "english": "abroad",
+    "turkish": "yurt dışında",
+    "example": "My sister studies abroad.",
+    "exampleTr": "Ablam yurt dışında okuyor.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ],
+    "tipTr": "\"abroad\" bir zarftır; \"to abroad\" denmez."
+  },
+  {
+    "english": "flight",
+    "turkish": "uçuş",
+    "example": "Our flight was delayed by two hours.",
+    "exampleTr": "Uçuşumuz iki saat rötar yaptı.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "delay",
+    "turkish": "gecikme, rötar",
+    "example": "There was a long delay at the airport.",
+    "exampleTr": "Havaalanında uzun bir gecikme oldu.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "departure",
+    "turkish": "kalkış",
+    "example": "The departure time is on your ticket.",
+    "exampleTr": "Kalkış saati biletinizde yazıyor.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "arrival",
+    "turkish": "varış",
+    "example": "The arrival hall was crowded.",
+    "exampleTr": "Varış salonu kalabalıktı.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "gate",
+    "turkish": "kapı (havaalanı)",
+    "example": "Please go to gate twelve.",
+    "exampleTr": "Lütfen on ikinci kapıya gidin.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "boarding pass",
+    "turkish": "biniş kartı",
+    "example": "Keep your boarding pass with you.",
+    "exampleTr": "Biniş kartınızı yanınızda bulundurun.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "check in",
+    "turkish": "giriş yapmak",
+    "example": "We check in two hours before the flight.",
+    "exampleTr": "Uçuştan iki saat önce giriş yaparız.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "customs",
+    "turkish": "gümrük",
+    "example": "We went through customs quickly.",
+    "exampleTr": "Gümrükten çabucak geçtik.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "visa",
+    "turkish": "vize",
+    "example": "I need a visa for that country.",
+    "exampleTr": "O ülke için vizeye ihtiyacım var.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "insurance",
+    "turkish": "sigorta",
+    "example": "Travel insurance is not expensive.",
+    "exampleTr": "Seyahat sigortası pahalı değil.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "money"
+    ]
+  },
+  {
+    "english": "book in advance",
+    "turkish": "önceden rezervasyon yapmak",
+    "example": "Tickets are cheaper if you book in advance.",
+    "exampleTr": "Önceden rezervasyon yaparsanız biletler daha ucuz olur.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "reservation",
+    "turkish": "rezervasyon",
+    "example": "I have a reservation for two nights.",
+    "exampleTr": "İki geceliğine rezervasyonum var.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "single room",
+    "turkish": "tek kişilik oda",
+    "example": "I would like a single room, please.",
+    "exampleTr": "Tek kişilik bir oda istiyorum lütfen.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "double room",
+    "turkish": "iki kişilik oda",
+    "example": "We booked a double room with a balcony.",
+    "exampleTr": "Balkonlu iki kişilik bir oda ayırttık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "guesthouse",
+    "turkish": "pansiyon",
+    "example": "We stayed in a small guesthouse.",
+    "exampleTr": "Küçük bir pansiyonda kaldık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "sightseeing",
+    "turkish": "gezip görme",
+    "example": "We went sightseeing in the old town.",
+    "exampleTr": "Eski şehirde gezip gördük.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ],
+    "tipTr": "\"go sightseeing\" kalıbı kullanılır."
+  },
+  {
+    "english": "tourist",
+    "turkish": "turist",
+    "example": "The old town is full of tourists.",
+    "exampleTr": "Eski şehir turist dolu.",
+    "level": "A2",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "english": "guide",
+    "turkish": "rehber",
+    "example": "Our guide spoke very good English.",
+    "exampleTr": "Rehberimiz çok iyi İngilizce konuşuyordu.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "jobs"
+    ]
+  },
+  {
+    "english": "souvenir",
+    "turkish": "hatıra eşyası",
+    "example": "I bought a souvenir for my mother.",
+    "exampleTr": "Anneme bir hatıra eşyası aldım.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "shopping"
+    ]
+  },
+  {
+    "english": "journey time",
+    "turkish": "yolculuk süresi",
+    "example": "The journey time is about four hours.",
+    "exampleTr": "Yolculuk süresi yaklaşık dört saat.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "time"
+    ]
+  },
+  {
+    "english": "return ticket",
+    "turkish": "gidiş-dönüş bileti",
+    "example": "A return ticket costs less than two singles.",
+    "exampleTr": "Gidiş-dönüş bileti iki tek yönden daha ucuz.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "money"
+    ],
+    "tipTr": "ABD'de \"round-trip ticket\" denir."
+  },
+  {
+    "english": "train timetable",
+    "turkish": "tren tarifesi",
+    "example": "The train timetable changed in May.",
+    "exampleTr": "Tren tarifesi mayısta değişti.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "time"
+    ]
+  },
+  {
+    "english": "hostel",
+    "turkish": "hostel, öğrenci yurdu",
+    "example": "We slept in a cheap hostel for three nights.",
+    "exampleTr": "Üç gece ucuz bir hostelde kaldık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "english": "motorway",
+    "turkish": "otoyol",
+    "example": "The motorway was busy this morning.",
+    "exampleTr": "Otoyol bu sabah yoğundu.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "city"
+    ],
+    "tipTr": "ABD'de \"highway\" veya \"freeway\" denir."
+  },
+  {
+    "english": "traffic jam",
+    "turkish": "trafik sıkışıklığı",
+    "example": "We were stuck in a traffic jam.",
+    "exampleTr": "Trafik sıkışıklığında kaldık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "city"
+    ]
+  },
+  {
+    "english": "petrol",
+    "turkish": "benzin",
+    "example": "Petrol is expensive this year.",
+    "exampleTr": "Benzin bu yıl pahalı.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "money"
+    ],
+    "tipTr": "ABD'de \"gas\" denir."
+  },
+  {
+    "english": "park the car",
+    "turkish": "arabayı park etmek",
+    "example": "It is hard to park the car here.",
+    "exampleTr": "Burada arabayı park etmek zor.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "city"
+    ]
+  },
+  {
+    "english": "pick up",
+    "turkish": "almak (birini)",
+    "example": "I will pick you up at the airport.",
+    "exampleTr": "Seni havaalanından alacağım.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "verbs"
+    ]
+  },
+  {
+    "english": "drop off",
+    "turkish": "bırakmak (birini)",
+    "example": "Can you drop me off at the station?",
+    "exampleTr": "Beni istasyonda bırakabilir misin?",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "verbs"
+    ]
+  },
+  {
+    "english": "set off",
+    "turkish": "yola çıkmak",
+    "example": "We set off early in the morning.",
+    "exampleTr": "Sabah erkenden yola çıktık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "verbs"
+    ]
+  },
+  {
+    "english": "get lost",
+    "turkish": "kaybolmak",
+    "example": "It is easy to get lost in the old streets.",
+    "exampleTr": "Eski sokaklarda kaybolmak çok kolay.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "verbs"
+    ]
+  },
+  {
+    "english": "on foot",
+    "turkish": "yürüyerek",
+    "example": "The centre is ten minutes on foot.",
+    "exampleTr": "Merkez yürüyerek on dakika.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "directions"
+    ],
+    "tipTr": "\"by bus\" gibi kalıplara benzer ama \"on foot\" denir."
+  },
+  {
+    "english": "package holiday",
+    "turkish": "her şey dahil tatil",
+    "example": "A package holiday includes the hotel and the flight.",
+    "exampleTr": "Her şey dahil tatil oteli ve uçuşu kapsar.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "money"
+    ]
+  },
+  {
+    "english": "cancel",
+    "turkish": "iptal etmek",
+    "example": "We had to cancel our trip.",
+    "exampleTr": "Gezimizi iptal etmek zorunda kaldık.",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "verbs"
+    ]
+  },
+  {
+    "english": "crowded",
+    "turkish": "kalabalık",
+    "example": "The market is crowded on Saturdays.",
+    "exampleTr": "Pazar cumartesileri kalabalık olur.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "modern",
+    "turkish": "modern",
+    "example": "They built a modern shopping centre.",
+    "exampleTr": "Modern bir alışveriş merkezi yaptılar.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "historic",
+    "turkish": "tarihi",
+    "example": "This is a historic building.",
+    "exampleTr": "Bu tarihi bir bina.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "public transport",
+    "turkish": "toplu taşıma",
+    "example": "Public transport here is cheap and fast.",
+    "exampleTr": "Buradaki toplu taşıma ucuz ve hızlı.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "travel"
+    ],
+    "tipTr": "ABD'de \"public transportation\" denir."
+  },
+  {
+    "english": "pavement",
+    "turkish": "kaldırım",
+    "example": "Do not cycle on the pavement.",
+    "exampleTr": "Kaldırımda bisiklet sürme.",
+    "level": "A2",
+    "tags": [
+      "city"
+    ],
+    "tipTr": "ABD'de \"sidewalk\" denir."
+  },
+  {
+    "english": "traffic lights",
+    "turkish": "trafik ışıkları",
+    "example": "Turn right at the traffic lights.",
+    "exampleTr": "Trafik ışıklarından sağa dön.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "directions"
+    ]
+  },
+  {
+    "english": "roundabout",
+    "turkish": "göbek, dönel kavşak",
+    "example": "Take the second exit at the roundabout.",
+    "exampleTr": "Kavşakta ikinci çıkıştan çık.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "directions"
+    ]
+  },
+  {
+    "english": "crossing",
+    "turkish": "geçit",
+    "example": "Use the crossing to cross the road.",
+    "exampleTr": "Yolu geçmek için geçidi kullan.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "directions"
+    ]
+  },
+  {
+    "english": "town hall",
+    "turkish": "belediye binası",
+    "example": "The town hall is in the main square.",
+    "exampleTr": "Belediye binası ana meydanda.",
+    "level": "A2",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "english": "police station",
+    "turkish": "karakol",
+    "example": "The police station is open all night.",
+    "exampleTr": "Karakol bütün gece açık.",
+    "level": "A2",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "english": "car park",
+    "turkish": "otopark",
+    "example": "The car park is full.",
+    "exampleTr": "Otopark dolu.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "travel"
+    ],
+    "tipTr": "ABD'de \"parking lot\" denir."
+  },
+  {
+    "english": "petrol station",
+    "turkish": "benzin istasyonu",
+    "example": "There is a petrol station near the motorway.",
+    "exampleTr": "Otoyolun yakınında bir benzin istasyonu var.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "travel"
+    ]
+  },
+  {
+    "english": "block of flats",
+    "turkish": "apartman",
+    "example": "They live in a block of flats near the park.",
+    "exampleTr": "Parkın yanındaki bir apartmanda oturuyorlar.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "home"
+    ],
+    "tipTr": "ABD İngilizcesinde \"apartment building\" denir."
+  },
+  {
+    "english": "suburb",
+    "turkish": "banliyö, varoş",
+    "example": "They live in a quiet suburb.",
+    "exampleTr": "Sessiz bir banliyöde yaşıyorlar.",
+    "level": "A2",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "english": "population",
+    "turkish": "nüfus",
+    "example": "The population of the city is growing.",
+    "exampleTr": "Şehrin nüfusu artıyor.",
+    "level": "A2",
+    "tags": [
+      "city"
+    ]
+  },
+  {
+    "english": "pollution",
+    "turkish": "kirlilik",
+    "example": "Air pollution is a big problem here.",
+    "exampleTr": "Hava kirliliği burada büyük bir sorun.",
+    "level": "A2",
+    "tags": [
+      "environment",
+      "city"
+    ]
+  },
+  {
+    "english": "environment",
+    "turkish": "çevre",
+    "example": "We must protect the environment.",
+    "exampleTr": "Çevreyi korumalıyız.",
+    "level": "A2",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "english": "recycle",
+    "turkish": "geri dönüştürmek",
+    "example": "We recycle paper and glass at home.",
+    "exampleTr": "Evde kâğıt ve camı geri dönüştürürüz.",
+    "level": "A2",
+    "tags": [
+      "environment",
+      "verbs"
+    ]
+  },
+  {
+    "english": "waste",
+    "turkish": "israf etmek, atık",
+    "example": "Do not waste water in summer.",
+    "exampleTr": "Yazın suyu israf etme.",
+    "level": "A2",
+    "tags": [
+      "environment",
+      "verbs"
+    ]
+  },
+  {
+    "english": "energy",
+    "turkish": "enerji",
+    "example": "Solar energy is cheaper every year.",
+    "exampleTr": "Güneş enerjisi her yıl daha ucuz oluyor.",
+    "level": "A2",
+    "tags": [
+      "environment"
+    ]
+  },
+  {
+    "english": "climate",
+    "turkish": "iklim",
+    "example": "The climate here is very dry.",
+    "exampleTr": "Buradaki iklim çok kuru.",
+    "level": "A2",
+    "tags": [
+      "environment",
+      "weather"
+    ]
+  },
+  {
+    "english": "protect",
+    "turkish": "korumak",
+    "example": "We should protect the forests.",
+    "exampleTr": "Ormanları korumalıyız.",
+    "level": "A2",
+    "tags": [
+      "environment",
+      "verbs"
+    ]
+  },
+  {
+    "english": "forest",
+    "turkish": "orman",
+    "example": "A large forest starts behind the village.",
+    "exampleTr": "Köyün arkasında büyük bir orman başlıyor.",
+    "level": "A2",
+    "tags": [
+      "nature",
+      "environment"
+    ]
+  },
+  {
+    "english": "field",
+    "turkish": "tarla, alan",
+    "example": "The children ran across the field.",
+    "exampleTr": "Çocuklar tarlanın içinden koştu.",
+    "level": "A2",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "english": "lake",
+    "turkish": "göl",
+    "example": "We had a picnic by the lake.",
+    "exampleTr": "Gölün kenarında piknik yaptık.",
+    "level": "A2",
+    "tags": [
+      "nature"
+    ]
+  },
+  {
+    "english": "island",
+    "turkish": "ada",
+    "example": "The island is two hours by boat.",
+    "exampleTr": "Ada tekneyle iki saat.",
+    "level": "A2",
+    "tags": [
+      "nature",
+      "travel"
+    ]
+  },
+  {
+    "english": "coast",
+    "turkish": "kıyı, sahil",
+    "example": "We drove along the coast.",
+    "exampleTr": "Sahil boyunca araba sürdük.",
+    "level": "A2",
+    "tags": [
+      "nature",
+      "travel"
+    ]
+  },
+  {
+    "english": "view",
+    "turkish": "manzara",
+    "example": "The view from the balcony is amazing.",
+    "exampleTr": "Balkondan manzara harika.",
+    "level": "A2",
+    "tags": [
+      "nature",
+      "travel"
+    ]
+  },
+  {
+    "english": "noisy",
+    "turkish": "gürültülü",
+    "example": "Our street is noisy in the evening.",
+    "exampleTr": "Sokağımız akşamları gürültülü.",
+    "level": "A2",
+    "tags": [
+      "city",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "peaceful",
+    "turkish": "huzurlu, sakin",
+    "example": "The village is very peaceful.",
+    "exampleTr": "Köy çok huzurlu.",
+    "level": "A2",
+    "tags": [
+      "nature",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "device",
+    "turkish": "cihaz",
+    "example": "This device works without internet.",
+    "exampleTr": "Bu cihaz internetsiz çalışır.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "laptop",
+    "turkish": "dizüstü bilgisayar",
+    "example": "I take my laptop to every meeting.",
+    "exampleTr": "Her toplantıya dizüstü bilgisayarımı götürürüm.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "keyboard",
+    "turkish": "klavye",
+    "example": "My keyboard stopped working.",
+    "exampleTr": "Klavyem çalışmayı bıraktı.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "file",
+    "turkish": "dosya",
+    "example": "Please send me the file again.",
+    "exampleTr": "Lütfen dosyayı bana tekrar gönder.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "work"
+    ]
+  },
+  {
+    "english": "folder",
+    "turkish": "klasör",
+    "example": "The photos are in that folder.",
+    "exampleTr": "Fotoğraflar o klasörde.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "download",
+    "turkish": "indirmek",
+    "example": "I downloaded the app last night.",
+    "exampleTr": "Uygulamayı dün gece indirdim.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "upload",
+    "turkish": "yüklemek",
+    "example": "Upload your photo to the website.",
+    "exampleTr": "Fotoğrafını siteye yükle.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "save the file",
+    "turkish": "dosyayı kaydetmek",
+    "example": "Do not forget to save the file.",
+    "exampleTr": "Dosyayı kaydetmeyi unutma.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "delete",
+    "turkish": "silmek",
+    "example": "I deleted the old messages.",
+    "exampleTr": "Eski mesajları sildim.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "update",
+    "turkish": "güncelleme, güncellemek",
+    "example": "The app needs an update.",
+    "exampleTr": "Uygulamanın güncellemeye ihtiyacı var.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "log in",
+    "turkish": "giriş yapmak",
+    "example": "I cannot log in to my account.",
+    "exampleTr": "Hesabıma giriş yapamıyorum.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "account",
+    "turkish": "hesap",
+    "example": "I opened an account online.",
+    "exampleTr": "İnternetten bir hesap açtım.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "money"
+    ]
+  },
+  {
+    "english": "social media",
+    "turkish": "sosyal medya",
+    "example": "I spend an hour on social media every day.",
+    "exampleTr": "Her gün sosyal medyada bir saat geçiriyorum.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "media"
+    ]
+  },
+  {
+    "english": "post",
+    "turkish": "paylaşmak, gönderi",
+    "example": "She posts photos of her trips.",
+    "exampleTr": "Gezi fotoğraflarını paylaşıyor.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "media"
+    ]
+  },
+  {
+    "english": "follow",
+    "turkish": "takip etmek",
+    "example": "I follow two news channels.",
+    "exampleTr": "İki haber kanalını takip ediyorum.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "media"
+    ]
+  },
+  {
+    "english": "search for",
+    "turkish": "aramak (internette)",
+    "example": "I search for recipes online.",
+    "exampleTr": "İnternette tarif ararım.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "connect",
+    "turkish": "bağlanmak",
+    "example": "Connect your phone to the wifi.",
+    "exampleTr": "Telefonunu kablosuz ağa bağla.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "wifi",
+    "turkish": "kablosuz internet",
+    "example": "Is there free wifi in the hotel?",
+    "exampleTr": "Otelde ücretsiz kablosuz internet var mı?",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "travel"
+    ]
+  },
+  {
+    "english": "battery",
+    "turkish": "pil, batarya",
+    "example": "My battery is almost empty.",
+    "exampleTr": "Pilim neredeyse bitti.",
+    "level": "A2",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "switch on",
+    "turkish": "açmak (cihaz)",
+    "example": "Switch on the computer, please.",
+    "exampleTr": "Bilgisayarı aç lütfen.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "news",
+    "turkish": "haberler",
+    "example": "The news starts at seven.",
+    "exampleTr": "Haberler yedide başlıyor.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ],
+    "tipTr": "\"news\" tekil kullanılır: \"the news is\", \"are\" değil."
+  },
+  {
+    "english": "channel",
+    "turkish": "kanal",
+    "example": "There is a film on the other channel.",
+    "exampleTr": "Diğer kanalda bir film var.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ]
+  },
+  {
+    "english": "programme",
+    "turkish": "program (TV)",
+    "example": "My favourite programme is on tonight.",
+    "exampleTr": "En sevdiğim program bu gece yayında.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ],
+    "tipTr": "ABD yazımı: program."
+  },
+  {
+    "english": "advert",
+    "turkish": "reklam",
+    "example": "There are too many adverts on this site.",
+    "exampleTr": "Bu sitede çok fazla reklam var.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ],
+    "tipTr": "ABD'de \"ad\" veya \"commercial\" denir."
+  },
+  {
+    "english": "article",
+    "turkish": "makale, yazı",
+    "example": "I read an article about healthy food.",
+    "exampleTr": "Sağlıklı beslenme hakkında bir yazı okudum.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ]
+  },
+  {
+    "english": "magazine",
+    "turkish": "dergi",
+    "example": "She buys a magazine every month.",
+    "exampleTr": "Her ay bir dergi alır.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ]
+  },
+  {
+    "english": "newspaper",
+    "turkish": "gazete",
+    "example": "My father reads the newspaper online now.",
+    "exampleTr": "Babam artık gazeteyi internetten okuyor.",
+    "level": "A2",
+    "tags": [
+      "media"
+    ]
+  },
+  {
+    "english": "series",
+    "turkish": "dizi",
+    "example": "We are watching a new series.",
+    "exampleTr": "Yeni bir dizi izliyoruz.",
+    "level": "A2",
+    "tags": [
+      "media",
+      "hobbies"
+    ],
+    "tipTr": "\"series\" tekil ve çoğulda aynı yazılır."
+  },
+  {
+    "english": "subtitle",
+    "turkish": "altyazı",
+    "example": "I watch films with English subtitles.",
+    "exampleTr": "Filmleri İngilizce altyazıyla izlerim.",
+    "level": "A2",
+    "tags": [
+      "media",
+      "language"
+    ]
+  },
+  {
+    "english": "switch off",
+    "turkish": "kapatmak (cihaz)",
+    "example": "Switch off the lights when you leave.",
+    "exampleTr": "Çıkarken ışıkları kapat.",
+    "level": "A2",
+    "tags": [
+      "technology",
+      "verbs"
+    ]
+  },
+  {
+    "english": "free time",
+    "turkish": "boş zaman",
+    "example": "I read in my free time.",
+    "exampleTr": "Boş zamanımda kitap okurum.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "time"
+    ]
+  },
+  {
+    "english": "interested in",
+    "turkish": "ilgi duymak",
+    "example": "I am interested in photography.",
+    "exampleTr": "Fotoğrafçılığa ilgi duyuyorum.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "feelings"
+    ],
+    "tipTr": "\"interested in\" sonrası -ing gelir: \"interested in learning\"."
+  },
+  {
+    "english": "be good at",
+    "turkish": "iyi olmak",
+    "example": "I want to be good at speaking English.",
+    "exampleTr": "İngilizce konuşmakta iyi olmak istiyorum.",
+    "level": "A2",
+    "tags": [
+      "hobbies"
+    ],
+    "tipTr": "\"good at\" sonrası -ing gelir."
+  },
+  {
+    "english": "join",
+    "turkish": "katılmak, üye olmak",
+    "example": "I joined a running club.",
+    "exampleTr": "Bir koşu kulübüne katıldım.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "social"
+    ]
+  },
+  {
+    "english": "club",
+    "turkish": "kulüp",
+    "example": "Our club meets every Thursday.",
+    "exampleTr": "Kulübümüz her perşembe toplanır.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "social"
+    ]
+  },
+  {
+    "english": "member",
+    "turkish": "üye",
+    "example": "I am a member of the library.",
+    "exampleTr": "Kütüphaneye üyeyim.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "social"
+    ]
+  },
+  {
+    "english": "team sport",
+    "turkish": "takım sporu",
+    "example": "Basketball is a team sport.",
+    "exampleTr": "Basketbol bir takım sporudur.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "sport"
+    ]
+  },
+  {
+    "english": "match",
+    "turkish": "maç",
+    "example": "The match starts at eight.",
+    "exampleTr": "Maç sekizde başlıyor.",
+    "level": "A2",
+    "tags": [
+      "sport"
+    ]
+  },
+  {
+    "english": "score",
+    "turkish": "skor, gol atmak",
+    "example": "He scored two goals yesterday.",
+    "exampleTr": "Dün iki gol attı.",
+    "level": "A2",
+    "tags": [
+      "sport"
+    ]
+  },
+  {
+    "english": "win",
+    "turkish": "kazanmak",
+    "example": "Our team can win the match today.",
+    "exampleTr": "Takımımız bugün maçı kazanabilir.",
+    "level": "A2",
+    "tags": [
+      "sport",
+      "verbs"
+    ],
+    "tipTr": "Maç için \"win\", rakip için \"beat\" kullanılır."
+  },
+  {
+    "english": "beat",
+    "turkish": "yenmek",
+    "example": "We beat them three to one.",
+    "exampleTr": "Onları üç bire yendik.",
+    "level": "A2",
+    "tags": [
+      "sport",
+      "verbs"
+    ]
+  },
+  {
+    "english": "lose a match",
+    "turkish": "maç kaybetmek",
+    "example": "Nobody likes to lose a match.",
+    "exampleTr": "Kimse maç kaybetmeyi sevmez.",
+    "level": "A2",
+    "tags": [
+      "sport"
+    ]
+  },
+  {
+    "english": "practise every day",
+    "turkish": "her gün çalışmak",
+    "example": "Good players practise every day.",
+    "exampleTr": "İyi oyuncular her gün çalışır.",
+    "level": "A2",
+    "tags": [
+      "sport",
+      "education"
+    ]
+  },
+  {
+    "english": "coach",
+    "turkish": "antrenör",
+    "example": "Our coach is very patient.",
+    "exampleTr": "Antrenörümüz çok sabırlı.",
+    "level": "A2",
+    "tags": [
+      "sport",
+      "jobs"
+    ]
+  },
+  {
+    "english": "fan",
+    "turkish": "taraftar, hayran",
+    "example": "He is a big fan of that band.",
+    "exampleTr": "O grubun büyük bir hayranı.",
+    "level": "A2",
+    "tags": [
+      "sport",
+      "hobbies"
+    ]
+  },
+  {
+    "english": "band",
+    "turkish": "grup (müzik)",
+    "example": "My favourite band is playing tonight.",
+    "exampleTr": "En sevdiğim grup bu gece çalıyor.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "media"
+    ]
+  },
+  {
+    "english": "concert",
+    "turkish": "konser",
+    "example": "We went to a concert last Saturday.",
+    "exampleTr": "Geçen cumartesi bir konsere gittik.",
+    "level": "A2",
+    "tags": [
+      "hobbies"
+    ]
+  },
+  {
+    "english": "instrument",
+    "turkish": "müzik aleti",
+    "example": "Do you play an instrument?",
+    "exampleTr": "Bir müzik aleti çalıyor musun?",
+    "level": "A2",
+    "tags": [
+      "hobbies"
+    ],
+    "tipTr": "Çalgı çalmak için \"play the guitar\" gibi \"the\" kullanılır."
+  },
+  {
+    "english": "painting",
+    "turkish": "resim, tablo",
+    "example": "There is a painting above the sofa.",
+    "exampleTr": "Kanepenin üstünde bir tablo var.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "art"
+    ]
+  },
+  {
+    "english": "camping",
+    "turkish": "kamp",
+    "example": "We go camping every summer.",
+    "exampleTr": "Her yaz kampa gideriz.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "travel"
+    ]
+  },
+  {
+    "english": "collect",
+    "turkish": "toplamak, koleksiyon yapmak",
+    "example": "My son collects old coins.",
+    "exampleTr": "Oğlum eski para toplar.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "verbs"
+    ]
+  },
+  {
+    "english": "chat",
+    "turkish": "sohbet etmek",
+    "example": "We chat about films for hours.",
+    "exampleTr": "Saatlerce filmler hakkında sohbet ederiz.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "social"
+    ]
+  },
+  {
+    "english": "relax",
+    "turkish": "dinlenmek",
+    "example": "I relax with music after work.",
+    "exampleTr": "İşten sonra müzikle dinlenirim.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "verbs"
+    ]
+  },
+  {
+    "english": "have a go",
+    "turkish": "denemek",
+    "example": "Have a go, it is not difficult.",
+    "exampleTr": "Bir dene, zor değil.",
+    "level": "A2",
+    "tags": [
+      "hobbies"
+    ]
+  },
+  {
+    "english": "in my free time",
+    "turkish": "boş zamanlarımda",
+    "example": "In my free time I go running.",
+    "exampleTr": "Boş zamanlarımda koşuya çıkarım.",
+    "level": "A2",
+    "tags": [
+      "hobbies",
+      "time"
+    ]
+  },
+  {
+    "english": "shopping centre",
+    "turkish": "alışveriş merkezi",
+    "example": "The new shopping centre opens tomorrow.",
+    "exampleTr": "Yeni alışveriş merkezi yarın açılıyor.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "city"
+    ],
+    "tipTr": "ABD'de \"mall\" denir."
+  },
+  {
+    "english": "department store",
+    "turkish": "büyük mağaza",
+    "example": "I bought a coat in a department store.",
+    "exampleTr": "Büyük bir mağazadan palto aldım.",
+    "level": "A2",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "english": "checkout",
+    "turkish": "kasa",
+    "example": "There was nobody at the checkout.",
+    "exampleTr": "Kasada kimse yoktu.",
+    "level": "A2",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "english": "refund",
+    "turkish": "iade, para iadesi",
+    "example": "Can I have a refund, please?",
+    "exampleTr": "Para iadesi alabilir miyim lütfen?",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "english": "exchange",
+    "turkish": "değiştirmek, takas",
+    "example": "Can I exchange this for a bigger size?",
+    "exampleTr": "Bunu bir büyük bedenle değiştirebilir miyim?",
+    "level": "A2",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "english": "guarantee",
+    "turkish": "garanti",
+    "example": "The phone has a two-year guarantee.",
+    "exampleTr": "Telefonun iki yıl garantisi var.",
+    "level": "A2",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "english": "sale",
+    "turkish": "indirim dönemi, satış",
+    "example": "These jeans were in the sale.",
+    "exampleTr": "Bu kot pantolon indirimdeydi.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "money"
+    ],
+    "tipTr": "\"on sale\" indirimde, \"for sale\" ise satılık demektir."
+  },
+  {
+    "english": "half price",
+    "turkish": "yarı fiyatına",
+    "example": "The shoes were half price.",
+    "exampleTr": "Ayakkabılar yarı fiyatınaydı.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "english": "afford",
+    "turkish": "parası yetmek",
+    "example": "I cannot afford a new car.",
+    "exampleTr": "Yeni bir araba almaya param yetmiyor.",
+    "level": "A2",
+    "tags": [
+      "money",
+      "verbs"
+    ],
+    "tipTr": "Genelde \"can/can't afford\" kalıbıyla kullanılır."
+  },
+  {
+    "english": "borrow",
+    "turkish": "ödünç almak",
+    "example": "Can I borrow twenty lira?",
+    "exampleTr": "Yirmi lira ödünç alabilir miyim?",
+    "level": "A2",
+    "tags": [
+      "money",
+      "verbs"
+    ],
+    "tipTr": "\"borrow\" ödünç almak, \"lend\" ise ödünç vermektir."
+  },
+  {
+    "english": "lend",
+    "turkish": "ödünç vermek",
+    "example": "Can you lend me your bike?",
+    "exampleTr": "Bana bisikletini ödünç verir misin?",
+    "level": "A2",
+    "tags": [
+      "money",
+      "verbs"
+    ]
+  },
+  {
+    "english": "owe",
+    "turkish": "borcu olmak",
+    "example": "I owe you ten lira.",
+    "exampleTr": "Sana on lira borcum var.",
+    "level": "A2",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "english": "bank account",
+    "turkish": "banka hesabı",
+    "example": "I opened a bank account last week.",
+    "exampleTr": "Geçen hafta bir banka hesabı açtım.",
+    "level": "A2",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "english": "cash machine",
+    "turkish": "bankamatik",
+    "example": "The cash machine is out of order.",
+    "exampleTr": "Bankamatik arızalı.",
+    "level": "A2",
+    "tags": [
+      "money",
+      "city"
+    ],
+    "tipTr": "ABD'de \"ATM\" denir."
+  },
+  {
+    "english": "coin",
+    "turkish": "madeni para",
+    "example": "I need a coin for the trolley.",
+    "exampleTr": "Market arabası için madeni paraya ihtiyacım var.",
+    "level": "A2",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "english": "note",
+    "turkish": "banknot, not",
+    "example": "Do you have a fifty-lira note?",
+    "exampleTr": "Elli liralık banknotun var mı?",
+    "level": "A2",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "english": "credit card",
+    "turkish": "kredi kartı",
+    "example": "I paid by credit card.",
+    "exampleTr": "Kredi kartıyla ödedim.",
+    "level": "A2",
+    "tags": [
+      "money",
+      "shopping"
+    ]
+  },
+  {
+    "english": "bargain",
+    "turkish": "kelepir, iyi fiyat",
+    "example": "This coat was a real bargain.",
+    "exampleTr": "Bu palto tam bir kelepirdi.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "english": "complain",
+    "turkish": "şikâyet etmek",
+    "example": "I complained about the service.",
+    "exampleTr": "Hizmetten şikâyetçi oldum.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "verbs"
+    ],
+    "tipTr": "\"complain about something\" kalıbı kullanılır."
+  },
+  {
+    "english": "complaint",
+    "turkish": "şikâyet",
+    "example": "They received a lot of complaints.",
+    "exampleTr": "Çok sayıda şikâyet aldılar.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "services"
+    ]
+  },
+  {
+    "english": "deliver",
+    "turkish": "teslim etmek",
+    "example": "They deliver the order in two days.",
+    "exampleTr": "Siparişi iki günde teslim ediyorlar.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "services"
+    ]
+  },
+  {
+    "english": "delivery",
+    "turkish": "teslimat",
+    "example": "The delivery is free over 500 lira.",
+    "exampleTr": "500 lira üzeri teslimat ücretsiz.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "services"
+    ]
+  },
+  {
+    "english": "hairdresser",
+    "turkish": "kuaför",
+    "example": "I have an appointment at the hairdresser.",
+    "exampleTr": "Kuaförde randevum var.",
+    "level": "A2",
+    "tags": [
+      "services",
+      "jobs"
+    ]
+  },
+  {
+    "english": "repair shop",
+    "turkish": "tamirci",
+    "example": "I took my laptop to a repair shop.",
+    "exampleTr": "Dizüstü bilgisayarımı tamirciye götürdüm.",
+    "level": "A2",
+    "tags": [
+      "services"
+    ]
+  },
+  {
+    "english": "try it on",
+    "turkish": "onu denemek",
+    "example": "That shirt looks nice, try it on.",
+    "exampleTr": "O gömlek güzel duruyor, dene.",
+    "level": "A2",
+    "tags": [
+      "shopping",
+      "clothes"
+    ]
+  },
+  {
+    "english": "suit",
+    "turkish": "yakışmak, takım elbise",
+    "example": "That colour suits you.",
+    "exampleTr": "O renk sana yakışıyor.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "appearance"
+    ]
+  },
+  {
+    "english": "fit me",
+    "turkish": "bana olmak",
+    "example": "These trousers do not fit me.",
+    "exampleTr": "Bu pantolon bana olmuyor.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ],
+    "tipTr": "Beden için \"fit\", stil için \"suit\" kullanılır."
+  },
+  {
+    "english": "tight",
+    "turkish": "dar",
+    "example": "The jacket is a bit tight.",
+    "exampleTr": "Ceket biraz dar.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "loose",
+    "turkish": "bol, gevşek",
+    "example": "I prefer loose shirts in summer.",
+    "exampleTr": "Yazın bol gömlekleri tercih ederim.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "smart",
+    "turkish": "şık, akıllı",
+    "example": "You look smart in that jacket.",
+    "exampleTr": "O ceketle çok şık görünüyorsun.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "adjectives"
+    ],
+    "tipTr": "İngiltere'de \"smart\" şık, ABD'de genelde \"akıllı\" demektir."
+  },
+  {
+    "english": "casual",
+    "turkish": "günlük, rahat (giyim)",
+    "example": "The office has a casual dress code.",
+    "exampleTr": "Ofiste günlük bir kıyafet kuralı var.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "work"
+    ]
+  },
+  {
+    "english": "old-fashioned",
+    "turkish": "eski moda",
+    "example": "My coat looks old-fashioned now.",
+    "exampleTr": "Paltom artık eski moda duruyor.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "fashion",
+    "turkish": "moda",
+    "example": "She works in fashion.",
+    "exampleTr": "Moda sektöründe çalışıyor.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ]
+  },
+  {
+    "english": "jumper",
+    "turkish": "kazak",
+    "example": "Wear a jumper, it is cold outside.",
+    "exampleTr": "Kazak giy, dışarısı soğuk.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ],
+    "tipTr": "ABD'de \"sweater\" denir."
+  },
+  {
+    "english": "scarf",
+    "turkish": "atkı, eşarp",
+    "example": "I lost my scarf on the bus.",
+    "exampleTr": "Atkımı otobüste kaybettim.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ]
+  },
+  {
+    "english": "gloves",
+    "turkish": "eldiven",
+    "example": "Take your gloves, it is freezing.",
+    "exampleTr": "Eldivenlerini al, hava dondurucu.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ]
+  },
+  {
+    "english": "boots",
+    "turkish": "bot, çizme",
+    "example": "I wear boots in winter.",
+    "exampleTr": "Kışın bot giyerim.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ]
+  },
+  {
+    "english": "belt",
+    "turkish": "kemer",
+    "example": "This belt is too long for me.",
+    "exampleTr": "Bu kemer bana çok uzun.",
+    "level": "A2",
+    "tags": [
+      "clothes"
+    ]
+  },
+  {
+    "english": "pocket",
+    "turkish": "cep",
+    "example": "My keys are in my pocket.",
+    "exampleTr": "Anahtarlarım cebimde.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "objects"
+    ]
+  },
+  {
+    "english": "umbrella",
+    "turkish": "şemsiye",
+    "example": "Take an umbrella, it may rain.",
+    "exampleTr": "Şemsiye al, yağmur yağabilir.",
+    "level": "A2",
+    "tags": [
+      "clothes",
+      "weather"
+    ]
+  },
+  {
+    "english": "freezing",
+    "turkish": "dondurucu soğuk",
+    "example": "It was freezing this morning.",
+    "exampleTr": "Bu sabah hava dondurucuydu.",
+    "level": "A2",
+    "tags": [
+      "weather",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "boiling",
+    "turkish": "kavurucu sıcak",
+    "example": "It is boiling in the car.",
+    "exampleTr": "Arabanın içi kavuruyor.",
+    "level": "A2",
+    "tags": [
+      "weather",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "storm",
+    "turkish": "fırtına",
+    "example": "A storm is coming this evening.",
+    "exampleTr": "Bu akşam fırtına geliyor.",
+    "level": "A2",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "fog",
+    "turkish": "sis",
+    "example": "There was thick fog on the motorway.",
+    "exampleTr": "Otoyolda yoğun sis vardı.",
+    "level": "A2",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "ice",
+    "turkish": "buz",
+    "example": "Be careful, there is ice on the road.",
+    "exampleTr": "Dikkat et, yolda buz var.",
+    "level": "A2",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "shower of rain",
+    "turkish": "sağanak",
+    "example": "We had a heavy shower of rain at noon.",
+    "exampleTr": "Öğlen kuvvetli bir sağanak yağdı.",
+    "level": "A2",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "forecast",
+    "turkish": "hava tahmini",
+    "example": "The forecast says it will be sunny.",
+    "exampleTr": "Hava tahmini güneşli olacağını söylüyor.",
+    "level": "A2",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "temperatures",
+    "turkish": "sıcaklıklar",
+    "example": "Temperatures drop to zero at night.",
+    "exampleTr": "Geceleri sıcaklıklar sıfıra düşüyor.",
+    "level": "A2",
+    "tags": [
+      "weather",
+      "numbers"
+    ]
+  },
+  {
+    "english": "humid",
+    "turkish": "nemli",
+    "example": "The air is humid near the coast.",
+    "exampleTr": "Sahilde hava nemli.",
+    "level": "A2",
+    "tags": [
+      "weather",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "mild",
+    "turkish": "ılıman",
+    "example": "The winter was mild this year.",
+    "exampleTr": "Bu yıl kış ılıman geçti.",
+    "level": "A2",
+    "tags": [
+      "weather",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "happen",
+    "turkish": "olmak, gerçekleşmek",
+    "example": "What happened after the meeting?",
+    "exampleTr": "Toplantıdan sonra ne oldu?",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "become",
+    "turkish": "olmak, dönüşmek",
+    "example": "He wants to become a teacher.",
+    "exampleTr": "Öğretmen olmak istiyor.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "continue",
+    "turkish": "devam etmek",
+    "example": "The rain continued all night.",
+    "exampleTr": "Yağmur bütün gece devam etti.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "allow",
+    "turkish": "izin vermek",
+    "example": "They do not allow dogs in the park.",
+    "exampleTr": "Parka köpeklerin girmesine izin vermiyorlar.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "offer",
+    "turkish": "teklif etmek, sunmak",
+    "example": "They offered me a better job.",
+    "exampleTr": "Bana daha iyi bir iş teklif ettiler.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "work"
+    ]
+  },
+  {
+    "english": "accept",
+    "turkish": "kabul etmek",
+    "example": "I accepted the invitation.",
+    "exampleTr": "Daveti kabul ettim.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "refuse",
+    "turkish": "reddetmek",
+    "example": "She refused to answer the question.",
+    "exampleTr": "Soruyu cevaplamayı reddetti.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "describe",
+    "turkish": "tarif etmek, betimlemek",
+    "example": "Can you describe the man?",
+    "exampleTr": "Adamı tarif edebilir misin?",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "communication"
+    ]
+  },
+  {
+    "english": "discuss",
+    "turkish": "tartışmak, görüşmek",
+    "example": "We discussed the plan at lunch.",
+    "exampleTr": "Planı öğle yemeğinde konuştuk.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "work"
+    ],
+    "tipTr": "\"discuss about\" yanlıştır; \"discuss something\" denir."
+  },
+  {
+    "english": "reply",
+    "turkish": "cevap vermek, yanıt",
+    "example": "Please reply to my email today.",
+    "exampleTr": "Lütfen bugün e-postama cevap ver.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "communication"
+    ]
+  },
+  {
+    "english": "receive",
+    "turkish": "almak (teslim almak)",
+    "example": "I received your message this morning.",
+    "exampleTr": "Mesajını bu sabah aldım.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "communication"
+    ]
+  },
+  {
+    "english": "return",
+    "turkish": "dönmek, geri vermek",
+    "example": "I must return these books to the library.",
+    "exampleTr": "Bu kitapları kütüphaneye geri vermeliyim.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "fill",
+    "turkish": "doldurmak",
+    "example": "Fill the bottle with cold water.",
+    "exampleTr": "Şişeyi soğuk suyla doldur.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "push",
+    "turkish": "itmek",
+    "example": "Push the door, do not pull it.",
+    "exampleTr": "Kapıyı it, çekme.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "pull",
+    "turkish": "çekmek",
+    "example": "Pull the handle towards you.",
+    "exampleTr": "Kolu kendine doğru çek.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "throw",
+    "turkish": "atmak, fırlatmak",
+    "example": "Do not throw stones at the window.",
+    "exampleTr": "Pencereye taş atma.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "catch",
+    "turkish": "yakalamak, yetişmek",
+    "example": "I must catch the early train.",
+    "exampleTr": "Erken trene yetişmem gerekiyor.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "travel"
+    ],
+    "tipTr": "\"catch a train/bus\" kalıbı kullanılır."
+  },
+  {
+    "english": "jump",
+    "turkish": "zıplamak, atlamak",
+    "example": "The cat jumped onto the table.",
+    "exampleTr": "Kedi masaya atladı.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "climb",
+    "turkish": "tırmanmak",
+    "example": "We climb the hill every Sunday.",
+    "exampleTr": "Her pazar tepeye tırmanırız.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "fall",
+    "turkish": "düşmek",
+    "example": "Be careful, you can fall on the ice.",
+    "exampleTr": "Dikkat et, buzda düşebilirsin.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "damage",
+    "turkish": "zarar vermek, hasar",
+    "example": "The storm damaged our roof.",
+    "exampleTr": "Fırtına çatımıza zarar verdi.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "drop",
+    "turkish": "düşürmek",
+    "example": "I dropped my phone yesterday.",
+    "exampleTr": "Dün telefonumu düşürdüm.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "hold",
+    "turkish": "tutmak",
+    "example": "Hold my bag for a minute, please.",
+    "exampleTr": "Bir dakika çantamı tutar mısın lütfen?",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "touch",
+    "turkish": "dokunmak",
+    "example": "Do not touch the wet paint.",
+    "exampleTr": "Islak boyaya dokunma.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "hit",
+    "turkish": "vurmak, çarpmak",
+    "example": "The ball hit the window.",
+    "exampleTr": "Top pencereye çarptı.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "knock",
+    "turkish": "vurmak (kapıya)",
+    "example": "Knock on the door before you enter.",
+    "exampleTr": "Girmeden önce kapıyı çal.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "press",
+    "turkish": "basmak (düğmeye)",
+    "example": "Press this button to start.",
+    "exampleTr": "Başlatmak için bu düğmeye basın.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "technology"
+    ]
+  },
+  {
+    "english": "pour",
+    "turkish": "dökmek, doldurmak",
+    "example": "Pour the milk into the glass.",
+    "exampleTr": "Sütü bardağa dök.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "cooking"
+    ]
+  },
+  {
+    "english": "spell",
+    "turkish": "hecelemek",
+    "example": "How do you spell your surname?",
+    "exampleTr": "Soyadınızı nasıl heceliyorsunuz?",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "language"
+    ]
+  },
+  {
+    "english": "count",
+    "turkish": "saymak",
+    "example": "The child can count to twenty.",
+    "exampleTr": "Çocuk yirmiye kadar sayabiliyor.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "numbers"
+    ]
+  },
+  {
+    "english": "weigh",
+    "turkish": "tartmak, ağırlığında olmak",
+    "example": "The bag weighs five kilos.",
+    "exampleTr": "Çanta beş kilo geliyor.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "numbers"
+    ]
+  },
+  {
+    "english": "compare",
+    "turkish": "karşılaştırmak",
+    "example": "Compare the two prices before you buy.",
+    "exampleTr": "Almadan önce iki fiyatı karşılaştır.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "prepare",
+    "turkish": "hazırlamak",
+    "example": "I prepare my lessons in the evening.",
+    "exampleTr": "Derslerimi akşamları hazırlarım.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "education"
+    ]
+  },
+  {
+    "english": "plan",
+    "turkish": "planlamak, plan",
+    "example": "We plan to move in September.",
+    "exampleTr": "Eylülde taşınmayı planlıyoruz.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "notice",
+    "turkish": "fark etmek",
+    "example": "I did not notice the sign.",
+    "exampleTr": "Tabelayı fark etmedim.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "recognise",
+    "turkish": "tanımak",
+    "example": "I did not recognise you with short hair.",
+    "exampleTr": "Kısa saçla seni tanıyamadım.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ],
+    "tipTr": "ABD yazımı: recognize."
+  },
+  {
+    "english": "remind",
+    "turkish": "hatırlatmak",
+    "example": "Please remind me to call the doctor.",
+    "exampleTr": "Lütfen bana doktoru aramamı hatırlat.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ],
+    "tipTr": "\"remind\" hatırlatmak, \"remember\" ise hatırlamaktır."
+  },
+  {
+    "english": "warn",
+    "turkish": "uyarmak",
+    "example": "They warned us about the traffic.",
+    "exampleTr": "Bizi trafik konusunda uyardılar.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "belong to",
+    "turkish": "ait olmak",
+    "example": "This umbrella belongs to my sister.",
+    "exampleTr": "Bu şemsiye ablama ait.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "own",
+    "turkish": "sahip olmak",
+    "example": "They own a small hotel.",
+    "exampleTr": "Küçük bir otele sahipler.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "money"
+    ]
+  },
+  {
+    "english": "hurry",
+    "turkish": "acele etmek",
+    "example": "Hurry, the film starts in ten minutes.",
+    "exampleTr": "Acele et, film on dakika sonra başlıyor.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "shout",
+    "turkish": "bağırmak",
+    "example": "Please do not shout at the children.",
+    "exampleTr": "Lütfen çocuklara bağırma.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "laugh",
+    "turkish": "gülmek",
+    "example": "We laughed all evening.",
+    "exampleTr": "Bütün akşam güldük.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "feelings"
+    ],
+    "tipTr": "\"laugh at someone\" biriyle alay etmek demektir."
+  },
+  {
+    "english": "cry",
+    "turkish": "ağlamak",
+    "example": "Small children cry when they are tired.",
+    "exampleTr": "Küçük çocuklar yorulunca ağlar.",
+    "level": "A2",
+    "tags": [
+      "verbs",
+      "feelings"
+    ]
+  },
+  {
+    "english": "seem",
+    "turkish": "görünmek, gibi gelmek",
+    "example": "She seems tired today.",
+    "exampleTr": "Bugün yorgun görünüyor.",
+    "level": "A2",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "turn up",
+    "turkish": "ortaya çıkmak, gelmek",
+    "example": "He turned up an hour late.",
+    "exampleTr": "Bir saat geç geldi.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "turn down",
+    "turkish": "reddetmek, sesi kısmak",
+    "example": "Please turn down the music.",
+    "exampleTr": "Lütfen müziğin sesini kıs.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ],
+    "tipTr": "\"turn down\" hem \"sesini kısmak\" hem \"teklifi reddetmek\" demektir."
+  },
+  {
+    "english": "put off",
+    "turkish": "ertelemek",
+    "example": "We put off the meeting until Friday.",
+    "exampleTr": "Toplantıyı cumaya erteledik.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "work"
+    ]
+  },
+  {
+    "english": "look forward to",
+    "turkish": "dört gözle beklemek",
+    "example": "I look forward to your reply.",
+    "exampleTr": "Cevabınızı dört gözle bekliyorum.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "communication"
+    ],
+    "tipTr": "Bu kalıptan sonra -ing gelir: \"look forward to seeing you\"."
+  },
+  {
+    "english": "take care of",
+    "turkish": "ilgilenmek, bakmak",
+    "example": "Can you take care of the tickets?",
+    "exampleTr": "Biletlerle sen ilgilenebilir misin?",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "fill in",
+    "turkish": "doldurmak (form)",
+    "example": "Fill in this form, please.",
+    "exampleTr": "Bu formu doldurun lütfen.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "services"
+    ],
+    "tipTr": "ABD'de \"fill out\" denir."
+  },
+  {
+    "english": "carry on",
+    "turkish": "devam etmek",
+    "example": "Carry on, I am listening.",
+    "exampleTr": "Devam et, dinliyorum.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "work out",
+    "turkish": "çözmek, spor yapmak",
+    "example": "I work out at the gym twice a week.",
+    "exampleTr": "Haftada iki kez spor salonunda çalışırım.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "sport"
+    ]
+  },
+  {
+    "english": "give back",
+    "turkish": "geri vermek",
+    "example": "Give back the pen when you finish.",
+    "exampleTr": "Bitirince kalemi geri ver.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "hand in",
+    "turkish": "teslim etmek",
+    "example": "Hand in your homework on Monday.",
+    "exampleTr": "Ödevinizi pazartesi teslim edin.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "education"
+    ]
+  },
+  {
+    "english": "sort out",
+    "turkish": "halletmek, düzenlemek",
+    "example": "I will sort out the problem today.",
+    "exampleTr": "Sorunu bugün halledeceğim.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "work"
+    ]
+  },
+  {
+    "english": "get rid of",
+    "turkish": "kurtulmak, atmak",
+    "example": "We should get rid of these old boxes.",
+    "exampleTr": "Bu eski kutulardan kurtulmalıyız.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "home"
+    ]
+  },
+  {
+    "english": "break down",
+    "turkish": "bozulmak (araç)",
+    "example": "Old cars often break down on long trips.",
+    "exampleTr": "Eski arabalar uzun yolculuklarda sık sık bozulur.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "travel"
+    ]
+  },
+  {
+    "english": "grow up",
+    "turkish": "büyümek (yetişmek)",
+    "example": "Children grow up very quickly.",
+    "exampleTr": "Çocuklar çok çabuk büyüyor.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ],
+    "tipTr": "Çocuğun yetişmesi \"grow up\", boyun uzaması \"grow\" ile anlatılır."
+  },
+  {
+    "english": "take up",
+    "turkish": "başlamak (hobiye)",
+    "example": "I want to take up swimming.",
+    "exampleTr": "Yüzmeye başlamak istiyorum.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "hobbies"
+    ]
+  },
+  {
+    "english": "cut down on",
+    "turkish": "azaltmak",
+    "example": "I am cutting down on sugar.",
+    "exampleTr": "Şekeri azaltıyorum.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "health"
+    ]
+  },
+  {
+    "english": "go on",
+    "turkish": "devam etmek, olmak",
+    "example": "What is going on here?",
+    "exampleTr": "Burada neler oluyor?",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "look out",
+    "turkish": "dikkat etmek",
+    "example": "Look out, the floor is wet!",
+    "exampleTr": "Dikkat et, zemin ıslak!",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "call back",
+    "turkish": "geri aramak",
+    "example": "I will call you back in ten minutes.",
+    "exampleTr": "Seni on dakika sonra geri arayacağım.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "communication"
+    ]
+  },
+  {
+    "english": "go back",
+    "turkish": "geri dönmek",
+    "example": "We go back to Turkey every summer.",
+    "exampleTr": "Her yaz Türkiye'ye döneriz.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "travel"
+    ]
+  },
+  {
+    "english": "eat out",
+    "turkish": "dışarıda yemek",
+    "example": "We eat out on Friday evenings.",
+    "exampleTr": "Cuma akşamları dışarıda yeriz.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "food"
+    ]
+  },
+  {
+    "english": "stay up",
+    "turkish": "geç saate kadar uyanık kalmak",
+    "example": "I stayed up late to finish the report.",
+    "exampleTr": "Raporu bitirmek için geç saate kadar uyanık kaldım.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "daily routine"
+    ]
+  },
+  {
+    "english": "hurry up",
+    "turkish": "acele etmek",
+    "example": "Hurry up, we are going to be late.",
+    "exampleTr": "Acele et, geç kalacağız.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs"
+    ]
+  },
+  {
+    "english": "set up",
+    "turkish": "kurmak",
+    "example": "They set up a small business last year.",
+    "exampleTr": "Geçen yıl küçük bir iş kurdular.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "work"
+    ]
+  },
+  {
+    "english": "get together",
+    "turkish": "bir araya gelmek",
+    "example": "Let's get together next weekend.",
+    "exampleTr": "Gelecek hafta sonu bir araya gelelim.",
+    "level": "A2",
+    "tags": [
+      "phrasal verbs",
+      "social"
+    ]
+  },
+  {
+    "english": "although",
+    "turkish": "-e rağmen, gerçi",
+    "example": "Although it was cold, we walked home.",
+    "exampleTr": "Hava soğuk olmasına rağmen eve yürüdük.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "however",
+    "turkish": "ancak, fakat",
+    "example": "The hotel was cheap. However, it was very noisy.",
+    "exampleTr": "Otel ucuzdu. Ancak çok gürültülüydü.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "\"however\" genelde cümle başında virgülle kullanılır."
+  },
+  {
+    "english": "instead of",
+    "turkish": "yerine",
+    "example": "I drank tea instead of coffee.",
+    "exampleTr": "Kahve yerine çay içtim.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "Sonrasında isim ya da -ing gelir."
+  },
+  {
+    "english": "as well as",
+    "turkish": "-in yanı sıra",
+    "example": "She speaks French as well as English.",
+    "exampleTr": "İngilizcenin yanı sıra Fransızca da konuşuyor.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "in fact",
+    "turkish": "aslında",
+    "example": "It looks difficult, but in fact it is easy.",
+    "exampleTr": "Zor görünüyor ama aslında kolay.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "at least",
+    "turkish": "en azından",
+    "example": "At least we finished on time.",
+    "exampleTr": "En azından zamanında bitirdik.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "such as",
+    "turkish": "gibi, örneğin",
+    "example": "I like hot drinks such as tea.",
+    "exampleTr": "Çay gibi sıcak içecekleri severim.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "for example",
+    "turkish": "örneğin",
+    "example": "Take something warm, for example a jumper.",
+    "exampleTr": "Sıcak bir şey al, örneğin bir kazak.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "both",
+    "turkish": "her ikisi de",
+    "example": "Both of my sisters live abroad.",
+    "exampleTr": "İki ablam da yurt dışında yaşıyor.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "each other",
+    "turkish": "birbirimiz, birbirlerini",
+    "example": "We help each other at work.",
+    "exampleTr": "İşte birbirimize yardım ederiz.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "anyone",
+    "turkish": "herhangi biri, kimse",
+    "example": "Did anyone call me?",
+    "exampleTr": "Beni arayan oldu mu?",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "anything",
+    "turkish": "herhangi bir şey",
+    "example": "I did not buy anything today.",
+    "exampleTr": "Bugün hiçbir şey almadım.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "everywhere",
+    "turkish": "her yerde",
+    "example": "I looked everywhere for my keys.",
+    "exampleTr": "Anahtarlarımı her yerde aradım.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "somewhere",
+    "turkish": "bir yerde",
+    "example": "Let's eat somewhere near the station.",
+    "exampleTr": "İstasyona yakın bir yerde yiyelim.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "nobody",
+    "turkish": "hiç kimse",
+    "example": "Nobody answered the phone.",
+    "exampleTr": "Telefona kimse cevap vermedi.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "\"nobody\" olumsuzdur; yanında ikinci bir olumsuzluk kullanılmaz."
+  },
+  {
+    "english": "enough",
+    "turkish": "yeterli, yeterince",
+    "example": "We do not have enough time.",
+    "exampleTr": "Yeterli zamanımız yok.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "İsimden önce \"enough money\", sıfattan sonra \"good enough\" gelir."
+  },
+  {
+    "english": "quite",
+    "turkish": "oldukça",
+    "example": "The test was quite easy.",
+    "exampleTr": "Sınav oldukça kolaydı.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "really",
+    "turkish": "gerçekten",
+    "example": "I really enjoyed the concert.",
+    "exampleTr": "Konserden gerçekten keyif aldım.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "probably",
+    "turkish": "muhtemelen",
+    "example": "He will probably arrive late.",
+    "exampleTr": "Muhtemelen geç gelecek.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "almost",
+    "turkish": "neredeyse",
+    "example": "I am almost ready.",
+    "exampleTr": "Neredeyse hazırım.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "hardly",
+    "turkish": "neredeyse hiç",
+    "example": "I hardly know him.",
+    "exampleTr": "Onu neredeyse hiç tanımıyorum.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "\"hardly\" olumsuz anlamlıdır; \"hard\" (zor, sıkı) ile karıştırma."
+  },
+  {
+    "english": "immediately",
+    "turkish": "hemen",
+    "example": "Call me immediately after the meeting.",
+    "exampleTr": "Toplantıdan hemen sonra beni ara.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "suddenly",
+    "turkish": "birdenbire",
+    "example": "Suddenly the lights went off.",
+    "exampleTr": "Birdenbire ışıklar söndü.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "luckily",
+    "turkish": "neyse ki",
+    "example": "Luckily, we found a taxi.",
+    "exampleTr": "Neyse ki bir taksi bulduk.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  },
+  {
+    "english": "finally",
+    "turkish": "sonunda",
+    "example": "Finally, we arrived at the hotel.",
+    "exampleTr": "Sonunda otele vardık.",
+    "level": "A2",
+    "tags": [
+      "function words"
+    ]
+  }
+]

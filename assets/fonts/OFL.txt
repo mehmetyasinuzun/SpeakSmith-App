@@ -1,0 +1,6 @@
+Inter (Rasmus Andersson) and Space Grotesk (Florian Karsten) are licensed
+under the SIL Open Font License 1.1 — https://openfontlicense.org
+Files here are the exact variants google_fonts fetches at runtime
+(Inter 400/500/600/700, Space Grotesk 600/700; SHA-256 matches the hashes
+pinned in google_fonts), bundled so the app never needs the network for
+typography.

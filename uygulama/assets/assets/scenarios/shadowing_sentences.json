@@ -1,0 +1,52 @@
+{
+  "beginner": [
+    "I would like a cup of coffee please.",
+    "Where is the nearest train station?",
+    "How much does this jacket cost?",
+    "Can I have the menu please?",
+    "I don't understand what you mean.",
+    "My name is Alex, nice to meet you.",
+    "What time does the store close today?",
+    "I live in a small apartment downtown.",
+    "Could you say that one more time?",
+    "I usually go to bed around eleven.",
+    "The weather is really nice this morning.",
+    "I need to buy some milk and bread.",
+    "She is reading a book on the sofa.",
+    "We are going to the cinema tonight.",
+    "He doesn't like spicy food at all."
+  ],
+  "intermediate": [
+    "I've been thinking about taking up a new hobby this year.",
+    "The presentation went better than I expected, honestly.",
+    "If I had known about the meeting, I would have prepared more.",
+    "Could you give me a hand with these boxes for a minute?",
+    "I'm not sure whether I should accept the offer or not.",
+    "She managed to finish the project before the deadline.",
+    "There's something I've been meaning to tell you for a while.",
+    "We ended up walking home because we missed the last bus.",
+    "It turns out that the restaurant was closed for renovation.",
+    "I'm looking forward to seeing my family next weekend.",
+    "He apologized for being late, but the traffic was terrible.",
+    "Despite the rain, we had a really enjoyable time outside.",
+    "I'd rather stay in tonight and watch a film with you.",
+    "She's quite passionate about protecting the environment.",
+    "Honestly, I haven't made up my mind about it yet."
+  ],
+  "advanced": [
+    "The implications of this policy could be far more significant than anticipated.",
+    "Frankly speaking, the proposal lacks the rigor we usually expect from this team.",
+    "Had the negotiations succeeded, we would not be facing these consequences now.",
+    "It's worth bearing in mind that the data is preliminary and subject to revision.",
+    "She delivered a compelling argument that effectively undermined the opposition's case.",
+    "The committee unanimously concluded that further investigation was warranted.",
+    "Notwithstanding the challenges, the team managed to exceed every benchmark.",
+    "His unwavering commitment to the cause has earned him widespread admiration.",
+    "We must reconcile the conflicting priorities before moving forward with the rollout.",
+    "The findings suggest a nuanced relationship between income and overall wellbeing.",
+    "It's imperative that we address these vulnerabilities before they're exploited.",
+    "Hardly had she finished speaking when the audience burst into applause.",
+    "The legislation seeks to strike a delicate balance between freedom and safety.",
+    "Their reluctance to commit stems from a deep-seated mistrust of institutions."
+  ]
+}

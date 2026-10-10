@@ -1,0 +1,595 @@
+[
+  {
+    "id": "daily_parcel_next_door",
+    "emoji": "🚪",
+    "titleTr": "Komşudaki kargo",
+    "titleEn": "Parcel next door",
+    "briefTr": "Kargon gelmiş ama kapıcı kutuyu yan komşuna bırakmış. Kapıyı çal, kendini tanıt ve paketini nazikçe iste.",
+    "sceneEn": "The learner knocks on a neighbour's door to collect a parcel the building caretaker left with them.",
+    "goalEn": "introduce yourself and ask the neighbour to hand over the parcel left with them",
+    "partnerRole": "next-door neighbour",
+    "userRole": "new resident in the building",
+    "level": "A2",
+    "tags": ["daily", "neighbours", "requests"],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry to bother you.",
+      "I think my parcel is here.",
+      "Could I take it now?"
+    ]
+  },
+  {
+    "id": "daily_market_price_check",
+    "emoji": "🛒",
+    "titleTr": "Kasada fiyat farkı",
+    "titleEn": "Wrong price at checkout",
+    "briefTr": "Kasada sıra sende ve peynir, raftaki etiketin iki katına okutuldu. Kasiyere durumu söyle ve fiyatı kontrol etmesini iste.",
+    "sceneEn": "The learner is at a supermarket checkout where an item has scanned at double the price on the shelf label.",
+    "goalEn": "point out the price difference and ask the cashier to check the shelf price",
+    "partnerRole": "busy supermarket cashier",
+    "userRole": "shopper at the checkout",
+    "level": "A2",
+    "tags": ["daily", "shopping", "problem-solving"],
+    "turns": 3,
+    "usefulPhrases": [
+      "Excuse me, I think there's a mistake.",
+      "The shelf said a different price.",
+      "Could you check it, please?"
+    ]
+  },
+  {
+    "id": "daily_pharmacy_cough",
+    "emoji": "💊",
+    "titleTr": "Eczanede öksürük şurubu",
+    "titleEn": "At the pharmacy",
+    "briefTr": "İki gündür kuru bir öksürüğün var ve geceleri uyuyamıyorsun. Eczacıya şikâyetini anlat, bir şey önermesini iste ve nasıl kullanacağını sor.",
+    "sceneEn": "The learner asks a pharmacist for something to help with a dry cough that is keeping them awake at night.",
+    "goalEn": "describe the symptom, ask for a recommendation and find out how to take it",
+    "partnerRole": "pharmacist behind the counter",
+    "userRole": "customer who has been coughing for two days",
+    "level": "A2",
+    "tags": ["daily", "health", "requests"],
+    "turns": 3,
+    "usefulPhrases": [
+      "I've got a bad cough.",
+      "Do you have anything for it?",
+      "How often should I take it?"
+    ]
+  },
+  {
+    "id": "daily_gym_locker_key",
+    "emoji": "🏋️",
+    "titleTr": "Kayıp dolap anahtarı",
+    "titleEn": "Lost locker key",
+    "briefTr": "Spor salonunda antrenmandan sonra dolap anahtarını bulamıyorsun; kıyafetlerin ve telefonun içeride kilitli. Resepsiyondaki görevliye durumu anlat, dolap numaranı söyle ve dolabı açmasını rica et.",
+    "sceneEn": "After a workout, the learner cannot find their gym locker key; their clothes and phone are locked inside.",
+    "goalEn": "explain the lost key, give the locker number and ask the receptionist to open the locker",
+    "partnerRole": "gym receptionist",
+    "userRole": "gym member who lost a locker key",
+    "level": "A2",
+    "tags": ["daily", "fitness", "requests"],
+    "turns": 3,
+    "usefulPhrases": [
+      "I've lost my locker key.",
+      "It's locker number 42.",
+      "My phone is inside.",
+      "Could you open it for me?"
+    ]
+  },
+  {
+    "id": "daily_atm_card_swallowed",
+    "emoji": "🏧",
+    "titleTr": "Kartı yutan ATM",
+    "titleEn": "Card stuck in the ATM",
+    "briefTr": "Bankanın önündeki ATM'den para çekerken makine kartını yuttu ve geri vermedi. Şubeye gir, gişedeki görevliye olanı anlat ve kartını ne zaman, nasıl geri alabileceğini sor.",
+    "sceneEn": "The learner walks into a bank branch because the ATM outside has just kept their card during a cash withdrawal.",
+    "goalEn": "explain what happened at the machine and find out how and when they can get the card back",
+    "partnerRole": "bank teller at the branch counter",
+    "userRole": "customer whose card was kept by the ATM",
+    "level": "A2",
+    "tags": ["daily", "banking", "problem-solving"],
+    "turns": 3,
+    "usefulPhrases": [
+      "The machine kept my card.",
+      "It happened just now, outside.",
+      "When can I get it back?",
+      "Do you need to see my ID?"
+    ]
+  },
+  {
+    "id": "daily_hardware_store_part",
+    "emoji": "🪛",
+    "titleTr": "Adını bilmediğin parça",
+    "titleEn": "The part with no name",
+    "briefTr": "Mutfak musluğun damlatıyor ve hırdavatçıda lazım olan küçük parçanın adını bilmiyorsun. Satıcıya parçayı şeklinden, boyutundan ve ne işe yaradığından tarif et; birlikte doğru olanı bulun.",
+    "sceneEn": "At a hardware store, the learner needs a small replacement part for a dripping kitchen faucet but does not know what it is called.",
+    "goalEn": "describe an object without knowing its name (shape, size, what it does) until the assistant finds the right part",
+    "partnerRole": "hardware store assistant",
+    "userRole": "customer fixing a dripping faucet",
+    "level": "A2",
+    "tags": ["daily", "shopping", "describing"],
+    "turns": 3,
+    "usefulPhrases": [
+      "I don't know what it's called.",
+      "It's a small rubber ring.",
+      "It goes inside the faucet.",
+      "It's about this big.",
+      "Is this the one?"
+    ]
+  },
+  {
+    "id": "daily_birthday_cake_order",
+    "emoji": "🎂",
+    "titleTr": "Pastanede doğum günü siparişi",
+    "titleEn": "Ordering a birthday cake",
+    "briefTr": "Cumartesi kardeşinin doğum günü ve pastaneden üzerinde adı yazan çikolatalı bir pasta istiyorsun. Boyutunu, üstündeki yazıyı ve teslim alma saatini netleştir, fiyatını da sor.",
+    "sceneEn": "The learner orders a personalized chocolate birthday cake at a bakery, to be picked up on Saturday.",
+    "goalEn": "order the cake with the right size and message, agree on a pick-up time and ask the price",
+    "partnerRole": "bakery assistant taking orders",
+    "userRole": "customer ordering a birthday cake",
+    "level": "A2",
+    "tags": ["daily", "shopping", "ordering"],
+    "turns": 3,
+    "usefulPhrases": [
+      "I'd like to order a birthday cake.",
+      "It's for about ten people.",
+      "Could you write a name on it?",
+      "Can I pick it up on Saturday morning?",
+      "How much will that be?"
+    ]
+  },
+  {
+    "id": "daily_locked_out_locksmith",
+    "emoji": "🔐",
+    "titleTr": "Kapıda kaldın",
+    "titleEn": "Locked out",
+    "briefTr": "Akşam eve döndün ve anahtarını içeride unuttuğunu fark ettin; kapı kilitli. Bir çilingiri ara, adresini ver, ne kadar sürede gelebileceğini ve ücretin ne olacağını sor.",
+    "sceneEn": "The learner is locked out of their home in the evening and phones a locksmith.",
+    "goalEn": "explain the situation, give the address and find out how soon the locksmith can come and what it will cost",
+    "partnerRole": "locksmith answering the phone",
+    "userRole": "resident locked out of their home",
+    "level": "A2",
+    "tags": ["daily", "phone", "emergencies"],
+    "turns": 3,
+    "usefulPhrases": [
+      "I'm locked out of my place.",
+      "My keys are inside.",
+      "How soon can you get here?",
+      "How much do you charge?"
+    ]
+  },
+  {
+    "id": "daily_lost_parcel",
+    "emoji": "📦",
+    "titleTr": "Yanlış adrese kargo",
+    "titleEn": "Misdelivered parcel",
+    "briefTr": "Takip ekranında kargon teslim edilmiş görünüyor ama eline hiç geçmedi; kurye başka bir sokağa bırakmış. Kuryeyi arayıp durumu anlat ve paketin bugün sana getirilmesini iste.",
+    "sceneEn": "The learner phones a delivery driver whose app says the parcel was delivered, but it was left at the wrong address.",
+    "goalEn": "explain the problem clearly and ask for the parcel to be redelivered today",
+    "partnerRole": "delivery driver on the phone",
+    "userRole": "customer whose parcel never arrived",
+    "level": "B1",
+    "tags": ["daily", "delivery", "complaints"],
+    "turns": 4,
+    "usefulPhrases": [
+      "It says delivered, but I never got it.",
+      "Could you bring it round today?",
+      "Let me give you the address again."
+    ]
+  },
+  {
+    "id": "daily_doctor_appointment",
+    "emoji": "🩺",
+    "titleTr": "Doktordan randevu",
+    "titleEn": "Booking an appointment",
+    "briefTr": "Sırt ağrın bir haftadır geçmiyor ve bu hafta içinde doktora görünmen gerekiyor. Muayenehaneyi ara, durumunu anlat; sana iki hafta sonrası önerilirse daha erken bir saat için kibarca üstele.",
+    "sceneEn": "The learner calls a doctor's surgery to book an appointment, and the receptionist first offers a slot two weeks away.",
+    "goalEn": "explain the symptom and negotiate a much earlier appointment",
+    "partnerRole": "receptionist at a doctor's surgery",
+    "userRole": "patient with a week of back pain",
+    "level": "B1",
+    "tags": ["daily", "health", "phone"],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'd like to book an appointment.",
+      "Is there anything sooner?",
+      "I can come in at short notice."
+    ]
+  },
+  {
+    "id": "daily_lost_bag_bus",
+    "emoji": "🎒",
+    "titleTr": "Otobüste unutulan çanta",
+    "titleEn": "Lost property office",
+    "briefTr": "Sabah otobüsten inerken sırt çantanı koltuğun altında unuttun; içinde pasaportun var. Kayıp eşya bürosuna git, çantayı ve bindiğin hattı tarif et, teslim edilip edilmediğini öğren.",
+    "sceneEn": "The learner reports a backpack left on a morning bus at a city lost property office.",
+    "goalEn": "describe the bag and the journey, then find out whether it has been handed in",
+    "partnerRole": "lost property office clerk",
+    "userRole": "passenger who left a backpack on the bus",
+    "level": "B1",
+    "tags": ["daily", "transport", "problem-solving"],
+    "turns": 4,
+    "usefulPhrases": [
+      "I left it on the bus this morning.",
+      "It's a black backpack with a red zip.",
+      "Has anyone handed one in?"
+    ]
+  },
+  {
+    "id": "daily_vet_treatment_cost",
+    "emoji": "🐾",
+    "titleTr": "Veterinerde tedavi kararı",
+    "titleEn": "Treatment options at the vet",
+    "briefTr": "Köpeğin parkta bir şey yuttu ve veteriner hemen ameliyat önerip yüksek bir rakam söylüyor. Karar vermeden önce neden gerekli olduğunu, başka bir seçenek olup olmadığını ve toplam maliyeti öğren.",
+    "sceneEn": "A vet recommends immediate and expensive surgery after the learner's dog swallowed something in the park.",
+    "goalEn": "understand why surgery is needed, ask about alternatives and get a clear total cost before deciding",
+    "partnerRole": "vet recommending surgery",
+    "userRole": "worried dog owner",
+    "level": "B1",
+    "tags": ["daily", "pets", "decisions"],
+    "turns": 4,
+    "usefulPhrases": [
+      "Is surgery really the only option?",
+      "What happens if we wait a day?",
+      "Could you give me a rough total?",
+      "Does that include the aftercare?"
+    ]
+  },
+  {
+    "id": "daily_car_brake_noise",
+    "emoji": "🛞",
+    "titleTr": "Frenlerden gelen ses",
+    "titleEn": "A strange noise from the brakes",
+    "briefTr": "Birkaç gündür fren yaptığında arabandan gıcırtılı bir ses geliyor ve yarın uzun yola çıkacaksın. Ustaya sesi ve ne zaman olduğunu tarif et; bugün bakıp bakamayacağını ve yaklaşık ücreti öğren.",
+    "sceneEn": "The learner brings their car to a mechanic because the brakes squeal, and they are driving a long way tomorrow.",
+    "goalEn": "describe the noise and when it happens, and find out if the car can be checked today and roughly what it will cost",
+    "partnerRole": "busy car mechanic",
+    "userRole": "driver with a long trip tomorrow",
+    "level": "B1",
+    "tags": ["daily", "car", "describing"],
+    "turns": 4,
+    "usefulPhrases": [
+      "It squeaks every time I brake.",
+      "It started a few days ago.",
+      "Could you take a look today?",
+      "Roughly how much would that be?"
+    ]
+  },
+  {
+    "id": "daily_electricity_bill_spike",
+    "emoji": "💡",
+    "titleTr": "Kabarık elektrik faturası",
+    "titleEn": "The shocking electricity bill",
+    "briefTr": "Bu ayki elektrik faturan normalin üç katı gelmiş, oysa iki haftadır tatildeydin. Müşteri hizmetlerini ara, durumu anlat ve sayacın yeniden okunmasını, faturanın da düzeltilmesini iste.",
+    "sceneEn": "The learner calls the power company because this month's bill is three times the usual amount, although they were away for two weeks.",
+    "goalEn": "explain why the bill must be wrong and ask for a new meter reading and a corrected bill",
+    "partnerRole": "power company call-center agent",
+    "userRole": "customer questioning a bill",
+    "level": "B1",
+    "tags": ["daily", "bills", "phone"],
+    "turns": 4,
+    "usefulPhrases": [
+      "My bill is three times higher than usual.",
+      "I was away for two weeks.",
+      "Could someone check the meter again?",
+      "Can the payment wait until it's sorted out?"
+    ]
+  },
+  {
+    "id": "daily_ceiling_leak",
+    "emoji": "💧",
+    "titleTr": "Tavandan su damlıyor",
+    "titleEn": "Water through the ceiling",
+    "briefTr": "Banyonun tavanından su damlıyor; üst kattaki daire boş ve sahibine ulaşamıyorsun. Apartman yöneticisini ara, durumun ne kadar acil olduğunu anlat ve daireyi açtırıp bugün bir tesisatçı çağırmasını iste.",
+    "sceneEn": "The learner calls the building manager because water is dripping through the bathroom ceiling from an empty apartment upstairs.",
+    "goalEn": "make the urgency clear and get the manager to open the apartment upstairs and send a plumber today",
+    "partnerRole": "building manager who is slow to act",
+    "userRole": "resident with a leaking bathroom ceiling",
+    "level": "B1",
+    "tags": ["daily", "housing", "urgent"],
+    "turns": 4,
+    "usefulPhrases": [
+      "Water is coming through my ceiling.",
+      "It's getting worse by the minute.",
+      "Could you get into the apartment upstairs?",
+      "We really need a plumber today."
+    ]
+  },
+  {
+    "id": "daily_shoe_return_no_receipt",
+    "emoji": "👟",
+    "titleTr": "İlk haftada sökülen ayakkabı",
+    "titleEn": "Sneakers falling apart",
+    "briefTr": "Aldığın spor ayakkabının tabanı daha ilk haftada ayrıldı; fişi kaybettin ama ödeme banka uygulamanda görünüyor. Mağazada sorunu anlat, satın aldığını kanıtla ve değişim ya da para iadesi iste.",
+    "sceneEn": "The learner returns sneakers whose sole came off in the first week; they have no receipt but can show the payment in their banking app.",
+    "goalEn": "explain the fault, offer proof of purchase from the banking app and get an exchange or a refund",
+    "partnerRole": "store clerk who insists on a receipt",
+    "userRole": "customer with faulty sneakers and no receipt",
+    "level": "B1",
+    "tags": ["daily", "shopping", "returns"],
+    "turns": 4,
+    "usefulPhrases": [
+      "The sole came off after a week.",
+      "I don't have the receipt, but…",
+      "I can show you the payment on my phone.",
+      "Could I swap them for a new pair?"
+    ]
+  },
+  {
+    "id": "daily_found_wallet",
+    "emoji": "👛",
+    "titleTr": "Bulunan cüzdan",
+    "titleEn": "Handing in a wallet",
+    "briefTr": "Parkta içinde kimlik ve para olan bir cüzdan buldun ve karakola götürdün. Görevli polise nerede, ne zaman bulduğunu anlat, iletişim bilgilerini bırak ve bundan sonra ne olacağını sor.",
+    "sceneEn": "The learner hands in a wallet containing ID and cash, found in a park, at a police station front desk.",
+    "goalEn": "explain where and when the wallet was found, leave contact details and find out what happens next",
+    "partnerRole": "police officer at the front desk",
+    "userRole": "person who found a wallet",
+    "level": "B1",
+    "tags": ["daily", "reporting", "public-services"],
+    "turns": 4,
+    "usefulPhrases": [
+      "I found this wallet in the park.",
+      "It was on a bench, about an hour ago.",
+      "I haven't taken anything out.",
+      "What happens now?"
+    ]
+  },
+  {
+    "id": "daily_noisy_neighbour",
+    "emoji": "🔊",
+    "titleTr": "Gürültücü komşu",
+    "titleEn": "The noisy neighbour",
+    "briefTr": "Üst kattaki komşun üç gecedir sabaha kadar müzik açıyor, sen ise altıda işe kalkıyorsun. Kapısını çal; kavgaya dönüştürmeden derdini anlat ve ikinizin de yaşayabileceği bir çözüm öner.",
+    "sceneEn": "The learner knocks on an upstairs neighbour's door about loud music at night; the neighbour is defensive at first.",
+    "goalEn": "raise the problem politely but firmly and agree on a workable compromise",
+    "partnerRole": "defensive upstairs neighbour",
+    "userRole": "downstairs neighbour who cannot sleep",
+    "level": "B2",
+    "tags": ["daily", "neighbours", "conflict"],
+    "turns": 5,
+    "usefulPhrases": [
+      "I don't want to make a fuss, but…",
+      "It's been three nights in a row.",
+      "Could we agree on a cut-off time?"
+    ]
+  },
+  {
+    "id": "daily_repair_overcharge",
+    "emoji": "🔧",
+    "titleTr": "Şişirilmiş tamir faturası",
+    "titleEn": "The inflated bill",
+    "briefTr": "Çamaşır makinen için konuştuğunuz ücret belliydi, ama tamirci sana iki katı bir fatura uzatıyor; üstelik sormadan fazladan parça değiştirmiş. Sakin kal, kalem kalem döküm iste ve anlaştığınız fiyatın arkasında dur.",
+    "sceneEn": "The learner challenges a repair technician whose final bill is double the agreed quote and includes unapproved extra parts.",
+    "goalEn": "question the extra charges, ask for an itemised bill and hold the technician to the agreed price",
+    "partnerRole": "repair technician defending his bill",
+    "userRole": "customer who agreed a fixed quote",
+    "level": "B2",
+    "tags": ["daily", "services", "complaints"],
+    "turns": 5,
+    "usefulPhrases": [
+      "That's not what we agreed on.",
+      "Can you break that down for me?",
+      "I never approved those parts."
+    ]
+  },
+  {
+    "id": "daily_gym_cancel_membership",
+    "emoji": "🏃",
+    "titleTr": "Üyeliği iptal ettirmek",
+    "titleEn": "Cancelling the gym membership",
+    "briefTr": "Başka şehre taşınıyorsun ve spor salonu üyeliğini iptal etmek istiyorsun, ama satış danışmanı indirim ve dondurma teklifleriyle seni vazgeçirmeye çalışıyor. Kibar ama kararlı ol; iptalin bugün yapılmasını ve yazılı onay verilmesini iste.",
+    "sceneEn": "The learner is cancelling a gym membership before moving to another city; the sales adviser keeps offering discounts and a membership freeze instead.",
+    "goalEn": "turn down every retention offer politely but firmly and leave with the cancellation confirmed in writing",
+    "partnerRole": "persistent gym sales adviser",
+    "userRole": "member moving to another city",
+    "level": "B2",
+    "tags": ["daily", "fitness", "saying-no"],
+    "turns": 5,
+    "usefulPhrases": [
+      "I appreciate the offer, but my mind's made up.",
+      "I'm moving, so a freeze won't help.",
+      "I'd like to cancel it today.",
+      "Could you send me that confirmation by email?"
+    ]
+  },
+  {
+    "id": "daily_bank_fraud_charges",
+    "emoji": "💳",
+    "titleTr": "Kartında yabancı harcamalar",
+    "titleEn": "Charges you never made",
+    "briefTr": "Sabah telefonuna yurt dışında yapılmış üç harcama bildirimi düştü, oysa kartın cüzdanında duruyor. Bankayı ara; kartı hemen kapattır, harcamalara itiraz et ve paranın ne zaman iade edileceğini netleştir.",
+    "sceneEn": "The learner calls their bank after getting alerts for three foreign card payments they never made, while the card is still in their wallet.",
+    "goalEn": "get the card blocked immediately, dispute the payments and pin down when the money will be refunded",
+    "partnerRole": "bank fraud-team agent following a script",
+    "userRole": "customer with fraudulent card payments",
+    "level": "B2",
+    "tags": ["daily", "banking", "urgent"],
+    "turns": 5,
+    "usefulPhrases": [
+      "I didn't make these payments.",
+      "The card is still in my wallet.",
+      "Please block it right away.",
+      "How long will the refund take?",
+      "Could I get a reference number?"
+    ]
+  },
+  {
+    "id": "daily_parking_spot_taken",
+    "emoji": "🅿️",
+    "titleTr": "Yerine park eden araç",
+    "titleEn": "Someone's in your parking space",
+    "briefTr": "Kirasını ödediğin park yerine bir haftadır aynı araba park ediyor ve bugün sahibini arabasının başında yakaladın. Öfkelenmeden hakkını anlat ve bir daha olmayacağına dair net bir söz al.",
+    "sceneEn": "The learner finally catches the driver who has been parking in the learner's rented space for a week; the driver shrugs it off.",
+    "goalEn": "assert your right to the space calmly and get a clear promise that it will not happen again",
+    "partnerRole": "driver who thinks it's no big deal",
+    "userRole": "resident who pays for the parking space",
+    "level": "B2",
+    "tags": ["daily", "car", "conflict"],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'm afraid that's my space.",
+      "I pay for it every month.",
+      "This is the fifth time this week.",
+      "Can I count on you not to park here again?"
+    ]
+  },
+  {
+    "id": "daily_damaged_sofa_delivery",
+    "emoji": "🛋️",
+    "titleTr": "Yırtık gelen kanepe",
+    "titleEn": "The damaged sofa",
+    "briefTr": "Yeni kanepen bir kenarı yırtık hâlde teslim edildi; firma ise hasarın sonradan olduğunu ima ediyor, oysa kutuyu açarken fotoğraf çektin. Onarımı reddet, yenisini iste ve kesin bir teslim tarihi al.",
+    "sceneEn": "The learner calls a furniture company about a sofa delivered torn; the agent implies the damage happened after delivery and offers a repair.",
+    "goalEn": "refute the claim with evidence, refuse a repair and secure a replacement with a firm delivery date",
+    "partnerRole": "furniture store customer service agent",
+    "userRole": "customer who received a torn sofa",
+    "level": "B2",
+    "tags": ["daily", "shopping", "complaints"],
+    "turns": 5,
+    "usefulPhrases": [
+      "It arrived like this.",
+      "I took photos while I was unpacking it.",
+      "A repair isn't acceptable for a brand-new sofa.",
+      "When exactly can you deliver a replacement?"
+    ]
+  },
+  {
+    "id": "daily_phone_plan_extras",
+    "emoji": "📱",
+    "titleTr": "Faturaya gizlenen paketler",
+    "titleEn": "Hidden extras on the phone bill",
+    "briefTr": "Mağazada sana sabit fiyatlı bir hat satıldı, ama ilk faturada hiç istemediğin iki ek paket var. Operatörü ara, satışta söylenenleri hatırlat; paketlerin kaldırılmasını ve fazladan ödediğin tutarın iadesini iste.",
+    "sceneEn": "The learner calls their mobile provider because the first bill includes two add-ons they never asked for, despite being sold a fixed-price plan in the store.",
+    "goalEn": "explain what was promised in the store, get the add-ons removed and the overcharge refunded",
+    "partnerRole": "mobile provider agent who defends the contract",
+    "userRole": "new customer with an unexpected bill",
+    "level": "B2",
+    "tags": ["daily", "bills", "complaints"],
+    "turns": 4,
+    "usefulPhrases": [
+      "I was told it was a fixed price.",
+      "I never agreed to these add-ons.",
+      "Could you take them off my plan?",
+      "I'd like a refund for the difference."
+    ]
+  },
+  {
+    "id": "daily_rent_increase_talk",
+    "emoji": "🏘️",
+    "titleTr": "Kira artışı pazarlığı",
+    "titleEn": "Negotiating the rent increase",
+    "briefTr": "Ev sahibin gelecek aydan itibaren kiraya yüzde altmış zam yapacağını söyledi; sen iki yıldır kirayı hiç geciktirmedin ve evdeki küçük arızaları kendin giderdin. Güvenilir bir kiracı olduğunu öne çıkararak daha makul bir artışta anlaşmaya çalış.",
+    "sceneEn": "The learner's landlord announces a 60% rent increase from next month; the learner has paid on time for two years and fixed small problems themselves.",
+    "goalEn": "use your record as a reliable tenant to negotiate a smaller, fairer increase",
+    "partnerRole": "landlord who says prices have gone up everywhere",
+    "userRole": "reliable tenant of two years",
+    "level": "B2",
+    "tags": ["daily", "housing", "negotiation"],
+    "turns": 5,
+    "usefulPhrases": [
+      "I've always paid on time.",
+      "Sixty percent is a big jump.",
+      "Would you consider meeting me halfway?",
+      "Finding a new tenant would cost you too."
+    ]
+  },
+  {
+    "id": "daily_deposit_dispute",
+    "emoji": "🏠",
+    "titleTr": "Depozito pazarlığı",
+    "titleEn": "Deposit dispute",
+    "briefTr": "Evden çıkıyorsun ve ev sahibin, sen taşınmadan önce de orada olan parke çizikleri yüzünden depozitonun yarısını kesiyor. Taşındığın gün çektiğin fotoğrafları hatırlat, kesintinin gerekçesini çürüt ve makul bir rakamda anlaşmaya çalış.",
+    "sceneEn": "The learner argues with a landlord who is withholding half the deposit for floor damage that predates the tenancy.",
+    "goalEn": "dispute the deduction with evidence and negotiate a fair settlement without losing your temper",
+    "partnerRole": "landlord withholding the deposit",
+    "userRole": "tenant moving out after two years",
+    "level": "C1",
+    "tags": ["daily", "housing", "negotiation"],
+    "turns": 6,
+    "usefulPhrases": [
+      "That damage was there when I moved in.",
+      "I've got photos from day one.",
+      "Let's find a figure we can both live with."
+    ]
+  },
+  {
+    "id": "daily_salon_colour_fix",
+    "emoji": "💇",
+    "titleTr": "Kuaförde renk kazası",
+    "titleEn": "Colour gone wrong",
+    "briefTr": "Sandalyeden kalktın ve aynadaki renk, gösterdiğin fotoğraftan fersah fersah uzak; yarın da bir düğüne gidiyorsun. Hayal kırıklığını dürüstçe söyle, ama kuaförü kırmadan hem düzeltme hem de faturada indirim iste.",
+    "sceneEn": "The learner tells a proud hairdresser that the colour is nothing like the photo, the day before a wedding.",
+    "goalEn": "give honest critical feedback, keep the relationship warm and ask for a correction plus a partial refund",
+    "partnerRole": "proud hairdresser who thinks it looks great",
+    "userRole": "client with a wedding tomorrow",
+    "level": "C1",
+    "tags": ["daily", "services", "feedback"],
+    "turns": 6,
+    "usefulPhrases": [
+      "It's not quite what I had in mind.",
+      "I don't want to be difficult, but…",
+      "Is there any chance you could fix it before tomorrow?"
+    ]
+  },
+  {
+    "id": "daily_car_accident_blame",
+    "emoji": "💥",
+    "titleTr": "Suçu sana atan sürücü",
+    "titleEn": "Who hit whom?",
+    "briefTr": "Otoparkta geri geri çıkarken hızla gelen bir araç arkana çarptı ve sürücü hemen suçu sana atıyor. Sakinliğini koru, olayı adım adım netleştir ve sigorta bilgilerinizi karşılıklı yazıya dökmekte ısrar et.",
+    "sceneEn": "In a parking lot, a speeding car hits the learner's car as it backs out of a space; the other driver immediately blames the learner.",
+    "goalEn": "stay calm under accusation, reconstruct what happened clearly and insist on exchanging insurance details in writing without admitting fault",
+    "partnerRole": "angry driver blaming the learner",
+    "userRole": "driver backing out of a parking space",
+    "level": "C1",
+    "tags": ["daily", "car", "conflict"],
+    "turns": 5,
+    "usefulPhrases": [
+      "Let's both calm down for a second.",
+      "You were going far too fast for a parking lot.",
+      "I'm not admitting fault here.",
+      "Let's swap insurance details and write it all down."
+    ]
+  },
+  {
+    "id": "daily_building_meeting_elevator",
+    "emoji": "🏢",
+    "titleTr": "Apartman toplantısında asansör",
+    "titleEn": "The elevator vote",
+    "briefTr": "Apartman toplantısında asansör yenileme masrafının tüm dairelere eşit bölünmesi oylanacak; sen zemin kattasın ve asansörü hiç kullanmıyorsun. Komşularını kırmadan itirazını gerekçelendir ve kata göre adil bir paylaşım önerisine destek topla.",
+    "sceneEn": "At a residents' meeting, the building manager proposes splitting the cost of an expensive elevator replacement equally between all apartments; the learner lives on the ground floor and never uses it.",
+    "goalEn": "object without alienating the neighbours, justify your position and win support for a fairer, floor-based cost split",
+    "partnerRole": "building manager chairing the meeting, siding with the upper floors",
+    "userRole": "ground-floor resident",
+    "level": "C1",
+    "tags": ["daily", "housing", "persuasion"],
+    "turns": 6,
+    "usefulPhrases": [
+      "I'd like to raise a concern before we vote.",
+      "I'm not saying I shouldn't pay anything.",
+      "What if we split it by floor?",
+      "I think that would be fairer for everyone."
+    ]
+  },
+  {
+    "id": "daily_insurance_claim_denied",
+    "emoji": "🌊",
+    "titleTr": "Reddedilen sigorta talebi",
+    "titleEn": "The rejected claim",
+    "briefTr": "Patlayan boru evini su bastırdı, sigorta şirketi de talebini bakım eksikliği gerekçesiyle reddetti; oysa tesisat geçen yıl yenilendi ve faturası elinde. Dosya sorumlusuyla telefonda konuş; poliçedeki teminatı ve belgelerini öne sürerek kararın yeniden incelenmesini sağla.",
+    "sceneEn": "After a burst pipe flooded their home, the learner challenges an insurer who rejected the claim as 'lack of maintenance', although the plumbing was replaced last year.",
+    "goalEn": "challenge the rejection with the policy wording and documents, and get the claim formally reviewed or escalated",
+    "partnerRole": "insurance claims handler standing by the decision",
+    "userRole": "homeowner with a rejected water-damage claim",
+    "level": "C1",
+    "tags": ["daily", "insurance", "negotiation"],
+    "turns": 6,
+    "usefulPhrases": [
+      "I'd like to understand the reasoning behind this.",
+      "The pipes were replaced last year; I have the invoice.",
+      "My policy covers sudden water damage.",
+      "I'd like this escalated for a formal review."
+    ]
+  }
+]

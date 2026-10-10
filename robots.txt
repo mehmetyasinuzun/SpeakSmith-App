@@ -1,0 +1,9 @@
+# SpeakSmith tanıtım sitesi. /uygulama/ web uygulamasıdır (dizinlenecek içerik yok).
+# Not: GitHub Pages proje sitesinde arama motorları robots.txt'yi alan adının kökünde arar;
+# bu dosya siteyle birlikte taşınır ve özel alan adına geçilirse doğrudan geçerli olur.
+User-agent: *
+Allow: /
+Disallow: /SpeakSmith-App/uygulama/
+Disallow: /uygulama/
+
+Sitemap: https://mehmetyasinuzun.github.io/SpeakSmith-App/sitemap.xml

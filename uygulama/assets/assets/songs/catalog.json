@@ -1,0 +1,209 @@
+[
+  {
+    "youtubeId": "RB-RcX5DS5A",
+    "title": "The Scientist",
+    "artist": "Coldplay",
+    "cefr": "A1",
+    "focus": "pastSimple",
+    "wpm": 66,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "oofSnsGkops",
+    "title": "You're Beautiful",
+    "artist": "James Blunt",
+    "cefr": "A1",
+    "focus": "pastSimple",
+    "wpm": 81,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "QtXby3twMmI",
+    "title": "Adventure Of A Lifetime",
+    "artist": "Coldplay",
+    "cefr": "A1",
+    "focus": "conditional",
+    "wpm": 83,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "G7KNmW9a75Y",
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "cefr": "A1",
+    "focus": "can",
+    "wpm": 103,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "lp-EO5I60KA",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "cefr": "A1",
+    "focus": "future",
+    "wpm": 107,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "ZbZSe6N_BXs",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "cefr": "A1",
+    "focus": "imperative",
+    "wpm": 129,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "hT_nvWreIhg",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "cefr": "A1",
+    "focus": "presentPerfect",
+    "wpm": 132,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "k4V3Mo61fJM",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "cefr": "A2",
+    "focus": "future",
+    "wpm": 57,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "yKNxeF4KMsY",
+    "title": "Yellow",
+    "artist": "Coldplay",
+    "cefr": "A2",
+    "focus": "pastSimple",
+    "wpm": 76,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "GemKqzILV4w",
+    "title": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "cefr": "A2",
+    "focus": "conditional",
+    "wpm": 79,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "YVVTZgwYwVo",
+    "title": "Let It Go",
+    "artist": "Idina Menzel",
+    "cefr": "A2",
+    "focus": "imperative",
+    "wpm": 88,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "YQHsXMglC9A",
+    "title": "Hello",
+    "artist": "Adele",
+    "cefr": "A2",
+    "focus": "presentPerfect",
+    "wpm": 93,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "hLQl3WQQoQ0",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "cefr": "A2",
+    "focus": "pastSimple",
+    "wpm": 94,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "c6rP-YP4c5I",
+    "title": "Try Everything",
+    "artist": "Shakira",
+    "cefr": "A2",
+    "focus": "future",
+    "wpm": 106,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "QUQsqBqxoR4",
+    "title": "Brave",
+    "artist": "Sara Bareilles",
+    "cefr": "A2",
+    "focus": "gonna",
+    "wpm": 114,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "dQw4w9WgXcQ",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "cefr": "A2",
+    "focus": "gonna",
+    "wpm": 127,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "U3ASj1L6_sY",
+    "title": "Easy On Me",
+    "artist": "Adele",
+    "cefr": "B1",
+    "focus": "pastSimple",
+    "wpm": 97,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "ktvTqknDobU",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "cefr": "B2",
+    "focus": "presentContinuous",
+    "wpm": 93,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "lDK9QqIzhwk",
+    "title": "Livin' On A Prayer",
+    "artist": "Bon Jovi",
+    "cefr": "C1",
+    "focus": "future",
+    "wpm": 103,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "L3wKzyIN1yk",
+    "title": "Human",
+    "artist": "Rag'n'Bone Man",
+    "cefr": "C1",
+    "focus": "imperative",
+    "wpm": 106,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "mWRsgZuwf_8",
+    "title": "Demons",
+    "artist": "Imagine Dragons",
+    "cefr": "C1",
+    "focus": "imperative",
+    "wpm": 108,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "dvgZkm1xWPE",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "cefr": "C1",
+    "focus": "pastSimple",
+    "wpm": 112,
+    "manualEnCaptions": true
+  },
+  {
+    "youtubeId": "kXYiU_JCYtU",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "cefr": "C1",
+    "focus": "can",
+    "wpm": 127,
+    "manualEnCaptions": true
+  }
+]

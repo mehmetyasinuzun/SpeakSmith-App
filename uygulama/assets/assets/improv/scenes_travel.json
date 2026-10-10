@@ -1,0 +1,707 @@
+[
+  {
+    "id": "travel_asking_directions",
+    "emoji": "🗺️",
+    "titleTr": "Yol tarifi sorma",
+    "titleEn": "Asking for directions",
+    "briefTr": "Yabancı bir şehirdesin, telefonunun şarjı bitti ve tren garına nasıl gideceğini bilmiyorsun. Durakta bekleyen birine yaklaşıp yolu soracaksın.",
+    "sceneEn": "The learner is lost in an unfamiliar city with a dead phone and stops a local at a bus stop to find the train station.",
+    "goalEn": "get the stranger's attention politely and ask how to get to the train station",
+    "partnerRole": "a local waiting at a bus stop",
+    "userRole": "a lost tourist",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "directions",
+      "city"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Excuse me, could you help me?",
+      "How do I get to the train station?",
+      "Is it far from here?"
+    ]
+  },
+  {
+    "id": "travel_hotel_keycard",
+    "emoji": "🔑",
+    "titleTr": "Kapı açılmıyor",
+    "titleEn": "Key card won't work",
+    "briefTr": "Otele döndün ama oda kartın kapıyı açmıyor; iki kez denedin, ışık hep kırmızı yanıyor. Resepsiyona inip durumu anlatacak, yeni bir kart çıkartmalarını isteyeceksin.",
+    "sceneEn": "The learner's hotel key card stops working and they go down to the front desk to get it fixed.",
+    "goalEn": "say which room you are in, explain that the card does not open the door, and ask for a new one",
+    "partnerRole": "a hotel receptionist",
+    "userRole": "a hotel guest",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel",
+      "problem"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "My key card isn't working.",
+      "I'm in room 312.",
+      "Could you try it again, please?"
+    ]
+  },
+  {
+    "id": "travel_restaurant_wrong_dish",
+    "emoji": "🍽️",
+    "titleTr": "Yanlış yemek geldi",
+    "titleEn": "Wrong dish arrived",
+    "briefTr": "Tavuklu makarna söylemiştin ama önüne deniz ürünlü bir tabak geldi; deniz ürünü yiyemiyorsun. Garsonu çağırıp durumu kibarca anlatacaksın.",
+    "sceneEn": "A waiter brings the learner the wrong dish at a restaurant abroad and the learner has to send it back politely.",
+    "goalEn": "say that this is not what you ordered and ask for the dish you actually ordered",
+    "partnerRole": "a busy waiter",
+    "userRole": "a diner",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "restaurant",
+      "food"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry, I think this isn't mine.",
+      "I ordered the chicken pasta.",
+      "Could you check my order?"
+    ]
+  },
+  {
+    "id": "travel_missed_connection",
+    "emoji": "✈️",
+    "titleTr": "Aktarmayı kaçırdın",
+    "titleEn": "Missed connection",
+    "briefTr": "İlk uçağın rötar yaptı ve Münih'teki aktarma uçağını kaçırdın; akşamki bir düğüne yetişmen gerekiyor. Transfer bankosundaki görevliye durumu anlatıp seni bu akşam kalkan bir uçağa almasını isteyeceksin.",
+    "sceneEn": "The learner missed a connecting flight because the first leg was delayed and asks the transfer desk agent to rebook them on something tonight.",
+    "goalEn": "explain why you missed the connection and ask to be rebooked on a flight this evening",
+    "partnerRole": "an airline transfer desk agent",
+    "userRole": "a stranded passenger",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "airport",
+      "problem"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "My first flight was delayed.",
+      "Is there anything later tonight?",
+      "I really need to be there by tomorrow."
+    ]
+  },
+  {
+    "id": "travel_lost_luggage",
+    "emoji": "🧳",
+    "titleTr": "Bavul gelmedi",
+    "titleEn": "Missing suitcase",
+    "briefTr": "Bant boşaldı ama senin bavulun çıkmadı; içinde yarın giymen gereken kıyafetler var. Kayıp bagaj bankosuna gidip bavulunu ayrıntılı tarif edecek, otele yollamalarını isteyeceksin.",
+    "sceneEn": "The learner's suitcase never arrives on the belt and they report it at the lost baggage desk.",
+    "goalEn": "report that the suitcase did not arrive, describe it clearly, and arrange delivery to your hotel",
+    "partnerRole": "a lost baggage clerk",
+    "userRole": "an arriving passenger",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "airport",
+      "problem"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "My suitcase didn't come out.",
+      "It's a large black one with four wheels.",
+      "Can you send it to my hotel?"
+    ]
+  },
+  {
+    "id": "travel_taxi_long_route",
+    "emoji": "🚕",
+    "titleTr": "Taksi uzun yoldan",
+    "titleEn": "Taxi taking detours",
+    "briefTr": "Haritada on dakikalık bir yol, ama taksici yirmi dakikadır ara sokaklarda dolaşıyor ve taksimetre hızla artıyor. Kibar ama net bir şekilde neden bu yoldan gittiğini sorup ana caddeye dönmesini isteyeceksin.",
+    "sceneEn": "The learner notices the taxi driver is taking a much longer route than the map shows and raises it with him while the meter runs.",
+    "goalEn": "question the route politely but firmly and ask the driver to take the direct road",
+    "partnerRole": "a defensive taxi driver",
+    "userRole": "a passenger watching the map",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "transport",
+      "complaint"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "My map shows a shorter way.",
+      "Why are we going this way?",
+      "Could you take the main road, please?"
+    ]
+  },
+  {
+    "id": "travel_customs_questioning",
+    "emoji": "🛃",
+    "titleTr": "Gümrükte sorgu",
+    "titleEn": "Stopped at customs",
+    "briefTr": "Gümrük memuru çantandaki kutusu açılmamış iki telefonu görünce seni kenara aldı; ikisi de ailene hediye, satmak için değil. Sakin kalıp neden yanında olduklarını açıklayacak ve gerekirse faturayı göstereceksin.",
+    "sceneEn": "A customs officer pulls the learner aside over two boxed phones in their bag and suspects they are being brought in for resale.",
+    "goalEn": "stay calm, explain that the phones are gifts for family, and offer the receipt as proof",
+    "partnerRole": "a suspicious customs officer",
+    "userRole": "an arriving traveler",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "customs",
+      "pressure"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "They're gifts for my family.",
+      "I have the receipt right here.",
+      "I'm not bringing them in to sell."
+    ]
+  },
+  {
+    "id": "travel_hotel_overbooked",
+    "emoji": "🏨",
+    "titleTr": "Otel doldu",
+    "titleEn": "Hotel overbooked",
+    "briefTr": "Gece yarısı otele vardın; rezervasyonun onaylı ama 'oda kalmadı' deyip seni şehir dışındaki başka bir otele göndermek istiyorlar. İlk teklifi öylece kabul etmeyeceksin: ya denk bir oda ayarlamalarını, ya da hiç değilse ulaşımı ve zahmeti karşılamalarını isteyeceksin.",
+    "sceneEn": "The learner arrives at midnight with a confirmed booking and the overbooked hotel tries to move them to a worse hotel outside the city.",
+    "goalEn": "refuse the first offer politely and push for a comparable room or paid transport plus compensation",
+    "partnerRole": "an apologetic but unhelpful night manager",
+    "userRole": "a guest with a confirmed booking",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "hotel",
+      "complaint"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "My booking was confirmed weeks ago.",
+      "That doesn't really work for me.",
+      "Who's covering the taxi?"
+    ]
+  },
+  {
+    "id": "travel_rail_strike_reroute",
+    "emoji": "🚆",
+    "titleTr": "Tren grevi",
+    "titleEn": "Rail strike stranded",
+    "briefTr": "Ani bir grev yüzünden akşam trenin iptal oldu ve yarın sabahki toplantıya yetişmen şart; gişedeki görevli 'elimden bir şey gelmez' deyip duruyor. Somut bir alternatif güzergâh önerip ek masrafı tren şirketinin karşılaması gerektiğini makul gerekçelerle savunacaksın.",
+    "sceneEn": "A sudden strike cancels the learner's evening train while the station manager insists nothing can be done, and the learner must reach a morning meeting in another city.",
+    "goalEn": "propose a concrete alternative route and argue reasonably that the company should cover the extra cost",
+    "partnerRole": "a dismissive station manager",
+    "userRole": "a stranded business traveler",
+    "level": "C1",
+    "tags": [
+      "travel",
+      "transport",
+      "negotiation"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I know this isn't your fault, but…",
+      "Is there any way you could…",
+      "What would you suggest in my position?"
+    ]
+  },
+  {
+    "id": "travel_rental_damage_charge",
+    "emoji": "🚗",
+    "titleTr": "Haksız hasar ücreti",
+    "titleEn": "Disputed damage charge",
+    "briefTr": "Kiralık arabayı teslim ettin, iki gün sonra tamponundaki bir çizik için kartından üç yüz euro çekilmiş; o çiziğin aracı alırken de orada olduğuna eminsin. Firmayı arayıp sesini yükseltmeden itiraz edecek, teslim öncesi fotoğrafları isteyip paranın iadesini talep edeceksin.",
+    "sceneEn": "Two days after returning a rental car, the learner is charged for bumper damage they are certain was already there, and calls the company to dispute it.",
+    "goalEn": "dispute the charge without losing your temper, ask for the pre-rental photos, and request a refund",
+    "partnerRole": "a rental company claims agent",
+    "userRole": "a customer disputing a charge",
+    "level": "C1",
+    "tags": [
+      "travel",
+      "car",
+      "complaint"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "That scratch was there when I picked it up.",
+      "Could you send me the check-out photos?",
+      "I'd like that charge reversed."
+    ]
+  },
+  {
+    "id": "travel_ticket_machine",
+    "emoji": "🎫",
+    "titleTr": "Bilet makinesi kartı almıyor",
+    "titleEn": "Ticket machine trouble",
+    "briefTr": "Metro istasyonundasın; bilet makinesi kartını iki kez reddetti ve yanında hiç nakit yok. Gişedeki görevliye durumu anlatıp havalimanına giden bir bileti başka nasıl alabileceğini soracaksın.",
+    "sceneEn": "The learner is at a metro station abroad; the ticket machine keeps rejecting their card and they have no cash, so they go to the ticket window.",
+    "goalEn": "explain that the machine does not accept your card and ask how you can buy a ticket to the airport",
+    "partnerRole": "a metro ticket window attendant",
+    "userRole": "a traveler heading to the airport",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "transport",
+      "tickets"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "The machine won't take my card.",
+      "I don't have any cash.",
+      "I need a ticket to the airport.",
+      "Can I pay by card here?"
+    ]
+  },
+  {
+    "id": "travel_pharmacy_symptoms",
+    "emoji": "🌡️",
+    "titleTr": "Eczanede derdini anlat",
+    "titleEn": "At the pharmacy",
+    "briefTr": "Tatilin ikinci sabahı boğazın yanarak ve hafif ateşle uyandın. Otelin yanındaki eczaneye girip eczacıya belirtilerini anlatacak ve ne alman gerektiğini soracaksın.",
+    "sceneEn": "On the second morning of a holiday the learner wakes up with a sore throat and a slight fever and walks into a local pharmacy.",
+    "goalEn": "describe your symptoms and when they started, and ask what you should take",
+    "partnerRole": "a friendly pharmacist",
+    "userRole": "a tourist feeling unwell",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "health"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "I have a sore throat.",
+      "I think I have a fever.",
+      "It started this morning.",
+      "What do you recommend?"
+    ]
+  },
+  {
+    "id": "travel_early_checkin",
+    "emoji": "🛎️",
+    "titleTr": "Otele erken geldin",
+    "titleEn": "Arrived too early",
+    "briefTr": "Gece uçuşundan sonra sabah sekizde otele vardın ama giriş saati öğleden sonra üçte. Resepsiyona erken giriş mümkün mü diye soracak, olmazsa bavullarını bırakıp şehre çıkabilir misin diye öğreneceksin.",
+    "sceneEn": "After an overnight flight the learner reaches the hotel at 8 a.m., long before the 3 p.m. check-in time.",
+    "goalEn": "ask whether an early check-in is possible and, if not, whether you can leave your bags and come back later",
+    "partnerRole": "a hotel receptionist",
+    "userRole": "a tired guest arriving early",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "hotel"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "I know I'm very early.",
+      "Is early check-in possible?",
+      "Can I leave my bags here?",
+      "What time will the room be ready?"
+    ]
+  },
+  {
+    "id": "travel_plane_seat_swap",
+    "emoji": "💺",
+    "titleTr": "Yer değiştirme ricası",
+    "titleEn": "Swapping seats",
+    "briefTr": "Uçağa bindin ama yaşlı annenle ayrı sıralara düşmüşsünüz ve o yalnız oturmaktan tedirgin. Annenin yanındaki yolcudan kibarca yer değiştirmesini rica edeceksin; senin koltuğun birkaç sıra geride, koridor tarafında.",
+    "sceneEn": "On a plane the learner has been seated apart from their elderly mother, who is nervous flying alone, and asks the passenger next to her to swap seats.",
+    "goalEn": "explain the situation politely, ask the passenger to swap seats, and say where your seat is",
+    "partnerRole": "a passenger sitting next to the learner's mother",
+    "userRole": "a passenger traveling with their elderly mother",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "flight"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry to bother you.",
+      "Would you mind swapping seats?",
+      "My seat is 14C, on the aisle.",
+      "She's my mother and she's a bit nervous."
+    ]
+  },
+  {
+    "id": "travel_wrong_change",
+    "emoji": "💶",
+    "titleTr": "Para üstü eksik",
+    "titleEn": "Short-changed",
+    "briefTr": "Hediyelik eşya dükkanında dokuz euroluk bir kupa aldın, yirmi euro verdin ama kasiyer sana yalnızca bir euro geri verdi. Hangi banknotu verdiğini kibarca hatırlatıp eksik parayı isteyeceksin.",
+    "sceneEn": "In a souvenir shop the learner pays for a 9-euro mug with a 20-euro note but gets only 1 euro back.",
+    "goalEn": "politely point out that you paid with a twenty and ask for the correct change",
+    "partnerRole": "a distracted cashier",
+    "userRole": "a customer in a souvenir shop",
+    "level": "A2",
+    "tags": [
+      "travel",
+      "shopping",
+      "money"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Excuse me, I think there's a mistake.",
+      "I gave you a twenty.",
+      "I should get eleven euros back."
+    ]
+  },
+  {
+    "id": "travel_bag_left_on_bus",
+    "emoji": "🚌",
+    "titleTr": "Çanta otobüste kaldı",
+    "titleEn": "Bag left on the bus",
+    "briefTr": "Şehir gezisinden dönerken sırt çantanı 42 numaralı otobüste unuttun; içinde dizüstü bilgisayarın var. Otobüs şirketinin kayıp eşya hattını arayıp hattı, saati ve çantanın görünüşünü tarif edecek, onu nasıl geri alabileceğini öğreneceksin.",
+    "sceneEn": "The learner left a backpack with a laptop inside on a city bus (line 42) and phones the bus company's lost property line.",
+    "goalEn": "give the bus line, the time and a clear description of the bag, and find out how to get it back",
+    "partnerRole": "a lost property officer at the bus company",
+    "userRole": "a traveler who left a bag on a bus",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "transport",
+      "lost"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I left my backpack on the number 42.",
+      "It was around half past five.",
+      "It's dark blue with a laptop inside.",
+      "Where can I pick it up?"
+    ]
+  },
+  {
+    "id": "travel_host_no_show",
+    "emoji": "🔒",
+    "titleTr": "Ev sahibi ortada yok",
+    "titleEn": "Host didn't show up",
+    "briefTr": "Kiraladığın dairenin kapısındasın; ev sahibi anahtarı saat altıda teslim edecekti ama bir saattir gelmedi ve telefonu kapalı. Rezervasyon sitesinin destek hattını arayıp neler denediğini anlatacak ve bu gece için somut bir çözüm isteyeceksin.",
+    "sceneEn": "The learner is waiting outside a short-term rental apartment; the host was supposed to hand over the keys an hour ago and cannot be reached, so the learner calls the booking platform's support line.",
+    "goalEn": "explain what has happened and what you have already tried, and ask for a concrete solution for tonight",
+    "partnerRole": "a booking platform support agent",
+    "userRole": "a guest locked out of their rental",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "accommodation",
+      "problem"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "The host was supposed to meet me at six.",
+      "I've called him three times.",
+      "I have nowhere to stay tonight.",
+      "What can you do for me right now?"
+    ]
+  },
+  {
+    "id": "travel_separated_from_tour",
+    "emoji": "📍",
+    "titleTr": "Tur grubunu kaybettin",
+    "titleEn": "Lost your tour group",
+    "briefTr": "Eski şehirde fotoğraf çekerken tur grubundan ayrı düştün ve otobüs yarım saat sonra kalkıyor. Rehberi arayıp çevrende gördüklerini tarif edecek ve buluşacağınız yeri ve saati netleştireceksin.",
+    "sceneEn": "While taking photos in an old town the learner lost their tour group; the coach leaves in thirty minutes, so they call the guide.",
+    "goalEn": "describe where you are using the landmarks around you and agree on a clear meeting point and time",
+    "partnerRole": "a slightly stressed tour guide",
+    "userRole": "a tourist separated from the group",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "tour",
+      "directions"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I got separated from the group.",
+      "I'm standing next to a big fountain.",
+      "Where exactly should I meet you?",
+      "I can be there in ten minutes."
+    ]
+  },
+  {
+    "id": "travel_rental_upsell",
+    "emoji": "🚙",
+    "titleTr": "Kiralama bankosunda ısrar",
+    "titleEn": "Rental desk upsell",
+    "briefTr": "Havalimanındaki araç kiralama bankosunda görevli sana pahalı bir ek sigorta ve daha büyük bir araç satmaya çalışıyor; kredi kartının sigortası zaten bunu karşılıyor. Kibar ama kararlı biçimde reddedip rezervasyonundaki araçla ayrılacaksın.",
+    "sceneEn": "At an airport car rental desk the agent keeps pushing expensive extra insurance and a bigger car, but the learner's credit card already covers insurance.",
+    "goalEn": "turn down the extra insurance and the upgrade politely but firmly and leave with the car you booked",
+    "partnerRole": "a pushy rental desk agent",
+    "userRole": "a customer picking up a rental car",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "car",
+      "refusing"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "No, thank you, I'm already covered.",
+      "I'll stick with the car I booked.",
+      "Could you show me the total price?",
+      "I'd rather not, thanks."
+    ]
+  },
+  {
+    "id": "travel_food_poisoning_clinic",
+    "emoji": "🤢",
+    "titleTr": "Klinikte muayene",
+    "titleEn": "Sick before the flight",
+    "briefTr": "Dün akşam sokakta yediğin midyeden sonra bütün gece kustun ve yarın dönüş uçuşun var. Klinikteki doktora ne yediğini, belirtilerin ne zaman başladığını anlatacak ve uçağa binip binemeyeceğini soracaksın.",
+    "sceneEn": "After eating street mussels the learner was sick all night and sees a doctor at a local clinic the day before their flight home.",
+    "goalEn": "explain what you ate, when the symptoms started and how you feel now, and ask whether it is safe to fly tomorrow",
+    "partnerRole": "a calm clinic doctor",
+    "userRole": "a sick tourist",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "health"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I think it was something I ate.",
+      "It started around midnight.",
+      "I've been sick all night.",
+      "Is it safe for me to fly tomorrow?"
+    ]
+  },
+  {
+    "id": "travel_exchange_hidden_fee",
+    "emoji": "💱",
+    "titleTr": "Döviz bürosunda kesinti",
+    "titleEn": "Hidden exchange fee",
+    "briefTr": "Döviz bürosunun tabelasındaki kura göre iki yüz euro karşılığında eline çok daha fazla para geçmesi gerekiyordu, ama gişedeki görevli epey az saydı. Farkın nereden çıktığını soracak, kesintilerin dökümünü isteyecek ve gerekirse işlemi iptal ettireceksin.",
+    "sceneEn": "At a currency exchange booth the learner receives much less than the advertised rate suggests for 200 euros.",
+    "goalEn": "ask why the amount is lower than the posted rate, ask for a breakdown of the fees, and cancel the exchange if it is unfair",
+    "partnerRole": "an evasive exchange booth clerk",
+    "userRole": "a traveler changing money",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "money",
+      "scam"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "This isn't what the board says.",
+      "Could you break that down for me?",
+      "Is there a commission?",
+      "In that case, I'd like to cancel."
+    ]
+  },
+  {
+    "id": "travel_unvalidated_ticket_fine",
+    "emoji": "🎟️",
+    "titleTr": "Damgasız bilet cezası",
+    "titleEn": "Unvalidated ticket fine",
+    "briefTr": "Bölgesel trende kontrolör, biletini satın aldığın hâlde peronda damgalamadığın için sana elli euro ceza yazmak istiyor. Bu kuralı bilmediğini ve bileti gerçekten aldığını açıklayıp onu yalnızca uyarıyla yetinmeye ikna etmeye çalışacaksın.",
+    "sceneEn": "On a regional train an inspector wants to fine the learner 50 euros because their valid ticket was not stamped in the machine on the platform.",
+    "goalEn": "explain that you bought the ticket and did not know about the stamping rule, and persuade the inspector to let you off with a warning",
+    "partnerRole": "a strict train inspector",
+    "userRole": "a tourist with an unstamped ticket",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "transport",
+      "pressure"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I did buy a ticket, here it is.",
+      "Nobody told me it had to be stamped.",
+      "It was an honest mistake.",
+      "Could you let me off with a warning this time?"
+    ]
+  },
+  {
+    "id": "travel_street_bracelet_scam",
+    "emoji": "✋",
+    "titleTr": "Zorla takılan bileklik",
+    "titleEn": "Street bracelet scam",
+    "briefTr": "Kalabalık bir meydanda bir adam izin almadan bileğine renkli bir ip bağladı ve şimdi yirmi euro istiyor; iki arkadaşı da yanınıza geldi. Ortamı germeden ama taviz vermeden ödemeyi reddedecek ve oradan uzaklaşacaksın.",
+    "sceneEn": "In a busy square a man ties a string bracelet on the learner's wrist without asking and demands 20 euros while two friends of his gather round.",
+    "goalEn": "refuse to pay firmly without escalating, give the bracelet back, and walk away",
+    "partnerRole": "a persistent street hustler",
+    "userRole": "a tourist being pressured for money",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "scam",
+      "refusing"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I didn't ask for this.",
+      "You can have it back.",
+      "I'm not paying for it.",
+      "I'm leaving now."
+    ]
+  },
+  {
+    "id": "travel_pickpocket_report",
+    "emoji": "👮",
+    "titleTr": "Karakolda tutanak",
+    "titleEn": "Reporting a pickpocket",
+    "briefTr": "Metroda cüzdanın çalındı; kartlarını iptal ettin ama seyahat sigortan masrafları ödemek için resmî bir polis tutanağı istiyor. Karakoldaki memur işi savsaklıyor; olayı saat ve yer vererek anlatacak, çalınanları sıralayacak ve tutanağın bir kopyasını almadan çıkmayacaksın.",
+    "sceneEn": "The learner's wallet was stolen on the metro; their travel insurance requires an official police report, but the desk officer is reluctant to file one.",
+    "goalEn": "describe when and where the theft happened, list what was taken, and insist on getting a copy of the official report",
+    "partnerRole": "an indifferent police desk officer",
+    "userRole": "a pickpocketing victim",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "police",
+      "pressure"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "My wallet was stolen on the metro.",
+      "It happened around two o'clock on line 3.",
+      "My insurance needs an official report.",
+      "Could I get a copy for my records?"
+    ]
+  },
+  {
+    "id": "travel_border_interview",
+    "emoji": "🛂",
+    "titleTr": "Pasaport kontrolünde sorgu",
+    "titleEn": "Border interview",
+    "briefTr": "Pasaport kontrolündeki memur dönüş biletini sisteminde göremeyince ziyaretinin amacını sorgulamaya başladı. Neden geldiğini, nerede kalacağını ve ne zaman döneceğini tutarlı ve net cevaplarla açıklayacak, gerekirse belgelerini göstereceksin.",
+    "sceneEn": "A border officer cannot see the learner's return ticket in the system and starts questioning the purpose and length of their visit.",
+    "goalEn": "answer questions about the purpose, length and accommodation of your stay clearly and consistently, and offer documents as proof",
+    "partnerRole": "a skeptical immigration officer",
+    "userRole": "an arriving visitor",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "border",
+      "pressure"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I'm here for a conference.",
+      "I'm staying for ten days.",
+      "I can show you my return ticket on my phone.",
+      "Here's my hotel booking."
+    ]
+  },
+  {
+    "id": "travel_flight_voucher_refund",
+    "emoji": "💳",
+    "titleTr": "Kupon değil, iade",
+    "titleEn": "Refund, not a voucher",
+    "briefTr": "Havayolu uçuşunu kendisi iptal etti ve telefondaki temsilci sana yalnızca bir yıl geçerli bir kupon öneriyor. Yakın zamanda başka seyahat planın olmadığını anlatacak, iptal havayolundan kaynaklandığı için paranın kartına iadesinde ısrar edeceksin.",
+    "sceneEn": "The airline cancelled the learner's flight and the call-centre agent is only offering a travel voucher valid for one year.",
+    "goalEn": "decline the voucher and insist on a refund to your card, pointing out that it was the airline that cancelled the flight",
+    "partnerRole": "an airline call-centre agent following a script",
+    "userRole": "a passenger whose flight was cancelled",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "airline",
+      "refund"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "The airline cancelled the flight, not me.",
+      "A voucher isn't much use to me.",
+      "I'd like a full refund to my card.",
+      "Could you check whether I'm entitled to that?"
+    ]
+  },
+  {
+    "id": "travel_boat_tour_refund",
+    "emoji": "⛵",
+    "titleTr": "Broşürdeki tur bu değil",
+    "titleEn": "Not the tour advertised",
+    "briefTr": "Aldığın tekne turunun broşüründe üç koy gezileceği ve öğle yemeğinin fiyata dahil olduğu yazıyordu; tekne tek bir koyda bekledi, yemek için de ayrıca para istendi. Dönüşte acentedeki sorumluya broşürü gösterip kısmi bir iade isteyeceksin.",
+    "sceneEn": "A boat tour advertised three bays with lunch included, but the boat stopped at only one bay and lunch cost extra; the learner goes back to the agency.",
+    "goalEn": "compare what the brochure promised with what actually happened and ask for a partial refund",
+    "partnerRole": "a defensive tour agency manager",
+    "userRole": "a disappointed tourist",
+    "level": "B2",
+    "tags": [
+      "travel",
+      "tour",
+      "complaint"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "The brochure says lunch was included.",
+      "We only stopped at one bay.",
+      "That's not what we paid for.",
+      "I think a partial refund would be fair."
+    ]
+  },
+  {
+    "id": "travel_insurance_preapproval",
+    "emoji": "🏥",
+    "titleTr": "Sigorta onay vermiyor",
+    "titleEn": "Insurer won't approve",
+    "briefTr": "Baban tatilde fenalaşıp hastaneye kaldırıldı ve doktorlar küçük bir müdahale öneriyor, ama seyahat sigortası bunu önceden var olan bir rahatsızlık sayıp ön onay vermiyor. Temsilciye durumun yeni ortaya çıktığını tıbbi bilgilerle açıklayacak, kararın yazılı gerekçesini isteyecek ve acil bir yeniden değerlendirme için bastıracaksın.",
+    "sceneEn": "The learner's father was hospitalised during a holiday and needs a minor procedure, but the travel insurer refuses pre-approval, calling it a pre-existing condition.",
+    "goalEn": "argue with medical facts that the condition is new, ask for the written reason for the decision, and push for an urgent review",
+    "partnerRole": "a travel insurance case handler",
+    "userRole": "a traveler handling a parent's hospital care abroad",
+    "level": "C1",
+    "tags": [
+      "travel",
+      "health",
+      "negotiation"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "He's never had any heart problems before.",
+      "Could you put that decision in writing?",
+      "The doctors say it can't wait.",
+      "What would it take to get this reviewed today?"
+    ]
+  },
+  {
+    "id": "travel_visa_application_hold",
+    "emoji": "📑",
+    "titleTr": "Vize dosyası askıda",
+    "titleEn": "Visa application on hold",
+    "briefTr": "Konsolosluk vize başvurunu eksik bir banka belgesi yüzünden askıya aldı, oysa yurt dışındaki işine iki hafta sonra başlaman gerekiyor. Görevliyle konuşup eksiği tam olarak neyin oluşturduğunu ve onu nasıl hızla tamamlayabileceğini netleştirecek, dosyanın öne alınması için ikna edici bir gerekçe sunacaksın.",
+    "sceneEn": "A consulate has put the learner's visa application on hold over a missing bank document, while their new job abroad starts in two weeks.",
+    "goalEn": "clarify exactly which document is missing and how to submit it quickly, and make a convincing case for expedited processing",
+    "partnerRole": "a strictly procedural consulate officer",
+    "userRole": "a visa applicant with a job starting soon",
+    "level": "C1",
+    "tags": [
+      "travel",
+      "visa",
+      "negotiation"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "Could you tell me exactly what's missing?",
+      "I can get that to you by tomorrow.",
+      "My contract starts on the first of the month.",
+      "Is there any way to expedite this?"
+    ]
+  },
+  {
+    "id": "travel_parking_collision",
+    "emoji": "💥",
+    "titleTr": "Otoparkta sürtme",
+    "titleEn": "Car park collision",
+    "briefTr": "Kiralık arabayla otoparktan çıkarken geri manevra yapan bir araçla hafifçe sürtüştünüz; sürücü bütün suçu sana yükleyip işi hemen nakit parayla kapatmak istiyor. Sakin kalıp suçu üstlenmeden olayı olgularla anlatacak, bilgi alışverişinde ve resmî kaza tutanağı tutulmasında ısrar edeceksin.",
+    "sceneEn": "While leaving a car park in a rental car, the learner has a minor bump with a reversing car; the other driver loudly blames the learner and wants to settle it in cash on the spot.",
+    "goalEn": "stay calm, describe what happened factually without admitting fault, and insist on exchanging details and filling in an official accident report",
+    "partnerRole": "an angry local driver",
+    "userRole": "a tourist driving a rental car",
+    "level": "C1",
+    "tags": [
+      "travel",
+      "car",
+      "pressure"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "Let's both calm down for a second.",
+      "You were reversing when we touched.",
+      "I'd rather not settle this in cash.",
+      "We need to fill in an accident report."
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="/SpeakSmith-App/uygulama/">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="SpeakSmith web sürümü: Türkçe konuşanlar için İngilizce. Kelime tekrarı, gramer haritası, kalıplar ve öğrenme patikası tarayıcıda; Ders Masası Android uygulamasında.">
+  <meta name="keywords" content="ingilizce öğren, ingilizce pratik, ai ingilizce, karaoke ingilizce, türkçe ingilizce, ücretsiz ingilizce">
+  <meta name="theme-color" content="#4F46E5">
+  <!-- Tanıtım sitesi aranır; web uygulamasının kabuğu arama sonucu olmasın. -->
+  <meta name="robots" content="noindex">
+
+  <!-- PWA / Mobile -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="SpeakSmith">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
+  <meta property="og:title" content="SpeakSmith · web sürümü">
+  <meta property="og:description" content="İngilizcenin içinde kal. Yalnız kalma. Türkçe konuşanlar için İngilizce.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="icons/Icon-512.png">
+  <meta property="og:locale" content="tr_TR">
+  <meta property="og:site_name" content="SpeakSmith">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SpeakSmith · web sürümü">
+  <meta name="twitter:description" content="İngilizcenin içinde kal. Yalnız kalma.">
+  <meta name="twitter:image" content="icons/Icon-512.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>SpeakSmith</title>
+  <link rel="manifest" href="manifest.json">
+
+  <style>
+    /* Açılış — Flutter yüklenirken. Uygulamanın BrandedSplash'iyle aynı
+       degrade (#4F46E5 → #7C3AED) ve marka işareti (assets/brand/mark.png):
+       HTML'den Flutter'a geçişte renk sıçraması olmasın. */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #4F46E5;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    #app-splash {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 0 24px;
+      text-align: center;
+      color: #FFFFFF;
+      background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 100%);
+      z-index: 9999;
+      transition: opacity 280ms ease;
+    }
+    #app-splash.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .splash-mark {
+      width: 108px;
+      height: 108px;
+    }
+    .splash-title {
+      margin-top: 24px;
+      font-size: 28px;
+      font-weight: 700;
+      letter-spacing: -0.25px;
+    }
+    .splash-subtitle {
+      margin-top: 8px;
+      font-size: 16px;
+      font-weight: 500;
+    }
+    /* Gösterge yuvası baştan ayrılır (düzen kaymaz); gösterge yalnız
+       yükleme 600ms'yi aşarsa belirir (BrandedSplash ile aynı eşik). */
+    .splash-wait {
+      height: 48px;
+      margin-top: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      animation: splash-reveal 1ms linear 600ms forwards;
+    }
+    .splash-spinner {
+      width: 28px;
+      height: 28px;
+      box-sizing: border-box;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+      border-top-color: #FFFFFF;
+      border-radius: 50%;
+      animation: splash-spin 800ms linear infinite;
+    }
+    @keyframes splash-reveal { to { opacity: 1; } }
+    @keyframes splash-spin { to { transform: rotate(360deg); } }
+    /* Azaltılmış hareket: gösterge dönmez (durağan halka), solma yok. */
+    @media (prefers-reduced-motion: reduce) {
+      .splash-spinner { animation: none; border-color: rgba(255, 255, 255, 0.85); }
+      #app-splash { transition: none; }
+    }
+  </style>
+
+  <!-- WebLLM bridge — on-device LLM in the browser (WebGPU). -->
+  <script type="module" src="webllm_bridge.js"></script>
+</head>
+<body>
+  <div id="app-splash">
+    <img class="splash-mark" alt="" width="108" height="108"
+         src="assets/assets/brand/mark.png"
+         srcset="assets/assets/brand/mark.png 1x, assets/assets/brand/2.0x/mark.png 2x, assets/assets/brand/3.0x/mark.png 3x, assets/assets/brand/4.0x/mark.png 4x">
+    <div class="splash-title">SpeakSmith</div>
+    <div class="splash-subtitle">İngilizceyi yaparak öğren</div>
+    <div class="splash-wait" role="status" aria-label="Yükleniyor">
+      <div class="splash-spinner"></div>
+    </div>
+  </div>
+  <script>
+    // Flutter ilk frame'i çizdikten sonra splash'i kaldır
+    window.addEventListener('flutter-first-frame', function () {
+      var s = document.getElementById('app-splash');
+      if (s) {
+        s.classList.add('hidden');
+        setTimeout(function () { s.remove(); }, 400);
+      }
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>

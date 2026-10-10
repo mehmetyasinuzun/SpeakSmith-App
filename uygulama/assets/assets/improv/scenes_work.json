@@ -1,0 +1,722 @@
+[
+  {
+    "id": "work_running_late",
+    "emoji": "🚇",
+    "titleTr": "Toplantıya geç kaldın",
+    "titleEn": "Running late",
+    "briefTr": "Metro tünelde arızalandı ve sabah toplantısına en az yirmi dakika geç kalacaksın. Yöneticini ara, durumu anlat ve saat kaçta orada olacağını söyle.",
+    "sceneEn": "The learner phones their manager from a stalled metro train to say they will be late for the morning meeting.",
+    "goalEn": "apologise, explain the delay and give a clear arrival time",
+    "partnerRole": "line manager waiting in the meeting room",
+    "userRole": "employee stuck on a delayed train",
+    "level": "A2",
+    "tags": [
+      "work",
+      "phone",
+      "apology"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "I'm stuck on the metro.",
+      "Sorry to keep you waiting.",
+      "I'll be there by ten.",
+      "Could you start without me?"
+    ]
+  },
+  {
+    "id": "work_printer_jam",
+    "emoji": "🖨️",
+    "titleTr": "Yazıcı sıkıştı",
+    "titleEn": "Printer trouble",
+    "briefTr": "Toplantıya on dakika kaldı ama yazıcı kâğıt sıkıştırdı ve sunum çıktıların hâlâ elinde değil. Yan masadaki iş arkadaşına dön, sorunu anlat ve yardım iste.",
+    "sceneEn": "The learner asks the colleague at the next desk for help with a jammed office printer ten minutes before a meeting.",
+    "goalEn": "describe the problem and ask a colleague for help quickly",
+    "partnerRole": "colleague at the next desk",
+    "userRole": "employee who needs handouts printed",
+    "level": "A2",
+    "tags": [
+      "work",
+      "office",
+      "asking-for-help"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "The printer is jammed.",
+      "Could you give me a hand?",
+      "I need ten copies.",
+      "My meeting starts at eleven."
+    ]
+  },
+  {
+    "id": "work_lunch_invite",
+    "emoji": "🥪",
+    "titleTr": "Öğle yemeği daveti",
+    "titleEn": "Lunch invitation",
+    "briefTr": "Ekibe bu hafta yeni biri katıldı ve öğle arasında masasında tek başına oturuyor. Yanına git, kendini tanıt ve onu ekiple birlikte yemeğe çağır.",
+    "sceneEn": "The learner walks over to a new team member eating alone at their desk and invites them to join the team for lunch.",
+    "goalEn": "introduce yourself and invite the new colleague to lunch",
+    "partnerRole": "shy new team member in their first week",
+    "userRole": "friendly colleague from the same team",
+    "level": "A2",
+    "tags": [
+      "work",
+      "small-talk",
+      "social"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "How's your first week going?",
+      "We're going out for lunch.",
+      "Do you want to join us?",
+      "There's a good place around the corner."
+    ]
+  },
+  {
+    "id": "work_badge_not_working",
+    "emoji": "🪪",
+    "titleTr": "Kart kapıyı açmıyor",
+    "titleEn": "Badge won't work",
+    "briefTr": "Yeni işindeki ilk günün ve giriş kartın turnikeyi açmıyor. Güvenlik görevlisine kim olduğunu, hangi ekipte çalışacağını anlat ve içeri girmek için yardım iste.",
+    "sceneEn": "On their first day at a new job, the learner's access badge fails at the entrance gate and they explain the situation to the security guard.",
+    "goalEn": "say who you are and which team you are joining, and get help to enter the building",
+    "partnerRole": "security guard at the front gate",
+    "userRole": "new employee on their first day",
+    "level": "A2",
+    "tags": [
+      "work",
+      "first-day",
+      "asking-for-help"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "It's my first day today.",
+      "My badge isn't working.",
+      "I'm joining the marketing team.",
+      "Could you call my manager?"
+    ]
+  },
+  {
+    "id": "work_calling_in_sick",
+    "emoji": "🤒",
+    "titleTr": "Hasta olduğunu bildir",
+    "titleEn": "Calling in sick",
+    "briefTr": "Gece ateşin çıktı ve bu sabah işe gidecek durumda değilsin. Yöneticini ara, nasıl hissettiğini anlat ve bugünkü işlerin için ne yapılabileceğini söyle.",
+    "sceneEn": "The learner phones their manager early in the morning to say they have a fever and cannot come to work.",
+    "goalEn": "explain that you are ill, say you won't come in and suggest what happens to today's tasks",
+    "partnerRole": "understanding but busy manager",
+    "userRole": "employee who woke up with a fever",
+    "level": "A2",
+    "tags": [
+      "work",
+      "phone",
+      "health"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "I'm not feeling well today.",
+      "I've got a high temperature.",
+      "I can't come in today.",
+      "Emma can cover my meeting."
+    ]
+  },
+  {
+    "id": "work_call_dropped",
+    "emoji": "🎧",
+    "titleTr": "Bağlantın koptu",
+    "titleEn": "Dropped from the call",
+    "briefTr": "Evden katıldığın online toplantıda internetin beş dakika gitti ve geri döndüğünde herkes bir karar almış görünüyor. Ne olduğunu açıkla ve kaçırdığın kısmı kısaca anlatmalarını iste.",
+    "sceneEn": "Working from home, the learner rejoins a video call after their internet dropped for five minutes and needs to catch up on a decision the team made.",
+    "goalEn": "explain the connection problem and ask the team to summarise what you missed",
+    "partnerRole": "team lead running the video call",
+    "userRole": "remote employee who just reconnected",
+    "level": "A2",
+    "tags": [
+      "work",
+      "remote",
+      "video-call"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry, my internet cut out.",
+      "Can you hear me now?",
+      "What did I miss?",
+      "Could you repeat the last part?"
+    ]
+  },
+  {
+    "id": "work_room_double_booked",
+    "emoji": "🪑",
+    "titleTr": "Toplantı odası dolu",
+    "titleEn": "Room double-booked",
+    "briefTr": "Müşterinle görüşmek için ayırttığın toplantı odasında başka bir ekip oturuyor ve müşterin beş dakika sonra gelecek. Kapıyı çal, rezervasyonun olduğunu kibarca söyle ve odayı iste.",
+    "sceneEn": "The learner finds another team in the meeting room they booked, five minutes before a client arrives, and politely asks for the room.",
+    "goalEn": "politely explain the booking and get the room back without an argument",
+    "partnerRole": "colleague from another team using the room",
+    "userRole": "employee who booked the room for a client",
+    "level": "A2",
+    "tags": [
+      "work",
+      "office",
+      "polite-request"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Sorry to interrupt.",
+      "I think I booked this room.",
+      "My client arrives at two.",
+      "Could you move to another room?"
+    ]
+  },
+  {
+    "id": "work_client_at_reception",
+    "emoji": "☕",
+    "titleTr": "Müşteriyi karşıla",
+    "titleEn": "Welcoming a client",
+    "briefTr": "Önemli bir müşteri erken geldi, yöneticin ise hâlâ başka bir görüşmede. Resepsiyonda onu karşıla, kendini tanıt, bir içecek teklif et ve biraz beklemesi gerektiğini açıkla.",
+    "sceneEn": "An important client arrives early; the learner greets them in reception while their manager is still in another meeting.",
+    "goalEn": "welcome the client, offer a drink and explain the short wait politely",
+    "partnerRole": "visiting client who arrived early",
+    "userRole": "team member sent to greet the client",
+    "level": "A2",
+    "tags": [
+      "work",
+      "client",
+      "hosting"
+    ],
+    "turns": 3,
+    "usefulPhrases": [
+      "Welcome, nice to meet you.",
+      "Can I get you a coffee?",
+      "She'll be with you in ten minutes.",
+      "Please have a seat."
+    ]
+  },
+  {
+    "id": "work_missed_deadline",
+    "emoji": "⏳",
+    "titleTr": "Teslim tarihini kaçırdın",
+    "titleEn": "Missed deadline",
+    "briefTr": "Cuma teslim edeceğin raporu yetiştiremeyeceksin, çünkü verilerin yarısı hâlâ gelmedi. Proje yöneticisine bunu bugün söyle, sebebini açıkla ve gerçekçi bir yeni tarih öner.",
+    "sceneEn": "The learner tells their project manager that Friday's report will be late because half the data is still missing, and proposes a new date.",
+    "goalEn": "admit the delay, explain the cause and propose a realistic new deadline",
+    "partnerRole": "project manager who needs the report for a board meeting",
+    "userRole": "team member responsible for the report",
+    "level": "B1",
+    "tags": [
+      "work",
+      "deadline",
+      "bad-news"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I won't be able to finish it by Friday.",
+      "I'm still waiting on the numbers.",
+      "Could we move it to Tuesday?",
+      "I can send you a draft today."
+    ]
+  },
+  {
+    "id": "work_angry_customer",
+    "emoji": "📞",
+    "titleTr": "Kızgın müşteri",
+    "titleEn": "Angry customer",
+    "briefTr": "Telefondaki müşteri siparişini iki haftadır bekliyor ve bağırarak parasını geri istiyor. Önce onu sakinleştir, sonra ne olduğunu öğren ve somut bir çözüm sun.",
+    "sceneEn": "The learner takes a phone call from a customer whose order is two weeks late and who is shouting for a refund.",
+    "goalEn": "calm the customer down, apologise and offer a concrete solution",
+    "partnerRole": "furious customer on the phone",
+    "userRole": "support agent handling the complaint",
+    "level": "B1",
+    "tags": [
+      "work",
+      "customer-service",
+      "complaint"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I'm really sorry about this.",
+      "Let me check your order.",
+      "Here's what I can do for you.",
+      "Can I call you back in ten minutes?"
+    ]
+  },
+  {
+    "id": "work_shift_swap",
+    "emoji": "📅",
+    "titleTr": "Vardiya değişimi",
+    "titleEn": "Swapping shifts",
+    "briefTr": "Cuma akşamı kardeşinin nikâhı var ama o gün vardiyadasın. Bir iş arkadaşına durumu anlat ve vardiyayı değişmeyi teklif et; ilk seferde hayır diyebilir, pes etme.",
+    "sceneEn": "The learner asks a coworker to swap Friday's shift because of a family wedding; the coworker is reluctant at first.",
+    "goalEn": "explain why you need Friday off and negotiate a swap the coworker accepts",
+    "partnerRole": "coworker with plans of their own on Friday",
+    "userRole": "employee who needs Friday evening off",
+    "level": "B1",
+    "tags": [
+      "work",
+      "negotiation",
+      "favour"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "Would you be able to swap with me?",
+      "It's my brother's wedding.",
+      "I can take your Sunday instead.",
+      "I'd really owe you one."
+    ]
+  },
+  {
+    "id": "work_supplier_late",
+    "emoji": "🚚",
+    "titleTr": "Malzeme gelmedi",
+    "titleEn": "Late delivery",
+    "briefTr": "Tedarikçinin salı getireceği parçalar hâlâ yok ve yarın öğlene kadar gelmezse üretim hattı duracak. Tedarikçiyi ara, durumun ciddiyetini anlat, kesin bir teslim saati al ve bunu yazılı olarak iste.",
+    "sceneEn": "The learner calls a supplier whose parts were due on Tuesday; without them the production line stops tomorrow at noon.",
+    "goalEn": "stress the urgency, get a firm delivery time and ask for written confirmation",
+    "partnerRole": "supplier's account manager making vague promises",
+    "userRole": "operations coordinator at the factory",
+    "level": "B1",
+    "tags": [
+      "work",
+      "supplier",
+      "phone"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "The parts were due on Tuesday.",
+      "Our line will stop tomorrow.",
+      "Can you give me an exact time?",
+      "Please confirm that by email."
+    ]
+  },
+  {
+    "id": "work_invoice_mistake",
+    "emoji": "🧮",
+    "titleTr": "Hatalı fatura",
+    "titleEn": "Wrong invoice",
+    "briefTr": "Geçen hafta bir müşteriye yanlış tutarlı fatura gönderdin ve müşteri fazlasını çoktan ödedi. Müşteriyi ara, hatayı kendin açıkla, özür dile ve farkı nasıl iade edeceğinizi anlat.",
+    "sceneEn": "The learner calls a client to admit they sent an invoice with the wrong amount, which the client has already overpaid.",
+    "goalEn": "own the mistake, apologise and explain clearly how the difference will be refunded",
+    "partnerRole": "client's finance officer, surprised and a little annoyed",
+    "userRole": "accounts assistant who made the error",
+    "level": "B1",
+    "tags": [
+      "work",
+      "client",
+      "apology"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'm calling about last week's invoice.",
+      "That was my mistake.",
+      "We'll refund the difference.",
+      "You'll get a corrected invoice today."
+    ]
+  },
+  {
+    "id": "work_handover_before_leave",
+    "emoji": "🏖️",
+    "titleTr": "İzinden önce devir",
+    "titleEn": "Handover before leave",
+    "briefTr": "Yarın iki haftalık izne çıkıyorsun ve en önemli müşterinin işleri senden sonra bir iş arkadaşına kalacak. Ona neyin acil olduğunu, kimi araması gerektiğini ve nelere dikkat etmesi gerektiğini anlat.",
+    "sceneEn": "The day before a two-week holiday, the learner hands over an important client account to a nervous colleague who asks lots of questions.",
+    "goalEn": "explain priorities, key contacts and risks clearly enough that the colleague feels confident",
+    "partnerRole": "colleague taking over the account, a bit nervous",
+    "userRole": "account owner leaving for a two-week holiday",
+    "level": "B1",
+    "tags": [
+      "work",
+      "handover",
+      "explaining"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "The most urgent thing is...",
+      "If they call, tell them...",
+      "Be careful with...",
+      "Everything's in the shared folder."
+    ]
+  },
+  {
+    "id": "work_friday_evening_task",
+    "emoji": "🌙",
+    "titleTr": "Cuma akşamı acil iş",
+    "titleEn": "Friday evening request",
+    "briefTr": "Cuma saat beşte yöneticin masana gelip bu akşam bitmesi gereken bir görev bıraktı, ama bu akşam için aylardır planın var. Görevi tamamen reddetmeden akşamını kurtar: nedenini açıkla ve gerçekçi bir alternatif öner.",
+    "sceneEn": "At 5 pm on Friday the learner's manager drops an urgent task on their desk, but the learner has had plans for that evening for months.",
+    "goalEn": "decline to stay late politely and negotiate a realistic alternative such as early Monday",
+    "partnerRole": "manager under pressure from a client",
+    "userRole": "employee with fixed plans for Friday evening",
+    "level": "B1",
+    "tags": [
+      "work",
+      "saying-no",
+      "manager"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'm afraid I can't stay late tonight.",
+      "I've had these plans for months.",
+      "I could start first thing Monday.",
+      "What if I do the urgent part now?"
+    ]
+  },
+  {
+    "id": "work_remote_day_request",
+    "emoji": "🏡",
+    "titleTr": "Evden çalışma talebi",
+    "titleEn": "Asking to work from home",
+    "briefTr": "Evle ofis arasındaki yol her gün toplam üç saatini alıyor ve verimin düşmeye başladı. Yöneticinden haftada iki gün evden çalışmayı iste; kaygılarını dinle ve deneme süresi gibi bir çözüm öner.",
+    "sceneEn": "The learner asks their manager for two work-from-home days a week because of a three-hour daily commute; the manager is unsure.",
+    "goalEn": "make the case for remote days, answer the manager's concerns and propose a trial period",
+    "partnerRole": "manager who likes having the team in the office",
+    "userRole": "employee with a long commute",
+    "level": "B1",
+    "tags": [
+      "work",
+      "remote",
+      "request"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I'd like to work from home two days a week.",
+      "My commute takes three hours.",
+      "I'll be online all day.",
+      "How about a one-month trial?"
+    ]
+  },
+  {
+    "id": "work_phone_screening",
+    "emoji": "☎️",
+    "titleTr": "Telefon mülakatı",
+    "titleEn": "Phone screening",
+    "briefTr": "Başvurduğun şirketin insan kaynaklarından biri seni hiç beklemediğin bir anda arayıp kısa bir ön görüşme yapmak istiyor. Kendini kısaca tanıt, neden bu işi istediğini anlat ve ne zaman başlayabileceğini söyle.",
+    "sceneEn": "A recruiter calls the learner unexpectedly for a short screening call about a job they applied for.",
+    "goalEn": "introduce yourself briefly, explain why you want the role and give your availability",
+    "partnerRole": "friendly but fast-talking recruiter",
+    "userRole": "job applicant taking a surprise call",
+    "level": "B1",
+    "tags": [
+      "work",
+      "interview",
+      "phone"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "Thanks for calling.",
+      "I've worked in sales for three years.",
+      "What attracted me to this role is...",
+      "I could start in a month."
+    ]
+  },
+  {
+    "id": "work_code_review_pushback",
+    "emoji": "🧑‍💻",
+    "titleTr": "Kod incelemesinde itiraz",
+    "titleEn": "Code review pushback",
+    "briefTr": "Kıdemli bir geliştirici gönderdiğin kodu baştan yazmanı istiyor; bazı noktalarda haklı ama mimari tercihinin arkasında durmak istiyorsun. Haklı olduğu yerleri kabul et, kendi gerekçeni savun ve ikinizin de kabul edebileceği bir yol öner.",
+    "sceneEn": "The learner defends part of their pull request to a blunt senior reviewer who wants the whole thing rewritten, and looks for a compromise.",
+    "goalEn": "accept the fair points, justify your design choice and propose a workable middle ground",
+    "partnerRole": "blunt senior developer reviewing the pull request",
+    "userRole": "developer defending their own code",
+    "level": "B2",
+    "tags": [
+      "work",
+      "tech",
+      "disagreement"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "That's a fair point.",
+      "The reason I did it this way is...",
+      "Could we keep this part as it is?",
+      "What if we split it into two pull requests?"
+    ]
+  },
+  {
+    "id": "work_interview_cv_gap",
+    "emoji": "💼",
+    "titleTr": "Özgeçmişteki boşluk",
+    "titleEn": "The CV gap",
+    "briefTr": "Mülakatta karşındaki kişi özgeçmişindeki bir yıllık boşluğu ve önceki işten neden ayrıldığını üst üste soruyor. Dürüst kal ama savunmaya geçmeden, o dönemi kendi lehine çevir.",
+    "sceneEn": "An interviewer presses the learner about a one-year gap in their CV and why they left their previous job.",
+    "goalEn": "explain the gap honestly and frame it as a strength without sounding defensive",
+    "partnerRole": "interviewer probing the candidate's CV",
+    "userRole": "candidate in a second-round interview",
+    "level": "B2",
+    "tags": [
+      "work",
+      "interview",
+      "self-presentation"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I took that year to...",
+      "Looking back, it taught me...",
+      "I left because I wanted to...",
+      "That's exactly why this role appeals to me."
+    ]
+  },
+  {
+    "id": "work_performance_review",
+    "emoji": "📊",
+    "titleTr": "Haksız performans notu",
+    "titleEn": "Unfair performance review",
+    "briefTr": "Yıllık performans görüşmesinde yöneticin seni beklentinin altında değerlendirdi; oysa hedeflerinin çoğunu tutturdun ve kaçırdıkların senin elinde değildi. Kanıtlarla itiraz et, notun yeniden gözden geçirilmesini iste ve gelecek yıl için ölçülebilir hedefler talep et.",
+    "sceneEn": "In an annual review the learner's manager rates them below expectations even though most targets were met; the learner pushes back.",
+    "goalEn": "challenge the rating with evidence, ask for it to be reconsidered and agree measurable goals for next year",
+    "partnerRole": "manager who has already written the review",
+    "userRole": "employee who disagrees with their rating",
+    "level": "B2",
+    "tags": [
+      "work",
+      "performance",
+      "feedback"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I'd like to go through this rating.",
+      "I hit four of my five targets.",
+      "That delay was outside my control.",
+      "What would 'exceeds expectations' look like?"
+    ]
+  },
+  {
+    "id": "work_resignation_counteroffer",
+    "emoji": "🚪",
+    "titleTr": "İstifa ve karşı teklif",
+    "titleEn": "Handing in your notice",
+    "briefTr": "Başka bir şirketin teklifini kabul ettin ve bugün yöneticine istifa ettiğini söyleyeceksin. Yöneticin seni tutmak için karşı teklif yapacak; kararlı ama minnettar kal ve devir sürecini konuş.",
+    "sceneEn": "The learner tells their manager they are resigning to join another company; the manager responds with a counter-offer.",
+    "goalEn": "resign clearly and graciously, decline the counter-offer and agree a handover plan",
+    "partnerRole": "manager who is surprised and wants to keep the learner",
+    "userRole": "employee who has accepted another offer",
+    "level": "B2",
+    "tags": [
+      "work",
+      "resignation",
+      "difficult-conversation"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I've decided to accept another offer.",
+      "I've really valued working here.",
+      "I appreciate it, but my decision is final.",
+      "Let's plan a proper handover."
+    ]
+  },
+  {
+    "id": "work_scope_creep",
+    "emoji": "📐",
+    "titleTr": "Bitmeyen ek talepler",
+    "titleEn": "Scope creep",
+    "briefTr": "Sabit fiyatla anlaştığınız web sitesi projesine müşteri her hafta yeni bir özellik ekliyor ve teslim tarihi kayıyor. Müşteriyle görüşmede bu taleplerin ek ücret ve ek süre gerektirdiğini açıkla, ilişkiyi zedelemeden sınırı çiz.",
+    "sceneEn": "A client keeps adding new features to a fixed-price website project; the learner explains that extra work means extra cost and time.",
+    "goalEn": "explain the change in scope, set a boundary and offer options without damaging the relationship",
+    "partnerRole": "enthusiastic client who thinks the extras are small",
+    "userRole": "project lead at the agency",
+    "level": "B2",
+    "tags": [
+      "work",
+      "client",
+      "negotiation"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "That's outside the original scope.",
+      "We'd be happy to quote for it separately.",
+      "Here are two options.",
+      "Which matters more, the date or the feature?"
+    ]
+  },
+  {
+    "id": "work_remote_colleague_silent",
+    "emoji": "🌐",
+    "titleTr": "Cevap vermeyen ekip arkadaşı",
+    "titleEn": "The silent colleague",
+    "briefTr": "Başka bir saat diliminde çalışan ekip arkadaşın dört gündür mesajlarına dönmüyor ve senin işin onun kısmı yüzünden kilitlendi. Görüntülü görüşmede suçlamadan sorunu aç, onun tarafını dinle ve birlikte bir çalışma düzeni kurun.",
+    "sceneEn": "Over a video call, the learner raises an issue with a colleague in another time zone who has not replied to messages for four days, which is blocking the learner's work.",
+    "goalEn": "raise the problem without blaming, understand their side and agree a way of working together",
+    "partnerRole": "overloaded colleague in another time zone",
+    "userRole": "teammate whose work is blocked",
+    "level": "B2",
+    "tags": [
+      "work",
+      "remote",
+      "conflict"
+    ],
+    "turns": 4,
+    "usefulPhrases": [
+      "I wanted to check in about the API work.",
+      "I'm blocked until that part is done.",
+      "Is something getting in the way?",
+      "Could we agree on a daily overlap?"
+    ]
+  },
+  {
+    "id": "work_presentation_tough_question",
+    "emoji": "🎤",
+    "titleTr": "Sunumda zor soru",
+    "titleEn": "The tough question",
+    "briefTr": "Üst yönetime çeyrek sonuçlarını sunarken bir direktör rakamlarını sorguluyor ve cevabını bilmediğin bir soru soruyor. Paniğe kapılmadan bildiğin kısmı savun, bilmediğini dürüstçe kabul et ve net bir takip sözü ver.",
+    "sceneEn": "During a quarterly results presentation to senior management, a director challenges the learner's figures and asks something they cannot answer.",
+    "goalEn": "stay composed, defend what you know, admit what you don't and commit to a specific follow-up",
+    "partnerRole": "sceptical director interrupting the presentation",
+    "userRole": "presenter of the quarterly results",
+    "level": "B2",
+    "tags": [
+      "work",
+      "presentation",
+      "pressure"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "That's a good question.",
+      "These figures are based on...",
+      "I don't have that number to hand.",
+      "I'll get back to you by Thursday."
+    ]
+  },
+  {
+    "id": "work_supplier_price_rise",
+    "emoji": "📈",
+    "titleTr": "Tedarikçi zammı",
+    "titleEn": "Supplier price rise",
+    "briefTr": "Yıllardır çalıştığınız tedarikçi fiyatlarını bir anda yüzde yirmi artırdığını bildirdi; alternatifin var ama geçiş hem pahalı hem riskli. Görüşmede zammı sorgula, elindeki seçenekleri koza çevir ve daha makul bir anlaşmaya var.",
+    "sceneEn": "A long-standing supplier announces a 20% price increase; the learner, who handles purchasing, negotiates knowing that switching is possible but costly.",
+    "goalEn": "question the increase, use alternatives as leverage without overplaying them, and reach a better deal",
+    "partnerRole": "supplier's sales director defending the new prices",
+    "userRole": "purchasing manager",
+    "level": "B2",
+    "tags": [
+      "work",
+      "supplier",
+      "negotiation"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "Twenty percent is hard to justify.",
+      "We've been loyal customers for years.",
+      "We're looking at other options.",
+      "Could we phase it in over six months?"
+    ]
+  },
+  {
+    "id": "work_raise_frozen_budget",
+    "emoji": "💰",
+    "titleTr": "Bütçe donduruldu",
+    "titleEn": "Asking for a raise",
+    "briefTr": "İki yıldır zam almadın ve ekibin en büyük projesini sen taşıyorsun. Yöneticinden zam iste; o bütçenin donduğunu söyleyip konuyu kapatmaya çalışacak, sen ilişkiyi bozmadan ısrarını sürdür.",
+    "sceneEn": "The learner makes the case for a raise to a manager who insists the budget is frozen and tries to close the conversation down.",
+    "goalEn": "make an evidence-based case for a raise and keep the conversation open despite the refusal",
+    "partnerRole": "manager hiding behind a frozen budget",
+    "userRole": "employee asking for a pay rise",
+    "level": "C1",
+    "tags": [
+      "work",
+      "negotiation",
+      "salary"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I'd like to revisit my salary.",
+      "Over the last two years I've...",
+      "What would need to change for that to happen?",
+      "Can we put a date on that conversation?"
+    ]
+  },
+  {
+    "id": "work_defend_teammate",
+    "emoji": "🛡️",
+    "titleTr": "Ekip arkadaşını savun",
+    "titleEn": "Defending a teammate",
+    "briefTr": "Toplantıda yöneticin gecikmenin sorumlusu olarak ekip arkadaşını herkesin önünde hedef gösteriyor; oysa asıl sebep müşterinin iki kez değiştirdiği talep. Sözü al, suçlamayı kırıcı olmadan çürüt ve masayı çözüme çevir.",
+    "sceneEn": "In a team meeting the learner's manager publicly blames a teammate for a delay that was not their fault, and the learner speaks up.",
+    "goalEn": "challenge the accusation diplomatically in public and steer the meeting towards a solution",
+    "partnerRole": "manager blaming a teammate in front of the team",
+    "userRole": "colleague speaking up for that teammate",
+    "level": "C1",
+    "tags": [
+      "work",
+      "meeting",
+      "conflict"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "Can I add some context here?",
+      "To be fair, the brief changed twice.",
+      "I don't think that's quite the whole picture.",
+      "Shall we look at how to stop it happening again?"
+    ]
+  },
+  {
+    "id": "work_data_breach_client",
+    "emoji": "🚨",
+    "titleTr": "Veri sızıntısı krizi",
+    "titleEn": "Data breach call",
+    "briefTr": "Şirketinizin yazılımındaki bir hata yüzünden en büyük kurumsal müşterinizin bazı verileri başka kullanıcılara göründü ve müşteri çok öfkeli. Telefonda ne olduğunu şeffafça açıkla, sorumluluğu üstlen ama henüz bilmediğin konularda söz verme ve güveni onarmak için somut adımlar sun.",
+    "sceneEn": "After a software bug exposed some of a major client's data to other users, the learner phones the client's furious head of IT.",
+    "goalEn": "explain transparently, take responsibility without over-promising, and set out concrete steps to rebuild trust",
+    "partnerRole": "furious head of IT at the client company",
+    "userRole": "account director handling the incident",
+    "level": "C1",
+    "tags": [
+      "work",
+      "crisis",
+      "client"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I want to be completely transparent with you.",
+      "We take full responsibility for this.",
+      "I can't confirm that yet, but I will by...",
+      "Here's what we're doing in the next 24 hours."
+    ]
+  },
+  {
+    "id": "work_promoted_over_friend",
+    "emoji": "🪜",
+    "titleTr": "Arkadaşının yöneticisi oldun",
+    "titleEn": "Managing a former peer",
+    "briefTr": "Terfi aldın ve artık aynı pozisyona başvuran yakın arkadaşının yöneticisisin; o günden beri toplantılarda sessiz ve işlerini geciktiriyor. Onunla birebir görüş, kırgınlığını kabul et ama beklentilerini net koy.",
+    "sceneEn": "Newly promoted, the learner has a one-to-one with a close friend who also applied for the role, now reports to them, and has become withdrawn and slow to deliver.",
+    "goalEn": "acknowledge their disappointment, set clear expectations and keep both the friendship and the working relationship intact",
+    "partnerRole": "close friend and former peer, now a resentful direct report",
+    "userRole": "newly promoted team lead",
+    "level": "C1",
+    "tags": [
+      "work",
+      "promotion",
+      "leadership"
+    ],
+    "turns": 6,
+    "usefulPhrases": [
+      "I know this hasn't been easy for you.",
+      "Our friendship matters to me.",
+      "At the same time, I need...",
+      "What would help you right now?"
+    ]
+  },
+  {
+    "id": "work_pressured_to_mislead",
+    "emoji": "⚖️",
+    "titleTr": "Rakamları parlatma baskısı",
+    "titleEn": "Pressure to mislead",
+    "briefTr": "Yöneticin yarınki yatırımcı sunumunda gecikmiş bir ürünü neredeyse hazırmış gibi göstermeni istiyor. Onu karşına almadan bunu yapmayacağını açıkça söyle ve gerçeği anlatan ama yine de ikna edici bir alternatif öner.",
+    "sceneEn": "The learner's manager asks them to present a delayed product as nearly finished in tomorrow's investor pitch; the learner refuses and offers an honest alternative.",
+    "goalEn": "refuse to mislead, firmly but tactfully, and offer an honest framing that still persuades",
+    "partnerRole": "manager under heavy pressure to impress investors",
+    "userRole": "product lead preparing the investor pitch",
+    "level": "C1",
+    "tags": [
+      "work",
+      "ethics",
+      "manager"
+    ],
+    "turns": 5,
+    "usefulPhrases": [
+      "I'm not comfortable presenting it that way.",
+      "If investors find out later, it'll cost us more.",
+      "What we can honestly say is...",
+      "Let's lead with the progress we've made."
+    ]
+  }
+]

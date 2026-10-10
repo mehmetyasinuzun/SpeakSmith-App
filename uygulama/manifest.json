@@ -1,0 +1,41 @@
+{
+    "name": "SpeakSmith",
+    "short_name": "SpeakSmith",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#4F46E5",
+    "theme_color": "#4F46E5",
+    "description": "Türkçe konuşanlar için İngilizce: kelime tekrarı, gramer, kalıplar, konuşma ve karaoke. Ücretsiz, hesapsız.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "lang": "tr-TR",
+    "dir": "ltr",
+    "categories": ["education", "productivity"],
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

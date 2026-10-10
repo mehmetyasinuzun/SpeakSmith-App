@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script>
+/* APK adresi: her sürüme sürüm numarasız yüklenen arm64 kopyası (en son sürüm). tools/build_site.sh,
+   DOWNLOAD_URL verilirse bu sabiti ve data-download bağlantılarını derlenen kopyada değiştirir. */
+var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk";
+(function (d) {
+  var r = d.documentElement;
+  try { var t = localStorage.getItem('ss-theme'); if (t === 'light' || t === 'dark') r.setAttribute('data-theme', t); } catch (e) {}
+  r.classList.add('js');
+  if (!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) && 'IntersectionObserver' in window) r.classList.add('motion');
+  /* Cihaz: iPhone/iPad'de APK yerine tarayıcı sürümü öne çıkar; masaüstünde QR gösterilir. */
+  var u = navigator.userAgent || '';
+  r.classList.add(/iPad|iPhone|iPod/.test(u) || (/Macintosh/.test(u) && navigator.maxTouchPoints > 1) ? 'dev-ios'
+    : /Android/i.test(u) ? 'dev-android' : (window.matchMedia && matchMedia('(pointer: coarse)').matches) ? 'dev-touch' : 'dev-desktop');
+  /* site.js 3 sn içinde gelmezse yalnızca hareket kapanır (gizli öğeler görünür olur); yerleşim değişmez. */
+  setTimeout(function () { if (!window.__ss) r.classList.remove('motion'); }, 3000);
+})(document);
+</script>
+<title>SpeakSmith’i indir · Android APK</title>
+<meta name="description" content="SpeakSmith'i Android'e kur: ücretsiz, imzalı APK, sürüm 0.8.0, SHA-256 özeti, adım adım kurulum ve güncelleme. Hesap gerekmez.">
+<meta name="ss-app-version" content="0.8.0">
+<link rel="canonical" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/indir/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SpeakSmith">
+<meta property="og:title" content="SpeakSmith'i indir · Android">
+<meta property="og:description" content="Ücretsiz, imzalı APK, sürüm 0.8.0. Birkaç dakikada kurulur, hesap istemez.">
+<meta property="og:url" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/indir/">
+<meta property="og:image" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/assets/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#F7F6FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0C0B19" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<link rel="preload" href="../assets/fonts/spacegrotesk-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/site.css">
+<script defer src="../assets/site.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">İçeriğe geç</a>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="../" aria-label="SpeakSmith ana sayfa"><img src="../assets/favicon.svg" width="32" height="32" alt="">SpeakSmith</a>
+    <nav class="nav" aria-label="Sayfalar">
+      <a href="../#ozellikler">Özellikler</a>
+      <a href="#kurulum">Kurulum</a>
+      <a href="#guncelleme">Güncelleme</a>
+      <a href="#sorun">Sorun giderme</a>
+    </nav>
+    <div class="top-actions">
+      <button class="icon-btn theme-btn" type="button" data-theme-btn data-l-system="Tema: sistem (değiştir)" data-l-light="Tema: açık (değiştir)" data-l-dark="Tema: koyu (değiştir)" aria-label="Tema: sistem (değiştir)">
+        <svg data-ic="system" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"/></g></svg>
+        <svg data-ic="light" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></g></svg>
+        <svg data-ic="dark" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+      <a class="icon-btn" href="../en/#download" lang="en" aria-label="English version">EN</a>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+<section class="hero night" aria-labelledby="dl-h" style="padding-bottom:clamp(56px,7vw,96px)">
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Android · ücretsiz</p>
+      <h1 id="dl-h" style="font-size:clamp(40px,6vw,72px)">SpeakSmith’i <mark class="hl">indir.</mark></h1>
+      <p class="lead">İmzalı APK, sürüm 0.8.0 (Ekim 2026). Birkaç dakikada kurulur, hesap istemez. Yeni sürüm çıkınca uygulama haber verir; aynı imzayla geldiği için üstüne kurulur, verin korunur.</p>
+      <div class="cta-row" id="hero-cta">
+        <a class="btn btn-primary btn-lg not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.6 9.48l1.84-3.18a.38.38 0 0 0-.66-.38l-1.86 3.22A11.4 11.4 0 0 0 12 8.15c-1.74 0-3.4.36-4.92 1L5.22 5.92a.38.38 0 0 0-.66.38L6.4 9.48A10.8 10.8 0 0 0 1 18h22a10.8 10.8 0 0 0-5.4-8.52zM7 15.25a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5zm10 0a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z"/></svg>
+          <span class="stack">APK’yı indir<small class="not-desktop">arm64 · yaklaşık 105 MB</small><small class="only-desktop">bu bilgisayara · yaklaşık 105 MB</small></span>
+        </a>
+        <a class="btn btn-ghost btn-lg not-ios" href="../uygulama/"><span class="stack">Önce tarayıcıda dene<small>Kurulumsuz · ilk açılış ~7–14 MB</small></span></a>
+        <a class="btn btn-primary btn-lg only-ios" href="../uygulama/">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.6 3.8 5.6 3.8 9s-1.2 6.4-3.8 9c-2.6-2.6-3.8-5.6-3.8-9S9.4 5.6 12 3z"/></g></svg>
+          <span class="stack">Tarayıcıda dene<small>iPhone’da kurulum yok · ilk açılış ~7–14 MB</small></span>
+        </a>
+      </div>
+      <div class="qr only-desktop">
+        <img src="../assets/qr-indir.svg" width="132" height="132" alt="Bu sayfanın QR kodu">
+        <div><b>Bilgisayardasın: telefonunla tara</b><p>Kamerayı QR’a tut; bu sayfa telefonunda açılır, oradaki “APK’yı indir” düğmesi dosyayı doğrudan telefona indirir.</p></div>
+      </div>
+      <p class="cta-meta not-ios">Bu düğme çoğu güncel Android telefona uyan arm64 APK’yı indirir. Telefonun 32 bit ise <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">sürümler sayfasından</a> arm32 APK’yı seç. Evrensel APK yalnızca alışılmadık işlemcili bir cihaza ilk kurulum içindir; kurulu bir SpeakSmith’in üstüne kurulmaz.</p>
+      <p class="ios-note only-ios">Bu cihaz bir iPhone ya da iPad: APK burada kurulmaz. <a href="../uygulama/">Tarayıcı sürümünü aç</a> ya da bu sayfayı Android telefonunda aç.</p>
+    </div>
+    <div class="stage">
+      <div class="phone floaty"><div class="screen"><img class="pad" src="../assets/img/desk-home.webp" width="600" height="1191" alt="SpeakSmith Ders Masası ekranı"></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="kurulum" aria-labelledby="kur-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Kurulum</p>
+      <h2 id="kur-h">Üç adım.</h2>
+    </div>
+    <div class="grid3 mt-l">
+      <div class="card rv" style="--d:0"><span class="k">1 · İndir</span><h3>APK’yı indir ve aç.</h3><p>Dosya indirildiğinde bildirime ya da İndirilenler klasörüne dokun.</p></div>
+      <div class="card rv" style="--d:1"><span class="k">2 · İzin ver</span><h3>Bu kaynaktan kuruluma izin ver.</h3><p>Telefon sorarsa, dosyayı açtığın uygulamaya (tarayıcı ya da Dosyalar) “bilinmeyen uygulamaları yükleme” izni ver. Bu izni kurulumdan sonra geri alabilirsin.</p></div>
+      <div class="card rv" style="--d:2"><span class="k">3 · Başla</span><h3>Kur, aç, seviyeni seç.</h3><p>Hesap açman gerekmez; ilk adım AI istemez. Ders Masası’nı ilk kez açtığında konuşma modelini ve Türkçe çeviri paketini bir kez indirirsin. Telefondaki AI koçu isteğe bağlıdır, kendiliğinden inmez.</p></div>
+    </div>
+
+    <div class="grid2 mt-l">
+      <div class="card rv">
+        <span class="k">Dosyayı doğrula</span>
+        <h3>SHA-256 özeti</h3>
+        <p>İndirdiğin dosyanın gerçekten bu sürüm olduğundan emin olmak için özetini karşılaştırabilirsin.</p>
+        <p class="note mt-s">speaksmith-v0.8.0-arm64.apk</p>
+        <p class="hash" data-fill="arm64-sha256">d37f3594340f233da0dfbc9fbbb6485cc9ceef7a115c4ba9cc4c394a5d3babb5</p>
+        <p class="note mt-s">GitHub’daki <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">sürüm sayfası</a> her dosyanın SHA-256 özetini dosyanın yanında gösterir; diğer mimarilerin özetleri de orada.</p>
+      </div>
+      <div class="card req rv" style="--d:1">
+        <div><span>Android</span><span>7.0 ve üstü</span></div>
+        <div><span>APK (arm64)</span><span>yaklaşık 105 MB</span></div>
+        <div><span>Ders için konuşma modeli</span><span>Base 142 MB · Tiny 75 MB</span></div>
+        <div><span>Türkçe çeviri paketi</span><span>yaklaşık 30 MB, bir kez</span></div>
+        <div><span>Önerilen bellek</span><span>Base için 4 GB RAM</span></div>
+        <div><span>Telefonda AI koçu</span><span>isteğe bağlı · önerilen ~1,1 GB</span></div>
+        <div><span>iPhone</span><span>Şu an yok</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band alt" id="guncelleme" aria-labelledby="gun-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Güncelleme</p>
+      <h2 id="gun-h">Üstüne kur, verin kalsın.</h2>
+      <p class="lead">Uygulama açılışta herkese açık bir sürüm dosyasına bakar; yeni sürüm varsa sorar ve APK’yı GitHub’daki sürüm sayfasından indirir. Kimliğin ya da kullanım bilgin gönderilmez. Sürümler aynı anahtarla imzalanır; Android bunu güncelleme olarak tanır ve kelimelerin, derslerin ve ilerlemen yerinde kalır. 0.7.0 ya da daha eskiyi kullanıyorsan uyarı gelmeyebilir: 0.8.0’ı bir kez bu sayfadan indirip üstüne kur.</p>
+    </div>
+    <div class="grid2 mt-l">
+      <div class="card rv"><span class="k">0.8.0 ile gelenler</span><h3>İlk günden yalnız kalmazsın.</h3>
+        <ul class="ticks">
+          <li>YouTube’daki bir dersi Paylaş › SpeakSmith › “Ders olarak izle” ile Ders Masası’na al.</li>
+          <li>Ders incelemede İkisi / EN / TR önce görünümleri; kayıtlı dersin Türkçesini yeniden çevirme.</li>
+          <li>Kurulumdan sonra AI istemeyen bir ilk adım; telefondaki koç isteğe bağlı, “Koçunu indir (Wi-Fi’da)” kartından iner.</li>
+          <li>Haftalık görevler ve sunum AI koçu olmadan da çalışır; essay taslağı kendiliğinden kaydedilir.</li>
+          <li>XP’de seviye adları yerine Kademe 1, 2, 3…; içe aktarılan kelimeler günlük hedefe sayılmaz, XP ilk başarılı tekrarda gelir.</li>
+          <li>Uygulama içinden güncelleme bildirimi; tarayıcı sürümünde “Tüm verileri sil” yalnızca SpeakSmith’in verisini siler.</li>
+        </ul>
+      </div>
+      <div class="card rv" style="--d:1"><span class="k">Çok eski bir sürümden geliyorsan</span><h3>0.5.0’dan eskiyse önce yedek al.</h3>
+        <p>0.5.0’dan önceki sürümler başka bir anahtarla imzalanmıştı; Android bunların üstüne kurmaya izin vermez. Bu durumda şu adımları izle:</p>
+        <ul class="ticks">
+          <li>Ayarlar › Veri yönetimi’nden yedek al.</li>
+          <li>Eski uygulamayı kaldır, yenisini kur.</li>
+          <li>İlk açılışta “Yedeğim var” de ve yedeği geri yükle.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="sorun" aria-labelledby="sorun-h" data-hide-mbar>
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Sorun giderme</p>
+      <h2 id="sorun-h">Kurulmadıysa.</h2>
+    </div>
+    <div class="faq">
+      <details><summary>Telefon “uygulama yüklenmedi” diyor.</summary><div><p>Genellikle iki nedeni olur: telefonda 0.5.0’dan eski, farklı imzalı bir sürüm kurulu (yukarıdaki adımlarla önce yedek al, sonra kaldır) ya da indirilen dosya telefonunun işlemcisine uygun değil. 32 bit bir telefondaysan sürümler sayfasından arm32 APK’yı indir.</p><p>Evrensel APK yalnızca hiç SpeakSmith kurulmamış, alışılmadık işlemcili bir cihaza ilk kurulum içindir. Kurulu bir SpeakSmith’i onarmaz ve onun üstüne kurulmaz: Android evrensel APK’nın sürüm numarasını arm64 ve arm32 sürümlerinden düşük sayar ve bunu eski sürüme dönüş diye reddeder. Güncellerken hep ilk kurduğun türü (çoğu telefonda arm64) indir.</p></div></details>
+      <details><summary>Telefon uygulamayı taramak ya da engellemek istiyor.</summary><div><p>Mağaza dışından kurulan uygulamalarda Android ve Google Play Protect bir uyarı ya da tarama gösterebilir. Dosyanın SHA-256 özetini yukarıdakiyle karşılaştırabilirsin. Emin değilsen kurmadan önce tarayıcı sürümünü dene.</p></div></details>
+      <details><summary>Ders Masası açılmıyor ya da yazı gelmiyor.</summary><div><p>İlk derste konuşma modelini (Base 142 MB ya da Tiny 75 MB) indirmen gerekir. Başlatma sayfasındaki “Kilitle, ders sürsün” kartı mikrofon, bildirim ve pil izinlerini gösterir; Ayarlar › İzinler hepsini bir arada listeler. İlk satırlar yaklaşık 30 saniye sonra gelir.</p></div></details>
+      <details><summary>Kilit ekranında kayıt duruyor.</summary><div><p>Bazı üreticiler arka plandaki uygulamaları kapatır. İzin kartındaki pil ayarına gidip SpeakSmith için “Kısıtlama yok” seçeneğini seçersen kesilme olasılığı büyük ölçüde azalır. Kayıt durursa uygulama bunu dönüşte söyler; uygulama kapanırsa ders bir sonraki açılışta kurtarılır.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="band night final" aria-labelledby="final-h" data-hide-mbar>
+  <div class="wrap">
+    <h2 id="final-h" class="rv">İngilizcenin içinde kal. <span class="grad-text">Yalnız kalma.</span></h2>
+    <div class="cta-row rv" style="--d:1">
+      <a class="btn btn-primary btn-lg not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download>APK’yı indir</a>
+      <a class="btn btn-primary btn-lg only-ios" href="../uygulama/">Tarayıcıda dene</a>
+      <a class="btn btn-ghost btn-lg" href="../">Özelliklere dön</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer data-hide-mbar>
+  <div class="wrap">
+    <div>
+      <a class="brand" href="../"><img src="../assets/favicon.svg" width="32" height="32" alt="">SpeakSmith</a>
+      <p>İngilizcenin içinde kal. Yalnız kalma.</p>
+    </div>
+    <div>
+      <h4>Sayfalar</h4>
+      <ul><li><a href="../">Ana sayfa</a></li><li><a href="../uygulama/">Tarayıcıda dene</a></li></ul>
+    </div>
+    <div>
+      <h4>Bilgi</h4>
+      <ul><li><a href="../gizlilik/">Gizlilik Politikası</a></li><li><a href="../gizlilik/kosullar.html">Kullanım Koşulları</a></li><li><a href="../en/" lang="en">English</a></li></ul>
+    </div>
+  </div>
+</footer>
+<nav class="mbar" aria-label="Hızlı erişim">
+  <a class="btn btn-primary not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download>APK’yı indir</a>
+  <a class="btn btn-ghost not-ios" href="../uygulama/">Tarayıcıda dene</a>
+  <a class="btn btn-primary only-ios" href="../uygulama/">Tarayıcıda dene</a>
+</nav>
+</body>
+</html>

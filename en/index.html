@@ -1,0 +1,597 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script>
+/* APK address: the version-less arm64 copy attached to every release (always the latest).
+   tools/build_site.sh replaces this constant and the data-download links in the assembled copy
+   when a DOWNLOAD_URL environment variable is given. On desktop the buttons lead to #download
+   (QR code); the install page indir/ is Turkish only, so English visitors stay on this page. */
+var DOWNLOAD_URL = "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk";
+(function (d) {
+  var r = d.documentElement;
+  try { var t = localStorage.getItem('ss-theme'); if (t === 'light' || t === 'dark') r.setAttribute('data-theme', t); } catch (e) {}
+  r.classList.add('js');
+  if (!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) && 'IntersectionObserver' in window) r.classList.add('motion');
+  /* Cihaz: iPhone/iPad'de APK yerine tarayıcı sürümü öne çıkar; masaüstünde QR gösterilir. */
+  var u = navigator.userAgent || '';
+  r.classList.add(/iPad|iPhone|iPod/.test(u) || (/Macintosh/.test(u) && navigator.maxTouchPoints > 1) ? 'dev-ios'
+    : /Android/i.test(u) ? 'dev-android' : (window.matchMedia && matchMedia('(pointer: coarse)').matches) ? 'dev-touch' : 'dev-desktop');
+  /* If site.js has not arrived after 3 s, only motion is switched off (hidden items show); the layout stays. */
+  setTimeout(function () { if (!window.__ss) r.classList.remove('motion'); }, 3000);
+})(document);
+</script>
+<title>SpeakSmith · English for Turkish speakers</title>
+<meta name="description" content="English for Turkish speakers: transcribe your lectures in English on your phone, learn with songs, speak, and review words at the right time. Turkish stays beside you and steps back. No account, no ads, free.">
+<meta name="ss-app-version" content="0.8.0">
+<link rel="canonical" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/en/">
+<link rel="alternate" hreflang="tr" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/">
+<link rel="alternate" hreflang="en" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/en/">
+<link rel="alternate" hreflang="x-default" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="SpeakSmith">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="tr_TR">
+<meta property="og:title" content="SpeakSmith · Stay inside English. Never alone.">
+<meta property="og:description" content="Lecture Desk, karaoke, speaking practice and word review in one app. Turkish beside you, stepping back as you grow. No account, no ads, free.">
+<meta property="og:url" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/en/">
+<meta property="og:image" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SpeakSmith · Stay inside English. Never alone.">
+<meta name="twitter:description" content="Lecture Desk, karaoke, speaking practice and word review in one app. No account, no ads, free.">
+<meta name="twitter:image" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/assets/og.jpg">
+<meta name="theme-color" content="#F7F6FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0C0B19" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<link rel="preload" href="../assets/fonts/spacegrotesk-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/site.css">
+<script defer src="../assets/site.js"></script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"SpeakSmith","applicationCategory":"EducationalApplication","operatingSystem":"Android 7.0+","softwareVersion":"0.8.0","inLanguage":["tr","en"],"description":"An English learning app for Turkish speakers: Lecture Desk, karaoke, speaking practice, spaced word review and a grammar map.","offers":{"@type":"Offer","price":"0","priceCurrency":"TRY"},"url":"https://mehmetyasinuzun.github.io/SpeakSmith-App/en/"}
+</script>
+</head>
+<body data-desktop-download="#download">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <linearGradient id="g-brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <symbol id="i-mark" viewBox="18 18 72 72"><rect x="18" y="18" width="72" height="72" rx="17" fill="url(#g-brand)"/><path fill="#fff" d="M39.32 32.69H68.75a10 10 0 0 1 10 10V57.57a10 10 0 0 1-10 10H39.32a10 10 0 0 1-10-10V42.69a10 10 0 0 1 10-10z"/><path fill="#fff" d="M42.03 64h12.4L40.49 76.53z"/><path fill="#4F46E5" d="M39.875 47.563a2 2 0 0 1 4 0v5.063a2 2 0 0 1-4 0zM48 44.183a2 2 0 0 1 4 0v11.834a2 2 0 0 1-4 0zM56.064 46.435a2 2 0 0 1 4 0v7.332a2 2 0 0 1-4 0zM64.186 43.622a2 2 0 0 1 4 0v12.943a2 2 0 0 1-4 0z"/><path fill="#FFD60A" d="M74.2 24.25l2.2 5.05 5.05 2.2-5.05 2.2-2.2 5.05-2.2-5.05-5.05-2.2 5.05-2.2z"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-x" viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+    <symbol id="i-android" viewBox="0 0 24 24"><path fill="currentColor" d="M17.6 9.48l1.84-3.18a.38.38 0 0 0-.66-.38l-1.86 3.22A11.4 11.4 0 0 0 12 8.15c-1.74 0-3.4.36-4.92 1L5.22 5.92a.38.38 0 0 0-.66.38L6.4 9.48A10.8 10.8 0 0 0 1 18h22a10.8 10.8 0 0 0-5.4-8.52zM7 15.25a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5zm10 0a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5z"/></symbol>
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-globe" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.6 3.8 5.6 3.8 9s-1.2 6.4-3.8 9c-2.6-2.6-3.8-5.6-3.8-9S9.4 5.6 12 3z"/></g></symbol>
+    <symbol id="i-desk" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="2.5"/><path d="M7 20h10M12 16v4M7 8.5h6M7 11.5h9"/></g></symbol>
+    <symbol id="i-yt" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="M10 9.2v5.6l4.8-2.8z" fill="currentColor"/></g></symbol>
+    <symbol id="i-music" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18V5l11-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="17" cy="16" r="3"/></g></symbol>
+    <symbol id="i-gap" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 8h5M16 8h5M3 16h18"/><path d="M10 9.5h4" stroke-dasharray="1.5 2"/></g></symbol>
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5h16v11H9l-5 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-present" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20l4-4 4 4M8 12l3-3 2 2 3-3"/></g></symbol>
+    <symbol id="i-repeat" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12a8 8 0 0 1 13.7-5.6L20 9"/><path d="M20 4v5h-5M20 12a8 8 0 0 1-13.7 5.6L4 15"/><path d="M4 20v-5h5"/></g></symbol>
+    <symbol id="i-cards" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="7" y="3" width="13" height="16" rx="2.5"/><path d="M4 7v11.5A2.5 2.5 0 0 0 6.5 21H15"/></g></symbol>
+    <symbol id="i-castle" viewBox="0 0 24 24"><path d="M4 21V9h3V6h2v3h2V4h2v5h2V6h2v3h3v12h-6v-4a2 2 0 0 0-4 0v4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-quote" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h4v4c0 3-1.5 5-4 6M15 7h4v4c0 3-1.5 5-4 6"/></g></symbol>
+    <symbol id="i-path" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="18" r="2.5"/><circle cx="18" cy="6" r="2.5"/><path d="M8.5 18H15a3 3 0 0 0 0-6H9a3 3 0 0 1 0-6h6.5"/></g></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24"><path d="M4 20l4.5-1 10-10a2.1 2.1 0 0 0-3-3l-10 10zM14 7l3 3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-film" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2.5"/><path d="M3 9h18M8 4l2 5M14 4l2 5"/></g></symbol>
+    <symbol id="i-cpu" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="6" y="6" width="12" height="12" rx="2.5"/><path d="M10 2v3M14 2v3M10 19v3M14 19v3M2 10h3M2 14h3M19 10h3M19 14h3"/><path d="M10 12l1.5 1.5L14.5 10"/></g></symbol>
+    <symbol id="i-save" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12M7 10l5 5 5-5"/><path d="M4 17v2.5A1.5 1.5 0 0 0 5.5 21h13a1.5 1.5 0 0 0 1.5-1.5V17"/></g></symbol>
+    <symbol id="i-lock" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="5" y="10.5" width="14" height="10" rx="2.5"/><path d="M8.5 10.5V7.5a3.5 3.5 0 0 1 7 0v3"/></g></symbol>
+    <symbol id="i-mic" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/></g></symbol>
+    <symbol id="i-headphones" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="5" height="7" rx="2"/><rect x="16" y="14" width="5" height="7" rx="2"/></g></symbol>
+    <symbol id="i-loop" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2l3 3-3 3"/><path d="M4 11V9a4 4 0 0 1 4-4h12M7 22l-3-3 3-3"/><path d="M20 13v2a4 4 0 0 1-4 4H4"/></g></symbol>
+    <symbol id="i-trophy" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M7 6H4v1a3 3 0 0 0 3 3M17 6h3v1a3 3 0 0 1-3 3M12 14v4M8 21h8M9 18h6"/></g></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path d="M5 21V4h11l-2 4 2 4H5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-trans" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h8M8 3v2M10.5 5c-.8 3.5-3 6.3-6 8M6 9c1.2 1.8 2.8 3.2 4.6 4"/><path d="M13 21l4-10 4 10M14.5 17.5h5"/></g></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24"><path fill="currentColor" d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path fill="currentColor" d="M8 5.5v13a1 1 0 0 0 1.5.86l10.4-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></symbol>
+    <symbol id="i-stop" viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12" rx="2.5" fill="currentColor"/></symbol>
+    <symbol id="i-chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></g></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-auto" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"/></g></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 4.5-3.4 8.2-8 9-4.6-.8-8-4.5-8-9V6z M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path d="M13 2L4 14h7l-1 8 9-12h-7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-fire" viewBox="0 0 24 24"><path d="M12 22c4 0 7-2.8 7-7 0-3.3-2-5.6-3.6-7.3-.4 1.9-1.4 3.2-2.7 3.8.2-3.2-1.3-6.3-4.2-8.5.2 3-1.4 5-3 7C4.4 11.4 5 13 5 15c0 4.2 3 7 7 7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5M8 7h7"/></g></symbol>
+  </defs>
+</svg>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="./" aria-label="SpeakSmith home"><svg aria-hidden="true"><use href="#i-mark"/></svg>SpeakSmith</a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#lecture">Lecture Desk</a>
+      <a href="#karaoke">Karaoke</a>
+      <a href="#speaking">Speaking</a>
+      <a href="#words">Words</a>
+      <a href="#privacy">Privacy</a>
+      <a href="#faq">FAQ</a>
+    </nav>
+    <div class="top-actions">
+      <button class="icon-btn theme-btn" type="button" data-theme-btn data-l-system="Theme: system (change)" data-l-light="Theme: light (change)" data-l-dark="Theme: dark (change)" aria-label="Theme: system (change)">
+        <svg data-ic="system" aria-hidden="true"><use href="#i-auto"/></svg><svg data-ic="light" aria-hidden="true"><use href="#i-sun"/></svg><svg data-ic="dark" aria-hidden="true"><use href="#i-moon"/></svg>
+      </button>
+      <a class="icon-btn" href="../" hreflang="tr" lang="tr" aria-label="Türkçe sürüm">TR</a>
+      <details class="menu">
+        <summary class="icon-btn" aria-label="Menu"><svg aria-hidden="true"><use href="#i-menu"/></svg></summary>
+        <div class="menu-panel">
+          <a href="#features">All features</a>
+          <a href="#lecture">Lecture Desk</a>
+          <a href="#karaoke">Karaoke</a>
+          <a href="#speaking">Speaking</a>
+          <a href="#words">Words and grammar</a>
+          <a href="#privacy">Privacy</a>
+          <a href="#faq">FAQ</a>
+          <a href="../uygulama/">Try in the browser</a>
+        </div>
+      </details>
+      <a class="btn btn-primary btn-sm hide-xs not-ios" href="#download">Download</a>
+      <a class="btn btn-primary btn-sm hide-xs only-ios" href="../uygulama/">Try in the browser</a>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<section class="hero night" aria-labelledby="hero-h">
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i></div>
+  <div class="wrap">
+    <div>
+      <a class="new-pill" href="#lecture"><b>0.8.0</b> New: share a YouTube video, watch it as a lecture <svg class="arr" width="16" height="16" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      <h1 id="hero-h"><span class="line">Stay inside English.</span> <span class="line"><mark class="hl">Never alone.</mark></span></h1>
+      <p class="lead"><strong class="kicker">A free English app for Turkish speakers.</strong> Your lecturer’s English is transcribed on your phone; you learn with songs, speaking practice and spaced review. Turkish stays beside you where you get stuck, and steps back as you grow.</p>
+      <div class="cta-row" id="hero-cta">
+        <a class="btn btn-primary btn-lg not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download>
+          <svg aria-hidden="true"><use href="#i-android"/></svg>
+          <span class="stack">Download for Android<small class="not-desktop">Free · APK · ~105 MB · version 0.8.0</small><small class="only-desktop">Free · to your phone via QR</small></span>
+        </a>
+        <a class="btn btn-ghost btn-lg not-ios" href="../uygulama/"><span class="stack">Try in the browser<small>No install · first load ~7–14 MB</small></span> <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <a class="btn btn-primary btn-lg only-ios" href="../uygulama/">
+          <svg aria-hidden="true"><use href="#i-globe"/></svg>
+          <span class="stack">Try in the browser<small>Nothing to install on iPhone · first load ~7–14 MB</small></span>
+        </a>
+      </div>
+      <p class="cta-meta only-ios">There is no iPhone app yet. Word review, the grammar map, patterns and the learning path work in the browser; Lecture Desk is Android-only.</p>
+      <p class="cta-meta only-android">When the download finishes, open the file; if asked, allow installs from this source. <a href="#download">Install steps</a></p>
+      <ul class="facts">
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg>Free</li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg>No account</li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg>No ads</li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg>Lecture audio never leaves the phone</li>
+      </ul>
+    </div>
+
+    <div class="stage">
+      <div class="phone-wrap">
+      <span class="float f1" aria-hidden="true"><i>T</i>Terms stay in English</span>
+      <span class="float f2" aria-hidden="true"><i><svg width="14" height="14"><use href="#i-check"/></svg></i>Audio stays on the phone</span>
+      <span class="float f3" aria-hidden="true"><i><svg width="14" height="14"><use href="#i-lock"/></svg></i>Continues when locked</span>
+      <p class="sr">Animation: an Operating Systems lecture in the Lecture Desk. English sentences stream in; the Turkish line shows according to the chosen level: under every sentence, only on tap, or off.</p>
+      <div class="phone floaty" aria-hidden="true">
+        <div class="screen">
+          <div class="app">
+            <div class="app-top">
+              <div class="ab"><svg><use href="#i-chev"/></svg>CSE 331 <span class="live">LIVE <span data-live-clock>14:02</span></span><span class="meter"><b></b><b></b><b></b><b></b><b></b></span></div>
+              <div class="chiprow"><span class="chip-s"><svg><use href="#i-lock"/></svg>Continues when locked</span><span>On-device translation</span></div>
+            </div>
+            <div class="pending" data-pending></div>
+            <div class="tx" data-tx>
+              <div class="seg"><div class="row"><div class="en">When the timer fires, the <span class="t-term" data-term="kernel">kernel</span> performs a <span class="t-term" data-term="context switch">context switch</span>.</div></div><div class="tr">Zamanlayıcı tetiklenince kernel (çekirdek) bir context switch (bağlam değişimi) yapar.</div></div>
+              <div class="seg"><div class="row"><div class="en">Saving every <span class="t-term" data-term="register">register</span> is pure <span class="t-term" data-term="overhead">overhead</span>; <span class="t-acad">consequently</span>, switches are not free.</div></div><div class="tr">Kaydedilen her register (yazmaç) saf overhead (ek maliyet) demektir; bu yüzden geçişler bedava değildir.</div></div>
+              <div class="seg"><div class="row"><div class="en">If a <span class="t-term" data-term="thread">thread</span> holds a <span class="t-term" data-term="mutex">mutex</span> and waits for another, we can get a <span class="t-term" data-term="deadlock">deadlock</span>.</div></div><div class="tr">Bir thread (iş parçacığı) mutex (karşılıklı dışlama kilidi) tutup bir başkasını beklerse deadlock (kilitlenme) oluşabilir.</div></div>
+            </div>
+            <div class="wcard" data-wcard><div class="w"><span data-w>deadlock</span><small data-k>TERM</small></div><p data-m>kilitlenme</p><span class="add">Add to my list</span></div>
+            <div class="actions">
+              <span class="flag"><svg><use href="#i-flag"/></svg>Lost me</span>
+              <span class="ic"><svg><use href="#i-star"/></svg></span>
+              <span class="ic"><svg><use href="#i-trans"/></svg></span>
+              <span class="ic"><svg><use href="#i-pause"/></svg></span>
+              <span class="ic end"><svg><use href="#i-stop"/></svg></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      <div class="ladder-wrap">
+        <div class="ladder" role="group" aria-label="Turkish line level" data-ladder data-level="0">
+          <span class="thumb" aria-hidden="true"></span>
+          <button type="button" data-level-btn="0" aria-pressed="true">Beside</button>
+          <button type="button" data-level-btn="1" aria-pressed="false">On tap</button>
+          <button type="button" data-level-btn="2" aria-pressed="false">Off</button>
+        </div>
+        <div class="ladder-meta">
+          <span>Turkish</span><span class="eco" aria-hidden="true"><i></i></span><span>English</span>
+          <button class="tour-btn" type="button" data-tour aria-pressed="true" data-l-pause="Pause" data-l-play="Play">
+            <svg data-ic="pause" aria-hidden="true"><use href="#i-pause"/></svg><svg data-ic="play" aria-hidden="true" hidden><use href="#i-play"/></svg><span data-label>Pause</span>
+          </button>
+        </div>
+        <p class="ladder-cap" data-ladder-cap><b>Beside.</b> English first, Turkish under every sentence. Terms stay in English; their Turkish appears in brackets only the first time.</p>
+        <p class="note" style="text-align:center">Sped-up animation with example sentences. In the app text arrives in chunks of about 30 seconds. The app’s interface is fully available in English.</p>
+      </div>
+    </div>
+  </div>
+  <script type="application/json" id="demo-data">
+  {"wait":"Turkish on its way…","pending":"transcribing · 1 chunk","clock":842,
+   "caps":["<b>Beside.</b> English first, Turkish under every sentence. Terms stay in English; their Turkish appears in brackets only the first time.","<b>On tap.</b> Turkish hidden. Stuck on a sentence? Tap TR and only that sentence’s Turkish opens; tap again to close it.","<b>Off.</b> English only. Tap a term and its word card still opens; you are never alone."],
+   "segs":[
+    {"en":"The OS <span class=\"t-acad\">allocates</span> a separate <span class=\"t-term\" data-term=\"address space\">address space</span> to every <span class=\"t-term\" data-term=\"process\">process</span>.","tr":"İşletim sistemi her process (süreç) için ayrı bir address space (adres uzayı) ayırır."},
+    {"en":"When the timer fires, the <span class=\"t-term\" data-term=\"kernel\">kernel</span> performs a <span class=\"t-term\" data-term=\"context switch\">context switch</span>.","tr":"Zamanlayıcı tetiklenince kernel (çekirdek) bir context switch (bağlam değişimi) yapar."},
+    {"en":"Saving every <span class=\"t-term\" data-term=\"register\">register</span> is pure <span class=\"t-term\" data-term=\"overhead\">overhead</span>; <span class=\"t-acad\">consequently</span>, switches are not free.","tr":"Kaydedilen her register (yazmaç) saf overhead (ek maliyet) demektir; bu yüzden geçişler bedava değildir."},
+    {"en":"If a <span class=\"t-term\" data-term=\"thread\">thread</span> holds a <span class=\"t-term\" data-term=\"mutex\">mutex</span> and waits for another, we can get a <span class=\"t-term\" data-term=\"deadlock\">deadlock</span>.","tr":"Bir thread (iş parçacığı) mutex (karşılıklı dışlama kilidi) tutup bir başkasını beklerse deadlock (kilitlenme) oluşabilir."},
+    {"en":"A <span class=\"t-term\" data-term=\"semaphore\">semaphore</span> <span class=\"t-acad\">ensures</span> that at most n threads enter the <span class=\"t-term\" data-term=\"critical section\">critical section</span>.","tr":"Bir semaphore (eşzamanlılık sayacı), critical section (kritik bölge) içine en fazla n thread girmesini sağlar."}
+   ],
+   "gloss":{"address space":{"tr":"adres uzayı","kind":"TERM"},"process":{"tr":"süreç","kind":"TERM"},"kernel":{"tr":"çekirdek","kind":"TERM"},"context switch":{"tr":"bağlam değişimi","kind":"TERM"},"register":{"tr":"yazmaç","kind":"TERM"},"overhead":{"tr":"ek maliyet","kind":"TERM"},"thread":{"tr":"iş parçacığı","kind":"TERM"},"mutex":{"tr":"karşılıklı dışlama kilidi","kind":"TERM"},"deadlock":{"tr":"kilitlenme","kind":"TERM"},"semaphore":{"tr":"eşzamanlılık sayacı","kind":"TERM"},"critical section":{"tr":"kritik bölge","kind":"TERM"}}}
+  </script>
+</section>
+
+<section class="stats-band" aria-label="What is inside the app">
+  <div class="wrap">
+  <div class="stats rv">
+    <div class="stat"><strong class="num" data-count="2800">2,800</strong><span><b>words</b> in A1–C1 packs, each with an example</span></div>
+    <div class="stat"><strong class="num" data-count="112">112</strong><span><b>mini lessons</b> on an 8-track learning path</span></div>
+    <div class="stat"><strong class="num" data-count="120">120</strong><span><b>improv scenes</b>, Turkish situation, English answer</span></div>
+    <div class="stat"><strong class="num" data-count="33">33</strong><span><b>grammar castles</b> from A1 to C1</span></div>
+    <div class="stat"><strong class="num" data-count="23">23</strong><span><b>songs</b> in the ready-made karaoke catalogue</span></div>
+    <div class="stat"><strong class="num" data-count="138">138</strong><span><b>speaking patterns</b> across 15 functions</span></div>
+  </div>
+  <p class="stats-note">Counted from the content of app version 0.8.0.</p>
+  </div>
+</section>
+
+<section class="band alt" id="why" aria-labelledby="why-h">
+  <div class="wrap">
+    <div class="band-head center"><p class="eyebrow">Why SpeakSmith</p><h2 id="why-h">What isn’t there matters as much as what is.</h2></div>
+    <div class="why">
+      <div class="col yes rv from-l"><h3>Yes</h3><ul>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>On-device transcription.</b> Lecture audio is processed by the Whisper model on the phone.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>Turkish that steps back.</b> You choose how much you see; the app tells you, with a number, how much you looked.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>A core that works without AI.</b> Lecture Desk, word review, grammar, patterns, shadowing and karaoke.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-check"/></svg><span><b>Your own AI, if you want.</b> A free on-device model (7 models, 378 MB to 3.1 GB) or your own cloud key. Nothing downloads by itself.</span></li>
+      </ul></div>
+      <div class="col no rv" style="--d:1"><h3>No</h3><ul>
+        <li><svg aria-hidden="true"><use href="#i-x"/></svg><span><b>Account.</b> No sign-up, no email, no phone number.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-x"/></svg><span><b>Ads or analytics.</b> No ad, analytics or tracking libraries. The one exception: on Android, Google ML Kit (on-device translation) may send technical metrics to Google.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-x"/></svg><span><b>Subscription.</b> The app is free, with no in-app purchases.</span></li>
+        <li><svg aria-hidden="true"><use href="#i-x"/></svg><span><b>Invented terms.</b> A term without a known Turkish stays blank instead of being machine-translated.</span></li>
+      </ul></div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="ecotone" aria-labelledby="eco-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">The transition zone</p>
+      <h2 id="eco-h">Turkish is the bridge. <span class="grad-text">English is the destination.</span></h2>
+      <p class="lead">In ecology, the strip where two habitats blend is called an ecotone. SpeakSmith builds one from Turkish to English: you are always inside English, you choose how much Turkish support you use, and you pull it back as you get ready.</p>
+    </div>
+    <div class="eco-track" aria-hidden="true"><span>Turkish</span><span>English</span><div class="rail"><div class="mover"><i class="knob"><svg><use href="#i-arrow"/></svg></i></div></div></div>
+    <ol class="eco-steps">
+      <li class="rv" style="--d:0;--k:.25"><b>Beside</b><p>Turkish under every English sentence. Terms stay in English with their Turkish in brackets the first time only.</p><span class="bar"></span></li>
+      <li class="rv" style="--d:1;--k:.5"><b>On tap</b><p>Turkish hidden. Tap “TR” on the sentence you are stuck on; only that one opens.</p><span class="bar"></span></li>
+      <li class="rv" style="--d:2;--k:.75"><b>Off</b><p>English only. Tapping a word still opens its card. The exam will ask for the English anyway.</p><span class="bar"></span></li>
+      <li class="rv" style="--d:3;--k:1"><b>Your turn</b><p>In improv the situation is given in Turkish and you answer in English; hints open only when you ask. In presentations you speak for 1–3 minutes.</p><span class="bar"></span></li>
+    </ol>
+    <p class="note mt-m">The lecture summary tells you, with a measured number, how much you relied on Turkish. After three lectures with very little Turkish, the app suggests moving one level up, once; the level never changes by itself. When you reread a lecture you pick <b>Both</b>, <b>EN</b> or <b>TR first</b>; even in TR first the English stays on screen.</p>
+  </div>
+</section>
+
+<section class="band alt" id="features" aria-labelledby="feat-h">
+  <div class="wrap">
+    <div class="band-head center">
+      <p class="eyebrow">One app</p>
+      <h2 id="feat-h">From lectures to songs, from chats to review.</h2>
+      <p class="lead">Every card is a feature that works in today’s version. Tags tell you what it needs.</p>
+    </div>
+    <div class="fgrid scroller">
+      <a class="fcard rv" style="--d:0" href="#lecture"><span class="fi"><svg aria-hidden="true"><use href="#i-desk"/></svg></span><h3>Lecture Desk</h3><p>Transcribes a live English lecture on the phone, offline. Keeps going with the screen locked.</p><span class="tags"><i class="and">Android</i><i class="off">offline</i></span></a>
+      <a class="fcard rv" style="--d:1" href="#lecture"><span class="fi"><svg aria-hidden="true"><use href="#i-yt"/></svg></span><h3>YouTube lecture</h3><p>A captioned lecture video becomes a lecture, sentence by sentence. In YouTube: Share › SpeakSmith › “Watch as a lecture”.</p><span class="tags"><i class="new">new</i><i class="and">Android</i><i>internet</i></span></a>
+      <a class="fcard rv" style="--d:2" href="#karaoke"><span class="fi"><svg aria-hidden="true"><use href="#i-music"/></svg></span><h3>Karaoke catalogue</h3><p>23 songs on shelves by level. Word-by-word fill and the line’s Turkish.</p><span class="tags"><i>internet</i></span></a>
+      <a class="fcard rv" style="--d:3" href="#karaoke"><span class="fi"><svg aria-hidden="true"><use href="#i-loop"/></svg></span><h3>Line practice</h3><p>Loop a weak line: listen, sing along, then solo. Compare your voice with the original.</p><span class="tags"><i class="and">Android</i></span></a>
+      <a class="fcard rv" style="--d:0" href="#karaoke"><span class="fi"><svg aria-hidden="true"><use href="#i-gap"/></svg></span><h3>Fill the gaps</h3><p>The song stops at the gap; pick or type the missing word. No microphone needed.</p><span class="tags"><i>no AI</i></span></a>
+      <a class="fcard rv" style="--d:1" href="#speaking"><span class="fi"><svg aria-hidden="true"><use href="#i-chat"/></svg></span><h3>Improv</h3><p>120 scenes. A Turkish situation, a spoken English answer. If the character doesn’t understand you, it says so.</p><span class="tags"><i class="ai">AI coach</i></span></a>
+      <a class="fcard rv" style="--d:2" href="#speaking"><span class="fi"><svg aria-hidden="true"><use href="#i-present"/></svg></span><h3>Presentation</h3><p>Talk for 1–3 minutes; see your pace, filler words and presentation functions right away.</p><span class="tags"><i>no-AI metrics</i></span></a>
+      <a class="fcard rv" style="--d:3" href="#speaking"><span class="fi"><svg aria-hidden="true"><use href="#i-repeat"/></svg></span><h3>Shadowing</h3><p>Listen, repeat, and see a word-by-word comparison.</p><span class="tags"><i>no AI</i></span></a>
+      <a class="fcard rv" style="--d:0" href="#words"><span class="fi"><svg aria-hidden="true"><use href="#i-cards"/></svg></span><h3>Word review</h3><p>FSRS-5 spaced repetition, 6 exercise types, 2,800-word level packs.</p><span class="tags"><i class="off">offline</i></span></a>
+      <a class="fcard rv" style="--d:1" href="#words"><span class="fi"><svg aria-hidden="true"><use href="#i-castle"/></svg></span><h3>Grammar map</h3><p>33 castles, 208 mini exercises, 99 tips; 33 of them are “Turkish traps”.</p><span class="tags"><i class="off">offline</i></span></a>
+      <a class="fcard rv" style="--d:2" href="#words"><span class="fi"><svg aria-hidden="true"><use href="#i-quote"/></svg></span><h3>Speaking patterns</h3><p>138 patterns across 15 functions such as suggesting or politely disagreeing.</p><span class="tags"><i class="off">offline</i></span></a>
+      <a class="fcard rv" style="--d:3" href="#habit"><span class="fi"><svg aria-hidden="true"><use href="#i-path"/></svg></span><h3>Learning path</h3><p>112 steps across 8 tracks; each step has a short lesson, the next one waits on the home screen.</p><span class="tags"><i class="off">offline</i></span></a>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="lecture" aria-labelledby="lec-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Lecture Desk · Android</p>
+      <h2 id="lec-h">Put the phone on the desk. <span class="grad-text">Let the lecture flow in English.</span></h2>
+      <p class="lead">The lecturer speaks; sentences appear on screen. The on-device Whisper model does the transcription: after a one-time download no internet is needed and audio never goes to a server.</p>
+    </div>
+    <div class="story">
+      <div class="story-device" aria-hidden="true">
+        <div class="phone">
+          <div class="screen">
+            <div class="layer on" data-layer="0"><img class="pad" src="../assets/img/desk-home.webp" width="600" height="1191" alt="" loading="lazy" decoding="async"></div>
+            <div class="layer" data-layer="1"><img class="pad" src="../assets/img/desk-start.webp" width="600" height="1191" alt="" loading="lazy" decoding="async"></div>
+            <div class="layer shade" data-layer="2"><img src="../assets/img/desk-notif.webp" width="600" height="631" alt="" loading="lazy" decoding="async"></div>
+            <div class="layer" data-layer="3"><img class="pad" src="../assets/img/desk-return.webp" width="600" height="1191" alt="" loading="lazy" decoding="async"></div>
+          </div>
+        </div>
+        <div class="story-dots"><i class="on"></i><i></i><i></i><i></i></div>
+      </div>
+      <div class="steps">
+        <article class="step" data-step="0">
+          <span class="k">01 · INTRODUCE YOUR COURSE</span>
+          <h3>Terms don’t get mangled, because the app knows your course.</h3>
+          <p>Operating Systems (118 terms) and Differential Equations (68 terms) come as ready templates. Paste your syllabus or pick its PDF and term candidates are found offline; you choose which to add. A term with no known Turkish stays blank instead of being machine-translated.</p>
+          <figure class="step-shot"><div class="phone"><div class="screen"><img class="pad" src="../assets/img/desk-home.webp" width="600" height="1191" alt="Lecture Desk screen in Turkish: live lecture pill, add a YouTube lecture, CSE 331 and MATH 241 templates" loading="lazy" decoding="async"></div></div></figure>
+        </article>
+        <article class="step" data-step="1">
+          <span class="k">02 · BEFORE YOU START</span>
+          <h3>A classroom microphone, permissions in plain words.</h3>
+          <p>In “Far (classroom)” mode the phone uses a suitable microphone source; audio is filtered and boosted up to 12×, and silent chunks are never sent for transcription. You pick the Turkish line level and the translation route here, and optionally keep the audio (90 minutes ≈ 21 MB).</p>
+          <figure class="step-shot"><div class="phone"><div class="screen"><img class="pad" src="../assets/img/desk-start.webp" width="600" height="1191" alt="Start sheet in Turkish: keep audio, Far (classroom) microphone, Turkish line, lecture translation, lock-screen readiness 3/3" loading="lazy" decoding="async"></div></div></figure>
+        </article>
+        <article class="step" data-step="2">
+          <span class="k">03 · LOCK IT</span>
+          <h3>Lock the phone. The lecture keeps going.</h3>
+          <p>Recording and transcription continue with the screen locked or in another app, with a quiet notification showing the time and a Pause button. Text is saved every 30-second chunk; if the app closes mid-lecture, the rest is transcribed on the next launch.</p>
+          <figure class="step-shot"><div class="phone"><div class="screen" style="background:#DAD9E0"><img src="../assets/img/desk-notif.webp" width="600" height="631" alt="Notification shade: SpeakSmith, lecture recording, keeps going on the lock screen, Pause" loading="lazy" decoding="async"></div></div></figure>
+        </article>
+        <article class="step" data-step="3">
+          <span class="k">04 · WHEN YOU COME BACK</span>
+          <h3>“Recorded 00:40 while you were away.”</h3>
+          <p>Back at the desk it tells you plainly what happened, how many new lines arrived, and if recording stopped it says so and offers “Continue”. Sentences you flagged with “Lost me” (placed 2 seconds back) land under “Questions for the lecturer” in the lecture notes, with or without AI. Later you can reread it as Both, EN or TR first, and have its Turkish lines translated again.</p>
+          <figure class="step-shot"><div class="phone"><div class="screen"><img class="pad" src="../assets/img/desk-return.webp" width="600" height="1191" alt="Live lecture screen in Turkish: weak audio warning and recorded 00:40 while you were away pill" loading="lazy" decoding="async"></div></div></figure>
+        </article>
+      </div>
+    </div>
+    <p class="note mt-m"><strong>Good to know:</strong> transcription is not real-time; the first lines arrive after about 30 seconds. The models transcribe English speech only. Ask your lecturer and school before recording.</p>
+    <div class="section-cta"><a class="btn btn-primary" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Get the APK for Lecture Desk</a><span class="note">Lecture Desk runs in the Android app. A YouTube lecture comes in via Share › SpeakSmith › “Watch as a lecture”.</span></div>
+  </div>
+</section>
+
+<section class="band night karaoke" id="karaoke" aria-labelledby="kar-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Karaoke · a 23-song catalogue</p>
+      <h2 id="kar-h">Listen, sing, <span class="grad-text">fill the gap.</span></h2>
+      <p class="lead">23 songs from A1 to C1 on shelves by level, yours first. One tap prepares the lyrics and opens the player. Words fill as they are sung, with the line’s Turkish underneath if you want it.</p>
+    </div>
+    <div class="k-layout">
+      <div>
+        <div class="kplayer rv scale" data-kar>
+          <div class="k-now">
+            <span class="k-art" aria-hidden="true">♪</span>
+            <div><b>Sample song</b><small>Lyrics written for this page</small></div>
+            <span class="k-level">A2 · estimate</span>
+          </div>
+          <div class="k-tabs" aria-hidden="true"><span class="on">Listen</span><span>Karaoke</span><span>Gaps</span></div>
+          <div class="lyrics">
+            <p class="ly cur" data-tr="Sessiz nehir boyunca yürüyoruz"><span class="w" data-d="420" data-m="biz">We</span> <span class="w" data-d="460" data-m="yürümek">walk</span> <span class="w" data-d="480" data-m="boyunca">along</span> <span class="w" data-d="300">the</span> <span class="w" data-d="520" data-m="sessiz, sakin">quiet</span> <span class="w" data-d="640" data-m="nehir">river</span></p>
+            <p class="ly" data-tr="Şehrin ışıkları bu gece yanıyor"><span class="w" data-d="300">The</span> <span class="w" data-d="440" data-m="şehir">city</span> <span class="w" data-d="520" data-m="ışıklar">lights</span> <span class="w" data-d="300">are</span> <span class="w" data-d="360" data-m="açık, yanıyor">on</span> <span class="w" data-d="680" data-m="bu gece">tonight</span></p>
+            <p class="ly" data-tr="Ve her kelime bana geri dönüyor"><span class="w" data-d="300">And</span> <span class="w" data-d="440" data-m="her">every</span> <span class="w" data-d="520" data-m="kelime">word</span> <span class="w" data-d="440" data-m="gelmek; comes back: geri gelmek">comes</span> <span class="w" data-d="420" data-m="geri">back</span> <span class="w" data-d="300">to</span> <span class="w" data-d="620">me</span></p>
+            <p class="ly-tr" data-k-tr aria-live="off"></p>
+          </div>
+          <div class="k-ctrl">
+            <button class="k-play" type="button" data-k-play aria-pressed="false" aria-label="Play" data-l-play="Play" data-l-pause="Pause"><svg data-ic="play" aria-hidden="true"><use href="#i-play"/></svg><svg data-ic="pause" aria-hidden="true"><use href="#i-pause"/></svg></button>
+            <div class="k-prog" aria-hidden="true"><i></i></div>
+            <label class="switch"><input type="checkbox" data-k-trsw checked> Line in Turkish</label>
+          </div>
+          <div class="kpop" data-k-pop role="dialog" aria-label="Word card"><b>river</b><p>nehir</p><button type="button" data-l-add="Add to my list" data-l-added="In your list ✓">Add to my list</button></div>
+        </div>
+        <p class="note mt-s">Press play, then tap a word. In the app you get its meaning in context and one tap adds it to your list.</p>
+      </div>
+      <div class="k-feats">
+        <div class="k-feat rv" style="--d:0"><span class="fi"><svg aria-hidden="true"><use href="#i-music"/></svg></span><div><b>Shelves by level</b><p>A song’s level is estimated from its words, repetition and tempo, and is labelled “estimate”.</p></div></div>
+        <div class="k-feat rv" style="--d:1"><span class="fi"><svg aria-hidden="true"><use href="#i-loop"/></svg></span><div><b>Line practice</b><p>Tap a line in the result or “Practise the 3 weakest lines”: the line loops, and tempo rises on good rounds.</p><div class="practice-steps" data-practice aria-hidden="true"><span class="on">Listen first</span><span>Sing along</span><span>Solo</span></div></div></div>
+        <div class="k-feat rv" style="--d:2"><span class="fi"><svg aria-hidden="true"><use href="#i-headphones"/></svg></span><div><b>Hear yourself</b><p>Long-press a line: your voice first, then the original. The result stays in the player.</p></div></div>
+        <div class="k-feat rv" style="--d:3"><span class="fi"><svg aria-hidden="true"><use href="#i-shield"/></svg></span><div><b>Scores that aren’t inflated</b><p>After the song, the words you sang are compared with the lyrics: a percentage per line, A–F for the song. A chorus you skipped doesn’t score full marks. Without headphones the original vocals can leak into the mic; that score is marked “estimate” and earns no bonus.</p></div></div>
+      </div>
+    </div>
+    <div class="cloze-wrap">
+      <div class="cloze rv" data-cloze data-msg-start="The song stopped here. Which word fills the gap?" data-msg-ok="Correct! The song carries on." data-msg-bad="Not quite, one life lost. Try again." data-msg-out="Out of lives. In the app you replay the line and try again.">
+        <div class="row"><span class="eyebrow">Fill the gap · try it</span><span class="hearts" aria-label="3 lives" data-l-hearts="{n} lives"><i>♥</i><i>♥</i><i>♥</i></span></div>
+        <p class="line">And every <span class="gap">&nbsp;</span> comes back to me</p>
+        <div class="opts" role="group" aria-label="Options">
+          <button class="opt" type="button">world</button>
+          <button class="opt" type="button" data-ok>word</button>
+          <button class="opt" type="button">wall</button>
+        </div>
+        <p class="msg" aria-live="polite">The song stopped here. Which word fills the gap?</p>
+        <button class="btn btn-ghost btn-sm" type="button" data-again hidden>Try again</button>
+      </div>
+      <figure class="shot-card rv" style="--d:1"><img src="../assets/img/cloze.webp" width="600" height="1096" alt="Fill-the-gaps settings in Turkish: difficulty, answer by choosing or typing, 3 lives, Start" loading="lazy" decoding="async"></figure>
+    </div>
+    <p class="note mt-m"><strong style="color:var(--ink-2)">Good to know:</strong> the catalogue holds only title, artist, level and tempo; lyrics and audio are not bundled. Songs play in the in-app YouTube player (internet needed), with lyrics from YouTube’s captions or LRCLIB. On Android, scoring and line practice use a one-time Whisper download and your recording never leaves the phone. In the browser the browser’s speech recognition scores you; unless you confirm “My headphones are on”, the score counts as an estimate with no bonus and no best score.</p>
+    <div class="section-cta"><a class="btn btn-primary" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Get the APK, open your first song</a><a class="btn btn-ghost" href="../uygulama/#/karaoke">Open the catalogue in the browser <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+  </div>
+</section>
+
+<section class="band" id="speaking" aria-labelledby="spk-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Speaking</p>
+      <h2 id="spk-h">No memorised lines. <span class="grad-text">A situation, and you.</span></h2>
+    </div>
+    <div class="talk-layout">
+      <figure class="rv from-l">
+        <div class="phone"><div class="screen"><img class="pad" src="../assets/img/shadowing.webp" width="600" height="1191" alt="Shadowing screen: Honestly, I haven't made up my mind about it yet; Listen and Slow buttons; paused, continue where you left off" loading="lazy" decoding="async"></div></div>
+        <figcaption>Real screen: the mic turned off when the phone locked.</figcaption>
+      </figure>
+      <div class="grid2">
+        <div class="card rv" style="--d:0"><span class="k">Improv · 120 scenes · A2–C1</span><h3>A Turkish situation, an English answer.</h3>
+          <div class="bubbles"><div class="bub me" style="--i:0">Hi, I think my package in your house.</div><div class="bub them huh" style="--i:1">Sorry — you want me to do what?</div><div class="bub me" style="--i:2">Sorry! A delivery for me was left with you. Could I pick it up?</div><div class="bub them" style="--i:3">Oh, the box! Sure, one second.</div></div>
+          <p class="note mt-s">If the character really doesn’t understand you, it says so. Example chat; needs an AI coach.</p></div>
+        <div class="card rv" style="--d:1"><span class="k">Presentation · 1–3 minutes</span><h3>Speak, get measured.</h3><p>Without AI, right on the phone: words per minute, which filler word how often, and how many of 6 presentation functions you built. Topic chips need no AI either.</p><div class="statrow"><span class="pill-s mono"><b>128</b> wpm</span><span class="pill-s mono">um <b>×3</b></span><span class="pill-s mono"><b>4/6</b> functions</span></div><p class="note mt-s">Example numbers. If speech recognition or the mic permission is unavailable, you carry on by typing.</p></div>
+        <div class="card rv" style="--d:2"><span class="k">Shadowing · sentences for your level</span><h3>Say what you heard, see what’s missing.</h3><div class="diff" aria-label="Comparison example: reschedule missing"><span style="--i:0">I’d</span><span style="--i:1">like</span><span style="--i:2">to</span><span class="miss" style="--i:3">reschedule</span><span style="--i:4">our</span><span style="--i:5">meeting</span></div><p class="note mt-s">It checks the words you said; it is not a pronunciation or phoneme analysis.</p></div>
+        <div class="card rv" style="--d:3"><span class="k">Microphone · only when you start it</span><h3>If it says “Listening”, it really is.</h3><p>In shadowing, presentations and spoken word review the mic turns off as soon as the phone locks or a window opens on top, and never turns itself back on.</p><div class="mic-demo" data-state="on" data-mic='[["on","Listening"],["off","Phone locked · mic off"],["off","Paused — continue where you left off"]]'><i class="dot" aria-hidden="true"></i><span>Listening</span></div></div>
+      </div>
+    </div>
+    <div class="section-cta"><a class="btn btn-primary" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Get the APK, play your first scene</a><span class="note">Shadowing and presentation metrics work from day one; improv needs an AI coach. The chat characters are fictional.</span></div>
+  </div>
+</section>
+
+<section class="band alt" id="words" aria-labelledby="w-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Words · Grammar · Patterns</p>
+      <h2 id="w-h">Words come back <span class="grad-text">at the right time.</span></h2>
+      <p class="lead">FSRS-5 schedules each word’s next review. Due reviews always come first; new words join at your daily limit (10 by default). Words from lectures, songs and chats meet in the same deck.</p>
+    </div>
+    <div class="grid2 mt-l">
+      <div class="rv">
+        <button class="flip" type="button" aria-pressed="false" aria-label="Flip the card: sympathetic"><span class="inner"><span class="face front"><span class="hint">English → Turkish · tap to flip</span><span class="big">sympathetic</span><span class="hint">Remember the Turkish?</span></span><span class="face back"><span class="hint">sympathetic</span><span class="big">anlayışlı</span><span class="hint">For “sempatik”, say likeable or nice.</span></span></span></button>
+        <div class="drills" aria-label="Exercise types"><span>3D flashcard</span><span>Typing</span><span>Listening</span><span>Speaking</span><span>Cloze</span><span>Matching</span></div>
+        <ul class="ticks"><li><b>2,800 words</b> in A1–C1 packs, each with an example and its Turkish.</li><li><b>58 false friends</b>, 47 with a tip for Turkish learners.</li></ul>
+      </div>
+      <div class="card rv" style="--d:1"><span class="k">Grammar · conquest map</span><h3>33 castles, 5 levels.</h3><p>Each topic is a castle. Read the lesson, pass the offline mini exercise and the castle falls. When review is due it is marked “needs upkeep”.</p>
+        <div class="forts" aria-label="Castles per level: A1 8, A2 8, B1 9, B2 5, C1 3"><div class="fort" style="--p:1"><b>A1</b><span>8 castles</span><i></i></div><div class="fort" style="--p:.62"><b>A2</b><span>8 castles</span><i></i></div><div class="fort" style="--p:.33"><b>B1</b><span>9 castles</span><i></i></div><div class="fort" style="--p:.2"><b>B2</b><span>5 castles</span><i></i></div><div class="fort" style="--p:.08"><b>C1</b><span>3 castles</span><i></i></div></div>
+        <ul class="ticks"><li><b>208 mini exercises</b>, offline and without AI.</li><li><b>99 tips</b>, 33 of them “Turkish traps”.</li><li><b>138 speaking patterns</b> across 15 functions.</li></ul>
+        <p class="note mt-s">Bars show an example progress.</p></div>
+    </div>
+    <div class="section-cta">
+      <a class="btn btn-primary" href="../uygulama/#/vocabulary"><svg aria-hidden="true"><use href="#i-globe"/></svg>Try word review in the browser</a>
+      <a class="btn btn-ghost" href="../uygulama/#/grammar">Open the grammar map <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+      <span class="note">No install, no account. The first visit downloads ~7–14 MB; you pick your level first.</span>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="habit" aria-labelledby="h-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">A little every day</p>
+      <h2 id="h-h">A streak that forgives, <span class="grad-text">and calls you back.</span></h2>
+      <p class="lead">The home screen tells you what to do today: the next path step, your daily goal, today’s plan. Day one starts with a small win that needs no AI. One missed day a week is bridged automatically, and a streak at zero simply says “Start your streak”; after a break of three days or more you get a welcome with no blame and +30 XP. Three small quests a week, doable without an AI coach, and 27 badges in 8 categories. Importing a word pack or CSV doesn’t fill your daily goal: a word earns its XP on its first successful review.</p>
+    </div>
+    <figure class="today-fig solo rv">
+      <div class="today" data-today role="img" aria-label="Animation of the app’s home screen: a 12-day streak, next step Shadowing with 3 sentences left, Tier 5, daily goal 35 of 50 XP, one weekly quest done.">
+        <div class="td-top"><b>Home</b><span class="td-streak"><svg aria-hidden="true"><use href="#i-fire"/></svg>12 days</span></div>
+        <div class="td-next"><span class="td-k">Next step on your path</span><b>Shadowing</b><span class="td-sub">3 sentences left</span><span class="td-btn">Continue</span></div>
+        <div class="td-card">
+          <div class="td-row"><b>Tier 5</b><span class="mono">437 / 1,118 XP</span></div>
+          <div class="td-row td-goal"><span>Daily goal</span><span class="mono">35 / 50 XP</span></div>
+          <div class="td-bar"><i style="--p:.7"></i></div>
+          <span class="td-sub">15 XP to go</span>
+        </div>
+        <div class="td-card">
+          <div class="td-row"><b>Weekly quests</b><span class="td-sub">1 / 3 done</span></div>
+          <div class="td-q"><span>Review 40 words</span><span class="mono">28/40</span><div class="td-bar"><i style="--p:.7"></i></div></div>
+          <div class="td-q done"><span>6 shadowing lines</span><span class="mono">6/6 <svg aria-hidden="true"><use href="#i-check"/></svg></span><div class="td-bar"><i style="--p:1"></i></div><em class="td-pop">+40 XP</em></div>
+          <div class="td-q"><span>Play 2 improv scenes</span><span class="mono">1/2</span><div class="td-bar"><i style="--p:.5"></i></div></div>
+        </div>
+      </div>
+      <figcaption>Animation of the sections on the app’s home screen; example numbers.</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="band alt" id="privacy" aria-labelledby="p-h">
+  <div class="wrap">
+    <div class="band-head">
+      <p class="eyebrow">Privacy and data</p>
+      <h2 id="p-h">No account. No ads. Your data on your phone.</h2>
+      <p class="lead">Progress, words and lectures stay on your phone and are excluded from Android cloud backup. Some features connect to third-party services (YouTube, LRCLIB, dictionary and translation services, model downloads and, only with your own key, cloud AI). The speaking practices use the device’s speech recognition service, which may send audio to its provider when no offline English pack is installed, and read-aloud prefers natural voices, which are often online voices from Google or Microsoft.</p>
+      <p class="lead">In the browser version your data is stored in this browser under SpeakSmith’s own keys, and “Delete all data” removes only SpeakSmith’s data. Clearing site data for mehmetyasinuzun.github.io in your browser settings also clears the developer’s other apps on that address (such as SevimliPati). Web API keys are encrypted, but the key that decrypts them sits in the same browser storage, so don’t enter a cloud key on a shared computer.</p>
+    </div>
+    <div class="section-cta"><a class="btn btn-ghost" href="../gizlilik/#en">Read the full privacy policy <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+  </div>
+</section>
+
+<section class="band" id="download" aria-labelledby="dl-h" data-hide-mbar>
+  <div class="wrap">
+    <div class="band-head"><p class="eyebrow">Download</p><h2 id="dl-h">Installs in minutes. No account needed.</h2></div>
+    <div class="dl">
+      <div class="dl-main rv" data-keep-download>
+        <h3>SpeakSmith for Android</h3>
+        <p><b>Version 0.8.0</b> · October 2026 · signed APK. When a new version is out the app tells you; the same signature lets it install on top and keeps your data.</p>
+        <ol><li>Download the APK and open it.</li><li>If asked, allow installs from this source.</li><li>Install, open, pick your level. No account needed, and the first step needs no AI.</li></ol>
+        <div class="qr only-desktop"><img src="../assets/qr-download-en.svg" width="132" height="132" alt="QR code for this download section"><div><b>Scan with your phone</b><p>Point the camera at the code: this download section opens on your phone, and its button downloads the APK straight to it.</p></div></div>
+        <p class="ios-note only-ios">This is an iPhone or iPad: the APK cannot be installed here. Open the browser version, or open this page on an Android phone.</p>
+        <div class="cta-row"><a class="btn btn-primary btn-lg not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg><span class="stack">Download the APK<small class="not-desktop">arm64 · about 105 MB</small><small class="only-desktop">to this computer · about 105 MB</small></span></a><a class="btn btn-primary btn-lg only-ios" href="../uygulama/"><svg aria-hidden="true"><use href="#i-globe"/></svg><span class="stack">Open in the browser<small>first load ~7–14 MB</small></span></a><a class="btn btn-ghost" href="#verify">Verify and troubleshoot</a></div>
+        <p class="cta-meta not-ios">This button gets the arm64 APK, which fits most current Android phones. For a 32-bit phone, pick the arm32 APK on the <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">releases page</a>.</p>
+        <div class="whatsnew">
+          <span class="k">New in 0.8.0</span>
+          <ul>
+            <li>Share a YouTube lecture: “Watch as a lecture”</li>
+            <li>Lecture review as Both / EN / TR first; translate the Turkish again</li>
+            <li>A first day without AI; the on-device coach is optional and downloads on Wi-Fi</li>
+            <li>Weekly quests and presentations work without an AI coach</li>
+            <li>Update notices from inside the app</li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <div class="card req rv" style="--d:1">
+          <div><span>Android</span><span>7.0 or later</span></div>
+          <div><span>APK (arm64)</span><span>about 105 MB</span></div>
+          <div><span>Lecture speech model</span><span>Base 142 MB · Tiny 75 MB</span></div>
+          <div><span>Turkish translation pack</span><span>about 30 MB, once</span></div>
+          <div><span>On-device AI coach</span><span>optional · suggested ~1.1 GB</span></div>
+          <div><span>iPhone</span><span>Not yet</span></div>
+        </div>
+        <div class="card rv" id="verify" style="--d:2;margin-top:16px"><span class="k">Verify the file</span><h3>SHA-256</h3>
+          <p class="note mt-s">speaksmith-v0.8.0-arm64.apk</p>
+          <p class="hash" data-fill="arm64-sha256">d37f3594340f233da0dfbc9fbbb6485cc9ceef7a115c4ba9cc4c394a5d3babb5</p>
+          <p class="note mt-s">The <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest" rel="noopener">release page</a> on GitHub shows the SHA-256 digest next to every file.</p>
+          <p class="note mt-s"><b>Won’t install?</b> Versions before 0.5.0 were signed with another key: back up in Settings › Data management, uninstall the old app, install the new one and restore the backup on first launch. The universal APK is only for a first install on an unusual device: it does not install over an existing arm64 or arm32 SpeakSmith (Android treats it as an older version).</p>
+          <p class="note mt-s"><b>Coming from 0.7.0 or older?</b> Those versions may not show update notices. Install 0.8.0 on top once from here; after that the app tells you about new versions.</p>
+        </div>
+        <div class="card web-card rv" style="--d:2"><span class="k">Try in the browser · no install</span><h3>Look first, then download.</h3><p>Word review, the grammar map, patterns and the learning path work in the browser. Your data is stored in this browser, with no account or sync. Depending on the browser, the first load downloads about 7–14 MB; prefer Wi-Fi on mobile data.</p><a class="btn btn-ghost mt-s" href="../uygulama/">Open in the browser <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band alt" id="faq" aria-labelledby="faq-h">
+  <div class="wrap">
+    <div class="band-head"><p class="eyebrow">FAQ</p><h2 id="faq-h">Good questions.</h2></div>
+    <div class="faq">
+      <details><summary>Is it free?</summary><div><p>Yes. No fees, no ads, no in-app purchases. An on-device AI coach is free too; if you connect a cloud provider, that provider bills your own account.</p></div></details>
+      <details><summary>Does it work offline?</summary><div><p>Once the speech model and the Turkish translation pack are downloaded, live lectures are transcribed and translated offline (unless cloud AI is selected). Word review, grammar, patterns, the path and the on-device AI coach also work offline. Adding YouTube content, playing catalogue songs, dictionary look-ups and cloud AI need internet.</p></div></details>
+      <details><summary>Does it score my pronunciation?</summary><div><p>No, and we don’t claim to. Shadowing and karaoke transcribe what you said and compare it with the expected text, so they check whether you said the right words. There is no waveform or phoneme-level pronunciation analysis.</p></div></details>
+      <details><summary>Does it transcribe lectures taught in Turkish?</summary><div><p>No. The on-device speech models transcribe English speech only. Lecture Desk is built for lectures taught in English.</p></div></details>
+      <details><summary>Where do the karaoke songs come from?</summary><div><p>The catalogue holds only title, artist, level and tempo. Lyrics and audio are not bundled: lyrics come at play time from YouTube’s English captions or LRCLIB, and the video plays in the in-app YouTube player. The option to also try downloading YouTube audio for offline use starts switched off, because YouTube usually doesn’t allow it.</p><p>You can add your own audio file too; if it has no lyrics, “Get lyrics from the audio” uses the on-device Whisper model on Android. With no model on the phone, the file is sent to OpenAI Whisper if your OpenAI key is saved.</p></div></details>
+      <details><summary>Is the app in English?</summary><div><p>Yes. Every screen is available in Turkish and English; you choose in onboarding or in Settings. The app is designed for Turkish speakers, so Turkish support (translations, hints) is built in and can be reduced.</p></div></details>
+      <details><summary>How do updates arrive?</summary><div><p>On launch the app checks a public version file; if there is a new version it asks you and downloads the APK from the GitHub release page. No identity or usage data is sent.</p><p>If you use 0.7.0 or older, you may not see a notice: install 0.8.0 on top once from <a href="#download">the download section</a>, and the app will tell you about later versions.</p></div></details>
+      <details><summary>Is there an iPhone app?</summary><div><p>Not yet. You can open the <a href="../uygulama/">browser version</a> (first load ~7–14 MB); speech recognition there works best in Chrome and Edge and is limited in Safari. Lecture Desk and Whisper features are Android-only.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="band night final" aria-labelledby="final-h" data-hide-mbar>
+  <div class="wrap">
+    <h2 id="final-h" class="rv">One lecture, one song, <span class="grad-text">a few words today.</span></h2>
+    <p class="lead rv" style="--d:1">Start in minutes, without an account. Stay inside English; never alone.</p>
+    <div class="cta-row rv" style="--d:2"><a class="btn btn-primary btn-lg not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Download for Android</a><a class="btn btn-ghost btn-lg not-ios" href="../uygulama/">Try in the browser <svg class="arr" aria-hidden="true"><use href="#i-arrow"/></svg></a><a class="btn btn-primary btn-lg only-ios" href="../uygulama/"><svg aria-hidden="true"><use href="#i-globe"/></svg>Try in the browser</a></div>
+  </div>
+</section>
+</main>
+
+<footer data-hide-mbar>
+  <div class="wrap">
+    <div><a class="brand" href="./"><svg aria-hidden="true"><use href="#i-mark"/></svg>SpeakSmith</a><p>Stay inside English. Never alone. Numbers and features on this page come from app version 0.8.0. This site uses no cookies or analytics.</p></div>
+    <div><h4>App</h4><ul><li><a href="#features">Features</a></li><li><a href="#download">Download and install</a></li><li><a href="../uygulama/">Try in the browser</a></li></ul></div>
+    <div><h4>Info</h4><ul><li><a href="../gizlilik/#en">Privacy Policy</a></li><li><a href="../gizlilik/kosullar.html#en">Terms of Use</a></li><li><a href="../" hreflang="tr" lang="tr">Türkçe</a></li><li><a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/issues" rel="noopener">Contact and feedback</a></li></ul></div>
+  </div>
+</footer>
+
+<nav class="mbar" aria-label="Quick access">
+  <a class="btn btn-primary not-ios" href="https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/latest/download/speaksmith-arm64.apk" data-download><svg aria-hidden="true"><use href="#i-android"/></svg>Download</a>
+  <a class="btn btn-ghost not-ios" href="../uygulama/">Try in browser</a>
+  <a class="btn btn-primary only-ios" href="../uygulama/"><svg aria-hidden="true"><use href="#i-globe"/></svg>Try in the browser</a>
+</nav>
+</body>
+</html>

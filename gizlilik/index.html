@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script>
+(function (d) {
+  var r = d.documentElement;
+  try { var t = localStorage.getItem('ss-theme'); if (t === 'light' || t === 'dark') r.setAttribute('data-theme', t); } catch (e) {}
+  r.classList.add('js');
+  setTimeout(function () { if (!window.__ss) r.classList.remove('js'); }, 3000);
+})(document);
+</script>
+<title>Gizlilik Politikası · SpeakSmith</title>
+<meta name="description" content="SpeakSmith gizlilik politikası: hesap yok, reklam ve analitik yok. Cihazında neyin saklandığı, mikrofonun ne zaman açıldığı ve hangi özelliğin internete neyi gönderdiği.">
+<link rel="canonical" href="https://mehmetyasinuzun.github.io/SpeakSmith-App/gizlilik/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="SpeakSmith">
+<meta property="og:title" content="SpeakSmith · Gizlilik Politikası">
+<meta property="og:description" content="Hesap yok, reklam ve analitik yok. Verin cihazında; hangi özelliğin internete neyi gönderdiği tek tek.">
+<meta property="og:url" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/gizlilik/">
+<meta property="og:image" content="https://mehmetyasinuzun.github.io/SpeakSmith-App/assets/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#F7F6FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0C0B19" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<link rel="preload" href="../assets/fonts/inter-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../assets/site.css">
+<style>
+/* Sayfaya özel: alan adları dar ekranda kelime ortasından bölünmesin (satıra hiç sığmayan ad yine bölünür); seçili dil çipi işaretli görünsün. */
+.doc code.host{word-break:normal;overflow-wrap:break-word}
+.doc .lang-switch .chip[aria-current="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+</style>
+<script defer src="../assets/site.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">İçeriğe geç</a>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="../" aria-label="SpeakSmith ana sayfa"><img src="../assets/favicon.svg" width="32" height="32" alt="">SpeakSmith</a>
+    <nav class="nav" aria-label="Sayfalar">
+      <a href="../">Ana sayfa</a>
+      <a href="kosullar.html">Kullanım Koşulları</a>
+      <a href="#en" lang="en">English</a>
+    </nav>
+    <div class="top-actions">
+      <button class="icon-btn theme-btn" type="button" data-theme-btn data-l-system="Tema: sistem (değiştir)" data-l-light="Tema: açık (değiştir)" data-l-dark="Tema: koyu (değiştir)" aria-label="Tema: sistem (değiştir)">
+        <svg data-ic="system" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"/></g></svg>
+        <svg data-ic="light" viewBox="0 0 24 24" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M5.3 18.7l1.4-1.4M17.3 6.7l1.4-1.4"/></g></svg>
+        <svg data-ic="dark" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+      </button>
+      <a class="btn btn-primary btn-sm" href="../indir/">İndir</a>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="doc">
+  <p class="eyebrow">Gizlilik</p>
+  <h1>Gizlilik Politikası</h1>
+  <p class="meta">Son güncelleme: 10 Ekim 2026 · Kapsam: SpeakSmith 0.8.0 Android uygulaması, tarayıcıda çalışan web sürümü ve bu tanıtım sitesi.</p>
+  <div class="lang-switch"><a class="chip" href="#tr" aria-current="true">Türkçe</a><a class="chip" href="#en" lang="en">English</a></div>
+
+  <section id="tr">
+  <div class="summary">
+    <h2 style="margin-top:0;font-size:20px">Kısaca</h2>
+    <ul>
+      <li>Hesap yok. E-posta, telefon numarası ya da şifre istemeyiz.</li>
+      <li>Uygulamada reklam, analitik ya da izleme kütüphanesi yok. Tek istisna: Android’de cihazda çeviri yapan Google ML Kit, Google’a teknik kullanım ölçümleri gönderebilir (bkz. <a href="#ag">4. bölüm</a>). Bu sitede çerez ve analitik yok.</li>
+      <li>Verilerin cihazında durur ve geliştiriciye gönderilmez. Android uygulamasının verisi Android’in bulut yedeğine de girmez. Web sürümünde verilerin bu tarayıcıda, SpeakSmith’e ait adlarla saklanır (bkz. <a href="#web">7. bölüm</a>).</li>
+      <li>Android’de Ders Masası’nın sesi ve karaokede söyleyişin telefonda işlenir, hiçbir sunucuya gitmez. Web sürümünde karaokede ve konuşma pratiklerinde sesi tarayıcının konuşma tanıması işler (bkz. <a href="#mikrofon">Mikrofon</a>).</li>
+      <li>Bazı özellikler üçüncü taraf servislere bağlanır (YouTube, şarkı sözü, sözlük, çeviri, sesli okuma, model indirme ve kendi anahtarını eklersen bulut AI). Hangisinin neyi gönderdiği aşağıda tek tek yazıyor.</li>
+    </ul>
+  </div>
+
+  <nav class="toc" aria-label="İçindekiler">
+    <ol>
+      <li><a href="#kapsam">Kapsam ve tanımlar</a></li>
+      <li><a href="#cihaz">Cihazında saklananlar</a></li>
+      <li><a href="#mikrofon">Mikrofon</a></li>
+      <li><a href="#ag">İnternete çıkan istekler</a></li>
+      <li><a href="#ai">Bulut AI ve anahtarların</a></li>
+      <li><a href="#guncelleme">Güncelleme ve hata raporlama</a></li>
+      <li><a href="#web">Web sürümüne özel notlar</a></li>
+      <li><a href="#yok">Hesap, reklam, analitik</a></li>
+      <li><a href="#yedek">Yedek dosyası</a></li>
+      <li><a href="#silme">Verilerini silmek</a></li>
+      <li><a href="#cocuk">Çocuklar</a></li>
+      <li><a href="#site">Bu site</a></li>
+      <li><a href="#haklar">Hakların ve iletişim</a></li>
+      <li><a href="#degisiklik">Değişiklikler</a></li>
+    </ol>
+  </nav>
+
+  <h2 id="kapsam">1. Kapsam ve tanımlar</h2>
+  <p>Bu politika SpeakSmith’in Android uygulamasını, bu sitede “Tarayıcıda dene” ile açılan web sürümünü ve bu tanıtım sitesini kapsar. “Biz”, SpeakSmith’in geliştiricisini; “cihaz”, uygulamayı kullandığın telefonu ya da tarayıcıyı anlatır. “Üçüncü taraf servis”, SpeakSmith’in bir özelliği çalıştırmak için bağlandığı, bizim işletmediğimiz servistir.</p>
+  <p>SpeakSmith’in sunucusu yoktur. Uygulama senin verini bize göndermez; bu yüzden aşağıda “gönderilir” dediğimiz her şey, adı geçen üçüncü taraf servise gider, bize değil.</p>
+
+  <h2 id="cihaz">2. Cihazında saklananlar</h2>
+  <p>Aşağıdakiler yalnızca cihazında, uygulamanın kendi depolama alanında tutulur. Web sürümünde aynı veriler bu tarayıcının yerel deposunda (localStorage ve IndexedDB), SpeakSmith’e ait adlarla durur. Bu depo, geliştiricinin aynı adreste (<code class="host">mehmetyasinuzun.github.io</code>) yayımlanan diğer web uygulamalarıyla ortaktır; bunun ne anlama geldiği <a href="#web">7. bölümde</a>.</p>
+  <div class="tbl stack"><table>
+    <thead><tr><th scope="col">Veri</th><th scope="col">Ne zaman oluşur</th><th scope="col">Not</th></tr></thead>
+    <tbody>
+      <tr><td data-label="Veri">Profil: ad (isteğe bağlı), seviye, ilgi alanları, arayüz dili, tema</td><td data-label="Ne zaman oluşur">İlk açılışta ve ayarlarda</td><td data-label="Not">Ad yalnızca ekranda kullanılır, hiçbir servise gönderilmez.</td></tr>
+      <tr><td data-label="Veri">Kelimeler, tekrar geçmişi, ilerleme, XP, seri, rozetler</td><td data-label="Ne zaman oluşur">Kullandıkça</td><td data-label="Not">Uygulamanın veritabanında.</td></tr>
+      <tr><td data-label="Veri">Sohbet, essay, shadowing ve karaoke denemeleri, gramer hataları, video analizleri</td><td data-label="Ne zaman oluşur">Bu özellikleri kullandıkça</td><td data-label="Not">Geçmişini görmen ve tekrar etmen için. Video Analizi 0.8.0’da Pratik menüsünden kaldırıldı; daha önce kaydettiğin analizler cihazında kalır ve açılmaya devam eder.</td></tr>
+      <tr><td data-label="Veri">Dersler: ders adı, terim sözlüğü, yazıya dökülen metin, çeviriler, işaretler, ders notu</td><td data-label="Ne zaman oluşur">Ders Masası’nı kullandıkça</td><td data-label="Not">Metin her 30 saniyelik parçada diske yazılır.</td></tr>
+      <tr><td data-label="Veri">Ders sesi</td><td data-label="Ne zaman oluşur">Yalnızca “Sesi de kaydet” açıksa</td><td data-label="Not">Sıkıştırılmış (32 kbps; 90 dakika yaklaşık 21 MB). Kapalıyken ses yalnızca uygulama kapanırsa dersi kurtarmak için geçici tutulur ve ders bitince silinir.</td></tr>
+      <tr><td data-label="Veri">Şarkılar: şarkı bilgisi, sözler, dosyadan eklediğin ses</td><td data-label="Ne zaman oluşur">Şarkı eklediğinde</td><td data-label="Not">Katalog yalnızca şarkı adı, sanatçı, seviye ve hız içerir; sözler ve ses uygulamayla gelmez.</td></tr>
+      <tr><td data-label="Veri">Bulut AI anahtarları ve isteğe bağlı Hugging Face erişim anahtarı</td><td data-label="Ne zaman oluşur">Kendin eklediğinde</td><td data-label="Not">Android’de Android Keystore destekli şifreli ayarlarda. Web’de tarayıcının yerel deposunda (<code class="host">speaksmith_secure</code> adıyla) şifrelenir, ama şifreyi çözen anahtar da aynı tarayıcı deposunda durur: bu tarayıcıya erişebilen biri ya da aynı adreste çalışan bir sayfa anahtarını okuyabilir (bkz. <a href="#web">7. bölüm</a>). Yedeğe girmez.</td></tr>
+      <tr><td data-label="Veri">İndirilen modeller: Whisper konuşma modeli, Türkçe çeviri paketi, cihazda AI modeli</td><td data-label="Ne zaman oluşur">Whisper ve AI modeli yalnızca kendin indirdiğinde; Türkçe çeviri paketi (Android) cihazda çeviri ilk kez gerektiğinde</td><td data-label="Not">Yedeğe girmez; Android’de istediğinde silersin. Cihazda AI koçu (yaklaşık 1,1 GB) isteğe bağlıdır, kendiliğinden inmez; yalnızca “Koçunu indir” dediğinde iner. Web’de tarayıcıda çalışan bir AI modeli seçersen modelin dosyaları tarayıcının önbelleğinde kalır (bkz. <a href="#silme">10. bölüm</a>).</td></tr>
+      <tr><td data-label="Veri">Ayarlar, hatırlatma saatleri</td><td data-label="Ne zaman oluşur">Ayarları değiştirdiğinde</td><td data-label="Not">Hatırlatmalar cihazda planlanan yerel bildirimlerdir.</td></tr>
+    </tbody>
+  </table></div>
+  <p>Android uygulamasında uygulama verisi Android’in bulut yedeğine ve cihazdan cihaza aktarıma kapalıdır. Telefon değiştirirken verini uygulamanın kendi yedek dosyasıyla taşırsın (bkz. <a href="#yedek">Yedek dosyası</a>).</p>
+
+  <h2 id="mikrofon">3. Mikrofon</h2>
+  <p>Mikrofon yalnızca sen bir özelliği başlattığında açılır. Hangi özelliğin sesi nerede işlediği:</p>
+  <ul>
+    <li><b>Ders Masası (Android):</b> Ses telefondaki Whisper modeliyle yazıya dökülür. Model bir kez indikten sonra internet gerekmez ve ses hiçbir sunucuya gitmez. Telefon kilitliyken kaydın sürmesi için Android görünür bir bildirim gösterir.</li>
+    <li><b>Karaoke puanı ve satır çalışması (Android):</b> Söyleyişin telefondaki Whisper modeliyle karşılaştırılır; kayıt telefondan çıkmaz. “Kendini dinle” için satır kaydı da cihazda kalır.</li>
+    <li><b>Shadowing, sunum, doğaçlama, söyleyerek kelime tekrarı, mikrofon testi ve web sürümünde karaoke:</b> Cihazın konuşma tanıma servisi kullanılır. Android’de bu, sistemin konuşma tanıma hizmetidir (çoğu cihazda Google’ın). Cihazda İngilizce çevrimdışı konuşma paketi yoksa bu hizmet sesini işlemek için kendi sunucularına gönderebilir; bu işleme o hizmetin sağlayıcısının koşulları uygulanır. Web sürümünde konuşmayı tarayıcı tanır; Chrome ve Edge sesi bunun için kendi sunucularına gönderebilir. Web’de karaokede hoparlörden gelen şarkı sesi de tanımaya karışabileceği için, kulaklık taktığını onaylamadıkça puan bir tahmin olarak gösterilir.</li>
+    <li>Shadowing, sunum, doğaçlama ve söyleyerek kelime tekrarında telefon kilitlenince, başka bir uygulamaya geçince (web’de sekme gizlenince) ya da üste bir pencere açılınca mikrofon hemen kapanır. Sonra kendiliğinden yeniden açılmaz; kaldığın yerden devam etmek için sen dokunursun.</li>
+    <li><b>Doğaçlamada sesli mod:</b> Mikrofonu “Hazırım” ile sen açarsın. Ekran öndeyken, partnerin cevabı bitince mikrofon bir sonraki cevabın için kendiliğinden yeniden açılır; oturumdan çıkınca kapanır.</li>
+  </ul>
+  <p>Ders kaydetmeden önce hocandan ve okulundan izin almak senin sorumluluğundadır.</p>
+  <p><b>Sesli okuma (metinden sese):</b> Uygulama cümleleri, kelimeleri ve AI partnerinin cevaplarını cihazın metin okuma hizmetiyle sesli okur: Android’de telefonun metin okuma motoru (çoğu cihazda Google’ın), web’de tarayıcının sesleri. Okunan metin bazen senin içeriğinden türetilir: doğaçlamada partnerin sana verdiği cevap, sunumda koçun senin konuşmana göre yazdığı örnek açılış ve kapanış cümleleri, shadowing’de senin kelimelerinle üretilen cümleler. Ses kaydedilmez ama okunan metin, seçilen sese göre sağlayıcıya gidebilir; ayrıntı <a href="#ag">4. bölümde</a>.</p>
+
+  <h2 id="ag">4. İnternete çıkan istekler</h2>
+  <p>Aşağıdaki servisler yalnızca ilgili özelliği kullandığında çağrılır. Her istekte servis, bağlantının gereği olarak cihazının IP adresini görür; servisler bunu kendi gizlilik politikalarına göre işler.</p>
+  <div class="tbl stack"><table>
+    <thead><tr><th scope="col">Servis</th><th scope="col">Ne zaman</th><th scope="col">Ne gönderilir</th></tr></thead>
+    <tbody>
+      <tr><td data-label="Servis">YouTube<br><code class="host">www.youtube.com</code>, <code class="host">youtube-nocookie.com</code>, <code class="host">i.ytimg.com</code></td><td data-label="Ne zaman">Karaoke kataloğunu açtığında (her şarkı kartının küçük resmi <code class="host">i.ytimg.com</code>’dan yüklenir), YouTube şarkısı eklediğinde, katalogdan bir şarkı açtığında ya da bir YouTube şarkısını veya kayıtlı bir video analizini oynattığında. Android’de ayrıca YouTube dersi eklediğinde (paylaşılan bir YouTube linkini “Ders olarak izle” ile açtığında da).</td><td data-label="Ne gönderilir">Video kimliği. Video bilgisi, altyazı ve küçük resim alınır. Android’de YouTube şarkısı eklerken sesi de indirmeyi seçersen (bu anahtar varsayılan olarak kapalıdır; YouTube buna genelde izin vermez) videonun sesi indirilmeye çalışılır; video analizinde altyazı yoksa da ses indirilir. Video, YouTube’un gizlilik geliştirilmiş (nocookie) gömülü oynatıcısında oynar; oynatırken YouTube kendi koşullarına göre veri işler.</td></tr>
+      <tr><td data-label="Servis">Herkese açık Invidious sunucuları<br><code class="host">yewtu.be</code>, <code class="host">inv.nadeko.net</code>, <code class="host">invidious.private.coffee</code>, <code class="host">invidious.lunivers.trade</code>, <code class="host">invidious.fdn.fr</code>, <code class="host">invidious.protokolla.fi</code>, <code class="host">iv.duti.dev</code></td><td data-label="Ne zaman">Web sürümünde: bir YouTube şarkısı eklenirken (katalogdan bir şarkıyı ilk açtığında da) video bilgisi (başlık, süre) önce bu sunuculardan istenir. Android’de: YouTube video bilgisini ya da istenen sesi vermezse yedek olarak.</td><td data-label="Ne gönderilir">Video kimliği. Android’de ses gerekiyorsa ses dosyası da bu sunuculardan iner.</td></tr>
+      <tr><td data-label="Servis">LRCLIB<br><code class="host">lrclib.net</code></td><td data-label="Ne zaman">Şarkı eklerken ya da katalogdan bir şarkı hazırlanırken</td><td data-label="Ne gönderilir">Şarkı adı ve sanatçı.</td></tr>
+      <tr><td data-label="Servis">Sözlük<br><code class="host">api.dictionaryapi.dev</code></td><td data-label="Ne zaman">Kelime eklerken ya da kelimeye bakarken (roleplay sohbetinde bir kelimeye dokununca da)</td><td data-label="Ne gönderilir">Kelimenin kendisi.</td></tr>
+      <tr><td data-label="Servis">MyMemory çeviri<br><code class="host">api.mymemory.translated.net</code></td><td data-label="Ne zaman">Kelime eklerken, metinden kelime çıkarırken, karaokede ve roleplay sohbetinde bir kelimenin anlamına bakarken; web sürümünde “Otomatik” çeviri yolunda ve bulut AI yokken ders ve şarkı satırları için</td><td data-label="Ne gönderilir">Çevrilecek kelime ya da cümle. İsteğe, her kullanıcıda aynı olan sabit bir adres parametresi eklenir; seni tanımlamaz.</td></tr>
+      <tr><td data-label="Servis">Datamuse<br><code class="host">api.datamuse.com</code></td><td data-label="Ne zaman">Kelime eklerken seviye tahmini için</td><td data-label="Ne gönderilir">Kelimenin kendisi.</td></tr>
+      <tr><td data-label="Servis">Google ML Kit (Android)</td><td data-label="Ne zaman">Türkçe çeviri paketi indiğinde (cihazda çeviri ilk kez gerektiğinde; yaklaşık 30 MB, bir kez) ve cihazda çeviri kullanıldığında</td><td data-label="Ne gönderilir">Paket Google’dan iner; çeviri cihazda yapılır, çevrilen metin telefondan çıkmaz. ML Kit uygulamanın içinde gelir ve Google’ın ML Kit koşullarına göre API’nin kullanımı ve performansıyla ilgili teknik ölçümleri Google’a gönderebilir; bunun için Google’ın veri aktarım bileşeni uygulamaya dahildir.</td></tr>
+      <tr><td data-label="Servis">Sesli okuma (metinden sese)<br>Android’in metin okuma motoru, tarayıcının sesleri</td><td data-label="Ne zaman">Bir cümleyi, kelimeyi ya da AI partnerinin cevabını sesli okuttuğunda</td><td data-label="Ne gönderilir">Okunan metin. Seçilen ses çevrimiçi bir ses ise metin o sesin sağlayıcısına gider ve orada sese çevrilir. Uygulama en doğal sesi kendisi seçer ve bu çoğu zaman çevrimiçi bir sestir: Edge’de “Microsoft … Online (Natural)” sesleri (Microsoft), Chrome’da cihazda daha doğal bir ses yoksa “Google US English” (Google); Android’de ağ gerektiren Google sesleri de seçilebilir. Ayarlar › Ses › AI sesi’nden başka bir ses seçebilirsin.</td></tr>
+      <tr><td data-label="Servis">Hugging Face<br><code class="host">huggingface.co</code></td><td data-label="Ne zaman">Whisper modelini ya da cihazda AI modelini (koç) sen indirdiğinde; kendiliğinden indirme yapılmaz</td><td data-label="Ne gönderilir">Modelin dosya isteği. Kilitli modeller için kendin eklediğin erişim anahtarı (isteğe bağlı).</td></tr>
+      <tr><td data-label="Servis">Bulut AI sağlayıcıları</td><td data-label="Ne zaman">Yalnızca kendi anahtarını ekleyip bir bulut sağlayıcı seçersen</td><td data-label="Ne gönderilir">Bkz. <a href="#ai">Bulut AI ve anahtarların</a>.</td></tr>
+      <tr><td data-label="Servis">GitHub<br><code class="host">raw.githubusercontent.com</code>, <code class="host">github.com</code></td><td data-label="Ne zaman">GitHub’dan indirilen Android (APK) sürümü açılışta ve Ayarlar’dan güncelleme denetlediğinde; güncellemeyi kabul edersen</td><td data-label="Ne gönderilir">SpeakSmith-App deposundaki herkese açık sürüm bilgisi dosyası okunur; kabul edersen yeni APK SpeakSmith-App’in GitHub Releases sayfasından iner. Kimlik ya da cihaz bilgisi gönderilmez. Ayrıntı <a href="#guncelleme">6. bölümde</a>.</td></tr>
+    </tbody>
+  </table></div>
+
+  <h2 id="ai">5. Bulut AI ve anahtarların</h2>
+  <p>AI koçu isteğe bağlıdır. Telefondaki bir modeli seçersen sohbet, essay ve koçluk telefonda işlenir ve internete gitmez. Kendi API anahtarınla bir bulut sağlayıcı seçersen, ilgili özelliği kullandığında gereken metin yalnızca o sağlayıcıya gönderilir:</p>
+  <ul>
+    <li>Sağlayıcılar: OpenAI (<code class="host">api.openai.com</code>), Anthropic Claude (<code class="host">api.anthropic.com</code>), Google Gemini (<code class="host">generativelanguage.googleapis.com</code>), OpenRouter (<code class="host">openrouter.ai</code>), DeepSeek (<code class="host">api.deepseek.com</code>) ya da kendin girdiğin OpenAI uyumlu bir adres.</li>
+    <li>Giden metin özelliğe göre değişir: sohbet ve roleplay mesajların, doğaçlama ve sunumda konuşmanın yazıya dökülmüş hâli, essay’in, ders metni ve karaoke şarkı satırları (ders çevirisi “Otomatik” (varsayılan) ya da “Bulut AI” iken bir bulut sağlayıcı seçiliyse çeviri için; özetli ders notu için de ders metni), video analizinde videonun altyazısı, kelime önerisi için yapıştırdığın metin, örnek cümle ve senaryo için kelimelerin, kişisel alıştırma için gramer hataların. Bazı isteklere seviyen ve ilgi alanların eklenir. Adın gönderilmez.</li>
+    <li>Anahtarın yalnızca cihazında saklanır (Android’de şifreli; web’deki durum ve sınırları için bkz. <a href="#web">7. bölüm</a>), yalnızca ait olduğu sağlayıcıya gönderilir ve yedek dosyasına girmez.</li>
+    <li>Kullanım ücretini ve verinin nasıl işlendiğini sağlayıcının kendi koşulları belirler.</li>
+    <li><b>OpenAI Whisper:</b> Dosyadan eklediğin bir şarkıda sözleri sesten çıkarmayı seçersen ve telefonda Whisper modeli yoksa (web sürümünde her zaman), OpenAI anahtarın kayıtlıysa şarkı dosyası (en fazla 25 MB) yazıya dökülmek için OpenAI’ye yüklenir. Android’de telefonda Whisper modeli varsa ses telefondan çıkmaz.</li>
+  </ul>
+
+  <h2 id="guncelleme">6. Güncelleme ve hata raporlama</h2>
+  <p><b>Güncelleme denetimi:</b> GitHub’dan indirilen Android (APK) sürümü, açılışta ve Ayarlar’dan denetlediğinde yeni bir sürüm olup olmadığını herkese açık SpeakSmith-App deposundaki sürüm bilgisi dosyasından okur (<code class="host">raw.githubusercontent.com/<wbr>mehmetyasinuzun/<wbr>SpeakSmith-App/<wbr>main/<wbr>update.json</code>). Bu istekle kimlik ya da cihaz bilgisi gönderilmez; GitHub, her bağlantıda olduğu gibi yalnızca IP adresini görür. Güncellemeyi kabul edersen yeni APK SpeakSmith-App’in GitHub Releases sayfasından indirilir, dosyanın SHA-256 özeti denetlenir ve kurulumu sen onaylarsın. Web sürümü güncelleme denetimi yapmaz; sayfayı açtığında GitHub Pages’teki güncel sürüm yüklenir.</p>
+  <p><b>Otomatik hata raporu yok:</b> Uygulamada hataları GitHub Issues’a kendiliğinden bildirebilen bir bileşen vardır, ama yalnızca derleme sırasında bir erişim anahtarı verilirse çalışır. Yayımlanan derlemelerde bu anahtar yoktur; bu yüzden uygulama kendiliğinden hata raporu göndermez. Hatalar yalnızca cihazındaki yerel kayda yazılır.</p>
+  <p><b>“GitHub’da bildir” düğmesi:</b> Öğrencilere gösterilmez. Yalnızca Ayarlar’daki “Geliştirici tanılama” seçeneğini açarsan (varsayılan olarak kapalıdır) bazı hata mesajlarında görünür. Dokunursan tarayıcında, herkese açık <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/issues" rel="noopener">SpeakSmith-App</a> deposunda önceden doldurulmuş bir hata kaydı (issue) sayfası açılır. Sayfada şunlar yazar: hata türü ve mesajı (içeriğin ayıklanmış hâli), yığın izi, saat, uygulama sürümü, dil ayarı, Android’de cihaz üreticisi, modeli ve kod adı, Android sürümü, işlemci mimarisi ve emülatör olup olmadığı ile son uygulama içi eylemlerin adları. Kelime, essay, sohbet ve ders içeriği eklenmez; anahtar ve şifre benzeri değerler ayıklanır. Sayfada sen gönder demedikçe hiçbir şey gönderilmez; göndermeden önce metni okuyup istemediğin her şeyi silebilirsin. Gönderirsen kayıt herkese açık olur ve GitHub hesabınla görünür.</p>
+
+  <h2 id="web">7. Web sürümüne özel notlar</h2>
+  <ul>
+    <li><b>Verin nerede durur:</b> Web sürümünün verisi bu tarayıcının yerel deposunda kalır; başka tarayıcıya ya da cihaza geçmez (taşımak için <a href="#yedek">yedek dosyası</a> al). SpeakSmith verisini kendine ait adlarla yazar: ayarlar, kelimeler ve ilerleme <code class="host">speaksmith.</code> önekli anahtarlarda, API anahtarları <code class="host">speaksmith_secure</code> altında, eklediğin şarkı dosyaları, dersler ve video analizleri SpeakSmith’in kendi IndexedDB veritabanlarında. Yedek alırken ve “Tüm verileri sil”de uygulama yalnızca bunlara dokunur.</li>
+    <li><b>Aynı adresteki diğer uygulamalar:</b> Tarayıcılar yerel depoyu sayfaya göre değil site adresine göre ayırır. Web sürümü <code class="host">mehmetyasinuzun.github.io</code> adresinde çalışır ve bu adreste geliştiricinin başka web uygulamaları da (ör. SevimliPati) yayımlanır. Uygulamadaki “Tüm verileri sil” yalnızca SpeakSmith’in verisini siler. Tarayıcı ayarlarından bu adresin site verisini temizlersen ise SpeakSmith’le birlikte aynı adresteki her uygulamanın verisi silinir.</li>
+    <li><b>Web’de API anahtarları:</b> Kaydettiğin anahtarlar şifrelenir, ama şifreyi çözen anahtar da aynı tarayıcı deposunda durur. Bu yüzden bu tarayıcıya erişebilen biri ya da aynı adreste çalışan bir sayfa onları okuyabilir. Web’de bulut AI kullanacaksan sağlayıcında harcama sınırı koyduğun ayrı bir anahtar kullan ve ortak kullanılan bir bilgisayarda anahtar kaydetme.</li>
+    <li>Sayfa açılırken tarayıcıda AI çalıştırmayı sağlayan WebLLM modülü jsDelivr’den (<code class="host">esm.run</code> ve <code class="host">cdn.jsdelivr.net</code>) yüklenir; jsDelivr bu istekte IP adresini ve tarayıcı bilgisini görür. Tarayıcıda bir AI modeli seçersen model dosyaları WebLLM kataloğundaki adreslerden (şu an Hugging Face ve GitHub) iner ve tarayıcının önbelleğinde kalır.</li>
+    <li>Web sürümü uygulamanın yazı tiplerini kendisiyle getirir; yazı tipinde olmayan karakterler (ör. emoji ve bazı simgeler) için Flutter motoru Google Fonts’tan (<code class="host">fonts.gstatic.com</code>) yedek yazı tipi indirir. Bu, ilk ekranda da olabilir.</li>
+    <li>Web’de cihazda çeviri yoktur. Ders çevirisinde “Telefonda” seçiliyse web’de çeviri kapalı kalır; “Otomatik” seçiliyse ve bulut AI yoksa satırlar MyMemory’ye gönderilir.</li>
+    <li>Ders Masası ve Whisper Android’e özeldir; web sürümünde mikrofonu yalnızca tarayıcının konuşma tanıması kullanır.</li>
+  </ul>
+
+  <h2 id="yok">8. Hesap, reklam, analitik</h2>
+  <p>SpeakSmith hesap açtırmaz, oturum açtırmaz ve seni tanımlayan bir kimlik oluşturmaz. Uygulamada reklam, analitik, izleme ya da pazarlama kütüphanesi yoktur; uygulama içi satın alma yoktur. Kullanım alışkanlıkların, ilerlemen ya da içeriğin hakkında bize hiçbir istatistik gönderilmez. Tek istisna Google’ın kendi bileşenidir: Android’de cihazda çeviri yapan ML Kit, <a href="#ag">4. bölümde</a> yazdığı gibi Google’a teknik kullanım ölçümleri gönderebilir; bu ölçümler bize gelmez.</p>
+
+  <h2 id="yedek">9. Yedek dosyası</h2>
+  <p>Ayarlar › Veri Yönetimi’nden aldığın yedek, nereye kaydedileceğini senin seçtiğin tek bir JSON dosyasıdır. İçinde kelimelerin, ders metinlerin, ilerlemen, profilin ve ayarların bulunur. Ses dosyaları, indirilen modeller ve API anahtarları yedeğe girmez. Web sürümünde yedek yalnızca SpeakSmith’in kendi verisini içerir; aynı adresteki diğer uygulamaların verisi yedeğe girmez. Yedek dosyası şifreli değildir; onu kimle paylaştığına ve nerede sakladığına sen karar verirsin.</p>
+
+  <h2 id="silme">10. Verilerini silmek</h2>
+  <ul>
+    <li>Tek tek: kelimeleri, dersleri, şarkıları ve geçmişi uygulamanın ilgili ekranlarından silebilirsin. Bir dersi silmek onun ses kaydını da siler.</li>
+    <li>Hepsini: Ayarlar › Veri Yönetimi › “Tüm verileri sil”. Bu işlem veritabanını, dersleri ve ses kayıtlarını, şarkı dosyalarını, ayarları ve kayıtlı API anahtarlarını siler. Android’de indirilen modelleri de silmek istersen onay kutusunu işaretlersin. Geri alınamaz; onay için bir ifade yazman istenir.</li>
+    <li>Uygulamayı kaldırmak, Android’in uygulama verisini de siler.</li>
+    <li>Web sürümünde “Tüm verileri sil” yalnızca SpeakSmith’in verisini siler; aynı adresteki diğer uygulamalara dokunmaz. Tarayıcıda indirdiğin AI modelinin dosyaları ise tarayıcının önbelleğinde kalır; uygulama onları silemez. Bu dosyaları tarayıcı ayarlarından <code class="host">mehmetyasinuzun.github.io</code> için site verisini temizleyerek silebilirsin; ama bu, SpeakSmith’in bütün verisini ve aynı adresteki diğer uygulamaların (ör. SevimliPati) verisini de siler.</li>
+    <li>Üçüncü taraf bir servise gönderilmiş veri (ör. bir bulut AI sağlayıcısına giden metin) o servisin kendi kurallarına tabidir; silme talebini o servise iletmen gerekir.</li>
+  </ul>
+
+  <h2 id="cocuk">11. Çocuklar</h2>
+  <p>SpeakSmith hesap istemez ve kimseden kişisel veri toplamaz; bu nedenle çocuklardan da bilerek veri toplamaz. Uygulamanın bağlandığı YouTube ve bulut AI sağlayıcıları gibi üçüncü taraf servislerin kendi yaş koşulları vardır. 18 yaşından küçüksen bu servisleri bir ebeveyn ya da veli gözetiminde kullan.</p>
+
+  <h2 id="site">12. Bu site</h2>
+  <p>Bu tanıtım sitesi GitHub Pages üzerinde barındırılır. Site çerez kullanmaz, analitik ya da reklam betiği yüklemez ve yazı tiplerini kendisi sunar; başka bir siteye istek göndermez. GitHub, sayfayı sunarken teknik nedenlerle bağlantı kayıtları (ör. IP adresi) tutabilir; bu, GitHub’ın gizlilik bildirimine tabidir. Seçtiğin tema (açık, koyu, sistem) yalnızca bu tarayıcıda, yerel depoda saklanır.</p>
+
+  <h2 id="haklar">13. Hakların ve iletişim</h2>
+  <p>Biz senin hakkında kişisel veri tutmadığımız için uygulamadaki verilerin yalnızca senin cihazındadır ve onları yukarıdaki yollarla sen yönetirsin. 6698 sayılı Kişisel Verilerin Korunması Kanunu ya da yaşadığın yerdeki benzer mevzuat kapsamında bir sorun, istek ya da soru için bize SpeakSmith’in GitHub sayfasından yazabilirsin: <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/issues" rel="noopener">github.com/mehmetyasinuzun/SpeakSmith-App/issues</a>.</p>
+  <!-- OWNER: Bir iletişim e-postası eklenecekse buraya. -->
+
+  <h2 id="degisiklik">14. Değişiklikler</h2>
+  <p>Uygulamanın internete gönderdiği bir şey değişirse bu sayfayı güncelleriz ve yukarıdaki tarihi değiştiririz. Önemli değişiklikleri sürüm notlarında da yazarız.</p>
+  </section>
+
+  <hr>
+
+  <section id="en" lang="en">
+  <p class="eyebrow" style="margin-top:56px">English</p>
+  <h2 style="margin-top:12px;font-size:clamp(28px,4vw,40px)">Privacy Policy</h2>
+  <p class="meta">Last updated: 10 October 2026 · Scope: the SpeakSmith 0.8.0 Android app, the web version you open with “Try in the browser”, and this website. If the Turkish and English versions differ, the Turkish version applies.</p>
+
+  <div class="summary">
+    <h3 style="margin-top:0">In short</h3>
+    <ul>
+      <li>No account. We never ask for an email, phone number or password.</li>
+      <li>No advertising, analytics or tracking libraries in the app. The one exception: on Android, Google ML Kit, which translates on the device, may send technical usage metrics to Google (see section 4). No cookies or analytics on this website.</li>
+      <li>Your data stays on your device and is not sent to the developer. The Android app’s data is excluded from Android cloud backup. On the web, your data is kept in this browser under names that belong to SpeakSmith (see section 7).</li>
+      <li>On Android, Lecture Desk audio and your karaoke singing are processed on the phone and never sent to a server. On the web, karaoke and the speaking practices use the browser’s speech recognition (see section 3).</li>
+      <li>Some features connect to third-party services (YouTube, lyrics, dictionary, translation, read-aloud voices, model downloads and, if you add your own key, cloud AI). What each one receives is listed below.</li>
+    </ul>
+  </div>
+
+  <h3>1. Scope</h3>
+  <p>“We” means the developer of SpeakSmith. SpeakSmith has no server of its own. The app does not send your data to us; everything described below as “sent” goes to the named third-party service, not to us.</p>
+
+  <h3>2. Stored on your device</h3>
+  <ul>
+    <li>Profile: name (optional), level, interests, interface language, theme. Your name is only shown on screen and never sent to any service.</li>
+    <li>Words, review history, progress, XP, streak, badges; chat, essay, shadowing and karaoke attempts, grammar mistakes, video breakdowns. Video breakdown was removed from the Practice menu in 0.8.0; breakdowns you saved earlier stay on your device and still open.</li>
+    <li>Lectures: course name, term glossary, transcript, translations, marks, notes. The text is written to disk every 30-second chunk.</li>
+    <li>Lecture audio only if “Also save audio” is on (compressed, 32 kbps; 90 minutes ≈ 21 MB). When it is off, audio is kept temporarily only to recover a lecture if the app closes, and is deleted when the lecture ends.</li>
+    <li>Songs: song info, lyrics, audio files you add yourself. The catalogue only contains title, artist, level and tempo; lyrics and audio are not bundled.</li>
+    <li>Cloud AI keys and an optional Hugging Face token. On Android they are kept in Android Keystore-backed encrypted preferences. On the web they are encrypted in the browser’s local storage (under <code class="host">speaksmith_secure</code>), but the decryption key sits in the same browser storage, so anyone with access to this browser, or a page running on the same address, can read them (see section 7). They are never included in backups.</li>
+    <li>Downloaded models (Whisper speech model, Turkish translation pack, on-device AI model). Whisper and AI models download only when you start the download; the on-device AI coach (about 1.1 GB) is optional and never downloads by itself, only when you choose to download your coach. On Android the Turkish translation pack downloads the first time on-device translation is needed. Settings and reminder times (reminders are local notifications).</li>
+  </ul>
+  <p>On the web, the same data lives in this browser’s local storage (localStorage and IndexedDB) under names that belong to SpeakSmith. That storage is shared with the developer’s other web apps on the same address (<code class="host">mehmetyasinuzun.github.io</code>); section 7 explains what this means. On Android, app data is excluded from cloud backup and device-to-device transfer.</p>
+
+  <h3>3. Microphone</h3>
+  <ul>
+    <li><b>Lecture Desk (Android):</b> transcribed on the phone by the Whisper model. After a one-time model download no internet is needed and audio never leaves the phone. Android shows a visible notification while recording continues with the screen locked.</li>
+    <li><b>Karaoke scoring and line practice (Android):</b> your singing is compared on the phone with Whisper; recordings stay on the phone.</li>
+    <li><b>Shadowing, presentation, improv, spoken word review, the mic test and karaoke on the web</b> use the device’s speech recognition service. On Android this is the system speech service (on most devices Google’s). If no offline English speech pack is installed, that service may send your audio to its own servers; its provider’s terms apply. On the web the browser recognises speech; Chrome and Edge may send audio to their own servers for this. Because music from the speakers can mix into recognition, web karaoke shows its score as an estimate unless you confirm you are wearing headphones.</li>
+    <li>In shadowing, presentation, improv and spoken word review the microphone turns off as soon as the phone locks, you switch to another app (on the web, when the tab is hidden) or another window opens on top. It never turns back on by itself; you tap to continue where you left off.</li>
+    <li><b>Improv in voice mode:</b> you open the mic with “I’m ready”. While the screen is in front, it reopens by itself for your next answer after each partner reply, and closes when you leave the session.</li>
+    <li><b>Read-aloud (text-to-speech):</b> sentences, words and AI partner replies are read aloud by the device’s text-to-speech: the phone’s TTS engine on Android (Google’s on most devices), the browser’s voices on the web. Some of this text is derived from your content: the partner’s replies in improv, the model opening and closing sentences the coach writes from your presentation, shadowing sentences built from your words. No audio is recorded, but depending on the voice the text can go to its provider (see section 4).</li>
+  </ul>
+
+  <h3>4. Network requests</h3>
+  <p>Each service below is contacted only when you use the related feature. Every service necessarily sees your IP address and handles it under its own privacy policy.</p>
+  <ul>
+    <li><b>YouTube</b> (<code class="host">www.youtube.com</code>, <code class="host">youtube-nocookie.com</code>, <code class="host">i.ytimg.com</code>): when you open the karaoke catalogue (every song card loads its thumbnail from <code class="host">i.ytimg.com</code>), add a YouTube song, open a catalogue song, or play a YouTube song or a saved video breakdown; on Android also when you add a YouTube lecture (including a shared YouTube link opened with “Watch as a lecture”). Sends the video ID; receives video info, captions and thumbnails. On Android, if you choose to also download the audio when adding a YouTube song (this switch is off by default; YouTube usually does not allow it), the app tries to download the video’s audio; a video breakdown of a video without captions downloads the audio too. Videos play in YouTube’s privacy-enhanced (nocookie) embedded player.</li>
+    <li><b>Public Invidious instances</b> (<code class="host">yewtu.be</code>, <code class="host">inv.nadeko.net</code>, <code class="host">invidious.private.coffee</code>, <code class="host">invidious.lunivers.trade</code>, <code class="host">invidious.fdn.fr</code>, <code class="host">invidious.protokolla.fi</code>, <code class="host">iv.duti.dev</code>): on the web, video info (title, duration) is requested from these first whenever a YouTube song is added (including the first time you open a catalogue song); on Android they are a fallback when YouTube does not return video info or the requested audio. Sends the video ID; on Android, audio files come from them when audio is needed.</li>
+    <li><b>LRCLIB</b> (<code class="host">lrclib.net</code>): when you add a song or a catalogue song is being prepared. Sends song title and artist.</li>
+    <li><b>Dictionary</b> (<code class="host">api.dictionaryapi.dev</code>) and <b>Datamuse</b> (<code class="host">api.datamuse.com</code>): when adding or looking up a word (the dictionary also when you tap a word in a role-play chat). Sends the word.</li>
+    <li><b>MyMemory</b> (<code class="host">api.mymemory.translated.net</code>): when adding words, extracting words from text or looking up a word in karaoke or a role-play chat; on the web also for lecture and song lines on the “Automatic” route when no cloud AI is set. Sends the word or sentence, plus a fixed address parameter that is the same for every user and does not identify you.</li>
+    <li><b>Google ML Kit</b> (Android): downloads the Turkish translation pack (about 30 MB, once) the first time on-device translation is needed. Translation runs on the device and the translated text stays on the phone. ML Kit ships inside the app together with Google’s data transport component and, under Google’s ML Kit terms, may send technical usage and performance metrics to Google when the pack is downloaded and when on-device translation is used.</li>
+    <li><b>Read-aloud voices</b> (Android TTS engine, browser voices): when a sentence, word or AI reply is read aloud. If the chosen voice is an online voice, the text goes to that voice’s provider to be turned into speech. The app picks the most natural voice itself, and that is often an online one: “Microsoft … Online (Natural)” voices in Edge (Microsoft), and in Chrome, unless the device has a more natural voice, “Google US English” (Google); on Android, Google voices that need a network can be picked too. You can choose another voice in Settings › Voice › AI voice.</li>
+    <li><b>Hugging Face</b> (<code class="host">huggingface.co</code>): when you download a Whisper model or an on-device AI model (the coach); nothing downloads by itself. Plus your own access token for gated models, if you add one.</li>
+    <li><b>GitHub</b> (<code class="host">raw.githubusercontent.com</code>, <code class="host">github.com</code>): the Android APK build reads the public version file of the SpeakSmith-App repository at start-up and when you check from Settings; if you accept an update, the new APK is downloaded from SpeakSmith-App’s GitHub Releases. No identity or device information is sent (see section 6).</li>
+  </ul>
+
+  <h3>5. Cloud AI and your keys</h3>
+  <p>The AI coach is optional. With an on-device model, coaching is processed on the phone. If you pick a cloud provider with your own key (OpenAI, Anthropic Claude, Google Gemini, OpenRouter, DeepSeek or an OpenAI-compatible address you enter), the text a feature needs is sent only to that provider: your chat and role-play messages, the transcript of what you said in improv and presentations, your essay, the lecture text and karaoke song lines (for translation, whenever lecture translation is on “Automatic”, the default, or “Cloud AI” and a cloud provider is set; the lecture text also for summarised lecture notes), a video’s captions for a video breakdown, text you paste for word suggestions, your words for example sentences and scenarios, your grammar mistakes for personal drills. Some requests include your level and interests. Your name is not sent. Keys are stored only on your device (encrypted on Android; for the web and its limits see section 7) and sent only to their own provider. <b>OpenAI Whisper:</b> if you choose to extract lyrics from a song file you added, no Whisper model is on the phone (always the case on the web) and an OpenAI key is saved, the file (up to 25 MB) is uploaded to OpenAI for transcription.</p>
+
+  <h3>6. Updates and error reporting</h3>
+  <p><b>Update check:</b> the Android APK build downloaded from GitHub reads a version file from the public SpeakSmith-App repository at start-up and when you check from Settings (<code class="host">raw.githubusercontent.com/<wbr>mehmetyasinuzun/<wbr>SpeakSmith-App/<wbr>main/<wbr>update.json</code>). No identity or device data is sent; as with any connection, GitHub only sees your IP address. If you accept an update, the new APK is downloaded from SpeakSmith-App’s GitHub Releases, its SHA-256 checksum is verified, and you confirm the installation. The web version does not check for updates; opening the page loads the current version from GitHub Pages.</p>
+  <p><b>No automatic error reports:</b> the app contains a component that can report errors to GitHub Issues by itself, but it works only if an access token is supplied at build time. The published builds contain no such token, so the app never sends error reports by itself. Errors are written only to a local log on your device.</p>
+  <p><b>“Report on GitHub” button:</b> not shown to learners. It appears on some error messages only if you turn on “Developer diagnostics” in Settings (off by default). Tapping it opens a pre-filled issue page in your browser on the public <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/issues" rel="noopener">SpeakSmith-App</a> repository, containing the error type and message (with content removed), stack trace, time, app version, locale, on Android the device maker, model and code name, Android version, processor architecture and whether it is an emulator, and the names of the last in-app actions. Words, essays, chats and lecture content are not included, and key- or password-like values are removed. Nothing is sent unless you submit that page; you can read and delete anything you do not want first. If you submit it, the issue is public and shown under your GitHub account.</p>
+
+  <h3>7. Web version</h3>
+  <ul>
+    <li><b>Where your data lives:</b> the web version’s data stays in this browser’s local storage and does not move to another browser or device (use a backup file to move it, see section 9). SpeakSmith writes its data under names of its own: settings, words and progress under keys starting with <code class="host">speaksmith.</code>, API keys under <code class="host">speaksmith_secure</code>, and the song files you add, lectures and video breakdowns in SpeakSmith’s own IndexedDB databases. Backups and “Delete all data” touch only these.</li>
+    <li><b>Other apps on the same address:</b> browsers separate local storage by site address, not by page. The web version runs on <code class="host">mehmetyasinuzun.github.io</code>, where the developer also publishes other web apps (for example SevimliPati). “Delete all data” in the app removes only SpeakSmith’s data. Clearing this address’s site data in your browser settings, however, removes the data of every app on this address together with SpeakSmith’s.</li>
+    <li><b>API keys on the web:</b> saved keys are encrypted, but the decryption key sits in the same browser storage, so anyone with access to this browser, or a page running on the same address, can read them. If you use cloud AI on the web, use a separate key with a spending limit set at your provider, and do not save keys on a shared computer.</li>
+    <li>When the page opens, the WebLLM module for in-browser AI is loaded from jsDelivr (<code class="host">esm.run</code> and <code class="host">cdn.jsdelivr.net</code>), which sees your IP address and browser details. If you pick an in-browser model, its files come from the addresses in WebLLM’s catalogue (currently Hugging Face and GitHub) and stay in the browser’s cache.</li>
+    <li>The Flutter engine downloads fallback fonts from Google Fonts (<code class="host">fonts.gstatic.com</code>) for characters missing from the bundled fonts, such as emoji and some symbols; this can happen on the first screen.</li>
+    <li>There is no on-device translation on the web: with “On the phone” selected, lecture translation stays off; with “Automatic” and no cloud AI, lines are sent to MyMemory.</li>
+    <li>Lecture Desk and Whisper are Android-only; on the web only the browser’s speech recognition uses the microphone.</li>
+  </ul>
+
+  <h3>8. No account, ads or analytics</h3>
+  <p>No sign-up, no sign-in, no identifier that describes you. No advertising, analytics, tracking or marketing libraries and no in-app purchases. No statistics about your usage, progress or content are sent to us. The one exception is Google’s own component: on Android, ML Kit (on-device translation) may send technical usage metrics to Google as described in section 4; they never reach us.</p>
+
+  <h3>9. Backup file</h3>
+  <p>A backup is a single JSON file saved where you choose (Settings › Data management). It contains your words, lecture texts, progress, profile and settings; never audio files, downloaded models or API keys. On the web it contains only SpeakSmith’s own data, not the data of other apps on the same address. The file is not encrypted, so you decide where it goes.</p>
+
+  <h3>10. Deleting your data</h3>
+  <p>Delete items one by one in the app, or use Settings › Data management › “Delete all data”, which removes the database, lectures and their recordings, song files, settings and saved API keys (on Android, downloaded models only if you tick the box). Uninstalling removes all app data. On the web, “Delete all data” removes only SpeakSmith’s data and leaves other apps on the same address alone. Files of an AI model you downloaded in the browser stay in the browser’s cache, and the app cannot delete them; you can remove them by clearing the site data for <code class="host">mehmetyasinuzun.github.io</code> in your browser settings, but that also removes all of SpeakSmith’s data and the data of other apps on this address (for example SevimliPati). Data already sent to a third-party service is governed by that service.</p>
+
+  <h3>11. Children</h3>
+  <p>SpeakSmith does not ask for an account and collects no personal data from anyone, including children. Third-party services it connects to, such as YouTube and cloud AI providers, have their own age requirements; if you are under 18, use them with a parent or guardian.</p>
+
+  <h3>12. This website</h3>
+  <p>This site is hosted on GitHub Pages. It sets no cookies, loads no analytics or ad scripts, serves its own fonts and makes no requests to other sites. GitHub may keep technical connection logs (such as IP addresses) under its own privacy statement. Your theme choice is stored only in this browser.</p>
+
+  <h3>13. Your rights and contact</h3>
+  <p>We keep no personal data about you; your app data is on your device and you control it as described above. For any question or request, including under Turkish data protection law (KVKK) or similar laws where you live, write to us via SpeakSmith’s GitHub page: <a href="https://github.com/mehmetyasinuzun/SpeakSmith-App/issues" rel="noopener">github.com/mehmetyasinuzun/SpeakSmith-App/issues</a>.</p>
+
+  <h3>14. Changes</h3>
+  <p>If what the app sends over the internet changes, we will update this page and the date above, and mention important changes in the release notes.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="brand" href="../"><img src="../assets/favicon.svg" width="32" height="32" alt="">SpeakSmith</a>
+      <p>İngilizcenin içinde kal. Yalnız kalma.</p>
+    </div>
+    <div>
+      <h4>Sayfalar</h4>
+      <ul><li><a href="../">Ana sayfa</a></li><li><a href="../indir/">İndir</a></li><li><a href="../uygulama/">Tarayıcıda dene</a></li></ul>
+    </div>
+    <div>
+      <h4>Bilgi</h4>
+      <ul><li><a href="./">Gizlilik Politikası</a></li><li><a href="kosullar.html">Kullanım Koşulları</a></li><li><a href="../en/" lang="en">English site</a></li></ul>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
