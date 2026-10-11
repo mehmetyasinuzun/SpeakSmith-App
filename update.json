@@ -1,0 +1,31 @@
+{
+  "versionCode": 2081,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm64.apk",
+  "changelog": "Yatay ekran ve koç kurulumu düzeltmeleri.\n• Telefonu yataya çevirince YouTube oynatıcısı artık tüm ekranı kaplamıyor; ders metni, karaoke sözleri ve geri düğmesi kullanılabilir kalıyor.\n• Ücretsiz koçu indirince sohbetler kendiliğinden ona geçer; bulut sağlayıcı seçtiysen seçimin korunur.\n• \"Kendi API anahtarım var\" seçeneği Ayarlar'ı sağlayıcılar açık getirir; koç kartı süren indirmeyi yüzdesiyle gösterir.\n• Yapay zekâyı atlayan yeni kullanıcı ana sayfada hata uyarısı değil, isteğe bağlı koç kartı görür; \"AI ile üret\" gibi yerlerde de önce ücretsiz koç önerilir.\n• Sohbette küçük modelin bıraktığı ham etiket görünmez; sunum ve boş ders mesajları daha açık.",
+  "minSupportedCode": 0,
+  "sha256": "8fcaa1dbb9334595ad63745a0d2037db6533062cc88bd8e2d422af6f77ee0b9d",
+  "signatureChangedAtBuild": 50,
+  "variants": {
+    "arm64-v8a": {
+      "versionCode": 2081,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm64.apk",
+      "sha256": "8fcaa1dbb9334595ad63745a0d2037db6533062cc88bd8e2d422af6f77ee0b9d"
+    },
+    "armeabi-v7a": {
+      "versionCode": 1081,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm32.apk",
+      "sha256": "f825194fc8cfbee41e65d2fe6d3c14ba78cefdb0d76565ad739026aa3a228e16"
+    },
+    "x86_64": {
+      "versionCode": 4081,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-x64.apk",
+      "sha256": "e818cbc2212e70704720232fbaeff3ccf536fca9bfde9d55a0e1293d7027f9d5"
+    },
+    "universal": {
+      "versionCode": 81,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-universal.apk",
+      "sha256": "f9a6a8a4bf063df31fa6ccf66028a58d66228bb1f9a9c9bed8b97a1c1975b6eb"
+    }
+  }
+}
