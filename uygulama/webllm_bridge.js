@@ -81,6 +81,25 @@ class SpeakSmithLLM {
     }
   }
 
+  /// Verilen kimliklerden tarayıcı önbelleğinde ağırlıkları DURANLAR.
+  /// Sayfa yenilenince motor bellekten gider ama ağırlıklar Cache Storage'da
+  /// kalır: "indirilmedi" demek yerine önbellekten yeniden yüklenebilir.
+  async cachedModelIds(modelIds) {
+    const out = [];
+    for (const id of modelIds || []) {
+      try {
+        if (this.isModelSupported(id) && await webllm.hasModelInCache(id)) out.push(id);
+      } catch (_) {}
+    }
+    return out;
+  }
+
+  /// Modelin önbellekteki ağırlıklarını siler (yüklüyse önce boşaltır).
+  async deleteCached(modelId) {
+    if (this.currentModel === modelId) await this.unload();
+    try { await webllm.deleteModelAllInfoInCache(modelId); } catch (_) {}
+  }
+
   async complete(messages, options) {
     if (!this.engine) throw new Error('Model henüz yüklenmedi');
     const opts = options || {};
