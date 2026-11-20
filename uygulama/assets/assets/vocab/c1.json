@@ -5786,18 +5786,6 @@
     "tipTr": "Fiilde vurgu sonda; isim hâlinde başta ve \"panel\" demektir."
   },
   {
-    "english": "perfect",
-    "turkish": "kusursuzlaştırmak, kusursuz",
-    "example": "We can perfect the wording later; the logic is already perfect.",
-    "exampleTr": "İfadeyi sonra kusursuzlaştırabiliriz, mantık zaten kusursuz.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda: perFECT; sıfatta başta: PERfect."
-  },
-  {
     "english": "alternate",
     "turkish": "sırayla değişmek, dönüşümlü",
     "example": "Two engineers alternate on call each week.",

@@ -2379,17 +2379,6 @@
     ]
   },
   {
-    "english": "object",
-    "turkish": "itiraz etmek, nesne",
-    "example": "Several members objected to the plan.",
-    "exampleTr": "Birkaç üye plana itiraz etti.",
-    "level": "B2",
-    "tags": [
-      "reporting verbs"
-    ],
-    "tipTr": "\"object to sth\" edatıyla kullanılır."
-  },
-  {
     "english": "demand",
     "turkish": "talep etmek, talep",
     "example": "Customers demand faster delivery.",
@@ -3851,17 +3840,6 @@
     ]
   },
   {
-    "english": "scientist",
-    "turkish": "bilim insanı",
-    "example": "Scientists tested the water in the lake.",
-    "exampleTr": "Bilim insanları göldeki suyu test etti.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "academic"
-    ]
-  },
-  {
     "english": "scientific",
     "turkish": "bilimsel",
     "example": "There is no scientific evidence for that.",
@@ -4151,17 +4129,6 @@
     "tags": [
       "word families",
       "business"
-    ]
-  },
-  {
-    "english": "culture",
-    "turkish": "kültür",
-    "example": "Workplace culture matters as much as pay.",
-    "exampleTr": "İş yeri kültürü maaş kadar önemlidir.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "society"
     ]
   },
   {

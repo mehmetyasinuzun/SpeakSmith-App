@@ -1,0 +1,3548 @@
+{
+  "level": "A1",
+  "version": 1,
+  "units": [
+    {
+      "id": "a1-01",
+      "titleTr": "Merhaba!",
+      "titleEn": "Hello!",
+      "words": [
+        "hello",
+        "hi",
+        "hey",
+        "bye",
+        "goodbye",
+        "please",
+        "thank",
+        "thanks",
+        "sorry",
+        "yes",
+        "no",
+        "OK",
+        "yeah",
+        "oh",
+        "welcome",
+        "name",
+        "surname",
+        "nice",
+        "fine",
+        "well",
+        "dear"
+      ],
+      "phrases": [
+        {
+          "phrase": "thank you",
+          "turkish": "teşekkür ederim",
+          "example": "Thank you for the nice dinner.",
+          "exampleTr": "Güzel yemek için teşekkür ederim."
+        },
+        {
+          "phrase": "thank you very much",
+          "turkish": "çok teşekkür ederim",
+          "example": "Thank you very much for your help!",
+          "exampleTr": "Yardımın için çok teşekkür ederim!"
+        },
+        {
+          "phrase": "I'm sorry",
+          "turkish": "özür dilerim, üzgünüm",
+          "example": "I'm sorry, I don't have time today.",
+          "exampleTr": "Özür dilerim, bugün vaktim yok."
+        },
+        {
+          "phrase": "You're welcome",
+          "turkish": "rica ederim",
+          "example": "\"Thanks for the coffee.\" \"You're welcome!\"",
+          "exampleTr": "\"Kahve için teşekkürler.\" \"Rica ederim!\""
+        },
+        {
+          "phrase": "No problem",
+          "turkish": "sorun değil, önemli değil",
+          "example": "No problem, I can wait.",
+          "exampleTr": "Sorun değil, bekleyebilirim."
+        },
+        {
+          "phrase": "Oh no!",
+          "turkish": "Eyvah!, Olamaz!",
+          "example": "Oh no! I'm late for work!",
+          "exampleTr": "Eyvah! İşe geç kaldım!"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How are you today?",
+          "promptTr": "Bugün nasılsın?",
+          "answer": "I'm fine, thanks. And you?",
+          "answerTr": "İyiyim, teşekkürler. Ya sen?"
+        },
+        {
+          "prompt": "What's your name?",
+          "promptTr": "Adın ne?",
+          "answer": "My name is Deniz. Nice to meet you.",
+          "answerTr": "Adım Deniz. Tanıştığımıza memnun oldum."
+        },
+        {
+          "prompt": "Your friend says \"Thank you!\" What do you say?",
+          "promptTr": "Arkadaşın \"Teşekkürler!\" diyor. Sen ne dersin?",
+          "answer": "You're welcome!",
+          "answerTr": "Rica ederim!"
+        }
+      ]
+    },
+    {
+      "id": "a1-02",
+      "titleTr": "Ben ve sen",
+      "titleEn": "You and me",
+      "words": [
+        "be",
+        "I",
+        "you",
+        "he",
+        "she",
+        "it",
+        "we",
+        "they",
+        "me",
+        "him",
+        "her",
+        "us",
+        "them",
+        "my",
+        "your",
+        "his",
+        "its",
+        "our",
+        "their",
+        "yourself",
+        "own",
+        "not",
+        "person",
+        "with",
+        "to"
+      ],
+      "phrases": [
+        {
+          "phrase": "be on the phone",
+          "turkish": "telefonda olmak",
+          "example": "My mom is on the phone with my aunt.",
+          "exampleTr": "Annem teyzemle telefonda konuşuyor."
+        },
+        {
+          "phrase": "his or her",
+          "turkish": "onun (erkek ya da kadın)",
+          "example": "Each student writes his or her name.",
+          "exampleTr": "Her öğrenci kendi adını yazar."
+        },
+        {
+          "phrase": "This is my dad.",
+          "turkish": "Bu benim babam.",
+          "example": "Hi, Sam! This is my dad, Ali.",
+          "exampleTr": "Selam Sam! Bu benim babam, Ali."
+        },
+        {
+          "phrase": "be going to",
+          "turkish": "-ecek, -acak (plan)",
+          "example": "I'm going to visit my aunt tomorrow.",
+          "exampleTr": "Yarın teyzemi ziyaret edeceğim."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Are you a student?",
+          "promptTr": "Öğrenci misin?",
+          "answer": "Yes, I am. I'm a student in Izmir.",
+          "answerTr": "Evet, öyleyim. İzmir'de öğrenciyim."
+        },
+        {
+          "prompt": "Who is your best friend?",
+          "promptTr": "En yakın arkadaşın kim?",
+          "answer": "My best friend is Ece. She's very funny.",
+          "answerTr": "En yakın arkadaşım Ece. Çok komiktir."
+        },
+        {
+          "prompt": "Where are you from?",
+          "promptTr": "Nerelisin?",
+          "answer": "I'm from Bursa. It's a big city.",
+          "answerTr": "Bursalıyım. Büyük bir şehir."
+        }
+      ]
+    },
+    {
+      "id": "a1-03",
+      "titleTr": "Bu ne?",
+      "titleEn": "What is this?",
+      "words": [
+        "what",
+        "who",
+        "where",
+        "when",
+        "why",
+        "which",
+        "how",
+        "this",
+        "that",
+        "the",
+        "an",
+        "thing",
+        "something",
+        "nothing",
+        "everything",
+        "anything",
+        "here",
+        "there",
+        "and",
+        "or",
+        "very",
+        "but"
+      ],
+      "phrases": [
+        {
+          "phrase": "What about…?",
+          "turkish": "…ne dersin?, Peki ya …?",
+          "example": "I'm hungry. What about pizza?",
+          "exampleTr": "Acıktım. Pizzaya ne dersin?"
+        },
+        {
+          "phrase": "something else",
+          "turkish": "başka bir şey",
+          "example": "I don't want tea. Can I have something else?",
+          "exampleTr": "Çay istemiyorum. Başka bir şey alabilir miyim?"
+        },
+        {
+          "phrase": "there is",
+          "turkish": "var (tekil)",
+          "example": "There's a cat in the garden.",
+          "exampleTr": "Bahçede bir kedi var."
+        },
+        {
+          "phrase": "there are",
+          "turkish": "var (çoğul)",
+          "example": "There are two banks on this street.",
+          "exampleTr": "Bu sokakta iki banka var."
+        },
+        {
+          "phrase": "How are you?",
+          "turkish": "Nasılsın?",
+          "example": "Hi, Tom! How are you today?",
+          "exampleTr": "Selam Tom! Bugün nasılsın?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's in your bag?",
+          "promptTr": "Çantanda ne var?",
+          "answer": "There's a book, a pen and my phone.",
+          "answerTr": "Bir kitap, bir kalem ve telefonum var."
+        },
+        {
+          "prompt": "Where is your phone now?",
+          "promptTr": "Telefonun şu an nerede?",
+          "answer": "It's here, in my bag.",
+          "answerTr": "Burada, çantamda."
+        },
+        {
+          "prompt": "Which do you like, tea or coffee?",
+          "promptTr": "Hangisini seversin, çay mı kahve mi?",
+          "answer": "I like coffee, but tea is OK too.",
+          "answerTr": "Kahveyi severim ama çay da olur."
+        }
+      ]
+    },
+    {
+      "id": "a1-04",
+      "titleTr": "Sahip olmak, yapabilmek",
+      "titleEn": "Have, do, can",
+      "words": [
+        "have",
+        "have to",
+        "do",
+        "can",
+        "cannot",
+        "could",
+        "must",
+        "should",
+        "will",
+        "would",
+        "want",
+        "need",
+        "like",
+        "love",
+        "hate",
+        "prefer",
+        "know",
+        "think",
+        "mean",
+        "let"
+      ],
+      "phrases": [
+        {
+          "phrase": "have time",
+          "turkish": "vakti olmak",
+          "example": "Do you have time for coffee?",
+          "exampleTr": "Kahve için vaktin var mı?"
+        },
+        {
+          "phrase": "have fun",
+          "turkish": "eğlenmek",
+          "example": "Have fun at the party!",
+          "exampleTr": "Partide iyi eğlenceler!"
+        },
+        {
+          "phrase": "know how to",
+          "turkish": "-meyi bilmek",
+          "example": "Do you know how to cook rice?",
+          "exampleTr": "Pilav yapmayı biliyor musun?"
+        },
+        {
+          "phrase": "think about",
+          "turkish": "(bir şeyi) düşünmek",
+          "example": "I often think about my old school.",
+          "exampleTr": "Eski okulumu sık sık düşünürüm."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What can you do well?",
+          "promptTr": "Neyi iyi yapabilirsin?",
+          "answer": "I can cook, and I can swim well.",
+          "answerTr": "Yemek yapabilirim ve iyi yüzerim."
+        },
+        {
+          "prompt": "What do you have to do today?",
+          "promptTr": "Bugün ne yapman gerekiyor?",
+          "answer": "I have to work and buy some bread.",
+          "answerTr": "Çalışmam ve biraz ekmek almam gerekiyor."
+        },
+        {
+          "prompt": "What do you like, and what do you hate?",
+          "promptTr": "Neyi seversin, nelerden nefret edersin?",
+          "answer": "I like music, but I hate cold weather.",
+          "answerTr": "Müziği severim ama soğuk havadan nefret ederim."
+        }
+      ]
+    },
+    {
+      "id": "a1-05",
+      "titleTr": "Sayılar 1–20",
+      "titleEn": "Numbers 1–20",
+      "words": [
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+        "ten",
+        "eleven",
+        "twelve",
+        "thirteen",
+        "fourteen",
+        "fifteen",
+        "sixteen",
+        "seventeen",
+        "eighteen",
+        "nineteen",
+        "twenty",
+        "number"
+      ],
+      "phrases": [
+        {
+          "phrase": "phone number",
+          "turkish": "telefon numarası",
+          "example": "Can I have your phone number?",
+          "exampleTr": "Telefon numaranı alabilir miyim?"
+        },
+        {
+          "phrase": "… years old",
+          "turkish": "… yaşında",
+          "example": "My son is ten years old.",
+          "exampleTr": "Oğlum on yaşında."
+        },
+        {
+          "phrase": "one day",
+          "turkish": "bir gün",
+          "example": "One day, I want to visit New York.",
+          "exampleTr": "Bir gün New York'u görmek istiyorum."
+        },
+        {
+          "phrase": "… minutes later",
+          "turkish": "… dakika sonra",
+          "example": "Ten minutes later, the bus came.",
+          "exampleTr": "On dakika sonra otobüs geldi."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How old are you?",
+          "promptTr": "Kaç yaşındasın?",
+          "answer": "I'm twenty-five years old.",
+          "answerTr": "Yirmi beş yaşındayım."
+        },
+        {
+          "prompt": "What's your phone number?",
+          "promptTr": "Telefon numaran ne?",
+          "answer": "It's five five five, two one eight.",
+          "answerTr": "Beş beş beş, iki bir sekiz."
+        },
+        {
+          "prompt": "How many people are in your family?",
+          "promptTr": "Ailende kaç kişi var?",
+          "answer": "There are four people in my family.",
+          "answerTr": "Ailemizde dört kişi var."
+        }
+      ]
+    },
+    {
+      "id": "a1-06",
+      "titleTr": "Büyük sayılar ve ölçüler",
+      "titleEn": "Big numbers and measures",
+      "words": [
+        "thirty",
+        "forty",
+        "fifty",
+        "sixty",
+        "seventy",
+        "eighty",
+        "ninety",
+        "hundred",
+        "thousand",
+        "million",
+        "first",
+        "third",
+        "fourth",
+        "fifth",
+        "half",
+        "quarter",
+        "twice",
+        "pair",
+        "age",
+        "mile",
+        "meter"
+      ],
+      "phrases": [
+        {
+          "phrase": "half an hour",
+          "turkish": "yarım saat",
+          "example": "The lesson is half an hour long.",
+          "exampleTr": "Ders yarım saat sürüyor."
+        },
+        {
+          "phrase": "thousands of…",
+          "turkish": "binlerce",
+          "example": "Thousands of people came to the concert.",
+          "exampleTr": "Konsere binlerce kişi geldi."
+        },
+        {
+          "phrase": "millions of…",
+          "turkish": "milyonlarca",
+          "example": "Millions of people watch this show.",
+          "exampleTr": "Bu programı milyonlarca insan izliyor."
+        },
+        {
+          "phrase": "for the first time",
+          "turkish": "ilk kez",
+          "example": "I saw the sea for the first time.",
+          "exampleTr": "Denizi ilk kez gördüm."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How old is your mother?",
+          "promptTr": "Annen kaç yaşında?",
+          "answer": "She's fifty-two years old.",
+          "answerTr": "Elli iki yaşında."
+        },
+        {
+          "prompt": "How often do you go to the gym?",
+          "promptTr": "Ne sıklıkla spor salonuna gidersin?",
+          "answer": "I go twice a week.",
+          "answerTr": "Haftada iki kez giderim."
+        },
+        {
+          "prompt": "What floor do you live on?",
+          "promptTr": "Kaçıncı katta oturuyorsun?",
+          "answer": "I live on the third floor.",
+          "answerTr": "Üçüncü katta oturuyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-07",
+      "titleTr": "Gün ve saat",
+      "titleEn": "Day and time",
+      "words": [
+        "time",
+        "day",
+        "week",
+        "month",
+        "year",
+        "hour",
+        "minute",
+        "second",
+        "moment",
+        "morning",
+        "afternoon",
+        "evening",
+        "night",
+        "noon",
+        "midnight",
+        "today",
+        "tomorrow",
+        "yesterday",
+        "tonight",
+        "now",
+        "o'clock",
+        "half past",
+        "quarter past",
+        "weekend"
+      ],
+      "phrases": [
+        {
+          "phrase": "in the morning",
+          "turkish": "sabahleyin, sabahları",
+          "example": "I go running in the morning.",
+          "exampleTr": "Sabahları koşuya çıkarım."
+        },
+        {
+          "phrase": "in the evening",
+          "turkish": "akşamleyin, akşamları",
+          "example": "I read a book in the evening.",
+          "exampleTr": "Akşamları kitap okurum."
+        },
+        {
+          "phrase": "at the moment",
+          "turkish": "şu anda",
+          "example": "She's busy at the moment.",
+          "exampleTr": "Şu anda meşgul."
+        },
+        {
+          "phrase": "this weekend",
+          "turkish": "bu hafta sonu",
+          "example": "What are you doing this weekend?",
+          "exampleTr": "Bu hafta sonu ne yapıyorsun?"
+        },
+        {
+          "phrase": "all day",
+          "turkish": "bütün gün",
+          "example": "It rained all day yesterday.",
+          "exampleTr": "Dün bütün gün yağmur yağdı."
+        },
+        {
+          "phrase": "for the second time",
+          "turkish": "ikinci kez",
+          "example": "I'm visiting Paris for the second time.",
+          "exampleTr": "Paris'i ikinci kez ziyaret ediyorum."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What time do you get up?",
+          "promptTr": "Saat kaçta kalkarsın?",
+          "answer": "I get up at seven o'clock.",
+          "answerTr": "Saat yedide kalkarım."
+        },
+        {
+          "prompt": "What do you do in the evening?",
+          "promptTr": "Akşamları ne yaparsın?",
+          "answer": "I cook dinner and watch TV.",
+          "answerTr": "Akşam yemeği yapar, televizyon izlerim."
+        },
+        {
+          "prompt": "What are you doing tonight?",
+          "promptTr": "Bu akşam ne yapıyorsun?",
+          "answer": "I'm meeting a friend for dinner.",
+          "answerTr": "Bir arkadaşla akşam yemeğinde buluşuyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-08",
+      "titleTr": "Günler, aylar, özel günler",
+      "titleEn": "Days, months and special days",
+      "words": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+        "date",
+        "birthday",
+        "present"
+      ],
+      "phrases": [
+        {
+          "phrase": "on Monday",
+          "turkish": "pazartesi (günü)",
+          "example": "I have English class on Monday.",
+          "exampleTr": "Pazartesi günü İngilizce dersim var."
+        },
+        {
+          "phrase": "in April",
+          "turkish": "nisanda",
+          "example": "My birthday is in April.",
+          "exampleTr": "Doğum günüm nisanda."
+        },
+        {
+          "phrase": "in July",
+          "turkish": "temmuzda",
+          "example": "We go to the beach in July.",
+          "exampleTr": "Temmuzda plaja gideriz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "When is your birthday?",
+          "promptTr": "Doğum günün ne zaman?",
+          "answer": "My birthday is in March.",
+          "answerTr": "Doğum günüm martta."
+        },
+        {
+          "prompt": "What's your favorite day of the week?",
+          "promptTr": "Haftanın en sevdiğin günü hangisi?",
+          "answer": "Saturday. I don't work on Saturdays.",
+          "answerTr": "Cumartesi. Cumartesileri çalışmıyorum."
+        },
+        {
+          "prompt": "What do you do on Sundays?",
+          "promptTr": "Pazar günleri ne yaparsın?",
+          "answer": "I sleep late and visit my parents.",
+          "answerTr": "Geç kalkarım ve annemle babamı ziyaret ederim."
+        }
+      ]
+    },
+    {
+      "id": "a1-09",
+      "titleTr": "Ne zaman?",
+      "titleEn": "When?",
+      "words": [
+        "always",
+        "never",
+        "sometimes",
+        "often",
+        "usually",
+        "ever",
+        "once",
+        "soon",
+        "early",
+        "late",
+        "ago",
+        "before",
+        "after",
+        "then",
+        "until",
+        "during",
+        "past",
+        "future",
+        "later",
+        "still",
+        "already",
+        "yet",
+        "again"
+      ],
+      "phrases": [
+        {
+          "phrase": "See you later",
+          "turkish": "sonra görüşürüz",
+          "example": "I have to go now. See you later!",
+          "exampleTr": "Şimdi gitmem lazım. Sonra görüşürüz!"
+        },
+        {
+          "phrase": "See you soon",
+          "turkish": "yakında görüşürüz",
+          "example": "Have a good trip! See you soon.",
+          "exampleTr": "İyi yolculuklar! Yakında görüşürüz."
+        },
+        {
+          "phrase": "in the future",
+          "turkish": "gelecekte",
+          "example": "In the future, I want to live by the sea.",
+          "exampleTr": "Gelecekte deniz kenarında yaşamak istiyorum."
+        },
+        {
+          "phrase": "once a week",
+          "turkish": "haftada bir",
+          "example": "We eat fish once a week.",
+          "exampleTr": "Haftada bir balık yeriz."
+        },
+        {
+          "phrase": "… years ago",
+          "turkish": "… yıl önce",
+          "example": "We moved here three years ago.",
+          "exampleTr": "Buraya üç yıl önce taşındık."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How often do you cook?",
+          "promptTr": "Ne sıklıkla yemek yaparsın?",
+          "answer": "I cook every evening.",
+          "answerTr": "Her akşam yemek yaparım."
+        },
+        {
+          "prompt": "What do you do after work?",
+          "promptTr": "İşten sonra ne yaparsın?",
+          "answer": "After work, I often go to the gym.",
+          "answerTr": "İşten sonra sık sık spor salonuna giderim."
+        },
+        {
+          "prompt": "Are you ever late for work or school?",
+          "promptTr": "Hiç işe ya da okula geç kalır mısın?",
+          "answer": "Sometimes, but I'm never late on Mondays.",
+          "answerTr": "Bazen, ama pazartesileri asla geç kalmam."
+        }
+      ]
+    },
+    {
+      "id": "a1-10",
+      "titleTr": "Aile",
+      "titleEn": "Family",
+      "words": [
+        "family",
+        "mother",
+        "father",
+        "mom",
+        "dad",
+        "parent",
+        "parents",
+        "brother",
+        "sister",
+        "son",
+        "daughter",
+        "child",
+        "kid",
+        "baby",
+        "boy",
+        "girl",
+        "grandmother",
+        "grandfather",
+        "grandparent",
+        "uncle",
+        "aunt",
+        "cousin",
+        "husband",
+        "wife"
+      ],
+      "phrases": [
+        {
+          "phrase": "family member",
+          "turkish": "aile üyesi",
+          "example": "Every family member has a key.",
+          "exampleTr": "Ailenin her bireyinin anahtarı var."
+        },
+        {
+          "phrase": "live with",
+          "turkish": "ile yaşamak",
+          "example": "I live with my grandmother.",
+          "exampleTr": "Büyükannemle yaşıyorum."
+        },
+        {
+          "phrase": "grow up",
+          "turkish": "büyümek (çocukluktan çıkmak)",
+          "example": "My kids are growing up very fast.",
+          "exampleTr": "Çocuklarım çok hızlı büyüyor."
+        },
+        {
+          "phrase": "get married",
+          "turkish": "evlenmek",
+          "example": "My sister is getting married in June.",
+          "exampleTr": "Ablam haziranda evleniyor."
+        },
+        {
+          "phrase": "baby sister",
+          "turkish": "küçük kız kardeş (bebek)",
+          "example": "My baby sister is only two years old.",
+          "exampleTr": "Küçük kız kardeşim daha iki yaşında."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Do you have any brothers or sisters?",
+          "promptTr": "Kardeşin var mı?",
+          "answer": "Yes, I have one brother and two sisters.",
+          "answerTr": "Evet, bir erkek ve iki kız kardeşim var."
+        },
+        {
+          "prompt": "Who do you live with?",
+          "promptTr": "Kiminle yaşıyorsun?",
+          "answer": "I live with my parents and my little sister.",
+          "answerTr": "Annem, babam ve küçük kız kardeşimle yaşıyorum."
+        },
+        {
+          "prompt": "What does your mother do?",
+          "promptTr": "Annen ne iş yapıyor?",
+          "answer": "She's a teacher at a high school.",
+          "answerTr": "Bir lisede öğretmen."
+        }
+      ]
+    },
+    {
+      "id": "a1-11",
+      "titleTr": "İnsanlar",
+      "titleEn": "People",
+      "words": [
+        "people",
+        "man",
+        "woman",
+        "friend",
+        "best friend",
+        "boyfriend",
+        "girlfriend",
+        "partner",
+        "adult",
+        "teenager",
+        "young",
+        "old",
+        "married",
+        "guest",
+        "visitor",
+        "neighbor",
+        "everybody",
+        "everyone",
+        "somebody",
+        "someone",
+        "nobody",
+        "no one",
+        "anyone",
+        "member"
+      ],
+      "synonyms": {
+        "everyone": "everybody",
+        "someone": "somebody",
+        "no one": "nobody"
+      },
+      "phrases": [
+        {
+          "phrase": "old friend",
+          "turkish": "eski arkadaş",
+          "example": "Yesterday I met an old friend from school.",
+          "exampleTr": "Dün okuldan eski bir arkadaşla karşılaştım."
+        },
+        {
+          "phrase": "someone else",
+          "turkish": "başka biri",
+          "example": "This isn't my bag. It's someone else's.",
+          "exampleTr": "Bu benim çantam değil. Başka birinin."
+        },
+        {
+          "phrase": "anyone else",
+          "turkish": "başka biri, başka kimse",
+          "example": "Does anyone else want coffee?",
+          "exampleTr": "Başka kahve isteyen var mı?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Who is your best friend?",
+          "promptTr": "En yakın arkadaşın kim?",
+          "answer": "My best friend is Deniz. We're in the same class.",
+          "answerTr": "En yakın arkadaşım Deniz. Aynı sınıftayız."
+        },
+        {
+          "prompt": "What's your neighbor like?",
+          "promptTr": "Komşun nasıl biri?",
+          "answer": "She's very friendly. She often helps me.",
+          "answerTr": "Çok cana yakın. Bana sık sık yardım eder."
+        },
+        {
+          "prompt": "Do you know your neighbors?",
+          "promptTr": "Komşularını tanıyor musun?",
+          "answer": "Yes, I know everyone on my street.",
+          "answerTr": "Evet, sokağımdaki herkesi tanıyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-12",
+      "titleTr": "Yiyecekler",
+      "titleEn": "Food",
+      "words": [
+        "food",
+        "bread",
+        "milk",
+        "egg",
+        "cheese",
+        "meat",
+        "chicken",
+        "fish",
+        "rice",
+        "soup",
+        "salad",
+        "fruit",
+        "vegetable",
+        "apple",
+        "banana",
+        "orange",
+        "tomato",
+        "potato",
+        "onion",
+        "carrot",
+        "sandwich",
+        "cake",
+        "chocolate",
+        "ice cream",
+        "fresh"
+      ],
+      "phrases": [
+        {
+          "phrase": "a little",
+          "turkish": "biraz",
+          "example": "Can I have a little milk, please?",
+          "exampleTr": "Biraz süt alabilir miyim, lütfen?"
+        },
+        {
+          "phrase": "lots of…",
+          "turkish": "bir sürü, bol",
+          "example": "We eat lots of vegetables at home.",
+          "exampleTr": "Evde bol sebze yeriz."
+        },
+        {
+          "phrase": "good for",
+          "turkish": "-e iyi gelir, -e yararlı",
+          "example": "Fruit is good for you.",
+          "exampleTr": "Meyve sana iyi gelir."
+        },
+        {
+          "phrase": "a lot of",
+          "turkish": "çok, bir sürü",
+          "example": "I eat a lot of bread.",
+          "exampleTr": "Çok ekmek yerim."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you eat for breakfast?",
+          "promptTr": "Kahvaltıda ne yersin?",
+          "answer": "I eat bread, cheese and eggs.",
+          "answerTr": "Ekmek, peynir ve yumurta yerim."
+        },
+        {
+          "prompt": "What's your favorite fruit?",
+          "promptTr": "En sevdiğin meyve ne?",
+          "answer": "I love bananas and apples.",
+          "answerTr": "Muzu ve elmayı çok severim."
+        },
+        {
+          "prompt": "Do you like vegetables?",
+          "promptTr": "Sebze sever misin?",
+          "answer": "Yes, I do. I like tomatoes and potatoes.",
+          "answerTr": "Evet, severim. Domatesi ve patatesi severim."
+        }
+      ]
+    },
+    {
+      "id": "a1-13",
+      "titleTr": "İçecekler ve mutfak",
+      "titleEn": "Drinks and cooking",
+      "words": [
+        "drink",
+        "water",
+        "tea",
+        "coffee",
+        "juice",
+        "beer",
+        "wine",
+        "sugar",
+        "salt",
+        "pepper",
+        "oil",
+        "butter",
+        "cream",
+        "cook",
+        "cooking",
+        "taste",
+        "add",
+        "cut",
+        "hungry",
+        "thirsty",
+        "delicious",
+        "dish",
+        "eat",
+        "without"
+      ],
+      "phrases": [
+        {
+          "phrase": "a little sugar",
+          "turkish": "biraz şeker",
+          "example": "I drink my tea with a little sugar.",
+          "exampleTr": "Çayımı biraz şekerle içerim."
+        },
+        {
+          "phrase": "too much",
+          "turkish": "çok fazla",
+          "example": "Don't add too much salt.",
+          "exampleTr": "Çok fazla tuz ekleme."
+        },
+        {
+          "phrase": "a few minutes",
+          "turkish": "birkaç dakika",
+          "example": "Cook the eggs for a few minutes.",
+          "exampleTr": "Yumurtaları birkaç dakika pişir."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you drink in the morning?",
+          "promptTr": "Sabahları ne içersin?",
+          "answer": "I usually drink black coffee.",
+          "answerTr": "Genellikle sütsüz kahve içerim."
+        },
+        {
+          "prompt": "Can you cook?",
+          "promptTr": "Yemek yapabilir misin?",
+          "answer": "Yes, I can. I cook rice and soup.",
+          "answerTr": "Evet, yapabilirim. Pilav ve çorba yaparım."
+        },
+        {
+          "prompt": "Are you hungry now?",
+          "promptTr": "Şu an aç mısın?",
+          "answer": "Yes, I'm very hungry. Let's eat!",
+          "answerTr": "Evet, çok açım. Hadi yiyelim!"
+        }
+      ]
+    },
+    {
+      "id": "a1-14",
+      "titleTr": "Yemek zamanı",
+      "titleEn": "Mealtime",
+      "words": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "meal",
+        "menu",
+        "waiter",
+        "bill",
+        "plate",
+        "cup",
+        "glass",
+        "bottle",
+        "knife",
+        "fork",
+        "spoon",
+        "restaurant",
+        "cafe",
+        "bar",
+        "order",
+        "diet",
+        "pizza",
+        "for"
+      ],
+      "phrases": [
+        {
+          "phrase": "for lunch",
+          "turkish": "öğle yemeğinde",
+          "example": "What do you want for lunch?",
+          "exampleTr": "Öğle yemeğinde ne istersin?"
+        },
+        {
+          "phrase": "I would like…",
+          "turkish": "… isterim (kibar)",
+          "example": "I would like the menu, please.",
+          "exampleTr": "Menüyü rica edebilir miyim?"
+        },
+        {
+          "phrase": "Would you like…?",
+          "turkish": "… ister misin(iz)?",
+          "example": "Would you like a cup of tea?",
+          "exampleTr": "Bir fincan çay ister misiniz?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you usually have for lunch?",
+          "promptTr": "Öğle yemeğinde genelde ne yersin?",
+          "answer": "I usually have soup and a sandwich.",
+          "answerTr": "Genelde çorba ve sandviç yerim."
+        },
+        {
+          "prompt": "What's your favorite restaurant?",
+          "promptTr": "En sevdiğin restoran hangisi?",
+          "answer": "I love a small fish restaurant near the sea.",
+          "answerTr": "Deniz kenarındaki küçük bir balık restoranını çok severim."
+        },
+        {
+          "prompt": "What do you say to the waiter?",
+          "promptTr": "Garsona ne dersin?",
+          "answer": "Can I have the menu, please?",
+          "answerTr": "Menüyü alabilir miyim, lütfen?"
+        }
+      ]
+    },
+    {
+      "id": "a1-15",
+      "titleTr": "Ev",
+      "titleEn": "Home",
+      "words": [
+        "home",
+        "house",
+        "apartment",
+        "room",
+        "kitchen",
+        "bedroom",
+        "bathroom",
+        "living room",
+        "bath",
+        "shower",
+        "toilet",
+        "garden",
+        "yard",
+        "door",
+        "window",
+        "floor",
+        "wall",
+        "stairs",
+        "upstairs",
+        "downstairs",
+        "building",
+        "address",
+        "live",
+        "key"
+      ],
+      "phrases": [
+        {
+          "phrase": "at home",
+          "turkish": "evde",
+          "example": "I'm at home all day today.",
+          "exampleTr": "Bugün bütün gün evdeyim."
+        },
+        {
+          "phrase": "go home",
+          "turkish": "eve gitmek",
+          "example": "It's late. Let's go home.",
+          "exampleTr": "Geç oldu. Eve gidelim."
+        },
+        {
+          "phrase": "get home",
+          "turkish": "eve varmak",
+          "example": "I get home at seven every day.",
+          "exampleTr": "Her gün eve yedide gelirim."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Do you live in a house or an apartment?",
+          "promptTr": "Evde mi dairede mi oturuyorsun?",
+          "answer": "I live in a small apartment in the city.",
+          "answerTr": "Şehirde küçük bir dairede oturuyorum."
+        },
+        {
+          "prompt": "How many rooms are there in your home?",
+          "promptTr": "Evinde kaç oda var?",
+          "answer": "There are four rooms and a big kitchen.",
+          "answerTr": "Dört oda ve büyük bir mutfak var."
+        },
+        {
+          "prompt": "What's your favorite room?",
+          "promptTr": "En sevdiğin oda hangisi?",
+          "answer": "My bedroom. It's quiet and warm.",
+          "answerTr": "Yatak odam. Sessiz ve sıcak."
+        }
+      ]
+    },
+    {
+      "id": "a1-16",
+      "titleTr": "Evdeki eşyalar",
+      "titleEn": "Things at home",
+      "words": [
+        "table",
+        "chair",
+        "bed",
+        "sofa",
+        "lamp",
+        "fridge",
+        "mirror",
+        "towel",
+        "shelf",
+        "carpet",
+        "light",
+        "heating",
+        "clock",
+        "box",
+        "picture",
+        "clean",
+        "dirty",
+        "tidy",
+        "wash",
+        "clean up",
+        "rent",
+        "move",
+        "noise",
+        "comfortable"
+      ],
+      "phrases": [
+        {
+          "phrase": "in bed",
+          "turkish": "yatakta",
+          "example": "My son is still in bed.",
+          "exampleTr": "Oğlum hâlâ yatakta."
+        },
+        {
+          "phrase": "stay in bed",
+          "turkish": "yataktan çıkmamak",
+          "example": "I'm sick, so I'm staying in bed today.",
+          "exampleTr": "Hastayım, o yüzden bugün yataktan çıkmıyorum."
+        },
+        {
+          "phrase": "on the floor",
+          "turkish": "yerde",
+          "example": "The box is on the floor under the table.",
+          "exampleTr": "Kutu masanın altında, yerde."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's in your bedroom?",
+          "promptTr": "Yatak odanda ne var?",
+          "answer": "There's a bed, a lamp and a big mirror.",
+          "answerTr": "Bir yatak, bir lamba ve büyük bir ayna var."
+        },
+        {
+          "prompt": "Who cleans your home?",
+          "promptTr": "Evini kim temizliyor?",
+          "answer": "We clean it together on Saturdays.",
+          "answerTr": "Cumartesileri birlikte temizliyoruz."
+        },
+        {
+          "prompt": "Is your sofa comfortable?",
+          "promptTr": "Kanepen rahat mı?",
+          "answer": "Yes, it's very comfortable. I sleep on it!",
+          "answerTr": "Evet, çok rahat. Üstünde uyuyorum!"
+        }
+      ]
+    },
+    {
+      "id": "a1-17",
+      "titleTr": "Günlük rutin",
+      "titleEn": "Daily routine",
+      "words": [
+        "get up",
+        "wake up",
+        "wake",
+        "sleep",
+        "brush",
+        "get dressed",
+        "go out",
+        "come back",
+        "stay",
+        "go",
+        "come",
+        "start work",
+        "start",
+        "begin",
+        "finish",
+        "end",
+        "stop",
+        "routine",
+        "busy",
+        "tired",
+        "so"
+      ],
+      "synonyms": {
+        "begin": "start"
+      },
+      "phrases": [
+        {
+          "phrase": "go to bed",
+          "turkish": "yatmak",
+          "example": "I go to bed at eleven.",
+          "exampleTr": "On birde yatarım."
+        },
+        {
+          "phrase": "go to work",
+          "turkish": "işe gitmek",
+          "example": "My dad goes to work by car.",
+          "exampleTr": "Babam işe arabayla gider."
+        },
+        {
+          "phrase": "get ready",
+          "turkish": "hazırlanmak",
+          "example": "Get ready, we're leaving in ten minutes!",
+          "exampleTr": "Hazırlan, on dakika sonra çıkıyoruz!"
+        },
+        {
+          "phrase": "go to school",
+          "turkish": "okula gitmek",
+          "example": "My kids go to school at eight.",
+          "exampleTr": "Çocuklarım sekizde okula gider."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What time do you go to bed?",
+          "promptTr": "Saat kaçta yatarsın?",
+          "answer": "I usually go to bed at midnight.",
+          "answerTr": "Genelde gece yarısı yatarım."
+        },
+        {
+          "prompt": "What do you do in the morning?",
+          "promptTr": "Sabahları ne yaparsın?",
+          "answer": "I get up, take a shower and drink coffee.",
+          "answerTr": "Kalkarım, duş alırım ve kahve içerim."
+        },
+        {
+          "prompt": "Are you busy this week?",
+          "promptTr": "Bu hafta yoğun musun?",
+          "answer": "Yes, I'm very busy. I work every day.",
+          "answerTr": "Evet, çok yoğunum. Her gün çalışıyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-18",
+      "titleTr": "Kıyafetler",
+      "titleEn": "Clothes",
+      "words": [
+        "clothes",
+        "shirt",
+        "t-shirt",
+        "pants",
+        "jeans",
+        "dress",
+        "skirt",
+        "jacket",
+        "coat",
+        "sweater",
+        "shoe",
+        "boot",
+        "sock",
+        "hat",
+        "bag",
+        "glasses",
+        "umbrella",
+        "wear",
+        "put on",
+        "take off",
+        "try on",
+        "size",
+        "style"
+      ],
+      "phrases": [
+        {
+          "phrase": "too long",
+          "turkish": "çok uzun",
+          "example": "This coat is too long for me.",
+          "exampleTr": "Bu mont bana çok uzun."
+        },
+        {
+          "phrase": "really like",
+          "turkish": "çok beğenmek, çok sevmek",
+          "example": "I really like your new jacket.",
+          "exampleTr": "Yeni ceketini çok beğendim."
+        },
+        {
+          "phrase": "How much…?",
+          "turkish": "… ne kadar?",
+          "example": "How much is this sweater?",
+          "exampleTr": "Bu kazak ne kadar?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What are you wearing today?",
+          "promptTr": "Bugün ne giyiyorsun?",
+          "answer": "I'm wearing jeans and a blue sweater.",
+          "answerTr": "Kot pantolon ve mavi bir kazak giyiyorum."
+        },
+        {
+          "prompt": "What do you wear in the winter?",
+          "promptTr": "Kışın ne giyersin?",
+          "answer": "I wear a warm coat and boots.",
+          "answerTr": "Sıcak bir mont ve bot giyerim."
+        },
+        {
+          "prompt": "What size are your shoes?",
+          "promptTr": "Ayakkabı numaran kaç?",
+          "answer": "My shoe size is forty.",
+          "answerTr": "Ayakkabı numaram kırk."
+        }
+      ]
+    },
+    {
+      "id": "a1-19",
+      "titleTr": "Renkler ve görünüş",
+      "titleEn": "Colors and looks",
+      "words": [
+        "color",
+        "black",
+        "white",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "brown",
+        "gray",
+        "pink",
+        "purple",
+        "blond",
+        "big",
+        "small",
+        "large",
+        "little",
+        "long",
+        "short",
+        "tall",
+        "fat",
+        "beautiful",
+        "pretty",
+        "than"
+      ],
+      "phrases": [
+        {
+          "phrase": "black and white",
+          "turkish": "siyah beyaz",
+          "example": "I love old black and white movies.",
+          "exampleTr": "Eski siyah beyaz filmleri çok severim."
+        },
+        {
+          "phrase": "pretty good",
+          "turkish": "gayet iyi, fena değil",
+          "example": "Your English is pretty good!",
+          "exampleTr": "İngilizcen gayet iyi!"
+        },
+        {
+          "phrase": "more than…",
+          "turkish": "…den fazla",
+          "example": "I have more than ten black T-shirts.",
+          "exampleTr": "On taneden fazla siyah tişörtüm var."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What color are your eyes?",
+          "promptTr": "Gözlerin ne renk?",
+          "answer": "My eyes are dark brown.",
+          "answerTr": "Gözlerim koyu kahverengi."
+        },
+        {
+          "prompt": "What's your favorite color?",
+          "promptTr": "En sevdiğin renk ne?",
+          "answer": "My favorite color is green.",
+          "answerTr": "En sevdiğim renk yeşil."
+        },
+        {
+          "prompt": "What does your best friend look like?",
+          "promptTr": "En yakın arkadaşın nasıl görünüyor?",
+          "answer": "She's tall and pretty, with long blond hair.",
+          "answerTr": "Uzun boylu, güzel, uzun sarı saçları var."
+        }
+      ]
+    },
+    {
+      "id": "a1-20",
+      "titleTr": "Vücut ve duyular",
+      "titleEn": "Body and senses",
+      "words": [
+        "body",
+        "head",
+        "hair",
+        "eye",
+        "ear",
+        "nose",
+        "mouth",
+        "tooth",
+        "neck",
+        "arm",
+        "hand",
+        "finger",
+        "leg",
+        "foot",
+        "back",
+        "stomach",
+        "face",
+        "see",
+        "hear",
+        "look",
+        "listen",
+        "feel",
+        "sound"
+      ],
+      "phrases": [
+        {
+          "phrase": "listen to",
+          "turkish": "dinlemek",
+          "example": "I listen to the radio every morning.",
+          "exampleTr": "Her sabah radyo dinlerim."
+        },
+        {
+          "phrase": "look like",
+          "turkish": "-e benzemek",
+          "example": "You look like your mom.",
+          "exampleTr": "Annene benziyorsun."
+        },
+        {
+          "phrase": "look at",
+          "turkish": "-e bakmak",
+          "example": "Look at my new shoes!",
+          "exampleTr": "Yeni ayakkabılarıma bak!"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What color is your hair?",
+          "promptTr": "Saçın ne renk?",
+          "answer": "My hair is short and black.",
+          "answerTr": "Saçım kısa ve siyah."
+        },
+        {
+          "prompt": "Where does it hurt?",
+          "promptTr": "Neren acıyor?",
+          "answer": "My head and my back hurt.",
+          "answerTr": "Başım ve sırtım ağrıyor."
+        },
+        {
+          "prompt": "What music do you listen to?",
+          "promptTr": "Ne tür müzik dinlersin?",
+          "answer": "I listen to old songs in the car.",
+          "answerTr": "Arabada eski şarkılar dinlerim."
+        }
+      ]
+    },
+    {
+      "id": "a1-21",
+      "titleTr": "Sağlık",
+      "titleEn": "Health",
+      "words": [
+        "health",
+        "healthy",
+        "ill",
+        "sick",
+        "pain",
+        "medicine",
+        "doctor",
+        "nurse",
+        "hospital",
+        "headache",
+        "catch a cold",
+        "temperature",
+        "hurt",
+        "die",
+        "exercise",
+        "gym",
+        "strong",
+        "weak"
+      ],
+      "synonyms": {
+        "sick": "ill"
+      },
+      "phrases": [
+        {
+          "phrase": "bad for",
+          "turkish": "-e zararlı",
+          "example": "Too much sugar is bad for your health.",
+          "exampleTr": "Çok fazla şeker sağlığına zararlı."
+        },
+        {
+          "phrase": "because of",
+          "turkish": "yüzünden",
+          "example": "I stayed home because of a bad headache.",
+          "exampleTr": "Kötü bir baş ağrısı yüzünden evde kaldım."
+        },
+        {
+          "phrase": "for a long time",
+          "turkish": "uzun süre",
+          "example": "My grandfather was ill for a long time.",
+          "exampleTr": "Büyükbabam uzun süre hastaydı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you do when you're sick?",
+          "promptTr": "Hasta olunca ne yaparsın?",
+          "answer": "I stay in bed and drink a lot of water.",
+          "answerTr": "Yataktan çıkmam ve bol su içerim."
+        },
+        {
+          "prompt": "How often do you exercise?",
+          "promptTr": "Ne sıklıkla spor yaparsın?",
+          "answer": "I go to the gym three times a week.",
+          "answerTr": "Haftada üç kez spor salonuna giderim."
+        },
+        {
+          "prompt": "Do you go to the doctor often?",
+          "promptTr": "Sık sık doktora gider misin?",
+          "answer": "No, I don't. I'm healthy and strong.",
+          "answerTr": "Hayır, gitmem. Sağlıklı ve güçlüyüm."
+        }
+      ]
+    },
+    {
+      "id": "a1-22",
+      "titleTr": "Şehir",
+      "titleEn": "City",
+      "words": [
+        "city",
+        "town",
+        "village",
+        "street",
+        "road",
+        "park",
+        "square",
+        "bridge",
+        "corner",
+        "center",
+        "place",
+        "area",
+        "local",
+        "capital",
+        "traffic",
+        "museum",
+        "cinema",
+        "theater",
+        "church",
+        "mosque",
+        "post office",
+        "neighborhood",
+        "modern",
+        "library"
+      ],
+      "phrases": [
+        {
+          "phrase": "in the city center",
+          "turkish": "şehir merkezinde",
+          "example": "My office is in the city center.",
+          "exampleTr": "Ofisim şehir merkezinde."
+        },
+        {
+          "phrase": "in town",
+          "turkish": "şehirde, kasabada",
+          "example": "Is there a good cafe in town?",
+          "exampleTr": "Şehirde iyi bir kafe var mı?"
+        },
+        {
+          "phrase": "on the street",
+          "turkish": "sokakta",
+          "example": "The children are playing on the street.",
+          "exampleTr": "Çocuklar sokakta oynuyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Do you live in a city or a village?",
+          "promptTr": "Şehirde mi köyde mi yaşıyorsun?",
+          "answer": "I live in a big city near the sea.",
+          "answerTr": "Deniz kenarında büyük bir şehirde yaşıyorum."
+        },
+        {
+          "prompt": "What's your favorite place in your city?",
+          "promptTr": "Şehrinde en sevdiğin yer neresi?",
+          "answer": "I love the old park near the bridge.",
+          "answerTr": "Köprünün yakınındaki eski parkı çok severim."
+        },
+        {
+          "prompt": "Is there a museum in your town?",
+          "promptTr": "Kasabanda müze var mı?",
+          "answer": "Yes, there's a small museum in the center.",
+          "answerTr": "Evet, merkezde küçük bir müze var."
+        }
+      ]
+    },
+    {
+      "id": "a1-23",
+      "titleTr": "Nerede?",
+      "titleEn": "Where is it?",
+      "words": [
+        "in",
+        "on",
+        "at",
+        "under",
+        "behind",
+        "above",
+        "below",
+        "between",
+        "next to",
+        "opposite",
+        "near",
+        "far",
+        "front",
+        "outside",
+        "out",
+        "off",
+        "away",
+        "of"
+      ],
+      "phrases": [
+        {
+          "phrase": "in front of",
+          "turkish": "önünde",
+          "example": "Let's meet in front of the cinema.",
+          "exampleTr": "Sinemanın önünde buluşalım."
+        },
+        {
+          "phrase": "at work",
+          "turkish": "işte",
+          "example": "My husband is at work now.",
+          "exampleTr": "Kocam şu an işte."
+        },
+        {
+          "phrase": "at school",
+          "turkish": "okulda",
+          "example": "My kids are at school until three.",
+          "exampleTr": "Çocuklarım üçe kadar okulda."
+        },
+        {
+          "phrase": "away from",
+          "turkish": "-den uzakta",
+          "example": "We live far away from the city.",
+          "exampleTr": "Şehirden çok uzakta yaşıyoruz."
+        },
+        {
+          "phrase": "out of",
+          "turkish": "-den dışarı",
+          "example": "She ran out of the room.",
+          "exampleTr": "Odadan koşarak çıktı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Where is your phone?",
+          "promptTr": "Telefonun nerede?",
+          "answer": "It's on the table, next to my keys.",
+          "answerTr": "Masanın üstünde, anahtarlarımın yanında."
+        },
+        {
+          "prompt": "Where do you sit in class?",
+          "promptTr": "Derste nerede oturursun?",
+          "answer": "I sit at the front, near the window.",
+          "answerTr": "Önde, pencerenin yanında otururum."
+        },
+        {
+          "prompt": "What's in front of your house?",
+          "promptTr": "Evinin önünde ne var?",
+          "answer": "There's a small park and a bus stop.",
+          "answerTr": "Küçük bir park ve bir otobüs durağı var."
+        }
+      ]
+    },
+    {
+      "id": "a1-24",
+      "titleTr": "Yönler",
+      "titleEn": "Directions",
+      "words": [
+        "left",
+        "right",
+        "north",
+        "south",
+        "east",
+        "west",
+        "up",
+        "down",
+        "over",
+        "across",
+        "around",
+        "through",
+        "into",
+        "way",
+        "turn",
+        "follow",
+        "map",
+        "country",
+        "world",
+        "from"
+      ],
+      "phrases": [
+        {
+          "phrase": "on the left",
+          "turkish": "solda",
+          "example": "The bank is on the left.",
+          "exampleTr": "Banka solda."
+        },
+        {
+          "phrase": "on the right",
+          "turkish": "sağda",
+          "example": "Take the second street on the right.",
+          "exampleTr": "Sağdaki ikinci sokağa gir."
+        },
+        {
+          "phrase": "over there",
+          "turkish": "şurada, orada",
+          "example": "The bus stop is over there.",
+          "exampleTr": "Otobüs durağı şurada."
+        },
+        {
+          "phrase": "around the world",
+          "turkish": "dünyanın her yerinde",
+          "example": "People around the world love this song.",
+          "exampleTr": "Dünyanın her yerinde insanlar bu şarkıyı seviyor."
+        },
+        {
+          "phrase": "in the north",
+          "turkish": "kuzeyde",
+          "example": "It's very cold in the north.",
+          "exampleTr": "Kuzeyde hava çok soğuk."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How do I get to the station?",
+          "promptTr": "İstasyona nasıl giderim?",
+          "answer": "Go straight and turn left at the bank.",
+          "answerTr": "Düz git ve bankadan sola dön."
+        },
+        {
+          "prompt": "Which country do you want to visit?",
+          "promptTr": "Hangi ülkeyi görmek istiyorsun?",
+          "answer": "I want to visit Japan one day.",
+          "answerTr": "Bir gün Japonya'yı görmek istiyorum."
+        },
+        {
+          "prompt": "Where is your city?",
+          "promptTr": "Şehrin nerede?",
+          "answer": "It's in the west, near the sea.",
+          "answerTr": "Batıda, denize yakın."
+        }
+      ]
+    },
+    {
+      "id": "a1-25",
+      "titleTr": "Ulaşım",
+      "titleEn": "Transport",
+      "words": [
+        "car",
+        "bus",
+        "train",
+        "plane",
+        "taxi",
+        "bicycle",
+        "bike",
+        "boat",
+        "truck",
+        "ticket",
+        "station",
+        "airport",
+        "bus stop",
+        "platform",
+        "seat",
+        "drive",
+        "ride",
+        "fly",
+        "get on",
+        "get off",
+        "flight",
+        "wait for",
+        "arrive",
+        "by"
+      ],
+      "phrases": [
+        {
+          "phrase": "get on the bus",
+          "turkish": "otobüse binmek",
+          "example": "We get on the bus at the next stop.",
+          "exampleTr": "Bir sonraki durakta otobüse bineriz."
+        },
+        {
+          "phrase": "get off the bus",
+          "turkish": "otobüsten inmek",
+          "example": "Get off the bus at the station.",
+          "exampleTr": "İstasyonda otobüsten in."
+        },
+        {
+          "phrase": "I'm getting off here.",
+          "turkish": "Ben burada iniyorum.",
+          "example": "Sorry, I'm getting off here.",
+          "exampleTr": "Pardon, ben burada iniyorum."
+        },
+        {
+          "phrase": "arrive at…",
+          "turkish": "…e varmak (yer)",
+          "example": "We arrive at the airport at noon.",
+          "exampleTr": "Havaalanına öğlen varıyoruz."
+        },
+        {
+          "phrase": "get to…",
+          "turkish": "…e ulaşmak, varmak",
+          "example": "How do I get to the train station?",
+          "exampleTr": "Tren istasyonuna nasıl giderim?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How do you go to work or school?",
+          "promptTr": "İşe ya da okula nasıl gidersin?",
+          "answer": "I usually go by bus. Sometimes I walk.",
+          "answerTr": "Genellikle otobüsle giderim. Bazen yürürüm."
+        },
+        {
+          "prompt": "Do you have a car?",
+          "promptTr": "Araban var mı?",
+          "answer": "No, I don't. I ride my bike.",
+          "answerTr": "Hayır, yok. Bisiklete binerim."
+        },
+        {
+          "prompt": "How long does it take to get to work?",
+          "promptTr": "İşe gitmek ne kadar sürüyor?",
+          "answer": "It takes about twenty minutes by train.",
+          "answerTr": "Trenle yaklaşık yirmi dakika sürüyor."
+        }
+      ]
+    },
+    {
+      "id": "a1-26",
+      "titleTr": "Duygular",
+      "titleEn": "Feelings",
+      "words": [
+        "happy",
+        "sad",
+        "angry",
+        "afraid",
+        "excited",
+        "worried",
+        "bored",
+        "glad",
+        "lonely",
+        "proud",
+        "surprised",
+        "calm",
+        "interested",
+        "feeling",
+        "laugh",
+        "hope",
+        "miss",
+        "enjoy",
+        "fun",
+        "really",
+        "friendly"
+      ],
+      "phrases": [
+        {
+          "phrase": "really enjoy",
+          "turkish": "-den çok keyif almak",
+          "example": "I really enjoy cooking with my mom.",
+          "exampleTr": "Annemle yemek yapmaktan çok keyif alırım."
+        },
+        {
+          "phrase": "I really enjoyed it.",
+          "turkish": "Çok keyif aldım., Çok beğendim.",
+          "example": "Thanks for the dinner. I really enjoyed it.",
+          "exampleTr": "Yemek için teşekkürler. Çok keyif aldım."
+        },
+        {
+          "phrase": "good news",
+          "turkish": "iyi haber",
+          "example": "I have good news! I'm so happy!",
+          "exampleTr": "İyi bir haberim var! Çok mutluyum!"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "How do you feel today?",
+          "promptTr": "Bugün nasıl hissediyorsun?",
+          "answer": "I'm happy, but a little tired.",
+          "answerTr": "Mutluyum ama biraz yorgunum."
+        },
+        {
+          "prompt": "Who makes you laugh?",
+          "promptTr": "Seni kim güldürür?",
+          "answer": "My little brother makes me laugh.",
+          "answerTr": "Küçük kardeşim beni güldürür."
+        },
+        {
+          "prompt": "What do you miss?",
+          "promptTr": "Neyi özlüyorsun?",
+          "answer": "I miss my grandmother's cooking.",
+          "answerTr": "Büyükannemin yemeklerini özlüyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-27",
+      "titleTr": "İyi mi kötü mü?",
+      "titleEn": "Good or bad?",
+      "words": [
+        "good",
+        "bad",
+        "great",
+        "better",
+        "best",
+        "wonderful",
+        "amazing",
+        "awesome",
+        "fantastic",
+        "terrible",
+        "perfect",
+        "interesting",
+        "boring",
+        "exciting",
+        "special",
+        "popular",
+        "famous",
+        "favorite",
+        "easy",
+        "difficult",
+        "hard",
+        "quite",
+        "funny",
+        "clever",
+        "smart"
+      ],
+      "phrases": [
+        {
+          "phrase": "good at",
+          "turkish": "-de iyi, -de becerikli",
+          "example": "My sister is very good at tennis.",
+          "exampleTr": "Ablam teniste çok iyi."
+        },
+        {
+          "phrase": "really good",
+          "turkish": "gerçekten iyi",
+          "example": "This soup is really good!",
+          "exampleTr": "Bu çorba gerçekten çok güzel!"
+        },
+        {
+          "phrase": "hard work",
+          "turkish": "sıkı çalışma, zahmetli iş",
+          "example": "Learning English is hard work, but it's fun.",
+          "exampleTr": "İngilizce öğrenmek zahmetli ama eğlenceli."
+        },
+        {
+          "phrase": "the good things about…",
+          "turkish": "…in güzel yanları",
+          "example": "What are the good things about your job?",
+          "exampleTr": "İşinin güzel yanları neler?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What are you good at?",
+          "promptTr": "Neyde iyisin?",
+          "answer": "I'm good at cooking and drawing.",
+          "answerTr": "Yemek yapmakta ve resim çizmekte iyiyim."
+        },
+        {
+          "prompt": "What's the best day of the week for you?",
+          "promptTr": "Senin için haftanın en iyi günü hangisi?",
+          "answer": "Friday is the best day. The weekend starts!",
+          "answerTr": "Cuma en iyi gün. Hafta sonu başlıyor!"
+        },
+        {
+          "prompt": "Is English easy or difficult for you?",
+          "promptTr": "İngilizce senin için kolay mı zor mu?",
+          "answer": "It's quite easy, but speaking is hard.",
+          "answerTr": "Oldukça kolay ama konuşmak zor."
+        }
+      ]
+    },
+    {
+      "id": "a1-28",
+      "titleTr": "Nasıl bir şey?",
+      "titleEn": "What is it like?",
+      "words": [
+        "new",
+        "hot",
+        "cold",
+        "fast",
+        "slow",
+        "quick",
+        "quickly",
+        "high",
+        "low",
+        "heavy",
+        "quiet",
+        "loud",
+        "ready",
+        "full",
+        "empty",
+        "dark",
+        "bright",
+        "wide",
+        "narrow",
+        "safe",
+        "dangerous",
+        "open",
+        "close",
+        "too"
+      ],
+      "phrases": [
+        {
+          "phrase": "too far",
+          "turkish": "çok uzak",
+          "example": "The station is too far, let's take a taxi.",
+          "exampleTr": "İstasyon çok uzak, taksiye binelim."
+        },
+        {
+          "phrase": "too many",
+          "turkish": "çok fazla (sayılabilen)",
+          "example": "There are too many people here.",
+          "exampleTr": "Burada çok fazla insan var."
+        },
+        {
+          "phrase": "right now",
+          "turkish": "şu anda, hemen şimdi",
+          "example": "I'm too busy right now.",
+          "exampleTr": "Şu anda çok meşgulüm."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's the weather like today?",
+          "promptTr": "Bugün hava nasıl?",
+          "answer": "It's hot and sunny today.",
+          "answerTr": "Bugün hava sıcak ve güneşli."
+        },
+        {
+          "prompt": "Is your street quiet or loud?",
+          "promptTr": "Sokağın sessiz mi gürültülü mü?",
+          "answer": "It's very quiet at night.",
+          "answerTr": "Geceleri çok sessiz."
+        },
+        {
+          "prompt": "Is your phone new or old?",
+          "promptTr": "Telefonun yeni mi eski mi?",
+          "answer": "It's old, but it's still fast.",
+          "answerTr": "Eski ama hâlâ hızlı."
+        }
+      ]
+    },
+    {
+      "id": "a1-29",
+      "titleTr": "Okul ve dersler",
+      "titleEn": "School and subjects",
+      "words": [
+        "school",
+        "classroom",
+        "college",
+        "university",
+        "teacher",
+        "student",
+        "classmate",
+        "lesson",
+        "class",
+        "course",
+        "subject",
+        "geography",
+        "history",
+        "science",
+        "homework",
+        "exam",
+        "test",
+        "book",
+        "pen",
+        "pencil",
+        "paper",
+        "notebook",
+        "learn",
+        "teach",
+        "study"
+      ],
+      "phrases": [
+        {
+          "phrase": "in college",
+          "turkish": "üniversitede",
+          "example": "My brother is in college in Ankara.",
+          "exampleTr": "Kardeşim Ankara'da üniversitede okuyor."
+        },
+        {
+          "phrase": "in class",
+          "turkish": "derste, sınıfta",
+          "example": "Please don't use your phone in class.",
+          "exampleTr": "Lütfen derste telefonunu kullanma."
+        },
+        {
+          "phrase": "high school",
+          "turkish": "lise",
+          "example": "She's a teacher at a high school.",
+          "exampleTr": "Bir lisede öğretmen."
+        },
+        {
+          "phrase": "learn how to",
+          "turkish": "-meyi öğrenmek",
+          "example": "I want to learn how to swim.",
+          "exampleTr": "Yüzmeyi öğrenmek istiyorum."
+        },
+        {
+          "phrase": "in the past",
+          "turkish": "geçmişte",
+          "example": "In history, we learn about life in the past.",
+          "exampleTr": "Tarih dersinde geçmişteki hayatı öğreniyoruz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's your favorite subject?",
+          "promptTr": "En sevdiğin ders ne?",
+          "answer": "I love English and art.",
+          "answerTr": "İngilizceyi ve resmi çok severim."
+        },
+        {
+          "prompt": "Do you have homework today?",
+          "promptTr": "Bugün ödevin var mı?",
+          "answer": "Yes, I have a lot of homework.",
+          "answerTr": "Evet, çok ödevim var."
+        },
+        {
+          "prompt": "Where do you study?",
+          "promptTr": "Nerede ders çalışırsın?",
+          "answer": "I study in the library after class.",
+          "answerTr": "Dersten sonra kütüphanede çalışırım."
+        }
+      ]
+    },
+    {
+      "id": "a1-30",
+      "titleTr": "Dil ve sınıf",
+      "titleEn": "Language and class",
+      "words": [
+        "language",
+        "English",
+        "word",
+        "sentence",
+        "phrase",
+        "paragraph",
+        "letter",
+        "spelling",
+        "spell",
+        "meaning",
+        "example",
+        "question",
+        "answer",
+        "dictionary",
+        "practice",
+        "repeat",
+        "mistake",
+        "correct",
+        "wrong",
+        "understand",
+        "speak"
+      ],
+      "phrases": [
+        {
+          "phrase": "for example",
+          "turkish": "örneğin",
+          "example": "I like many sports, for example tennis.",
+          "exampleTr": "Birçok spor severim, örneğin tenis."
+        },
+        {
+          "phrase": "speak to",
+          "turkish": "ile konuşmak",
+          "example": "Can I speak to your manager?",
+          "exampleTr": "Müdürünüzle konuşabilir miyim?"
+        },
+        {
+          "phrase": "find out",
+          "turkish": "öğrenmek (bilgi)",
+          "example": "Let's find out the meaning of this word.",
+          "exampleTr": "Bu kelimenin anlamını öğrenelim."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What languages do you speak?",
+          "promptTr": "Hangi dilleri konuşursun?",
+          "answer": "I speak Turkish and a little English.",
+          "answerTr": "Türkçe ve biraz İngilizce konuşurum."
+        },
+        {
+          "prompt": "How do you learn new words?",
+          "promptTr": "Yeni kelimeleri nasıl öğrenirsin?",
+          "answer": "I write them in a notebook and repeat them.",
+          "answerTr": "Onları deftere yazar ve tekrar ederim."
+        },
+        {
+          "prompt": "What do you do when you don't understand?",
+          "promptTr": "Anlamadığında ne yaparsın?",
+          "answer": "I ask the teacher a question.",
+          "answerTr": "Öğretmene soru sorarım."
+        }
+      ]
+    },
+    {
+      "id": "a1-31",
+      "titleTr": "İş",
+      "titleEn": "Work",
+      "words": [
+        "job",
+        "work",
+        "office",
+        "company",
+        "business",
+        "meeting",
+        "colleague",
+        "salary",
+        "part-time",
+        "break",
+        "project",
+        "customer",
+        "uniform",
+        "factory",
+        "career",
+        "interview",
+        "skill",
+        "report",
+        "desk",
+        "email",
+        "as"
+      ],
+      "phrases": [
+        {
+          "phrase": "work as",
+          "turkish": "olarak çalışmak",
+          "example": "My mom works as a nurse.",
+          "exampleTr": "Annem hemşire olarak çalışıyor."
+        },
+        {
+          "phrase": "work for",
+          "turkish": "-de çalışmak (şirket)",
+          "example": "I work for a big company.",
+          "exampleTr": "Büyük bir şirkette çalışıyorum."
+        },
+        {
+          "phrase": "work hard",
+          "turkish": "çok çalışmak",
+          "example": "You work very hard. Take a break!",
+          "exampleTr": "Çok çalışıyorsun. Biraz mola ver!"
+        },
+        {
+          "phrase": "work with",
+          "turkish": "ile çalışmak",
+          "example": "I work with a great team.",
+          "exampleTr": "Harika bir ekiple çalışıyorum."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's your job?",
+          "promptTr": "Mesleğin ne?",
+          "answer": "I'm a manager in a small company.",
+          "answerTr": "Küçük bir şirkette yöneticiyim."
+        },
+        {
+          "prompt": "What time do you start work?",
+          "promptTr": "İşe saat kaçta başlarsın?",
+          "answer": "I start work at nine and finish at six.",
+          "answerTr": "İşe dokuzda başlar, altıda bitiririm."
+        },
+        {
+          "prompt": "Do you like your job? Why?",
+          "promptTr": "İşini seviyor musun? Neden?",
+          "answer": "Yes, I do. My colleagues are very friendly.",
+          "answerTr": "Evet, seviyorum. İş arkadaşlarım çok cana yakın."
+        }
+      ]
+    },
+    {
+      "id": "a1-32",
+      "titleTr": "Meslekler",
+      "titleEn": "Jobs",
+      "words": [
+        "driver",
+        "engineer",
+        "police officer",
+        "police",
+        "farmer",
+        "farm",
+        "cleaner",
+        "actor",
+        "actress",
+        "artist",
+        "singer",
+        "dancer",
+        "player",
+        "scientist",
+        "writer",
+        "manager",
+        "worker",
+        "boss"
+      ],
+      "phrases": [
+        {
+          "phrase": "on TV",
+          "turkish": "televizyonda",
+          "example": "My favorite singer is on TV tonight.",
+          "exampleTr": "En sevdiğim şarkıcı bu akşam televizyonda."
+        },
+        {
+          "phrase": "TV show",
+          "turkish": "televizyon programı, dizi",
+          "example": "She's an actress in a famous TV show.",
+          "exampleTr": "Ünlü bir dizide oyuncu."
+        },
+        {
+          "phrase": "work together",
+          "turkish": "birlikte çalışmak",
+          "example": "The players work together as a team.",
+          "exampleTr": "Oyuncular bir takım olarak birlikte çalışır."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you want to be?",
+          "promptTr": "Ne olmak istiyorsun?",
+          "answer": "I want to be an engineer.",
+          "answerTr": "Mühendis olmak istiyorum."
+        },
+        {
+          "prompt": "What does a farmer do?",
+          "promptTr": "Bir çiftçi ne yapar?",
+          "answer": "A farmer works on a farm with animals.",
+          "answerTr": "Çiftçi, çiftlikte hayvanlarla çalışır."
+        },
+        {
+          "prompt": "Do you know a famous singer?",
+          "promptTr": "Ünlü bir şarkıcı tanıyor musun?",
+          "answer": "Yes, I know a famous singer from my town.",
+          "answerTr": "Evet, kasabamdan ünlü bir şarkıcı tanıyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-33",
+      "titleTr": "Alışveriş",
+      "titleEn": "Shopping",
+      "words": [
+        "shopping",
+        "shop",
+        "store",
+        "supermarket",
+        "market",
+        "buy",
+        "sell",
+        "pay",
+        "price",
+        "cost",
+        "cheap",
+        "expensive",
+        "how much",
+        "cash",
+        "card",
+        "change",
+        "receipt",
+        "discount",
+        "product",
+        "look for",
+        "take back",
+        "else",
+        "other",
+        "another"
+      ],
+      "phrases": [
+        {
+          "phrase": "anything else",
+          "turkish": "başka bir şey",
+          "example": "Anything else? No, thanks, that's all.",
+          "exampleTr": "Başka bir şey? Hayır, teşekkürler, bu kadar."
+        },
+        {
+          "phrase": "pay for",
+          "turkish": "-in parasını ödemek",
+          "example": "I paid for the shoes by card.",
+          "exampleTr": "Ayakkabıların parasını kartla ödedim."
+        },
+        {
+          "phrase": "look for",
+          "turkish": "aramak",
+          "example": "I'm looking for a cheap jacket.",
+          "exampleTr": "Ucuz bir ceket arıyorum."
+        },
+        {
+          "phrase": "a bag of",
+          "turkish": "bir torba, bir paket",
+          "example": "I buy a bag of apples at the market.",
+          "exampleTr": "Pazardan bir torba elma alırım."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Where do you buy your food?",
+          "promptTr": "Yiyeceklerini nereden alırsın?",
+          "answer": "I buy food at the supermarket near my home.",
+          "answerTr": "Evimin yakınındaki süpermarketten alırım."
+        },
+        {
+          "prompt": "Do you like shopping?",
+          "promptTr": "Alışveriş yapmayı sever misin?",
+          "answer": "Yes, I love shopping for clothes.",
+          "answerTr": "Evet, kıyafet alışverişini çok severim."
+        },
+        {
+          "prompt": "How do you usually pay?",
+          "promptTr": "Genelde nasıl ödersin?",
+          "answer": "I usually pay by card, not cash.",
+          "answerTr": "Genelde nakit değil, kartla öderim."
+        }
+      ]
+    },
+    {
+      "id": "a1-34",
+      "titleTr": "Para ve miktar",
+      "titleEn": "Money and amounts",
+      "words": [
+        "money",
+        "dollar",
+        "euro",
+        "cent",
+        "pound",
+        "bank",
+        "spend",
+        "save money",
+        "free",
+        "rich",
+        "poor",
+        "extra",
+        "lot",
+        "much",
+        "many",
+        "more",
+        "most",
+        "enough",
+        "few",
+        "some",
+        "any",
+        "all",
+        "each",
+        "every"
+      ],
+      "phrases": [
+        {
+          "phrase": "a little money",
+          "turkish": "biraz para",
+          "example": "I have a little money for the weekend.",
+          "exampleTr": "Hafta sonu için biraz param var."
+        },
+        {
+          "phrase": "a few years",
+          "turkish": "birkaç yıl",
+          "example": "We lived in Berlin for a few years.",
+          "exampleTr": "Birkaç yıl Berlin'de yaşadık."
+        },
+        {
+          "phrase": "a lot",
+          "turkish": "çok",
+          "example": "I like this city a lot.",
+          "exampleTr": "Bu şehri çok seviyorum."
+        },
+        {
+          "phrase": "spend time",
+          "turkish": "vakit geçirmek",
+          "example": "I want to spend more time with my kids.",
+          "exampleTr": "Çocuklarımla daha çok vakit geçirmek istiyorum."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you spend a lot of money on?",
+          "promptTr": "Neye çok para harcarsın?",
+          "answer": "I spend a lot of money on books.",
+          "answerTr": "Kitaplara çok para harcarım."
+        },
+        {
+          "prompt": "Do you save money?",
+          "promptTr": "Para biriktirir misin?",
+          "answer": "Yes, I save a little money every month.",
+          "answerTr": "Evet, her ay biraz para biriktiririm."
+        },
+        {
+          "prompt": "How many friends do you have here?",
+          "promptTr": "Burada kaç arkadaşın var?",
+          "answer": "I have a few good friends here.",
+          "answerTr": "Burada birkaç iyi arkadaşım var."
+        }
+      ]
+    },
+    {
+      "id": "a1-35",
+      "titleTr": "Seyahat ve tatil",
+      "titleEn": "Travel and vacations",
+      "words": [
+        "travel",
+        "trip",
+        "journey",
+        "vacation",
+        "hotel",
+        "book a room",
+        "passport",
+        "luggage",
+        "suitcase",
+        "tourist",
+        "beach",
+        "sea",
+        "island",
+        "ocean",
+        "camera",
+        "photograph",
+        "photo",
+        "return",
+        "leave"
+      ],
+      "synonyms": {
+        "photo": "photograph"
+      },
+      "phrases": [
+        {
+          "phrase": "on vacation",
+          "turkish": "tatilde",
+          "example": "My boss is on vacation this week.",
+          "exampleTr": "Patronum bu hafta tatilde."
+        },
+        {
+          "phrase": "stay in a hotel",
+          "turkish": "otelde kalmak",
+          "example": "We stayed in a small hotel near the beach.",
+          "exampleTr": "Plajın yakınında küçük bir otelde kaldık."
+        },
+        {
+          "phrase": "arrive in…",
+          "turkish": "…e varmak (şehir, ülke)",
+          "example": "The tourists arrive in Rome on Monday.",
+          "exampleTr": "Turistler pazartesi Roma'ya varıyor."
+        },
+        {
+          "phrase": "go back to…",
+          "turkish": "…e geri dönmek",
+          "example": "I want to go back to that island.",
+          "exampleTr": "O adaya geri dönmek istiyorum."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Where do you want to travel?",
+          "promptTr": "Nereye seyahat etmek istersin?",
+          "answer": "I want to travel to Italy and Spain.",
+          "answerTr": "İtalya'ya ve İspanya'ya gitmek istiyorum."
+        },
+        {
+          "prompt": "What do you take on a trip?",
+          "promptTr": "Geziye ne götürürsün?",
+          "answer": "I take my passport, my camera and a big bag.",
+          "answerTr": "Pasaportumu, fotoğraf makinemi ve büyük bir çanta götürürüm."
+        },
+        {
+          "prompt": "Do you like the beach or the mountains?",
+          "promptTr": "Plajı mı dağları mı seversin?",
+          "answer": "I like the beach. I love the sea.",
+          "answerTr": "Plajı severim. Denizi çok severim."
+        }
+      ]
+    },
+    {
+      "id": "a1-36",
+      "titleTr": "Hobiler",
+      "titleEn": "Hobbies",
+      "words": [
+        "hobby",
+        "music",
+        "song",
+        "sing",
+        "dance",
+        "dancing",
+        "film",
+        "movie",
+        "program",
+        "game",
+        "play",
+        "watch",
+        "guitar",
+        "piano",
+        "band",
+        "concert",
+        "art",
+        "paint",
+        "painting",
+        "draw",
+        "model",
+        "relax"
+      ],
+      "phrases": [
+        {
+          "phrase": "play with",
+          "turkish": "ile oynamak",
+          "example": "The kids play with the dog in the garden.",
+          "exampleTr": "Çocuklar bahçede köpekle oynar."
+        },
+        {
+          "phrase": "spend time doing",
+          "turkish": "-erek vakit geçirmek",
+          "example": "I spend a lot of time painting.",
+          "exampleTr": "Resim yaparak çok vakit geçiririm."
+        },
+        {
+          "phrase": "once a month",
+          "turkish": "ayda bir",
+          "example": "We go to a concert once a month.",
+          "exampleTr": "Ayda bir konsere gideriz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you do in your free time?",
+          "promptTr": "Boş zamanında ne yaparsın?",
+          "answer": "I play the guitar and watch movies.",
+          "answerTr": "Gitar çalar ve film izlerim."
+        },
+        {
+          "prompt": "What music do you like?",
+          "promptTr": "Ne tür müzik seversin?",
+          "answer": "I like old songs and piano music.",
+          "answerTr": "Eski şarkıları ve piyano müziğini severim."
+        },
+        {
+          "prompt": "Can you sing or dance?",
+          "promptTr": "Şarkı söyleyebilir ya da dans edebilir misin?",
+          "answer": "I can sing a little, but I can't dance.",
+          "answerTr": "Biraz şarkı söyleyebilirim ama dans edemem."
+        }
+      ]
+    },
+    {
+      "id": "a1-37",
+      "titleTr": "Spor",
+      "titleEn": "Sports",
+      "words": [
+        "sport",
+        "football",
+        "baseball",
+        "basketball",
+        "tennis",
+        "ball",
+        "swim",
+        "swimming",
+        "pool",
+        "run",
+        "walk",
+        "match",
+        "win",
+        "lose",
+        "team",
+        "point",
+        "club",
+        "climb"
+      ],
+      "phrases": [
+        {
+          "phrase": "swimming pool",
+          "turkish": "yüzme havuzu",
+          "example": "Our hotel has a swimming pool.",
+          "exampleTr": "Otelimizde yüzme havuzu var."
+        },
+        {
+          "phrase": "… times a week",
+          "turkish": "haftada … kez",
+          "example": "I play tennis three times a week.",
+          "exampleTr": "Haftada üç kez tenis oynarım."
+        },
+        {
+          "phrase": "every week",
+          "turkish": "her hafta",
+          "example": "We have a match every week.",
+          "exampleTr": "Her hafta maçımız var."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What sports do you like?",
+          "promptTr": "Hangi sporları seversin?",
+          "answer": "I like basketball and swimming.",
+          "answerTr": "Basketbolu ve yüzmeyi severim."
+        },
+        {
+          "prompt": "Can you swim?",
+          "promptTr": "Yüzebilir misin?",
+          "answer": "Yes, I can. I swim in the sea every summer.",
+          "answerTr": "Evet, yüzebilirim. Her yaz denizde yüzerim."
+        },
+        {
+          "prompt": "Do you watch football on TV?",
+          "promptTr": "Televizyonda futbol izler misin?",
+          "answer": "Yes, I watch every big match.",
+          "answerTr": "Evet, her büyük maçı izlerim."
+        }
+      ]
+    },
+    {
+      "id": "a1-38",
+      "titleTr": "Teknoloji",
+      "titleEn": "Technology",
+      "words": [
+        "computer",
+        "internet",
+        "website",
+        "password",
+        "message",
+        "video",
+        "screen",
+        "app",
+        "charger",
+        "online",
+        "click",
+        "phone",
+        "telephone",
+        "TV",
+        "television",
+        "radio",
+        "blog",
+        "post",
+        "share",
+        "turn on",
+        "turn off",
+        "use",
+        "machine"
+      ],
+      "synonyms": {
+        "TV": "television"
+      },
+      "phrases": [
+        {
+          "phrase": "on the phone",
+          "turkish": "telefonda",
+          "example": "Sorry, I'm on the phone right now.",
+          "exampleTr": "Kusura bakma, şu an telefondayım."
+        },
+        {
+          "phrase": "phone call",
+          "turkish": "telefon görüşmesi",
+          "example": "I have to make a phone call.",
+          "exampleTr": "Bir telefon görüşmesi yapmam lazım."
+        },
+        {
+          "phrase": "talk on the phone",
+          "turkish": "telefonda konuşmak",
+          "example": "My daughter talks on the phone all day.",
+          "exampleTr": "Kızım bütün gün telefonda konuşuyor."
+        },
+        {
+          "phrase": "on the internet",
+          "turkish": "internette",
+          "example": "I buy my clothes on the internet.",
+          "exampleTr": "Kıyafetlerimi internetten alırım."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you use your phone for?",
+          "promptTr": "Telefonunu ne için kullanırsın?",
+          "answer": "I send messages and watch videos.",
+          "answerTr": "Mesaj gönderir ve video izlerim."
+        },
+        {
+          "prompt": "Do you watch TV every day?",
+          "promptTr": "Her gün televizyon izler misin?",
+          "answer": "No, I don't. I watch videos online.",
+          "answerTr": "Hayır, izlemem. İnternetten video izlerim."
+        },
+        {
+          "prompt": "How often do you call your family?",
+          "promptTr": "Aileni ne sıklıkla ararsın?",
+          "answer": "I call my mom every evening.",
+          "answerTr": "Annemi her akşam ararım."
+        }
+      ]
+    },
+    {
+      "id": "a1-39",
+      "titleTr": "Hava ve mevsimler",
+      "titleEn": "Weather and seasons",
+      "words": [
+        "weather",
+        "rain",
+        "snow",
+        "sun",
+        "wind",
+        "cloud",
+        "sky",
+        "warm",
+        "cool",
+        "wet",
+        "dry",
+        "sunny",
+        "rainy",
+        "cloudy",
+        "windy",
+        "spring",
+        "summer",
+        "fall",
+        "winter",
+        "season",
+        "ice"
+      ],
+      "phrases": [
+        {
+          "phrase": "in summer",
+          "turkish": "yazın",
+          "example": "It's very hot here in summer.",
+          "exampleTr": "Burada yazın hava çok sıcak."
+        },
+        {
+          "phrase": "in winter",
+          "turkish": "kışın",
+          "example": "It snows a lot in winter.",
+          "exampleTr": "Kışın çok kar yağar."
+        },
+        {
+          "phrase": "this summer",
+          "turkish": "bu yaz",
+          "example": "What are you doing this summer?",
+          "exampleTr": "Bu yaz ne yapıyorsun?"
+        },
+        {
+          "phrase": "last summer",
+          "turkish": "geçen yaz",
+          "example": "We went to the beach last summer.",
+          "exampleTr": "Geçen yaz plaja gittik."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What's the weather like now?",
+          "promptTr": "Şu an hava nasıl?",
+          "answer": "It's cloudy and a little cold.",
+          "answerTr": "Bulutlu ve biraz soğuk."
+        },
+        {
+          "prompt": "What's your favorite season?",
+          "promptTr": "En sevdiğin mevsim hangisi?",
+          "answer": "I love spring. It's warm and sunny.",
+          "answerTr": "İlkbaharı çok severim. Ilık ve güneşli."
+        },
+        {
+          "prompt": "What do you do on rainy days?",
+          "promptTr": "Yağmurlu günlerde ne yaparsın?",
+          "answer": "I stay home and read a book.",
+          "answerTr": "Evde kalır, kitap okurum."
+        }
+      ]
+    },
+    {
+      "id": "a1-40",
+      "titleTr": "Doğa ve hayvanlar",
+      "titleEn": "Nature and animals",
+      "words": [
+        "tree",
+        "flower",
+        "river",
+        "mountain",
+        "plant",
+        "grow",
+        "animal",
+        "dog",
+        "cat",
+        "bird",
+        "horse",
+        "cow",
+        "pig",
+        "sheep",
+        "lion",
+        "elephant",
+        "snake",
+        "mouse",
+        "air",
+        "fire",
+        "star",
+        "space",
+        "land",
+        "natural"
+      ],
+      "phrases": [
+        {
+          "phrase": "in the country",
+          "turkish": "kırsalda, köyde",
+          "example": "There are a lot of animals in the country.",
+          "exampleTr": "Kırsalda bir sürü hayvan var."
+        },
+        {
+          "phrase": "I live in the country.",
+          "turkish": "Kırsalda yaşıyorum.",
+          "example": "I live in the country, near a river.",
+          "exampleTr": "Kırsalda, bir nehrin yakınında yaşıyorum."
+        },
+        {
+          "phrase": "in space",
+          "turkish": "uzayda",
+          "example": "There are millions of stars in space.",
+          "exampleTr": "Uzayda milyonlarca yıldız var."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Do you have a pet?",
+          "promptTr": "Evcil hayvanın var mı?",
+          "answer": "Yes, I have a cat. Her name is Pamuk.",
+          "answerTr": "Evet, bir kedim var. Adı Pamuk."
+        },
+        {
+          "prompt": "What's your favorite animal?",
+          "promptTr": "En sevdiğin hayvan ne?",
+          "answer": "I love elephants. They're big and smart.",
+          "answerTr": "Filleri çok severim. Büyük ve akıllılar."
+        },
+        {
+          "prompt": "Do you like the city or the country?",
+          "promptTr": "Şehri mi kırsalı mı seversin?",
+          "answer": "I like the country. The air is clean.",
+          "answerTr": "Kırsalı severim. Havası temiz."
+        }
+      ]
+    },
+    {
+      "id": "a1-41",
+      "titleTr": "Her gün yaptıklarımız",
+      "titleEn": "Everyday actions",
+      "words": [
+        "give",
+        "take",
+        "put",
+        "bring",
+        "get",
+        "find",
+        "make",
+        "show",
+        "try",
+        "choose",
+        "carry",
+        "keep",
+        "sit",
+        "stand",
+        "sit down",
+        "stand up",
+        "wait",
+        "look at",
+        "forget",
+        "remember",
+        "lie"
+      ],
+      "synonyms": {
+        "sit down": "sit"
+      },
+      "phrases": [
+        {
+          "phrase": "come into",
+          "turkish": "-e girmek (buraya)",
+          "example": "Come into the kitchen and sit down.",
+          "exampleTr": "Mutfağa gel ve otur."
+        },
+        {
+          "phrase": "go into",
+          "turkish": "-e girmek (oraya)",
+          "example": "Don't go into that room, wait here.",
+          "exampleTr": "O odaya girme, burada bekle."
+        },
+        {
+          "phrase": "find out about",
+          "turkish": "hakkında bilgi edinmek",
+          "example": "I want to find out about English courses.",
+          "exampleTr": "İngilizce kursları hakkında bilgi edinmek istiyorum."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you take to work or school?",
+          "promptTr": "İşe ya da okula ne götürürsün?",
+          "answer": "I take my bag, my phone and my keys.",
+          "answerTr": "Çantamı, telefonumu ve anahtarlarımı götürürüm."
+        },
+        {
+          "prompt": "What do you often forget?",
+          "promptTr": "Sık sık neyi unutursun?",
+          "answer": "I often forget my umbrella.",
+          "answerTr": "Şemsiyemi sık sık unuturum."
+        },
+        {
+          "prompt": "Can you remember your first teacher?",
+          "promptTr": "İlk öğretmenini hatırlıyor musun?",
+          "answer": "Yes, I can. She was very kind.",
+          "answerTr": "Evet, hatırlıyorum. Çok nazikti."
+        }
+      ]
+    },
+    {
+      "id": "a1-42",
+      "titleTr": "İnsanlarla iletişim",
+      "titleEn": "People and communication",
+      "words": [
+        "meet",
+        "help",
+        "ask",
+        "tell",
+        "say",
+        "talk",
+        "call",
+        "visit",
+        "look after",
+        "introduce",
+        "discuss",
+        "join",
+        "explain",
+        "describe",
+        "agree",
+        "advice",
+        "together",
+        "send"
+      ],
+      "phrases": [
+        {
+          "phrase": "each other",
+          "turkish": "birbirini, birbirine",
+          "example": "We help each other with homework.",
+          "exampleTr": "Ödevlerde birbirimize yardım ederiz."
+        },
+        {
+          "phrase": "ask for",
+          "turkish": "istemek (rica)",
+          "example": "You can ask for help at any time.",
+          "exampleTr": "İstediğin zaman yardım isteyebilirsin."
+        },
+        {
+          "phrase": "talk about",
+          "turkish": "hakkında konuşmak",
+          "example": "Let's talk about the plan for tomorrow.",
+          "exampleTr": "Yarınki planı konuşalım."
+        },
+        {
+          "phrase": "a little help",
+          "turkish": "biraz yardım",
+          "example": "I need a little help with this box.",
+          "exampleTr": "Bu kutu için biraz yardıma ihtiyacım var."
+        },
+        {
+          "phrase": "agree with",
+          "turkish": "-e katılmak",
+          "example": "I don't agree with you.",
+          "exampleTr": "Sana katılmıyorum."
+        },
+        {
+          "phrase": "need help",
+          "turkish": "yardıma ihtiyacı olmak",
+          "example": "Do you need help with your bags?",
+          "exampleTr": "Çantaların için yardıma ihtiyacın var mı?"
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Who helps you at home?",
+          "promptTr": "Evde sana kim yardım eder?",
+          "answer": "My husband helps me with the cooking.",
+          "answerTr": "Kocam yemek yapmama yardım eder."
+        },
+        {
+          "prompt": "What do you talk about with friends?",
+          "promptTr": "Arkadaşlarınla ne konuşursun?",
+          "answer": "We talk about movies, music and work.",
+          "answerTr": "Filmler, müzik ve iş hakkında konuşuruz."
+        },
+        {
+          "prompt": "What are your plans for the weekend?",
+          "promptTr": "Hafta sonu için planların neler?",
+          "answer": "I plan to visit my parents.",
+          "answerTr": "Annemle babamı ziyaret etmeyi planlıyorum."
+        }
+      ]
+    },
+    {
+      "id": "a1-43",
+      "titleTr": "Okumak ve yazmak",
+      "titleEn": "Reading and writing",
+      "words": [
+        "read",
+        "write",
+        "reader",
+        "reading",
+        "writing",
+        "story",
+        "article",
+        "magazine",
+        "newspaper",
+        "news",
+        "text",
+        "title",
+        "page",
+        "description",
+        "dialogue",
+        "conversation",
+        "information",
+        "about"
+      ],
+      "phrases": [
+        {
+          "phrase": "bad news",
+          "turkish": "kötü haber",
+          "example": "I read some bad news in the newspaper.",
+          "exampleTr": "Gazetede kötü bir haber okudum."
+        },
+        {
+          "phrase": "find out more",
+          "turkish": "daha fazla bilgi edinmek",
+          "example": "Read the article to find out more.",
+          "exampleTr": "Daha fazla bilgi için yazıyı oku."
+        },
+        {
+          "phrase": "at the end of",
+          "turkish": "-in sonunda",
+          "example": "Write your name at the end of the text.",
+          "exampleTr": "Adını metnin sonuna yaz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do you like to read?",
+          "promptTr": "Ne okumayı seversin?",
+          "answer": "I like to read stories and news.",
+          "answerTr": "Hikâye ve haber okumayı severim."
+        },
+        {
+          "prompt": "Do you read the newspaper?",
+          "promptTr": "Gazete okur musun?",
+          "answer": "No, I read the news on my phone.",
+          "answerTr": "Hayır, haberleri telefonumdan okurum."
+        },
+        {
+          "prompt": "Can you describe your bedroom?",
+          "promptTr": "Yatak odanı anlatabilir misin?",
+          "answer": "It's small, but it has a big window.",
+          "answerTr": "Küçük ama büyük bir penceresi var."
+        }
+      ]
+    },
+    {
+      "id": "a1-44",
+      "titleTr": "Fikirler ve sebepler",
+      "titleEn": "Opinions and reasons",
+      "words": [
+        "idea",
+        "opinion",
+        "believe",
+        "guess",
+        "sure",
+        "decide",
+        "maybe",
+        "probably",
+        "however",
+        "important",
+        "possible",
+        "real",
+        "fact",
+        "reason",
+        "because",
+        "because of",
+        "problem",
+        "positive",
+        "negative",
+        "imagine",
+        "even",
+        "if"
+      ],
+      "phrases": [
+        {
+          "phrase": "in my opinion",
+          "turkish": "bence",
+          "example": "In my opinion, this is the best movie.",
+          "exampleTr": "Bence bu en iyi film."
+        },
+        {
+          "phrase": "in fact",
+          "turkish": "aslında",
+          "example": "It looks expensive, but in fact it's cheap.",
+          "exampleTr": "Pahalı görünüyor ama aslında ucuz."
+        },
+        {
+          "phrase": "Guess what…",
+          "turkish": "Bil bakalım…",
+          "example": "Guess what? I got the job!",
+          "exampleTr": "Bil bakalım ne oldu? İşi aldım!"
+        },
+        {
+          "phrase": "It's a good idea to…",
+          "turkish": "…mek iyi bir fikir",
+          "example": "It's a good idea to sleep early.",
+          "exampleTr": "Erken yatmak iyi bir fikir."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Is it a good idea to learn English? Why?",
+          "promptTr": "İngilizce öğrenmek iyi bir fikir mi? Neden?",
+          "answer": "Yes, it is. I can travel and meet people.",
+          "answerTr": "Evet, öyle. Seyahat edip insanlarla tanışabilirim."
+        },
+        {
+          "prompt": "What's a big problem in your city?",
+          "promptTr": "Şehrinde büyük bir sorun ne?",
+          "answer": "In my opinion, the traffic is a big problem.",
+          "answerTr": "Bence trafik büyük bir sorun."
+        },
+        {
+          "prompt": "Do you agree? Summer is the best season.",
+          "promptTr": "Katılıyor musun? Yaz en iyi mevsim.",
+          "answer": "No, I don't agree. I love winter.",
+          "answerTr": "Hayır, katılmıyorum. Kışı çok severim."
+        }
+      ]
+    },
+    {
+      "id": "a1-45",
+      "titleTr": "Görevler ve projeler",
+      "titleEn": "Tasks and projects",
+      "words": [
+        "form",
+        "fill",
+        "complete",
+        "check",
+        "list",
+        "note",
+        "detail",
+        "topic",
+        "rule",
+        "line",
+        "chart",
+        "section",
+        "statement",
+        "true",
+        "false",
+        "plan",
+        "prepare",
+        "compare",
+        "build",
+        "create",
+        "design",
+        "improve",
+        "include"
+      ],
+      "phrases": [
+        {
+          "phrase": "make plans for",
+          "turkish": "için plan yapmak",
+          "example": "Let's make plans for the summer.",
+          "exampleTr": "Yaz için plan yapalım."
+        },
+        {
+          "phrase": "at the beginning of",
+          "turkish": "-in başında",
+          "example": "Read the rules at the beginning of the test.",
+          "exampleTr": "Sınavın başındaki kuralları oku."
+        },
+        {
+          "phrase": "It's important to…",
+          "turkish": "…mek önemli",
+          "example": "It's important to check your answers.",
+          "exampleTr": "Cevaplarını kontrol etmek önemli."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Do you make lists?",
+          "promptTr": "Liste yapar mısın?",
+          "answer": "Yes, I make a shopping list every week.",
+          "answerTr": "Evet, her hafta alışveriş listesi yaparım."
+        },
+        {
+          "prompt": "What are the rules in your home?",
+          "promptTr": "Evinizdeki kurallar neler?",
+          "answer": "We don't use phones at dinner.",
+          "answerTr": "Akşam yemeğinde telefon kullanmayız."
+        },
+        {
+          "prompt": "Was geography easy for you at school?",
+          "promptTr": "Okulda coğrafya senin için kolay mıydı?",
+          "answer": "Yes, it was. I love maps.",
+          "answerTr": "Evet, kolaydı. Haritaları çok severim."
+        }
+      ]
+    },
+    {
+      "id": "a1-46",
+      "titleTr": "Türler ve karşılaştırma",
+      "titleEn": "Kinds and comparing",
+      "words": [
+        "kind",
+        "type",
+        "part",
+        "piece",
+        "group",
+        "object",
+        "similar",
+        "different",
+        "difference",
+        "same",
+        "main",
+        "common",
+        "personal",
+        "useful",
+        "final",
+        "both",
+        "only",
+        "also",
+        "just"
+      ],
+      "phrases": [
+        {
+          "phrase": "What kind of music do you like?",
+          "turkish": "Ne tür müzik seversin?",
+          "example": "Tell me, what kind of music do you like?",
+          "exampleTr": "Söylesene, ne tür müzik seversin?"
+        },
+        {
+          "phrase": "this kind of…",
+          "turkish": "bu tür",
+          "example": "I don't like this kind of movie.",
+          "exampleTr": "Bu tür filmleri sevmem."
+        },
+        {
+          "phrase": "at the same time",
+          "turkish": "aynı anda",
+          "example": "We all arrived at the same time.",
+          "exampleTr": "Hepimiz aynı anda geldik."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What kind of food do you like?",
+          "promptTr": "Ne tür yemekler seversin?",
+          "answer": "I like Turkish food and pizza.",
+          "answerTr": "Türk yemeklerini ve pizzayı severim."
+        },
+        {
+          "prompt": "Are you and your best friend similar or different?",
+          "promptTr": "En yakın arkadaşınla benzer mi, farklı mı?",
+          "answer": "We're very different, but we're good friends.",
+          "answerTr": "Çok farklıyız ama iyi arkadaşız."
+        },
+        {
+          "prompt": "What's a useful thing in your bag?",
+          "promptTr": "Çantandaki işe yarar bir şey ne?",
+          "answer": "My phone is the most useful thing.",
+          "answerTr": "En işe yarar şey telefonum."
+        }
+      ]
+    },
+    {
+      "id": "a1-47",
+      "titleTr": "Hayat ve olaylar",
+      "titleEn": "Life and events",
+      "words": [
+        "born",
+        "life",
+        "become",
+        "happen",
+        "party",
+        "event",
+        "festival",
+        "action",
+        "activity",
+        "beginning",
+        "interest",
+        "success",
+        "result",
+        "situation",
+        "culture",
+        "period",
+        "last",
+        "next"
+      ],
+      "phrases": [
+        {
+          "phrase": "next time",
+          "turkish": "bir dahaki sefere",
+          "example": "Next time, let's go to a different restaurant.",
+          "exampleTr": "Bir dahaki sefere farklı bir restorana gidelim."
+        },
+        {
+          "phrase": "last year",
+          "turkish": "geçen yıl",
+          "example": "Last year we went to a big festival.",
+          "exampleTr": "Geçen yıl büyük bir festivale gittik."
+        },
+        {
+          "phrase": "the next day",
+          "turkish": "ertesi gün",
+          "example": "The next day, we visited the old town.",
+          "exampleTr": "Ertesi gün eski şehri gezdik."
+        },
+        {
+          "phrase": "differences between",
+          "turkish": "arasındaki farklar",
+          "example": "There are many differences between our two cultures.",
+          "exampleTr": "İki kültürümüz arasında çok fark var."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What did you do last weekend?",
+          "promptTr": "Geçen hafta sonu ne yaptın?",
+          "answer": "I went to a music festival with friends.",
+          "answerTr": "Arkadaşlarla bir müzik festivaline gittim."
+        },
+        {
+          "prompt": "Do you still live in the same house?",
+          "promptTr": "Hâlâ aynı evde mi oturuyorsun?",
+          "answer": "Yes, I still live in the same house.",
+          "answerTr": "Evet, hâlâ aynı evde oturuyorum."
+        },
+        {
+          "prompt": "What are you doing next week?",
+          "promptTr": "Gelecek hafta ne yapıyorsun?",
+          "answer": "Next week I have an important exam.",
+          "answerTr": "Gelecek hafta önemli bir sınavım var."
+        }
+      ]
+    },
+    {
+      "id": "a1-48",
+      "titleTr": "İngiliz İngilizcesinde",
+      "titleEn": "In British English",
+      "words": [
+        "flat",
+        "trousers",
+        "chemist",
+        "queue",
+        "holiday",
+        "autumn",
+        "shop assistant",
+        "straight on",
+        "have a shower"
+      ],
+      "variants": "british",
+      "phrases": [
+        {
+          "phrase": "on holiday",
+          "turkish": "tatilde (ABD'de on vacation)",
+          "example": "My boss is on holiday this week.",
+          "exampleTr": "Patronum bu hafta tatilde."
+        },
+        {
+          "phrase": "at university",
+          "turkish": "üniversitede (ABD'de in college)",
+          "example": "My brother is at university and lives in a flat.",
+          "exampleTr": "Kardeşim üniversitede okuyor ve bir dairede yaşıyor."
+        },
+        {
+          "phrase": "car park",
+          "turkish": "otopark (ABD'de parking lot)",
+          "example": "The car park is next to the chemist.",
+          "exampleTr": "Otopark eczanenin yanında."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "What do people in London call an apartment?",
+          "promptTr": "Londra'da insanlar daireye ne der?",
+          "answer": "They call it a flat.",
+          "answerTr": "Ona \"flat\" derler."
+        },
+        {
+          "prompt": "What is \"fall\" in British English?",
+          "promptTr": "İngiliz İngilizcesinde \"fall\" ne olur?",
+          "answer": "It's \"autumn.\"",
+          "answerTr": "\"Autumn\" olur."
+        },
+        {
+          "prompt": "Where do people in London wait for the bus?",
+          "promptTr": "Londra'da insanlar otobüsü nerede bekler?",
+          "answer": "They wait in a queue at the bus stop.",
+          "answerTr": "Durakta kuyrukta beklerler."
+        }
+      ]
+    }
+  ]
+}

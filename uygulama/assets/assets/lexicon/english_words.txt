@@ -8798,6 +8798,7 @@ animalivorous
 animalization
 animalize
 animally
+animals
 animastic
 animastical
 animate
@@ -22981,6 +22982,7 @@ birdman
 birdmouthed
 birdnest
 birdnester
+birds
 birdseed
 birdstone
 birdweed
@@ -23960,6 +23962,7 @@ blog
 bloke
 blolly
 blomstrandine
+blond
 blonde
 blondeness
 blondine
@@ -27016,6 +27019,7 @@ brotherless
 brotherlike
 brotherliness
 brotherly
+brothers
 brothership
 brotherton
 brotherwort
@@ -31221,6 +31225,7 @@ carrot
 carrotage
 carroter
 carrotiness
+carrots
 carrottop
 carrotweed
 carrotwood
@@ -32830,6 +32835,7 @@ centrosymmetry
 centrotus
 centrum
 centry
+cents
 centum
 centumvir
 centumviral
@@ -33858,7 +33864,6 @@ channelize
 channelled
 channeller
 channelling
-channels
 channelwards
 channer
 chanson
@@ -42993,6 +42998,7 @@ cookless
 cookmaid
 cookout
 cookroom
+cooks
 cookshack
 cookshop
 cookstove
@@ -45204,6 +45210,7 @@ cowpuncher
 cowquake
 cowrie
 cowroid
+cows
 cowshed
 cowskin
 cowslip
@@ -47122,6 +47129,7 @@ cultural
 culturally
 culture
 cultured
+cultures
 culturine
 culturisation
 culturise
@@ -50891,7 +50899,6 @@ delawn
 delay
 delayable
 delayage
-delayed
 delayer
 delayful
 delaying
@@ -54149,6 +54156,7 @@ die
 dieb
 dieback
 diectasis
+died
 diedral
 diedric
 dieffenbachia
@@ -57577,6 +57585,7 @@ dollardee
 dollardom
 dollarfish
 dollarleaf
+dollars
 dollbeer
 dolldom
 dollface
@@ -58763,6 +58772,7 @@ drivepipe
 driver
 driverless
 drivership
+drives
 drivescrew
 driveway
 drivewell
@@ -61497,6 +61507,7 @@ elephantoidal
 elephantopus
 elephantous
 elephantry
+elephants
 elephas
 elettaria
 eleusine
@@ -61567,6 +61578,7 @@ elicitor
 elicitory
 elide
 elidible
+elif
 eligibility
 eligible
 eligibleness
@@ -62293,6 +62305,7 @@ empyreumatical
 empyreumatise
 empyreumatize
 empyromancy
+emre
 emu
 emulable
 emulant
@@ -66629,6 +66642,7 @@ eurindic
 euripidean
 euripus
 eurite
+euro
 euroaquilo
 eurobin
 euroclydon
@@ -66645,6 +66659,7 @@ europeanly
 europeward
 europium
 europocentric
+euros
 eurus
 euryalae
 euryale
@@ -80026,6 +80041,7 @@ gonzalo
 goo
 goober
 good
+goodbye
 goodenia
 goodeniaceae
 goodeniaceous
@@ -80605,6 +80621,7 @@ grandma
 grandmaternal
 grandmontine
 grandmother
+grandmother's
 grandmotherhood
 grandmotherism
 grandmotherliness
@@ -81557,6 +81574,7 @@ growlingly
 growly
 grown
 grownup
+grows
 growse
 growsome
 growth
@@ -89117,6 +89135,7 @@ houseowner
 houser
 houseridden
 houseroom
+houses
 housesmith
 housetop
 houseward
@@ -104305,6 +104324,7 @@ konrad
 konstantin
 konstantinos
 kontakion
+konya
 konyak
 kooka
 kookaburra
@@ -106294,7 +106314,6 @@ laugh
 laughable
 laughableness
 laughably
-laughed
 laughee
 laugher
 laughful
@@ -116814,6 +116833,7 @@ meterage
 metergram
 meterless
 meterman
+meters
 metership
 metestick
 metewand
@@ -116955,7 +116975,6 @@ metrectopia
 metrectopic
 metrectopy
 metreless
-metres
 metreship
 metreta
 metrete
@@ -119999,6 +120018,7 @@ molybdophyllite
 molybdosis
 molybdous
 molysite
+mom
 mombin
 momble
 mombottu
@@ -121888,6 +121908,7 @@ moviedom
 movieise
 movieize
 movieland
+movies
 moving
 movingly
 movingness
@@ -125074,6 +125095,7 @@ neighborless
 neighborlike
 neighborliness
 neighborly
+neighbors
 neighborship
 neighborstained
 neighbour
@@ -130880,7 +130902,6 @@ object
 objectable
 objectation
 objectative
-objected
 objectee
 objecthood
 objectification
@@ -147072,7 +147093,6 @@ phoneme
 phonemic
 phonemics
 phonendoscope
-phones
 phonesis
 phonestheme
 phonetic
@@ -149897,6 +149917,7 @@ plane
 planeness
 planer
 planera
+planes
 planet
 planeta
 planetable
@@ -150047,6 +150068,7 @@ plantlet
 plantlike
 plantling
 plantocracy
+plants
 plantsman
 plantula
 plantular
@@ -154071,7 +154093,6 @@ postrider
 postrorse
 postrostral
 postrubeolar
-posts
 postsaccular
 postsacral
 postscalenus
@@ -154369,6 +154390,7 @@ poundlike
 poundman
 poundmaster
 poundmeal
+pounds
 poundstone
 poundworth
 pour
@@ -158689,6 +158711,7 @@ productoid
 productor
 productory
 productress
+products
 productus
 proecclesiastical
 proeconomy
@@ -159165,6 +159188,7 @@ promiseless
 promisemonger
 promiseproof
 promiser
+promises
 promising
 promisingly
 promisingness
@@ -177676,7 +177700,6 @@ scientism
 scientist
 scientistic
 scientistically
-scientists
 scientize
 scientolism
 scilicet
@@ -179693,6 +179716,7 @@ sellie
 selliform
 selling
 sellout
+sells
 selly
 selsoviet
 selsyn
@@ -185599,6 +185623,7 @@ sleeplike
 sleepmarken
 sleepproof
 sleepry
+sleeps
 sleepwaker
 sleepwaking
 sleepwalk
@@ -186428,6 +186453,7 @@ snakeproof
 snaker
 snakeroot
 snakery
+snakes
 snakeship
 snakeskin
 snakestone
@@ -186739,6 +186765,7 @@ snowhouse
 snowie
 snowily
 snowiness
+snowing
 snowish
 snowk
 snowl
@@ -191427,6 +191454,7 @@ starriness
 starring
 starringly
 starry
+stars
 starshake
 starshine
 starship
@@ -191623,6 +191651,7 @@ stay
 stayable
 stayed
 stayer
+staying
 staylace
 stayless
 staylessness
@@ -200576,6 +200605,7 @@ tallegalane
 taller
 tallero
 talles
+tallest
 tallet
 talliable
 talliage
@@ -211825,6 +211855,7 @@ tudoresque
 tue
 tueiron
 tuesday
+tuesdays
 tufa
 tufaceous
 tufalike
@@ -215563,6 +215594,7 @@ unclawed
 unclay
 unclayed
 uncle
+uncle's
 unclead
 unclean
 uncleanable
@@ -229547,6 +229579,7 @@ vacational
 vacationer
 vacationist
 vacationless
+vacations
 vacatur
 vaccaria
 vaccary
@@ -232297,6 +232330,7 @@ visitment
 visitor
 visitoress
 visitorial
+visitors
 visitorship
 visitress
 visitrix
@@ -236877,6 +236911,7 @@ writer's
 writeress
 writerling
 writership
+writes
 writh
 writhe
 writhed

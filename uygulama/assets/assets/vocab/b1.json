@@ -134,17 +134,6 @@
     ]
   },
   {
-    "english": "difference",
-    "turkish": "fark",
-    "example": "There is a big difference between the two plans.",
-    "exampleTr": "İki plan arasında büyük bir fark var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"make a difference\" = fark yaratmak."
-  },
-  {
     "english": "effort",
     "turkish": "çaba",
     "example": "She put a lot of effort into her presentation.",
@@ -187,16 +176,6 @@
     "tags": [
       "abstract nouns",
       "business"
-    ]
-  },
-  {
-    "english": "idea",
-    "turkish": "fikir",
-    "example": "That is an interesting idea for the project.",
-    "exampleTr": "Bu, proje için ilginç bir fikir.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
     ]
   },
   {
@@ -323,28 +302,6 @@
     ]
   },
   {
-    "english": "reason",
-    "turkish": "sebep, neden",
-    "example": "The reason for the delay was the weather.",
-    "exampleTr": "Gecikmenin sebebi hava durumuydu.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"the reason for sth\" ama \"the reason why...\"."
-  },
-  {
-    "english": "result",
-    "turkish": "sonuç",
-    "example": "The results of the test arrive tomorrow.",
-    "exampleTr": "Testin sonuçları yarın geliyor.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"as a result\" = sonuç olarak."
-  },
-  {
     "english": "risk",
     "turkish": "risk",
     "example": "There is a small risk of rain this afternoon.",
@@ -368,16 +325,6 @@
     "tipTr": "\"play a role\" = rol oynamak."
   },
   {
-    "english": "situation",
-    "turkish": "durum",
-    "example": "The situation at work is getting better.",
-    "exampleTr": "İşteki durum düzeliyor.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ]
-  },
-  {
     "english": "solution",
     "turkish": "çözüm",
     "example": "We found a simple solution to the problem.",
@@ -387,27 +334,6 @@
       "abstract nouns"
     ],
     "tipTr": "\"a solution to sth\" edatıyla kullanılır."
-  },
-  {
-    "english": "success",
-    "turkish": "başarı",
-    "example": "Her success surprised nobody.",
-    "exampleTr": "Başarısı kimseyi şaşırtmadı.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ]
-  },
-  {
-    "english": "topic",
-    "turkish": "konu",
-    "example": "Today's topic is climate change.",
-    "exampleTr": "Bugünün konusu iklim değişikliği.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "study"
-    ]
   },
   {
     "english": "trouble",
@@ -520,18 +446,6 @@
     "tipTr": "\"conditions\" çoğul hâlde \"şartlar\" anlamındadır."
   },
   {
-    "english": "detail",
-    "turkish": "ayrıntı",
-    "example": "Please send me the details by email.",
-    "exampleTr": "Lütfen ayrıntıları bana e-posta ile gönder.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
-    ],
-    "tipTr": "\"in detail\" = ayrıntılı olarak."
-  },
-  {
     "english": "effect",
     "turkish": "etki",
     "example": "Noise has a bad effect on concentration.",
@@ -541,17 +455,6 @@
       "abstract nouns"
     ],
     "tipTr": "\"effect\" isim, \"affect\" fiildir; karıştırılır."
-  },
-  {
-    "english": "example",
-    "turkish": "örnek",
-    "example": "Give me an example of a polite request.",
-    "exampleTr": "Bana kibar bir rica örneği ver.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "study"
-    ]
   },
   {
     "english": "freedom",
@@ -958,17 +861,6 @@
     ]
   },
   {
-    "english": "mean",
-    "turkish": "cimri, kötü davranan",
-    "example": "Do not be mean to your little sister.",
-    "exampleTr": "Küçük kız kardeşine kötü davranma.",
-    "level": "B1",
-    "tags": [
-      "people"
-    ],
-    "tipTr": "\"mean\" ayrıca \"anlamına gelmek\" demektir."
-  },
-  {
     "english": "desperate",
     "turkish": "çaresiz, umutsuz",
     "example": "He was desperate for a second chance.",
@@ -1017,16 +909,6 @@
     "turkish": "duygu",
     "example": "He finds it hard to show emotion.",
     "exampleTr": "Duygularını göstermekte zorlanıyor.",
-    "level": "B1",
-    "tags": [
-      "feelings"
-    ]
-  },
-  {
-    "english": "feeling",
-    "turkish": "his, duygu",
-    "example": "I had a strange feeling about that email.",
-    "exampleTr": "O e-posta konusunda tuhaf bir his vardı içimde.",
     "level": "B1",
     "tags": [
       "feelings"
@@ -2011,16 +1893,6 @@
     ]
   },
   {
-    "english": "land",
-    "turkish": "inmek, kara",
-    "example": "The plane will land at half past two.",
-    "exampleTr": "Uçak iki buçukta inecek.",
-    "level": "B1",
-    "tags": [
-      "travel"
-    ]
-  },
-  {
     "english": "departure lounge",
     "turkish": "giden yolcu salonu",
     "example": "We waited in the departure lounge for hours.",
@@ -2302,18 +2174,6 @@
     "tags": [
       "travel"
     ]
-  },
-  {
-    "english": "fine",
-    "turkish": "ceza, para cezası",
-    "example": "The parking fine was fifty lira.",
-    "exampleTr": "Park cezası elli liraydı.",
-    "level": "B1",
-    "tags": [
-      "travel",
-      "money"
-    ],
-    "tipTr": "\"fine\" isim olarak \"para cezası\", sıfat olarak \"iyi\" demektir."
   },
   {
     "english": "get stuck",
@@ -2793,16 +2653,6 @@
       "lifestyle"
     ],
     "tipTr": "\"get into the habit of doing sth\" kalıbı yaygındır."
-  },
-  {
-    "english": "routine",
-    "turkish": "rutin, günlük düzen",
-    "example": "My morning routine starts with coffee.",
-    "exampleTr": "Sabah rutinim kahveyle başlar.",
-    "level": "B1",
-    "tags": [
-      "lifestyle"
-    ]
   },
   {
     "english": "lifestyle",
@@ -3822,16 +3672,6 @@
     ]
   },
   {
-    "english": "ocean",
-    "turkish": "okyanus",
-    "example": "Plastic ends up in the ocean.",
-    "exampleTr": "Plastikler okyanusta son buluyor.",
-    "level": "B1",
-    "tags": [
-      "environment"
-    ]
-  },
-  {
     "english": "shortage",
     "turkish": "kıtlık, eksiklik",
     "example": "There was a water shortage last August.",
@@ -4120,17 +3960,6 @@
     "level": "B1",
     "tags": [
       "family"
-    ]
-  },
-  {
-    "english": "teenager",
-    "turkish": "ergen, genç",
-    "example": "Teenagers spend hours on their phones.",
-    "exampleTr": "Gençler telefonlarında saatler geçiriyor.",
-    "level": "B1",
-    "tags": [
-      "family",
-      "society"
     ]
   },
   {
@@ -6327,6 +6156,16 @@
     "level": "B1",
     "tags": [
       "chunks"
+    ]
+  },
+  {
+    "english": "tired out",
+    "turkish": "bitkin",
+    "example": "I am tired out after a long day.",
+    "exampleTr": "Uzun bir günün ardından bitkinim.",
+    "level": "B1",
+    "tags": [
+      "feelings"
     ]
   }
 ]
