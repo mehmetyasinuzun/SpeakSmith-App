@@ -124,7 +124,7 @@
     "english": "anywhere",
     "turkish": "herhangi bir yer(e/de)",
     "example": "You can sit anywhere you like.",
-    "exampleTr": "İstediğin herhangi bir yere oturabilirsin.",
+    "exampleTr": "İstediğin yere oturabilirsin.",
     "level": "A2",
     "tags": [
       "function words"
@@ -1198,7 +1198,7 @@
       "social",
       "health"
     ],
-    "tipTr": "Doktor randevusu için \"appointment\", arkadaşla buluşma için \"meet up\" kullanılır."
+    "tipTr": "Doktor, kuaför gibi randevular için 'appointment' denir; arkadaşla buluşmak için 'meet up with a friend' ya da 'make plans' denir."
   },
   {
     "english": "prize",
@@ -1225,7 +1225,7 @@
     "english": "winner",
     "turkish": "kazanan",
     "example": "The winner gets a free trip to Paris.",
-    "exampleTr": "Kazanan, Paris'e bedava bir gezi kazanıyor.",
+    "exampleTr": "Kazanana Paris'e bedava bir gezi veriliyor.",
     "level": "A2",
     "tags": [
       "celebration"
@@ -1493,7 +1493,7 @@
   {
     "english": "flu",
     "turkish": "grip",
-    "example": "He is in bed with the flu.",
+    "example": "He's in bed with the flu.",
     "exampleTr": "Gripten yatıyor.",
     "level": "A2",
     "tags": [
@@ -3182,7 +3182,7 @@
   },
   {
     "english": "repair shop",
-    "turkish": "tamirci",
+    "turkish": "tamirhane, tamir dükkânı",
     "example": "I took my laptop to a repair shop.",
     "exampleTr": "Dizüstü bilgisayarımı tamirciye götürdüm.",
     "level": "A2",
@@ -3271,7 +3271,7 @@
     "english": "credit",
     "turkish": "kredi; itibar",
     "example": "I bought the TV on credit.",
-    "exampleTr": "Televizyonu krediyle aldım.",
+    "exampleTr": "Televizyonu taksitle aldım.",
     "level": "A2",
     "tags": [
       "money"
@@ -3973,7 +3973,7 @@
     "tags": [
       "city"
     ],
-    "tipTr": "İngiltere'de benzin 'petrol' dür."
+    "tipTr": "İngiltere'de benzine 'petrol' denir."
   },
   {
     "english": "cross",
@@ -4831,7 +4831,7 @@
     "english": "battery",
     "turkish": "pil, batarya",
     "example": "My battery is almost empty.",
-    "exampleTr": "Pilim neredeyse bitti.",
+    "exampleTr": "Şarjım neredeyse bitti.",
     "level": "A2",
     "tags": [
       "technology"
@@ -5197,7 +5197,7 @@
   {
     "english": "series",
     "turkish": "dizi",
-    "example": "We are watching a new series.",
+    "example": "We're watching a new series.",
     "exampleTr": "Yeni bir dizi izliyoruz.",
     "level": "A2",
     "tags": [
@@ -5792,7 +5792,7 @@
     "tags": [
       "education"
     ],
-    "tipTr": "İngiltere'de sınava tekrar 'revise' denir."
+    "tipTr": "İngiltere'de sınava çalışmak için 'revise' denir."
   },
   {
     "english": "essay",
@@ -5861,7 +5861,7 @@
     "english": "pronounce",
     "turkish": "telaffuz etmek, söylemek",
     "example": "How do you pronounce this word?",
-    "exampleTr": "Bu kelimeyi nasıl telaffuz ediyorsun?",
+    "exampleTr": "Bu kelime nasıl telaffuz edilir?",
     "level": "A2",
     "tags": [
       "language"
@@ -5877,7 +5877,7 @@
       "education",
       "language"
     ],
-    "tipTr": "\"vocabulary\" sayılamazdır: \"vocabularies\" denmez."
+    "tipTr": "\"Kelime dağarcığı\" anlamında genelde tekil kullanılır: a large vocabulary."
   },
   {
     "english": "translate",
@@ -6014,7 +6014,7 @@
     "english": "understanding",
     "turkish": "anlama; anlayış",
     "example": "My understanding of English is better now.",
-    "exampleTr": "İngilizceyi anlamam artık daha iyi.",
+    "exampleTr": "Artık İngilizceyi daha iyi anlıyorum.",
     "level": "A2",
     "tags": [
       "language"
@@ -7499,7 +7499,7 @@
     "tags": [
       "verbs"
     ],
-    "tipTr": "\"suggest\" sonrası -ing ya da \"that\" cümlesi gelir, \"suggest me\" yanlıştır."
+    "tipTr": "\"suggest\" sonrası -ing, \"that\" cümlesi ya da isim gelir (suggest a restaurant); \"suggest me\" yanlıştır."
   },
   {
     "english": "suggestion",
@@ -7520,7 +7520,7 @@
     "tags": [
       "ideas"
     ],
-    "tipTr": "\"recommend\" ardından -ing ya da \"that\" cümlesi gelir."
+    "tipTr": "\"recommend\" ardından -ing, \"that\" cümlesi ya da isim gelir: recommend a restaurant."
   },
   {
     "english": "expect",
@@ -7562,7 +7562,7 @@
     "tags": [
       "ideas"
     ],
-    "tipTr": "\"consider\" ardından -ing gelir."
+    "tipTr": "\"consider\" ardından -ing ya da isim gelir: consider a new job."
   },
   {
     "english": "thought",
@@ -7934,7 +7934,7 @@
     "exampleTr": "Ne tür müzik seversin?",
     "level": "A2",
     "tags": [
-      "adjectives"
+      "ideas"
     ]
   },
   {
@@ -7944,7 +7944,7 @@
     "exampleTr": "Pasta kalp şeklinde.",
     "level": "A2",
     "tags": [
-      "adjectives"
+      "objects"
     ]
   },
   {

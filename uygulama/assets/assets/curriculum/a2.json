@@ -540,7 +540,7 @@
         {
           "prompt": "Your friend has a bad cough. What do you say?",
           "promptTr": "Arkadaşının kötü bir öksürüğü var. Ne dersin?",
-          "answer": "You should see a doctor. Get better soon!",
+          "answer": "You should see a doctor. Get well soon!",
           "answerTr": "Doktora görünmelisin. Geçmiş olsun!"
         }
       ]
@@ -2414,10 +2414,10 @@
           "exampleTr": "Konuşmasında anne babasından söz etti."
         },
         {
-          "phrase": "pay attention",
-          "turkish": "dikkat etmek",
-          "example": "Pay attention! The teacher is talking.",
-          "exampleTr": "Dikkat et! Öğretmen konuşuyor."
+          "phrase": "hear about sb/sth",
+          "turkish": "birini, bir şeyi duymak (haberini almak)",
+          "example": "Did you hear about the new rules? Nobody mentioned them.",
+          "exampleTr": "Yeni kuralları duydun mu? Kimse onlardan bahsetmedi."
         }
       ],
       "sayPrompts": [
@@ -2583,8 +2583,8 @@
           "answerTr": "Evet, parkın yanındaki yeri kesinlikle tavsiye ederim."
         },
         {
-          "prompt": "What might you do this weekend?",
-          "promptTr": "Bu hafta sonu ne yapabilirsin?",
+          "prompt": "What are your plans for this weekend?",
+          "promptTr": "Bu hafta sonu için planların ne?",
           "answer": "I might visit my parents.",
           "answerTr": "Belki annemle babamı ziyaret ederim."
         }
@@ -2774,7 +2774,7 @@
           "phrase": "happen to sb/sth",
           "turkish": "birinin, bir şeyin başına gelmek",
           "example": "What happened to your car? Did something damage it?",
-          "exampleTr": "Arabana ne oldu? Bir şey mi hasar verdi?"
+          "exampleTr": "Arabana ne oldu? Hasar mı gördü?"
         },
         {
           "phrase": "solution to sth",
@@ -3112,9 +3112,9 @@
       "phrases": [
         {
           "phrase": "a number of sth",
-          "turkish": "bir dizi, birçok",
+          "turkish": "birçok, bazı",
           "example": "A number of researchers are working on this.",
-          "exampleTr": "Bir dizi araştırmacı bunun üzerinde çalışıyor."
+          "exampleTr": "Birçok araştırmacı bunun üzerinde çalışıyor."
         },
         {
           "phrase": "in history",
@@ -3190,7 +3190,7 @@
         },
         {
           "phrase": "in hospital",
-          "turkish": "hastanede yatıyor (ABD'de in the hospital)",
+          "turkish": "hastanede (yatmak) (ABD'de in the hospital)",
           "example": "He's in hospital after a crash on the motorway.",
           "exampleTr": "Otoyoldaki bir kazadan sonra hastanede yatıyor."
         },
