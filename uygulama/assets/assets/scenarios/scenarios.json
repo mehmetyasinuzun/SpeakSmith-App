@@ -188,7 +188,7 @@
     "subtitle": "Kiralık bir daireyi geziyor ve sorular soruyorsun",
     "subtitleEn": "Touring a rental apartment and asking questions",
     "aiRole": "real estate agent showing a one-bedroom apartment",
-    "userRole": "person looking to rent, asking about rent, bills and the neighbourhood",
+    "userRole": "person looking to rent, asking about rent, bills and the neighborhood",
     "opening": "Welcome! This is the living room — feel free to look around. Any questions so far?"
   },
   {
@@ -297,7 +297,7 @@
     "subtitleEn": "Push back politely on a PR, suggest, justify",
     "aiRole": "senior engineer reviewing the user's pull request in a friendly but rigorous way, asks for rationale, points at a possible side effect",
     "userRole": "mid-level engineer defending and improving their pull request",
-    "opening": "Thanks for the PR! I left a couple of comments. First one: why did you move the retry logic into the controller instead of the client? I'm worried it changes the failure behaviour for other callers."
+    "opening": "Thanks for the PR! I left a couple of comments. First one: why did you move the retry logic into the controller instead of the client? I'm worried it changes the failure behavior for other callers."
   },
   {
     "id": "incident_postmortem",
