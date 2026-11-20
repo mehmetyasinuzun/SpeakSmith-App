@@ -1,40 +1,5 @@
 [
   {
-    "english": "opportunity",
-    "turkish": "fırsat",
-    "example": "This job is a great opportunity for young graduates.",
-    "exampleTr": "Bu iş, genç mezunlar için harika bir fırsat.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
-    ],
-    "tipTr": "\"opportunity\" sayılabilir bir isimdir: \"a good opportunity to do sth\"."
-  },
-  {
-    "english": "decision",
-    "turkish": "karar",
-    "example": "We have to make a decision before Friday.",
-    "exampleTr": "Cuma gününden önce bir karar vermemiz gerekiyor.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "collocations"
-    ],
-    "tipTr": "Türkçede \"karar vermek\" ama İngilizcede \"make a decision\" denir, \"give\" değil."
-  },
-  {
-    "english": "ability",
-    "turkish": "yetenek, beceri",
-    "example": "She has the ability to explain difficult ideas simply.",
-    "exampleTr": "Zor fikirleri basitçe açıklama yeteneği var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"the ability to do sth\" kalıbı mastarla kullanılır."
-  },
-  {
     "english": "achievement",
     "turkish": "başarı, başarım",
     "example": "Finishing the course was a real achievement.",
@@ -44,17 +9,6 @@
       "abstract nouns"
     ],
     "tipTr": "\"achievement\" tek tek başarılan işler için, \"success\" genel başarı için kullanılır."
-  },
-  {
-    "english": "advantage",
-    "turkish": "avantaj, üstünlük",
-    "example": "The main advantage of this phone is the battery.",
-    "exampleTr": "Bu telefonun temel avantajı bataryası.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"take advantage of\" = bir şeyden yararlanmak."
   },
   {
     "english": "attitude",
@@ -69,17 +23,6 @@
     "tipTr": "\"attitude to/towards sth\" edatıyla kullanılır."
   },
   {
-    "english": "benefit",
-    "turkish": "fayda, yarar",
-    "example": "Regular walking has many health benefits.",
-    "exampleTr": "Düzenli yürüyüşün birçok sağlık faydası vardır.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "health"
-    ]
-  },
-  {
     "english": "challenge",
     "turkish": "zorluk, meydan okuma",
     "example": "Learning two languages at once is a challenge.",
@@ -89,17 +32,6 @@
       "abstract nouns"
     ],
     "tipTr": "\"challenge\" olumsuz değil; \"üstesinden gelinecek zorluk\" anlamı taşır."
-  },
-  {
-    "english": "choice",
-    "turkish": "seçim, tercih",
-    "example": "You have a choice between morning and evening classes.",
-    "exampleTr": "Sabah ve akşam dersleri arasında bir seçimin var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"make a choice\" = seçim yapmak."
   },
   {
     "english": "confidence",
@@ -156,18 +88,6 @@
     ]
   },
   {
-    "english": "goal",
-    "turkish": "hedef",
-    "example": "My main goal this year is to speak fluently.",
-    "exampleTr": "Bu yılki temel hedefim akıcı konuşmak.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
-    ],
-    "tipTr": "\"set a goal\" = hedef koymak."
-  },
-  {
     "english": "growth",
     "turkish": "büyüme, artış",
     "example": "The company reported strong growth last year.",
@@ -214,17 +134,6 @@
     "tipTr": "\"issue\" günlük İngilizcede \"problem\" yerine çok kullanılır."
   },
   {
-    "english": "knowledge",
-    "turkish": "bilgi, bilgi birikimi",
-    "example": "His knowledge of history is impressive.",
-    "exampleTr": "Tarih bilgisi etkileyici.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "'knowledges' denmez; 'a good knowledge of sth' ise doğrudur."
-  },
-  {
     "english": "lack",
     "turkish": "eksiklik, yokluk",
     "example": "A lack of sleep affects your memory.",
@@ -233,27 +142,6 @@
     "tags": [
       "abstract nouns",
       "health"
-    ]
-  },
-  {
-    "english": "method",
-    "turkish": "yöntem",
-    "example": "This method works well for adult learners.",
-    "exampleTr": "Bu yöntem yetişkin öğrenenler için iyi çalışır.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "study"
-    ]
-  },
-  {
-    "english": "option",
-    "turkish": "seçenek",
-    "example": "We still have two options left.",
-    "exampleTr": "Hâlâ iki seçeneğimiz var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
     ]
   },
   {
@@ -269,39 +157,6 @@
     "tipTr": "\"under pressure\" = baskı altında."
   },
   {
-    "english": "process",
-    "turkish": "süreç",
-    "example": "Learning is a slow process.",
-    "exampleTr": "Öğrenmek yavaş bir süreçtir.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "study"
-    ]
-  },
-  {
-    "english": "purpose",
-    "turkish": "amaç",
-    "example": "The purpose of this meeting is to plan the launch.",
-    "exampleTr": "Bu toplantının amacı lansmanı planlamak.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
-    ],
-    "tipTr": "\"on purpose\" = bilerek, kasten."
-  },
-  {
-    "english": "quality",
-    "turkish": "kalite, nitelik",
-    "example": "The quality of the service was excellent.",
-    "exampleTr": "Hizmetin kalitesi mükemmeldi.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ]
-  },
-  {
     "english": "risk",
     "turkish": "risk",
     "example": "There is a small risk of rain this afternoon.",
@@ -313,40 +168,6 @@
     "tipTr": "\"take a risk\" = risk almak."
   },
   {
-    "english": "role",
-    "turkish": "rol, görev",
-    "example": "She plays an important role in the team.",
-    "exampleTr": "Takımda önemli bir rol oynuyor.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
-    ],
-    "tipTr": "\"play a role\" = rol oynamak."
-  },
-  {
-    "english": "solution",
-    "turkish": "çözüm",
-    "example": "We found a simple solution to the problem.",
-    "exampleTr": "Soruna basit bir çözüm bulduk.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"a solution to sth\" edatıyla kullanılır."
-  },
-  {
-    "english": "trouble",
-    "turkish": "sıkıntı, dert",
-    "example": "I had trouble finding the address.",
-    "exampleTr": "Adresi bulmakta sıkıntı yaşadım.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"have trouble doing sth\" = bir şeyi yapmakta zorlanmak."
-  },
-  {
     "english": "value",
     "turkish": "değer",
     "example": "Old photos have great value for our family.",
@@ -355,17 +176,6 @@
     "tags": [
       "abstract nouns"
     ]
-  },
-  {
-    "english": "variety",
-    "turkish": "çeşitlilik",
-    "example": "The café offers a variety of teas.",
-    "exampleTr": "Kafe çeşitli çaylar sunuyor.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"a variety of\" ardından çoğul isim gelir."
   },
   {
     "english": "aim",
@@ -380,17 +190,6 @@
     "tipTr": "\"aim to do sth\" fiil olarak da kullanılır."
   },
   {
-    "english": "amount",
-    "turkish": "miktar",
-    "example": "A large amount of water was wasted.",
-    "exampleTr": "Büyük miktarda su israf edildi.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"amount of\" sayılamayanlarla, \"number of\" sayılabilirlerle kullanılır."
-  },
-  {
     "english": "attempt",
     "turkish": "deneme, girişim",
     "example": "My first attempt at cooking rice failed.",
@@ -398,17 +197,6 @@
     "level": "B1",
     "tags": [
       "abstract nouns"
-    ]
-  },
-  {
-    "english": "background",
-    "turkish": "geçmiş, altyapı",
-    "example": "She has a background in engineering.",
-    "exampleTr": "Mühendislik altyapısı var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns",
-      "work"
     ]
   },
   {
@@ -422,39 +210,6 @@
       "lifestyle"
     ],
     "tipTr": "\"work-life balance\" yaygın bir kalıptır."
-  },
-  {
-    "english": "chance",
-    "turkish": "şans, ihtimal",
-    "example": "There is a good chance of snow tonight.",
-    "exampleTr": "Bu gece kar yağma ihtimali yüksek.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"chance\" burada \"şans\" değil \"ihtimal\" anlamındadır."
-  },
-  {
-    "english": "condition",
-    "turkish": "koşul, durum",
-    "example": "The car is in good condition.",
-    "exampleTr": "Araba iyi durumda.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"conditions\" çoğul hâlde \"şartlar\" anlamındadır."
-  },
-  {
-    "english": "effect",
-    "turkish": "etki",
-    "example": "Noise has a bad effect on concentration.",
-    "exampleTr": "Gürültünün konsantrasyona kötü etkisi var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "\"effect\" isim, \"affect\" fiildir; karıştırılır."
   },
   {
     "english": "freedom",
@@ -482,38 +237,6 @@
     "turkish": "niyet",
     "example": "I had no intention of leaving early.",
     "exampleTr": "Erken ayrılmak gibi bir niyetim yoktu.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ]
-  },
-  {
-    "english": "matter",
-    "turkish": "mesele, önemli olmak",
-    "example": "This is a serious matter for the whole team.",
-    "exampleTr": "Bu, tüm ekip için ciddi bir mesele.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "Fiil olarak \"it doesn't matter\" = fark etmez."
-  },
-  {
-    "english": "memory",
-    "turkish": "hafıza, anı",
-    "example": "I have a clear memory of that summer.",
-    "exampleTr": "O yaza dair net bir anım var.",
-    "level": "B1",
-    "tags": [
-      "abstract nouns"
-    ],
-    "tipTr": "Hem \"hafıza\" hem \"anı\" anlamına gelir."
-  },
-  {
-    "english": "possibility",
-    "turkish": "olasılık",
-    "example": "There is a possibility that the flight is cancelled.",
-    "exampleTr": "Uçuşun iptal edilme olasılığı var.",
     "level": "B1",
     "tags": [
       "abstract nouns"
@@ -1318,17 +1041,6 @@
     ]
   },
   {
-    "english": "deal",
-    "turkish": "anlaşma, iş",
-    "example": "They signed a deal with a German firm.",
-    "exampleTr": "Bir Alman firmasıyla anlaşma imzaladılar.",
-    "level": "B1",
-    "tags": [
-      "business"
-    ],
-    "tipTr": "\"It's a deal!\" = Anlaştık!"
-  },
-  {
     "english": "agenda",
     "turkish": "gündem",
     "example": "The agenda for tomorrow has five items.",
@@ -1449,16 +1161,6 @@
     ]
   },
   {
-    "english": "lecture",
-    "turkish": "ders, konferans",
-    "example": "The lecture starts at nine sharp.",
-    "exampleTr": "Ders tam dokuzda başlıyor.",
-    "level": "B1",
-    "tags": [
-      "study"
-    ]
-  },
-  {
     "english": "seminar",
     "turkish": "seminer",
     "example": "We discuss the readings in the seminar.",
@@ -1507,17 +1209,6 @@
     "tags": [
       "study"
     ]
-  },
-  {
-    "english": "research",
-    "turkish": "araştırma, araştırmak",
-    "example": "She is doing research on bilingual children.",
-    "exampleTr": "İki dilli çocuklar üzerine araştırma yapıyor.",
-    "level": "B1",
-    "tags": [
-      "study"
-    ],
-    "tipTr": "\"do research\" denir, \"make research\" yanlıştır."
   },
   {
     "english": "graduate",
@@ -1647,18 +1338,6 @@
       "work",
       "study"
     ]
-  },
-  {
-    "english": "achieve",
-    "turkish": "başarmak, elde etmek",
-    "example": "She achieved her goal in six months.",
-    "exampleTr": "Hedefine altı ayda ulaştı.",
-    "level": "B1",
-    "tags": [
-      "work",
-      "study"
-    ],
-    "tipTr": "\"achieve a goal\" yaygın bir eş dizimdir."
   },
   {
     "english": "qualify",
@@ -1877,16 +1556,6 @@
     "turkish": "kapasitesinin üzerinde satılmış",
     "example": "The flight was overbooked, so we waited.",
     "exampleTr": "Uçuş fazla satılmıştı, bu yüzden bekledik.",
-    "level": "B1",
-    "tags": [
-      "travel"
-    ]
-  },
-  {
-    "english": "board",
-    "turkish": "binmek, uçağa geçmek",
-    "example": "We board the plane in ten minutes.",
-    "exampleTr": "On dakika içinde uçağa biniyoruz.",
     "level": "B1",
     "tags": [
       "travel"
@@ -2644,27 +2313,6 @@
     ]
   },
   {
-    "english": "habit",
-    "turkish": "alışkanlık",
-    "example": "Reading before bed is a good habit.",
-    "exampleTr": "Yatmadan önce okumak iyi bir alışkanlıktır.",
-    "level": "B1",
-    "tags": [
-      "lifestyle"
-    ],
-    "tipTr": "\"get into the habit of doing sth\" kalıbı yaygındır."
-  },
-  {
-    "english": "lifestyle",
-    "turkish": "yaşam tarzı",
-    "example": "They have a very active lifestyle.",
-    "exampleTr": "Çok hareketli bir yaşam tarzları var.",
-    "level": "B1",
-    "tags": [
-      "lifestyle"
-    ]
-  },
-  {
     "english": "hygiene",
     "turkish": "hijyen, temizlik",
     "example": "Hand hygiene prevents many illnesses.",
@@ -2683,17 +2331,6 @@
     "tags": [
       "health"
     ]
-  },
-  {
-    "english": "prevent",
-    "turkish": "önlemek",
-    "example": "Exercise can prevent heart problems.",
-    "exampleTr": "Egzersiz kalp sorunlarını önleyebilir.",
-    "level": "B1",
-    "tags": [
-      "health"
-    ],
-    "tipTr": "\"prevent sb from doing sth\" kalıbını unutma."
   },
   {
     "english": "cure",
@@ -2846,26 +2483,6 @@
     ]
   },
   {
-    "english": "network",
-    "turkish": "ağ, şebeke",
-    "example": "The office network is down again.",
-    "exampleTr": "Ofis ağı yine çöktü.",
-    "level": "B1",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "english": "data",
-    "turkish": "veri",
-    "example": "The app collects too much data.",
-    "exampleTr": "Uygulama çok fazla veri topluyor.",
-    "level": "B1",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
     "english": "cloud storage",
     "turkish": "bulut depolama",
     "example": "I keep my photos in cloud storage.",
@@ -2889,17 +2506,6 @@
     "tipTr": "İsim hâli \"backup\" birleşik yazılır."
   },
   {
-    "english": "virus",
-    "turkish": "virüs",
-    "example": "A virus slowed down my computer.",
-    "exampleTr": "Bir virüs bilgisayarımı yavaşlattı.",
-    "level": "B1",
-    "tags": [
-      "technology",
-      "health"
-    ]
-  },
-  {
     "english": "hack",
     "turkish": "hacklemek, sızmak",
     "example": "Someone hacked her email account.",
@@ -2921,17 +2527,6 @@
     ]
   },
   {
-    "english": "profile",
-    "turkish": "profil",
-    "example": "Her profile photo is from last summer.",
-    "exampleTr": "Profil fotoğrafı geçen yazdan.",
-    "level": "B1",
-    "tags": [
-      "technology",
-      "media"
-    ]
-  },
-  {
     "english": "follower",
     "turkish": "takipçi",
     "example": "The account has ten thousand followers.",
@@ -2946,16 +2541,6 @@
     "turkish": "sosyal medya fenomeni",
     "example": "An influencer recommended this café.",
     "exampleTr": "Bir sosyal medya fenomeni bu kafeyi önerdi.",
-    "level": "B1",
-    "tags": [
-      "media"
-    ]
-  },
-  {
-    "english": "comment",
-    "turkish": "yorum, yorum yapmak",
-    "example": "He left a rude comment under the video.",
-    "exampleTr": "Videonun altına kaba bir yorum bıraktı.",
     "level": "B1",
     "tags": [
       "media"
@@ -3034,17 +2619,6 @@
     ]
   },
   {
-    "english": "audience",
-    "turkish": "izleyici kitlesi, seyirci",
-    "example": "The audience clapped for five minutes.",
-    "exampleTr": "Seyirciler beş dakika alkışladı.",
-    "level": "B1",
-    "tags": [
-      "media"
-    ],
-    "tipTr": "\"audience\" topluluk ismidir, tekil kullanılır."
-  },
-  {
     "english": "viewer",
     "turkish": "izleyici",
     "example": "Millions of viewers watched the final.",
@@ -3062,28 +2636,6 @@
     "level": "B1",
     "tags": [
       "media"
-    ]
-  },
-  {
-    "english": "journalist",
-    "turkish": "gazeteci",
-    "example": "A journalist called about the story.",
-    "exampleTr": "Bir gazeteci haberle ilgili aradı.",
-    "level": "B1",
-    "tags": [
-      "media",
-      "work"
-    ]
-  },
-  {
-    "english": "source",
-    "turkish": "kaynak",
-    "example": "Always check the source of the news.",
-    "exampleTr": "Haberin kaynağını her zaman kontrol et.",
-    "level": "B1",
-    "tags": [
-      "media",
-      "study"
     ]
   },
   {
@@ -3210,16 +2762,6 @@
     ]
   },
   {
-    "english": "link",
-    "turkish": "bağlantı, link",
-    "example": "The link in the email does not work.",
-    "exampleTr": "E-postadaki bağlantı çalışmıyor.",
-    "level": "B1",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
     "english": "attachment",
     "turkish": "ek, ekli dosya",
     "example": "I forgot to add the attachment.",
@@ -3307,16 +2849,6 @@
     ]
   },
   {
-    "english": "smartphone",
-    "turkish": "akıllı telefon",
-    "example": "My first smartphone still works.",
-    "exampleTr": "İlk akıllı telefonum hâlâ çalışıyor.",
-    "level": "B1",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
     "english": "in the media",
     "turkish": "medyada",
     "example": "The story was everywhere in the media.",
@@ -3395,16 +2927,6 @@
     "turkish": "fosil yakıt",
     "example": "Cars still burn fossil fuels.",
     "exampleTr": "Arabalar hâlâ fosil yakıt yakıyor.",
-    "level": "B1",
-    "tags": [
-      "environment"
-    ]
-  },
-  {
-    "english": "plastic",
-    "turkish": "plastik",
-    "example": "Plastic bottles take centuries to break down.",
-    "exampleTr": "Plastik şişelerin çözünmesi yüzyıllar alır.",
     "level": "B1",
     "tags": [
       "environment"
@@ -3629,37 +3151,6 @@
       "environment",
       "travel"
     ]
-  },
-  {
-    "english": "valley",
-    "turkish": "vadi",
-    "example": "The village sits in a green valley.",
-    "exampleTr": "Köy yeşil bir vadide yer alıyor.",
-    "level": "B1",
-    "tags": [
-      "environment"
-    ]
-  },
-  {
-    "english": "hill",
-    "turkish": "tepe",
-    "example": "There is a small church on the hill.",
-    "exampleTr": "Tepede küçük bir kilise var.",
-    "level": "B1",
-    "tags": [
-      "environment"
-    ]
-  },
-  {
-    "english": "desert",
-    "turkish": "çöl, terk etmek",
-    "example": "The desert is freezing at night.",
-    "exampleTr": "Çöl geceleri buz gibi olur.",
-    "level": "B1",
-    "tags": [
-      "environment"
-    ],
-    "tipTr": "\"desert\" (çöl) ile \"dessert\" (tatlı) karıştırılır."
   },
   {
     "english": "rainforest",
@@ -4016,16 +3507,6 @@
     ]
   },
   {
-    "english": "government",
-    "turkish": "hükûmet",
-    "example": "The government announced new rules.",
-    "exampleTr": "Hükûmet yeni kurallar açıkladı.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ]
-  },
-  {
     "english": "election",
     "turkish": "seçim",
     "example": "The election takes place in March.",
@@ -4047,47 +3528,6 @@
     "tipTr": "\"vote for sb\" = birine oy vermek."
   },
   {
-    "english": "law",
-    "turkish": "kanun, hukuk",
-    "example": "The new law starts next year.",
-    "exampleTr": "Yeni kanun gelecek yıl yürürlüğe giriyor.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ]
-  },
-  {
-    "english": "crime",
-    "turkish": "suç",
-    "example": "Crime has fallen in this area.",
-    "exampleTr": "Bu bölgede suç oranı düştü.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ],
-    "tipTr": "\"commit a crime\" = suç işlemek."
-  },
-  {
-    "english": "criminal",
-    "turkish": "suçlu",
-    "example": "The criminal was caught at the airport.",
-    "exampleTr": "Suçlu havaalanında yakalandı.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ]
-  },
-  {
-    "english": "prison",
-    "turkish": "hapishane",
-    "example": "He spent two years in prison.",
-    "exampleTr": "İki yılını hapiste geçirdi.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ]
-  },
-  {
     "english": "court",
     "turkish": "mahkeme, kort",
     "example": "The case goes to court in June.",
@@ -4097,16 +3537,6 @@
       "society"
     ],
     "tipTr": "\"court\" ayrıca tenis kortu demektir."
-  },
-  {
-    "english": "charity",
-    "turkish": "yardım kuruluşu, hayır işi",
-    "example": "She works for a children's charity.",
-    "exampleTr": "Bir çocuk yardım kuruluşunda çalışıyor.",
-    "level": "B1",
-    "tags": [
-      "society"
-    ]
   },
   {
     "english": "volunteer",
@@ -4176,17 +3606,6 @@
     "level": "B1",
     "tags": [
       "society"
-    ]
-  },
-  {
-    "english": "tradition",
-    "turkish": "gelenek",
-    "example": "Sharing food is an old tradition.",
-    "exampleTr": "Yemeği paylaşmak eski bir gelenektir.",
-    "level": "B1",
-    "tags": [
-      "society",
-      "culture"
     ]
   },
   {
@@ -5109,16 +4528,6 @@
     ]
   },
   {
-    "english": "recently",
-    "turkish": "son zamanlarda",
-    "example": "I have recently started running.",
-    "exampleTr": "Son zamanlarda koşmaya başladım.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
     "english": "currently",
     "turkish": "şu anda, hâlihazırda",
     "example": "She is currently working in Berlin.",
@@ -5139,16 +4548,6 @@
     ]
   },
   {
-    "english": "especially",
-    "turkish": "özellikle",
-    "example": "I like fruit, especially melon.",
-    "exampleTr": "Meyveyi severim, özellikle kavunu.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
     "english": "particularly",
     "turkish": "özellikle",
     "example": "The film was particularly slow at the start.",
@@ -5159,72 +4558,10 @@
     ]
   },
   {
-    "english": "actually",
-    "turkish": "aslında",
-    "example": "It looks difficult, but it is actually simple.",
-    "exampleTr": "Zor görünüyor ama aslında basit.",
-    "level": "B1",
-    "tags": [
-      "adverbs",
-      "false friends"
-    ],
-    "tipTr": "Yanıltıcı: \"actually\" \"şu anda\" değil, \"aslında\" demektir; \"şu anda\" için \"currently\"."
-  },
-  {
     "english": "obviously",
     "turkish": "belli ki, açıkça",
     "example": "Obviously, we cannot finish today.",
     "exampleTr": "Belli ki bugün bitiremeyiz.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
-    "english": "definitely",
-    "turkish": "kesinlikle",
-    "example": "I will definitely call you tomorrow.",
-    "exampleTr": "Yarın seni kesinlikle arayacağım.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
-    "english": "certainly",
-    "turkish": "elbette, kuşkusuz",
-    "example": "That is certainly the cheapest option.",
-    "exampleTr": "Bu kuşkusuz en ucuz seçenek.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
-    "english": "exactly",
-    "turkish": "tam olarak",
-    "example": "That is exactly what I meant.",
-    "exampleTr": "Tam olarak demek istediğim buydu.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
-    "english": "fortunately",
-    "turkish": "neyse ki",
-    "example": "Fortunately, nobody was hurt.",
-    "exampleTr": "Neyse ki kimse yaralanmadı.",
-    "level": "B1",
-    "tags": [
-      "adverbs"
-    ]
-  },
-  {
-    "english": "unfortunately",
-    "turkish": "maalesef",
-    "example": "Unfortunately, the shop was closed.",
-    "exampleTr": "Maalesef dükkân kapalıydı.",
     "level": "B1",
     "tags": [
       "adverbs"
@@ -5321,16 +4658,6 @@
     "level": "B1",
     "tags": [
       "chunks"
-    ]
-  },
-  {
-    "english": "anyway",
-    "turkish": "her neyse",
-    "example": "Anyway, let us start the meeting.",
-    "exampleTr": "Her neyse, toplantıya başlayalım.",
-    "level": "B1",
-    "tags": [
-      "linkers"
     ]
   },
   {
@@ -5930,17 +5257,6 @@
     "tipTr": "\"would rather\" + yalın fiil."
   },
   {
-    "english": "used to",
-    "turkish": "eskiden -erdi",
-    "example": "I used to play the guitar.",
-    "exampleTr": "Eskiden gitar çalardım.",
-    "level": "B1",
-    "tags": [
-      "chunks"
-    ],
-    "tipTr": "\"used to\" geçmişteki alışkanlıklar içindir."
-  },
-  {
     "english": "manage to",
     "turkish": "başarmak, -ebilmek",
     "example": "We managed to finish before midnight.",
@@ -5951,17 +5267,6 @@
     ]
   },
   {
-    "english": "avoid",
-    "turkish": "kaçınmak",
-    "example": "Avoid driving in the rush hour.",
-    "exampleTr": "Yoğun saatte araba kullanmaktan kaçın.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"avoid\" ardından -ing gelir."
-  },
-  {
     "english": "allow me to explain",
     "turkish": "açıklamama izin ver",
     "example": "Allow me to explain the delay.",
@@ -5969,27 +5274,6 @@
     "level": "B1",
     "tags": [
       "chunks"
-    ]
-  },
-  {
-    "english": "consider",
-    "turkish": "düşünmek, göz önüne almak",
-    "example": "We are considering a move to Izmir.",
-    "exampleTr": "İzmir'e taşınmayı düşünüyoruz.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"consider\" ardından -ing gelir."
-  },
-  {
-    "english": "discover",
-    "turkish": "keşfetmek",
-    "example": "They discovered an old map in the attic.",
-    "exampleTr": "Çatı katında eski bir harita keşfettiler.",
-    "level": "B1",
-    "tags": [
-      "verbs"
     ]
   },
   {
@@ -6004,52 +5288,10 @@
     "tipTr": "\"intend to do sth\" kalıbı kullanılır."
   },
   {
-    "english": "mention",
-    "turkish": "bahsetmek",
-    "example": "She mentioned your name at the meeting.",
-    "exampleTr": "Toplantıda adından bahsetti.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"mention about\" yanlıştır; doğrusu \"mention sth\"."
-  },
-  {
     "english": "prepare for",
     "turkish": "hazırlanmak",
     "example": "We prepare for the exam together.",
     "exampleTr": "Sınava birlikte hazırlanıyoruz.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ]
-  },
-  {
-    "english": "provide",
-    "turkish": "sağlamak, sunmak",
-    "example": "The school provides free lunches.",
-    "exampleTr": "Okul ücretsiz öğle yemeği sağlıyor.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"provide sb with sth\" kalıbı kullanılır."
-  },
-  {
-    "english": "reduce",
-    "turkish": "azaltmak",
-    "example": "Walking reduces stress.",
-    "exampleTr": "Yürümek stresi azaltır.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ]
-  },
-  {
-    "english": "replace",
-    "turkish": "değiştirmek, yerini almak",
-    "example": "We replaced the old printer.",
-    "exampleTr": "Eski yazıcıyı değiştirdik.",
     "level": "B1",
     "tags": [
       "verbs"
@@ -6097,16 +5339,6 @@
     ]
   },
   {
-    "english": "increase",
-    "turkish": "artmak, artırmak",
-    "example": "Rents increase every summer.",
-    "exampleTr": "Kiralar her yaz artıyor.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ]
-  },
-  {
     "english": "decrease",
     "turkish": "azalmak, düşmek",
     "example": "Sales decrease in January.",
@@ -6115,28 +5347,6 @@
     "tags": [
       "verbs"
     ]
-  },
-  {
-    "english": "involve",
-    "turkish": "içermek, kapsamak",
-    "example": "The job involves a lot of travelling.",
-    "exampleTr": "İş, çok seyahat etmeyi içeriyor.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"involve\" ardından -ing gelir."
-  },
-  {
-    "english": "affect",
-    "turkish": "etkilemek",
-    "example": "Noise affects my concentration.",
-    "exampleTr": "Gürültü konsantrasyonumu etkiliyor.",
-    "level": "B1",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"affect\" fiil, \"effect\" isimdir."
   },
   {
     "english": "remain",
@@ -6167,5 +5377,375 @@
     "tags": [
       "feelings"
     ]
+  },
+  {
+    "english": "reliable",
+    "turkish": "güvenilir",
+    "example": "We need a reliable babysitter.",
+    "exampleTr": "Güvenilir bir bakıcıya ihtiyacımız var.",
+    "level": "B1",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "strict",
+    "turkish": "katı, sert",
+    "example": "Our teacher is strict about homework.",
+    "exampleTr": "Öğretmenimiz ödev konusunda katıdır.",
+    "level": "B1",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "curious",
+    "turkish": "meraklı",
+    "example": "Children are curious about everything.",
+    "exampleTr": "Çocuklar her şeyi merak eder.",
+    "level": "B1",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "cheerful",
+    "turkish": "neşeli",
+    "example": "Our neighbor is always cheerful.",
+    "exampleTr": "Komşumuz her zaman neşelidir.",
+    "level": "B1",
+    "tags": [
+      "people",
+      "personality"
+    ]
+  },
+  {
+    "english": "annoyed",
+    "turkish": "canı sıkkın, kızgın",
+    "example": "I'm annoyed with my brother.",
+    "exampleTr": "Kardeşime kızgınım.",
+    "level": "B1",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "embarrassed",
+    "turkish": "utanmış, mahcup",
+    "example": "I felt embarrassed in the meeting.",
+    "exampleTr": "Toplantıda utandım.",
+    "level": "B1",
+    "tags": [
+      "feelings"
+    ],
+    "tipTr": "\"embarrassed\" utanmak, \"ashamed\" ise vicdan azabı duymaktır."
+  },
+  {
+    "english": "grateful",
+    "turkish": "minnettar",
+    "example": "I'm grateful for your help.",
+    "exampleTr": "Yardımın için minnettarım.",
+    "level": "B1",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "disappointed",
+    "turkish": "hayal kırıklığına uğramış",
+    "example": "I was disappointed with the movie.",
+    "exampleTr": "Filmden hayal kırıklığına uğradım.",
+    "level": "B1",
+    "tags": [
+      "feelings"
+    ]
+  },
+  {
+    "english": "prescription",
+    "turkish": "reçete",
+    "example": "The doctor gave me a prescription.",
+    "exampleTr": "Doktor bana bir reçete verdi.",
+    "level": "B1",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "treatment",
+    "turkish": "tedavi",
+    "example": "The treatment worked very well.",
+    "exampleTr": "Tedavi çok işe yaradı.",
+    "level": "B1",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "english": "ingredient",
+    "turkish": "malzeme",
+    "example": "You need five ingredients for this cake.",
+    "exampleTr": "Bu kek için beş malzemeye ihtiyacın var.",
+    "level": "B1",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "flour",
+    "turkish": "un",
+    "example": "We need flour for the cake.",
+    "exampleTr": "Pasta için una ihtiyacımız var.",
+    "level": "B1",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "slice",
+    "turkish": "dilim, dilimlemek",
+    "example": "I had a slice of cheese with bread.",
+    "exampleTr": "Ekmekle bir dilim peynir yedim.",
+    "level": "B1",
+    "tags": [
+      "food",
+      "cooking"
+    ]
+  },
+  {
+    "english": "landlord",
+    "turkish": "ev sahibi",
+    "example": "Our landlord lives upstairs.",
+    "exampleTr": "Ev sahibimiz üst katta oturuyor.",
+    "level": "B1",
+    "tags": [
+      "home",
+      "people"
+    ]
+  },
+  {
+    "english": "basement",
+    "turkish": "bodrum",
+    "example": "We keep old boxes in the basement.",
+    "exampleTr": "Eski kutuları bodrumda saklarız.",
+    "level": "B1",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "blanket",
+    "turkish": "battaniye",
+    "example": "I need another blanket tonight.",
+    "exampleTr": "Bu gece bir battaniye daha lazım.",
+    "level": "B1",
+    "tags": [
+      "home"
+    ]
+  },
+  {
+    "english": "refund",
+    "turkish": "iade, para iadesi",
+    "example": "Can I have a refund, please?",
+    "exampleTr": "Para iadesi alabilir miyim lütfen?",
+    "level": "B1",
+    "tags": [
+      "shopping",
+      "money"
+    ]
+  },
+  {
+    "english": "owe",
+    "turkish": "borcu olmak",
+    "example": "I owe you ten lira.",
+    "exampleTr": "Sana on lira borcum var.",
+    "level": "B1",
+    "tags": [
+      "money"
+    ]
+  },
+  {
+    "english": "afford",
+    "turkish": "parası yetmek",
+    "example": "I can't afford a new car.",
+    "exampleTr": "Yeni bir araba almaya param yetmiyor.",
+    "level": "B1",
+    "tags": [
+      "money",
+      "verbs"
+    ],
+    "tipTr": "Genelde \"can/can't afford\" kalıbıyla kullanılır."
+  },
+  {
+    "english": "insurance",
+    "turkish": "sigorta",
+    "example": "Travel insurance isn't expensive.",
+    "exampleTr": "Seyahat sigortası pahalı değil.",
+    "level": "B1",
+    "tags": [
+      "travel",
+      "money"
+    ]
+  },
+  {
+    "english": "historic",
+    "turkish": "tarihi",
+    "example": "This is a historic building.",
+    "exampleTr": "Bu tarihi bir bina.",
+    "level": "B1",
+    "tags": [
+      "city",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "peaceful",
+    "turkish": "huzurlu, sakin",
+    "example": "The village is very peaceful.",
+    "exampleTr": "Köy çok huzurlu.",
+    "level": "B1",
+    "tags": [
+      "nature",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "certificate",
+    "turkish": "sertifika",
+    "example": "You get a certificate after the course.",
+    "exampleTr": "Kurstan sonra sertifika alırsınız.",
+    "level": "B1",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "english": "overtime",
+    "turkish": "fazla mesai",
+    "example": "I worked overtime last night.",
+    "exampleTr": "Dün gece fazla mesai yaptım.",
+    "level": "B1",
+    "tags": [
+      "work",
+      "time"
+    ]
+  },
+  {
+    "english": "resign",
+    "turkish": "istifa etmek",
+    "example": "She resigned after two years.",
+    "exampleTr": "İki yıl sonra istifa etti.",
+    "level": "B1",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "promotion",
+    "turkish": "terfi",
+    "example": "He got a promotion last year.",
+    "exampleTr": "Geçen yıl terfi aldı.",
+    "level": "B1",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "english": "doubt",
+    "turkish": "şüphe, şüphelenmek",
+    "example": "I doubt he'll come.",
+    "exampleTr": "Geleceğinden şüpheliyim.",
+    "level": "B1",
+    "tags": [
+      "ideas"
+    ]
+  },
+  {
+    "english": "hardly",
+    "turkish": "neredeyse hiç",
+    "example": "I hardly know him.",
+    "exampleTr": "Onu neredeyse hiç tanımıyorum.",
+    "level": "B1",
+    "tags": [
+      "function words"
+    ],
+    "tipTr": "\"hardly\" olumsuz anlamlıdır; \"hard\" (zor, sıkı) ile karıştırma."
+  },
+  {
+    "english": "mild",
+    "turkish": "ılıman",
+    "example": "The winter was mild this year.",
+    "exampleTr": "Bu yıl kış ılıman geçti.",
+    "level": "B1",
+    "tags": [
+      "weather",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "forecast",
+    "turkish": "hava tahmini",
+    "example": "The forecast says it will be sunny.",
+    "exampleTr": "Hava tahmini güneşli olacağını söylüyor.",
+    "level": "B1",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "english": "spicy",
+    "turkish": "baharatlı, acı",
+    "example": "This sauce is too spicy for me.",
+    "exampleTr": "Bu sos benim için çok acı.",
+    "level": "B1",
+    "tags": [
+      "food",
+      "adjectives"
+    ]
+  },
+  {
+    "english": "frozen",
+    "turkish": "dondurulmuş",
+    "example": "I keep frozen peas in the freezer.",
+    "exampleTr": "Dondurucuda dondurulmuş bezelye bulundururum.",
+    "level": "B1",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "english": "update",
+    "turkish": "güncelleme, güncellemek",
+    "example": "The app needs an update.",
+    "exampleTr": "Uygulamanın güncellemeye ihtiyacı var.",
+    "level": "B1",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "delete",
+    "turkish": "silmek",
+    "example": "I deleted the old messages.",
+    "exampleTr": "Eski mesajları sildim.",
+    "level": "B1",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "english": "presentation",
+    "turkish": "sunum",
+    "example": "She gave a short presentation.",
+    "exampleTr": "Kısa bir sunum yaptı.",
+    "level": "B1",
+    "tags": [
+      "work"
+    ],
+    "tipTr": "Sunum yapmak: \"give a presentation\"."
   }
 ]

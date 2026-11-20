@@ -3600,6 +3600,7 @@ afreet
 afresh
 afret
 afric
+africa
 african
 africana
 africanisation
@@ -11125,6 +11126,7 @@ any
 anybody
 anychia
 anyhow
+anymore
 anyone
 anyplace
 anystidae
@@ -11981,6 +11983,7 @@ applemonger
 applenut
 appleringy
 appleroot
+apples
 applesauce
 applewife
 applewoman
@@ -13614,6 +13617,7 @@ arrame
 arrange
 arrangeable
 arrangement
+arrangements
 arranger
 arrant
 arrantly
@@ -13677,6 +13681,7 @@ arrish
 arrisways
 arriswise
 arrival
+arrivals
 arrive
 arrived
 arriver
@@ -15314,6 +15319,7 @@ athing
 athirst
 athlete
 athletehood
+athletes
 athletic
 athletical
 athletically
@@ -15575,6 +15581,7 @@ attacheship
 attachment
 attack
 attackable
+attacked
 attacker
 attacolite
 attacus
@@ -20487,6 +20494,7 @@ behammer
 behap
 behatted
 behave
+behaved
 behavior
 behavioral
 behaviored
@@ -23527,6 +23535,7 @@ blankit
 blankite
 blankly
 blankness
+blanks
 blanky
 blanque
 blanquillo
@@ -29513,6 +29522,7 @@ cameralist
 cameralistic
 cameralistics
 cameraman
+cameras
 camerata
 camerate
 camerated
@@ -29588,6 +29598,7 @@ campbellism
 campbellite
 campcraft
 campe
+camped
 campephagidae
 campephagine
 campephilus
@@ -31294,6 +31305,7 @@ carton
 cartonnage
 cartoon
 cartoonist
+cartoons
 cartouche
 cartridge
 cartsale
@@ -36594,6 +36606,7 @@ cigala
 cigar
 cigaresque
 cigarette
+cigarettes
 cigarfish
 cigarillo
 cigarito
@@ -37475,6 +37488,7 @@ classism
 classman
 classmanship
 classmate
+classmates
 classroom
 classrooms
 classwise
@@ -40501,6 +40515,7 @@ communicably
 communicant
 communicate
 communicatee
+communicates
 communicating
 communication
 communicative
@@ -40565,6 +40580,7 @@ compages
 compaginate
 compagination
 companator
+companies
 companion
 companionability
 companionable
@@ -42991,6 +43007,8 @@ cookeite
 cooker
 cookery
 cookhouse
+cookie
+cookies
 cooking
 cookish
 cookishly
@@ -50715,6 +50733,7 @@ degrease
 degreaser
 degree
 degreeless
+degrees
 degreewise
 degression
 degressive
@@ -52786,6 +52805,7 @@ destress
 destrier
 destroy
 destroyable
+destroyed
 destroyer
 destroyingly
 destroys
@@ -53113,6 +53133,7 @@ device
 deviceful
 devicefully
 devicefulness
+devices
 devil
 devilbird
 devildom
@@ -55272,6 +55293,7 @@ disapostle
 disapparel
 disappear
 disappearance
+disappeared
 disappearer
 disappearing
 disappoint
@@ -67626,6 +67648,7 @@ existibility
 existible
 existing
 existlessness
+exists
 exit
 exite
 exition
@@ -67942,6 +67965,7 @@ experimentise
 experimentist
 experimentize
 experimently
+experiments
 expert
 expertise
 expertism
@@ -69524,6 +69548,7 @@ fasten
 fastener
 fastening
 faster
+fastest
 fastgoing
 fasthold
 fastidiosity
@@ -69937,6 +69962,7 @@ feelingless
 feelinglessly
 feelingly
 feelingness
+feelings
 feels
 feer
 feere
@@ -74910,6 +74936,7 @@ frogling
 frogman
 frogmouth
 frognose
+frogs
 frogskin
 frogstool
 frogtongue
@@ -79766,6 +79793,7 @@ goggled
 goggler
 gogglers
 goggly
+gogh
 goglet
 gogo
 gohila
@@ -80598,6 +80626,7 @@ grandesque
 grandeur
 grandeval
 grandfather
+grandfather's
 grandfatherhood
 grandfatherish
 grandfatherless
@@ -81131,6 +81160,7 @@ greeter
 greeting
 greetingless
 greetingly
+greets
 greffier
 greffotome
 greg
@@ -81396,6 +81426,7 @@ grobianism
 grocer
 grocerdom
 groceress
+groceries
 grocerly
 grocerwise
 grocery
@@ -82162,6 +82193,7 @@ gunrack
 gunreach
 gunrunner
 gunrunning
+guns
 gunsel
 gunshop
 gunshot
@@ -86939,6 +86971,7 @@ hideous
 hideously
 hideousness
 hider
+hides
 hidling
 hidlings
 hidradenitis
@@ -92780,6 +92813,7 @@ imager
 imagerial
 imagerially
 imagery
+images
 imaginability
 imaginable
 imaginableness
@@ -94302,6 +94336,7 @@ included
 includedness
 includer
 includes
+including
 inclusa
 incluse
 inclusion
@@ -96711,6 +96746,7 @@ insectologer
 insectologist
 insectology
 insectproof
+insects
 insecure
 insecurely
 insecureness
@@ -99077,6 +99113,7 @@ invenient
 invent
 inventable
 inventary
+invented
 inventer
 inventful
 inventibility
@@ -100666,6 +100703,7 @@ italite
 italomania
 italon
 italophile
+italy
 itamalate
 itamalic
 itatartaric
@@ -101826,6 +101864,7 @@ jokeless
 jokelet
 jokeproof
 joker
+jokes
 jokesmith
 jokesome
 jokesomeness
@@ -103541,6 +103580,7 @@ killingly
 killingness
 killinite
 killogie
+kills
 killweed
 killwort
 killy
@@ -103564,6 +103604,7 @@ kilojoule
 kiloliter
 kilolumen
 kilometer
+kilometers
 kilometrage
 kilometre
 kilometric
@@ -106783,6 +106824,7 @@ lecture
 lecturee
 lectureproof
 lecturer
+lectures
 lectureship
 lecturess
 lecturette
@@ -108001,6 +108043,7 @@ lieproofliest
 lier
 lierne
 lierre
+lies
 liesh
 liespfund
 lieu
@@ -108861,6 +108904,7 @@ listel
 listen
 listener
 listening
+listens
 lister
 listera
 listerellosis
@@ -120303,6 +120347,7 @@ monkeynut
 monkeypod
 monkeypot
 monkeyry
+monkeys
 monkeyshine
 monkeytail
 monkfish
@@ -131991,6 +132036,7 @@ officerhood
 officerial
 officerism
 officerless
+officers
 officership
 offices
 official
@@ -133839,6 +133885,7 @@ ordering
 orderless
 orderliness
 orderly
+orders
 ordinable
 ordinal
 ordinally
@@ -133944,6 +133991,7 @@ organizatory
 organize
 organized
 organizer
+organizes
 organless
 organoantimony
 organoarsenic
@@ -142169,6 +142217,7 @@ passoverish
 passpenny
 passport
 passportless
+passports
 passulate
 passulation
 passus
@@ -144457,6 +144506,7 @@ performance
 performant
 performative
 performer
+performs
 perfrication
 perfumatory
 perfume
@@ -147093,6 +147143,7 @@ phoneme
 phonemic
 phonemics
 phonendoscope
+phones
 phonesis
 phonestheme
 phonetic
@@ -150451,6 +150502,7 @@ playcraft
 playcraftsman
 playday
 playdown
+played
 player
 playerdom
 playeress
@@ -150524,6 +150576,7 @@ pleasantness
 pleasantry
 pleasantsome
 please
+pleased
 pleasedly
 pleasedness
 pleaseman
@@ -153650,6 +153703,7 @@ possessioner
 possessionist
 possessionless
 possessionlessness
+possessions
 possessival
 possessive
 possessively
@@ -154490,6 +154544,7 @@ practicedness
 practicer
 practician
 practicianism
+practicing
 practicum
 practise
 practising
@@ -167923,6 +167978,7 @@ referral
 referrer
 referrible
 referribleness
+referring
 refers
 refertilisation
 refertilise
@@ -170502,6 +170558,7 @@ resplit
 respoke
 respond
 responde
+responded
 respondence
 respondency
 respondent
@@ -177700,6 +177757,7 @@ scientism
 scientist
 scientistic
 scientistically
+scientists
 scientize
 scientolism
 scilicet
@@ -179037,6 +179095,7 @@ search
 searchable
 searchableness
 searchant
+searched
 searcher
 searcheress
 searcherlike
@@ -182622,6 +182681,7 @@ sheetless
 sheetlet
 sheetlike
 sheetling
+sheets
 sheetways
 sheetwise
 sheetwork
@@ -186185,6 +186245,7 @@ smellfungus
 smelliness
 smelling
 smellproof
+smells
 smellsome
 smelly
 smelt
@@ -186295,6 +186356,7 @@ smokelike
 smokeproof
 smoker
 smokery
+smokes
 smokestack
 smokestone
 smoketight
@@ -186528,6 +186590,7 @@ snaw
 snead
 sneak
 sneaker
+sneakers
 sneakiness
 sneaking
 sneakingly
@@ -187228,6 +187291,7 @@ soldierlike
 soldierliness
 soldierly
 soldierproof
+soldiers
 soldiership
 soldierwise
 soldierwood
@@ -189317,6 +189381,7 @@ spiderless
 spiderlike
 spiderling
 spiderly
+spiders
 spiderweb
 spiderwork
 spiderwort
@@ -193000,6 +193065,7 @@ storekeeping
 storeman
 storer
 storeroom
+stores
 storeship
 storesman
 storey
@@ -196191,6 +196257,7 @@ suggestionise
 suggestionism
 suggestionist
 suggestionize
+suggestions
 suggestive
 suggestively
 suggestiveness
@@ -197485,6 +197552,7 @@ supermannish
 supermarginal
 supermarine
 supermarket
+supermarkets
 supermarvelous
 supermasculine
 supermaterial
@@ -205400,6 +205468,7 @@ thoughty
 thousand
 thousandfold
 thousandfoldly
+thousands
 thousandth
 thousandweight
 thouse
@@ -208219,6 +208288,7 @@ toymaker
 toymaking
 toyman
 toyon
+toys
 toyshop
 toysome
 toytown
@@ -209297,6 +209367,7 @@ traveled
 traveler
 traveleress
 travelerlike
+travelers
 traveling
 travellability
 travellable
@@ -230509,6 +230580,7 @@ vehemency
 vehement
 vehemently
 vehicle
+vehicles
 vehicular
 vehicularly
 vehiculary
@@ -232323,6 +232395,7 @@ visitative
 visitator
 visitatorial
 visite
+visited
 visitee
 visiter
 visiting
@@ -234047,6 +234120,7 @@ waveringly
 waveringness
 waverous
 wavery
+waves
 waveson
 waveward
 wavewise
@@ -235816,6 +235890,7 @@ winnowingly
 winona
 winrace
 winrow
+wins
 winsome
 winsomely
 winsomeness
@@ -237893,6 +237968,7 @@ yogin
 yogism
 yogist
 yogoite
+yogurt
 yohimbe
 yohimbi
 yohimbine

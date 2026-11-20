@@ -5704,42 +5704,6 @@
     "tipTr": "Fiilde vurgu sonda: perMIT; isimde başta: PERmit."
   },
   {
-    "english": "produce",
-    "turkish": "üretmek, sebze meyve",
-    "example": "Local farms produce almost all the produce we sell.",
-    "exampleTr": "Yerel çiftlikler sattığımız sebze meyvenin neredeyse tamamını üretir.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "İsim hâlinde başta vurgulanır ve sebze meyve demektir."
-  },
-  {
-    "english": "progress",
-    "turkish": "ilerlemek, ilerleme",
-    "example": "Teams progress faster when they can see progress.",
-    "exampleTr": "Ekipler ilerlemeyi görebildiklerinde daha hızlı ilerler.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "İsimde vurgu başta: PROgress; fiilde sonda: proGRESS."
-  },
-  {
-    "english": "record",
-    "turkish": "kaydetmek, kayıt",
-    "example": "Please record the meeting and keep the record for a year.",
-    "exampleTr": "Lütfen toplantıyı kaydedin ve kaydı bir yıl saklayın.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda: reCORD; isimde başta: RECord."
-  },
-  {
     "english": "export",
     "turkish": "ihraç etmek, ihracat",
     "example": "We export to twelve countries, and every export is audited.",
@@ -5796,17 +5760,6 @@
       "stress"
     ],
     "tipTr": "Britanya kullanımında sıfat hâli \"dönüşümlü\", Amerikan kullanımında ayrıca \"alternatif\" demektir."
-  },
-  {
-    "english": "separate",
-    "turkish": "ayırmak, ayrı",
-    "example": "Let us separate the two concerns into separate services.",
-    "exampleTr": "Bu iki kaygıyı ayrı servislere ayıralım.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ]
   },
   {
     "english": "duplicate",

@@ -123,17 +123,6 @@
     ]
   },
   {
-    "english": "identify",
-    "turkish": "tespit etmek, belirlemek",
-    "example": "We need to identify the real cause.",
-    "exampleTr": "Gerçek nedeni tespit etmemiz gerekiyor.",
-    "level": "B2",
-    "tags": [
-      "verbs",
-      "academic"
-    ]
-  },
-  {
     "english": "interpret",
     "turkish": "yorumlamak, tercüme etmek",
     "example": "Different readers interpret the poem differently.",
@@ -838,17 +827,6 @@
     ]
   },
   {
-    "english": "context",
-    "turkish": "bağlam",
-    "example": "Learn words in context, not in lists.",
-    "exampleTr": "Kelimeleri listede değil bağlam içinde öğren.",
-    "level": "B2",
-    "tags": [
-      "academic",
-      "study"
-    ]
-  },
-  {
     "english": "criteria",
     "turkish": "ölçütler",
     "example": "The criteria for selection are published online.",
@@ -858,40 +836,6 @@
       "academic"
     ],
     "tipTr": "Tekili \"criterion\" biçimindedir."
-  },
-  {
-    "english": "evidence",
-    "turkish": "kanıt",
-    "example": "There is little evidence for this claim.",
-    "exampleTr": "Bu iddia için çok az kanıt var.",
-    "level": "B2",
-    "tags": [
-      "academic"
-    ],
-    "tipTr": "\"evidence\" sayılamaz; \"an evidence\" denmez."
-  },
-  {
-    "english": "factor",
-    "turkish": "etken, faktör",
-    "example": "Price was the deciding factor.",
-    "exampleTr": "Belirleyici etken fiyattı.",
-    "level": "B2",
-    "tags": [
-      "academic",
-      "business"
-    ]
-  },
-  {
-    "english": "focus",
-    "turkish": "odak, odaklanmak",
-    "example": "Our focus this year is customer service.",
-    "exampleTr": "Bu yılki odağımız müşteri hizmetleri.",
-    "level": "B2",
-    "tags": [
-      "work",
-      "academic"
-    ],
-    "tipTr": "\"focus on sth\" edatıyla kullanılır."
   },
   {
     "english": "hypothesis",
@@ -1035,27 +979,6 @@
     ]
   },
   {
-    "english": "structure",
-    "turkish": "yapı, yapılandırmak",
-    "example": "The essay needs a clearer structure.",
-    "exampleTr": "Makalenin daha net bir yapıya ihtiyacı var.",
-    "level": "B2",
-    "tags": [
-      "academic"
-    ]
-  },
-  {
-    "english": "survey",
-    "turkish": "anket, araştırma",
-    "example": "We ran a survey among our customers.",
-    "exampleTr": "Müşterilerimiz arasında anket yaptık.",
-    "level": "B2",
-    "tags": [
-      "academic",
-      "business"
-    ]
-  },
-  {
     "english": "theory",
     "turkish": "kuram, teori",
     "example": "In theory, the plan should work.",
@@ -1154,17 +1077,6 @@
     "tipTr": "\"to what extent\" = ne ölçüde."
   },
   {
-    "english": "feature",
-    "turkish": "özellik, yer vermek",
-    "example": "The latest feature saves a lot of time.",
-    "exampleTr": "En yeni özellik çok zaman kazandırıyor.",
-    "level": "B2",
-    "tags": [
-      "technology",
-      "academic"
-    ]
-  },
-  {
     "english": "findings",
     "turkish": "bulgular",
     "example": "The findings were published in March.",
@@ -1250,16 +1162,6 @@
     ]
   },
   {
-    "english": "pattern",
-    "turkish": "örüntü, desen",
-    "example": "The same pattern appears in every region.",
-    "exampleTr": "Aynı örüntü her bölgede görülüyor.",
-    "level": "B2",
-    "tags": [
-      "academic"
-    ]
-  },
-  {
     "english": "potential",
     "turkish": "potansiyel",
     "example": "The idea has huge potential.",
@@ -1313,18 +1215,6 @@
     ]
   },
   {
-    "english": "response",
-    "turkish": "tepki, yanıt",
-    "example": "The response to the survey was excellent.",
-    "exampleTr": "Ankete gelen yanıt mükemmeldi.",
-    "level": "B2",
-    "tags": [
-      "academic",
-      "work"
-    ],
-    "tipTr": "\"in response to sth\" kalıbı kullanılır."
-  },
-  {
     "english": "scenario",
     "turkish": "senaryo, olası durum",
     "example": "In the worst-case scenario, we lose a week.",
@@ -1342,16 +1232,6 @@
     "level": "B2",
     "tags": [
       "academic"
-    ]
-  },
-  {
-    "english": "strategy",
-    "turkish": "strateji",
-    "example": "Their marketing strategy targets students.",
-    "exampleTr": "Pazarlama stratejileri öğrencileri hedefliyor.",
-    "level": "B2",
-    "tags": [
-      "business"
     ]
   },
   {
@@ -2184,17 +2064,6 @@
     "tipTr": "\"insist on doing sth\" kalıbı kullanılır."
   },
   {
-    "english": "state",
-    "turkish": "belirtmek, ifade etmek",
-    "example": "The contract states that payment is monthly.",
-    "exampleTr": "Sözleşme ödemenin aylık olduğunu belirtiyor.",
-    "level": "B2",
-    "tags": [
-      "reporting verbs",
-      "formal"
-    ]
-  },
-  {
     "english": "declare",
     "turkish": "beyan etmek, ilan etmek",
     "example": "You must declare goods over this value.",
@@ -2225,17 +2094,6 @@
       "reporting verbs"
     ],
     "tipTr": "\"advise\" fiil, \"advice\" isimdir."
-  },
-  {
-    "english": "recommend",
-    "turkish": "önermek, tavsiye etmek",
-    "example": "I recommend booking a table.",
-    "exampleTr": "Masa ayırtmanızı öneririm.",
-    "level": "B2",
-    "tags": [
-      "reporting verbs"
-    ],
-    "tipTr": "\"recommend\" ardından -ing ya da \"that\" cümlesi gelir."
   },
   {
     "english": "threaten",
@@ -2390,17 +2248,6 @@
     ]
   },
   {
-    "english": "request",
-    "turkish": "rica etmek, talep",
-    "example": "We request a written answer.",
-    "exampleTr": "Yazılı bir yanıt rica ediyoruz.",
-    "level": "B2",
-    "tags": [
-      "reporting verbs",
-      "formal"
-    ]
-  },
-  {
     "english": "propose",
     "turkish": "önermek, teklif etmek",
     "example": "I propose a short break.",
@@ -2409,17 +2256,6 @@
     "tags": [
       "reporting verbs",
       "work"
-    ]
-  },
-  {
-    "english": "predict",
-    "turkish": "tahmin etmek, öngörmek",
-    "example": "Experts predict a mild winter.",
-    "exampleTr": "Uzmanlar ılıman bir kış öngörüyor.",
-    "level": "B2",
-    "tags": [
-      "reporting verbs",
-      "academic"
     ]
   },
   {
@@ -3663,28 +3499,6 @@
     "tipTr": "Yanıltıcı: \"economical\" = az harcayan; \"economic\" = ekonomiye ait."
   },
   {
-    "english": "compete",
-    "turkish": "rekabet etmek, yarışmak",
-    "example": "Small shops cannot compete on price.",
-    "exampleTr": "Küçük dükkânlar fiyatta rekabet edemez.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "business"
-    ]
-  },
-  {
-    "english": "competition",
-    "turkish": "rekabet, yarışma",
-    "example": "Competition between the two firms is fierce.",
-    "exampleTr": "İki firma arasındaki rekabet çetin.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "business"
-    ]
-  },
-  {
     "english": "competitive",
     "turkish": "rekabetçi, rekabete dayalı",
     "example": "Their prices are very competitive.",
@@ -3784,17 +3598,6 @@
     ]
   },
   {
-    "english": "industry",
-    "turkish": "sanayi, sektör",
-    "example": "The tourism industry recovered quickly.",
-    "exampleTr": "Turizm sektörü hızla toparlandı.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "business"
-    ]
-  },
-  {
     "english": "industrial",
     "turkish": "sanayi ile ilgili, endüstriyel",
     "example": "The old industrial area is now flats.",
@@ -3851,29 +3654,6 @@
     ]
   },
   {
-    "english": "succeed",
-    "turkish": "başarılı olmak, ardından gelmek",
-    "example": "Few start-ups succeed in the first year.",
-    "exampleTr": "Az sayıda girişim ilk yıl başarılı olur.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "work"
-    ],
-    "tipTr": "\"succeed in doing sth\" kalıbı kullanılır."
-  },
-  {
-    "english": "successful",
-    "turkish": "başarılı",
-    "example": "The campaign was extremely successful.",
-    "exampleTr": "Kampanya son derece başarılıydı.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "business"
-    ]
-  },
-  {
     "english": "analyse",
     "turkish": "çözümlemek, analiz etmek",
     "example": "We analyse the results every month.",
@@ -3908,17 +3688,6 @@
     ]
   },
   {
-    "english": "creative",
-    "turkish": "yaratıcı",
-    "example": "She has a creative approach to problems.",
-    "exampleTr": "Sorunlara yaratıcı bir yaklaşımı var.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "work"
-    ]
-  },
-  {
     "english": "creativity",
     "turkish": "yaratıcılık",
     "example": "Pressure can kill creativity.",
@@ -3928,29 +3697,6 @@
       "word families",
       "work"
     ]
-  },
-  {
-    "english": "advertising",
-    "turkish": "reklamcılık, reklam",
-    "example": "Advertising pays for free apps.",
-    "exampleTr": "Reklamlar ücretsiz uygulamaların masrafını karşılar.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "media"
-    ]
-  },
-  {
-    "english": "advertisement",
-    "turkish": "reklam, ilan",
-    "example": "The advertisement appeared on every page.",
-    "exampleTr": "Reklam her sayfada çıkıyordu.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "media"
-    ],
-    "tipTr": "Konuşmada \"ad\" ya da \"advert\" kısaltması kullanılır."
   },
   {
     "english": "associate",
@@ -3998,17 +3744,6 @@
     ]
   },
   {
-    "english": "education",
-    "turkish": "eğitim",
-    "example": "Free education is a legal right here.",
-    "exampleTr": "Ücretsiz eğitim burada yasal bir haktır.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "study"
-    ]
-  },
-  {
     "english": "educational",
     "turkish": "eğitsel, eğitici",
     "example": "The museum runs educational tours.",
@@ -4040,17 +3775,6 @@
     "tags": [
       "word families",
       "media"
-    ]
-  },
-  {
-    "english": "communicate",
-    "turkish": "iletişim kurmak",
-    "example": "We communicate mainly by email.",
-    "exampleTr": "Çoğunlukla e-posta ile iletişim kuruyoruz.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "work"
     ]
   },
   {
@@ -4088,17 +3812,6 @@
     ]
   },
   {
-    "english": "national",
-    "turkish": "ulusal",
-    "example": "It became a national holiday in 1935.",
-    "exampleTr": "1935'te ulusal bayram oldu.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "society"
-    ]
-  },
-  {
     "english": "nationality",
     "turkish": "uyruk, milliyet",
     "example": "Please write your nationality here.",
@@ -4107,17 +3820,6 @@
     "tags": [
       "word families",
       "travel"
-    ]
-  },
-  {
-    "english": "international",
-    "turkish": "uluslararası",
-    "example": "She works for an international company.",
-    "exampleTr": "Uluslararası bir şirkette çalışıyor.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "business"
     ]
   },
   {
@@ -4136,28 +3838,6 @@
     "turkish": "kültürel",
     "example": "The festival has real cultural value.",
     "exampleTr": "Festivalin gerçek bir kültürel değeri var.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "society"
-    ]
-  },
-  {
-    "english": "society",
-    "turkish": "toplum",
-    "example": "Technology changes society quickly.",
-    "exampleTr": "Teknoloji toplumu hızla değiştiriyor.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "society"
-    ]
-  },
-  {
-    "english": "social",
-    "turkish": "toplumsal, sosyal",
-    "example": "Loneliness is a social problem too.",
-    "exampleTr": "Yalnızlık aynı zamanda toplumsal bir sorundur.",
     "level": "B2",
     "tags": [
       "word families",
@@ -4185,17 +3865,6 @@
     "tags": [
       "word families",
       "technology"
-    ]
-  },
-  {
-    "english": "medical",
-    "turkish": "tıbbi",
-    "example": "He needs urgent medical help.",
-    "exampleTr": "Acil tıbbi yardıma ihtiyacı var.",
-    "level": "B2",
-    "tags": [
-      "word families",
-      "health"
     ]
   },
   {
@@ -6065,18 +5734,6 @@
     "tipTr": "Yanıltıcı: \"preservative\" gıda koruyucusudur; prezervatif için \"condom\"."
   },
   {
-    "english": "chef",
-    "turkish": "aşçıbaşı",
-    "example": "The chef changes the menu weekly.",
-    "exampleTr": "Aşçıbaşı menüyü haftalık değiştiriyor.",
-    "level": "B2",
-    "tags": [
-      "false friends",
-      "work"
-    ],
-    "tipTr": "Yanıltıcı: \"chef\" mutfak şefidir; iş yerindeki şef için \"boss/manager\"."
-  },
-  {
     "english": "terrific",
     "turkish": "harika, muhteşem",
     "example": "You did a terrific job.",
@@ -6098,42 +5755,6 @@
       "verbs"
     ],
     "tipTr": "Yanıltıcı: \"pretend\" iddia etmek değil, rol yapmaktır."
-  },
-  {
-    "english": "control",
-    "turkish": "denetlemek, yönetmek",
-    "example": "One company controls the whole market.",
-    "exampleTr": "Tek bir şirket bütün pazarı kontrol ediyor.",
-    "level": "B2",
-    "tags": [
-      "false friends",
-      "business"
-    ],
-    "tipTr": "Türkçedeki \"kontrol etmek\" çoğu zaman \"check\" demektir."
-  },
-  {
-    "english": "novel",
-    "turkish": "roman, yeni ve özgün",
-    "example": "Her first novel sold very well.",
-    "exampleTr": "İlk romanı çok sattı.",
-    "level": "B2",
-    "tags": [
-      "false friends",
-      "media"
-    ],
-    "tipTr": "Sıfat olarak \"novel\" = yeni ve alışılmadık."
-  },
-  {
-    "english": "figure",
-    "turkish": "rakam, şekil, figür",
-    "example": "The latest figures look encouraging.",
-    "exampleTr": "Son rakamlar umut verici görünüyor.",
-    "level": "B2",
-    "tags": [
-      "academic",
-      "business"
-    ],
-    "tipTr": "\"figure out\" ise \"çözmek\" demektir."
   },
   {
     "english": "principal",
@@ -6262,17 +5883,6 @@
       "formal"
     ],
     "tipTr": "İngiliz İngilizcesinde isim \"licence\", fiil \"license\" yazılır."
-  },
-  {
-    "english": "rise",
-    "turkish": "yükselmek, artış",
-    "example": "Prices rise every autumn.",
-    "exampleTr": "Fiyatlar her sonbahar yükselir.",
-    "level": "B2",
-    "tags": [
-      "verbs"
-    ],
-    "tipTr": "\"rise\" nesne almaz, \"raise\" alır: \"raise prices\"."
   },
   {
     "english": "journal",
