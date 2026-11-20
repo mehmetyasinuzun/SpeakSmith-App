@@ -243,7 +243,7 @@
     "tags": [
       "abstract nouns"
     ],
-    "tipTr": "\"knowledge\" sayılamaz; \"a knowledge\" yerine \"knowledge of sth\" denir."
+    "tipTr": "'knowledges' denmez; 'a good knowledge of sth' ise doğrudur."
   },
   {
     "english": "lack",
@@ -911,7 +911,7 @@
     "english": "moody",
     "turkish": "dengesiz ruh hâlli",
     "example": "Teenagers can be moody.",
-    "exampleTr": "Ergenler ruh hâli değişken olabilir.",
+    "exampleTr": "Ergenlerin ruh hâli değişken olabilir.",
     "level": "B1",
     "tags": [
       "people"
@@ -1284,7 +1284,7 @@
     ]
   },
   {
-    "english": "cv",
+    "english": "CV",
     "turkish": "özgeçmiş",
     "example": "Please attach your CV to the email.",
     "exampleTr": "Lütfen e-postaya özgeçmişini ekle.",
@@ -1736,7 +1736,7 @@
     "english": "motivation",
     "turkish": "motivasyon, istek",
     "example": "Keeping motivation high is the hard part.",
-    "exampleTr": "Motivasyonu yüksek tutmak zor kısmı.",
+    "exampleTr": "Motivasyonu yüksek tutmak işin zor kısmı.",
     "level": "B1",
     "tags": [
       "study",
@@ -2705,7 +2705,7 @@
     "english": "sprain",
     "turkish": "burkmak, burkulma",
     "example": "I sprained my ankle playing football.",
-    "exampleTr": "Futbol oynarken bileğimi burktum.",
+    "exampleTr": "Futbol oynarken ayak bileğimi burktum.",
     "level": "B1",
     "tags": [
       "health"
@@ -2869,9 +2869,9 @@
   },
   {
     "english": "suffer from",
-    "turkish": "mustarip olmak",
+    "turkish": "muzdarip olmak",
     "example": "He suffers from back pain.",
-    "exampleTr": "Sırt ağrısından mustarip.",
+    "exampleTr": "Sırt ağrısından muzdarip.",
     "level": "B1",
     "tags": [
       "health",
@@ -3332,7 +3332,7 @@
     "english": "browse",
     "turkish": "göz atmak, gezinmek",
     "example": "I browse the news while I have breakfast.",
-    "exampleTr": "Kahvaltı ederken habere göz atarım.",
+    "exampleTr": "Kahvaltı ederken haberlere göz atarım.",
     "level": "B1",
     "tags": [
       "technology",
@@ -3984,7 +3984,7 @@
   {
     "english": "make up",
     "turkish": "barışmak, uydurmak",
-    "example": "We argue and make up in the same day.",
+    "example": "We argue and make up on the same day.",
     "exampleTr": "Aynı gün içinde hem tartışıp hem barışıyoruz.",
     "level": "B1",
     "tags": [
@@ -4062,9 +4062,9 @@
   },
   {
     "english": "in-laws",
-    "turkish": "eşin ailesi, dünürler",
+    "turkish": "eşin ailesi",
     "example": "We visit my in-laws every Sunday.",
-    "exampleTr": "Her pazar kayınpederlere gidiyoruz.",
+    "exampleTr": "Her pazar eşimin ailesine gidiyoruz.",
     "level": "B1",
     "tags": [
       "relationships",
@@ -5811,7 +5811,7 @@
   {
     "english": "keep a promise",
     "turkish": "sözünü tutmak",
-    "example": "He always keeps a promise.",
+    "example": "He always keeps his promises.",
     "exampleTr": "O her zaman sözünü tutar.",
     "level": "B1",
     "tags": [
@@ -5954,7 +5954,7 @@
   },
   {
     "english": "tell a joke",
-    "turkish": "şaka yapmak",
+    "turkish": "fıkra anlatmak, espri yapmak",
     "example": "He tells a joke in every meeting.",
     "exampleTr": "Her toplantıda bir espri yapar.",
     "level": "B1",

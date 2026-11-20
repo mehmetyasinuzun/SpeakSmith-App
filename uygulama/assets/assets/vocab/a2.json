@@ -2897,9 +2897,9 @@
   },
   {
     "english": "package holiday",
-    "turkish": "her şey dahil tatil",
+    "turkish": "paket tatil, paket tur",
     "example": "A package holiday includes the hotel and the flight.",
-    "exampleTr": "Her şey dahil tatil oteli ve uçuşu kapsar.",
+    "exampleTr": "Paket tatil, oteli ve uçuşu kapsar.",
     "level": "A2",
     "tags": [
       "travel",
@@ -3063,7 +3063,7 @@
   },
   {
     "english": "suburb",
-    "turkish": "banliyö, varoş",
+    "turkish": "banliyö",
     "example": "They live in a quiet suburb.",
     "exampleTr": "Sessiz bir banliyöde yaşıyorlar.",
     "level": "A2",

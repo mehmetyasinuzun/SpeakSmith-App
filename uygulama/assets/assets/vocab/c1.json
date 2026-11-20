@@ -386,7 +386,7 @@
       "verbs",
       "technology"
     ],
-    "tipTr": "İsim hâlinde vurgu başta: AGgregate; fiilde sonda: AGgregate okunur ama son hece belirginleşir."
+    "tipTr": "Vurgu ikisinde de başta; isimde son hece 'gıt', fiilde 'geyt' okunur."
   },
   {
     "english": "ascribe",
@@ -692,7 +692,7 @@
       "verbs",
       "hedging"
     ],
-    "tipTr": "\"presume\" kanıtsız varsaymaktır; \"assume\" daha nötrdür."
+    "tipTr": "presume: bir dayanağa göre varsaymak; assume: kanıt olmadan varsaymak."
   },
   {
     "english": "concur",
@@ -806,7 +806,7 @@
       "verbs",
       "formal"
     ],
-    "tipTr": "İsim hâlinde son hece zayıflar: ADvocat; fiilde ADvoKEYT okunur."
+    "tipTr": "İsim hâlinde son hece zayıflar: ADvocat; fiilde ADvokeyt okunur (vurgu yine başta)."
   },
   {
     "english": "articulate",
@@ -1531,7 +1531,7 @@
       "abstract nouns",
       "formal"
     ],
-    "tipTr": "Latinceden gelir ve \"kayıt düşmek\" anlamı taşır."
+    "tipTr": "Latinceden gelir; \"dikkat etsin, sakınsın\" demektir."
   },
   {
     "english": "proviso",
@@ -3631,9 +3631,9 @@
   },
   {
     "english": "for that matter",
-    "turkish": "bu arada, o konuda da",
+    "turkish": "hatta, aynı şekilde",
     "example": "I have not seen the file, nor has anyone else for that matter.",
-    "exampleTr": "Dosyayı ben görmedim, bu arada başka kimse de görmedi.",
+    "exampleTr": "Dosyayı ben görmedim, hatta başka kimse de görmedi.",
     "level": "C1",
     "tags": [
       "discourse",
@@ -3960,7 +3960,7 @@
     "english": "a moot point",
     "turkish": "tartışmaya açık konu, artık önemsiz nokta",
     "example": "Whether we should have built it is a moot point now.",
-    "exampleTr": "Bunu yapmalı mıydık sorusu artık tartışmaya açık bir nokta.",
+    "exampleTr": "Bunu yapmalı mıydık sorusu artık önemsiz bir nokta.",
     "level": "C1",
     "tags": [
       "idioms",
@@ -5213,7 +5213,7 @@
     "english": "come under pressure",
     "turkish": "baskı altına girmek",
     "example": "Support can come under pressure within minutes of an outage.",
-    "exampleTr": "Destek ekibi bir kesintinin dakikalar içinde baskı altına girebilir.",
+    "exampleTr": "Destek ekibi bir kesintiden sonraki dakikalar içinde baskı altına girebilir.",
     "level": "C1",
     "tags": [
       "collocations",
@@ -5511,9 +5511,9 @@
   },
   {
     "english": "escalate an issue",
-    "turkish": "sorunu üst mercie taşımak",
+    "turkish": "sorunu üst merciye taşımak",
     "example": "Do not hesitate to escalate an issue after an hour.",
-    "exampleTr": "Bir saat sonra sorunu üst mercie taşımaktan çekinmeyin.",
+    "exampleTr": "Bir saat sonra sorunu üst merciye taşımaktan çekinmeyin.",
     "level": "C1",
     "tags": [
       "collocations",
@@ -5624,8 +5624,8 @@
   {
     "english": "stand to reason",
     "turkish": "akla yatkın olmak",
-    "example": "It should stand to reason that fewer steps mean fewer errors.",
-    "exampleTr": "Daha az adımın daha az hata anlamına gelmesi akla yatkın olsa gerek.",
+    "example": "It stands to reason that fewer steps mean fewer errors.",
+    "exampleTr": "Daha az adımın daha az hata anlamına gelmesi akla yatkındır.",
     "level": "C1",
     "tags": [
       "collocations",
@@ -5647,7 +5647,7 @@
   {
     "english": "convert",
     "turkish": "dönüştürmek, dönüşen kişi",
-    "example": "We convert the file first, then send it to the convert queue.",
+    "example": "We convert the file first, then send it to the conversion queue.",
     "exampleTr": "Dosyayı önce dönüştürüp sonra dönüşüm kuyruğuna gönderiyoruz.",
     "level": "C1",
     "tags": [

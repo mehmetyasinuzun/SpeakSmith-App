@@ -64,7 +64,7 @@
       "family",
       "people"
     ],
-    "tipTr": "\"parents\" her zaman çoğuldur: \"my parent\" denmez."
+    "tipTr": "Türkçedeki 'annem babam' için çoğul 'parents'; 'parent' ebeveynlerden biri demektir."
   },
   {
     "english": "grandmother",
@@ -845,7 +845,7 @@
     "tags": [
       "time"
     ],
-    "tipTr": "\"in the morning\" ama \"in the afternoon\" — ikisi de \"in\" alır."
+    "tipTr": "in the morning / in the afternoon; ama 'at night'."
   },
   {
     "english": "night",
@@ -1134,7 +1134,7 @@
     "english": "late",
     "turkish": "geç",
     "example": "Sorry, I am late again.",
-    "exampleTr": "Özür dilerim, yine geçtim.",
+    "exampleTr": "Özür dilerim, yine geç kaldım.",
     "level": "A1",
     "tags": [
       "time",
@@ -1275,7 +1275,7 @@
   {
     "english": "second time",
     "turkish": "ikinci kez",
-    "example": "This is the second time I ask.",
+    "example": "This is the second time I've asked.",
     "exampleTr": "Bunu ikinci kez soruyorum.",
     "level": "A1",
     "tags": [
@@ -1306,8 +1306,8 @@
   {
     "english": "age",
     "turkish": "yaş",
-    "example": "What is your age?",
-    "exampleTr": "Yaşın kaç?",
+    "example": "Children start school at the age of six.",
+    "exampleTr": "Çocuklar altı yaşında okula başlar.",
     "level": "A1",
     "tags": [
       "numbers",
@@ -2857,7 +2857,7 @@
     "english": "village",
     "turkish": "köy",
     "example": "My grandparents live in a village.",
-    "exampleTr": "Büyüklerim bir köyde yaşıyor.",
+    "exampleTr": "Büyükannemle büyükbabam bir köyde yaşıyor.",
     "level": "A1",
     "tags": [
       "city"
@@ -5076,7 +5076,7 @@
     "english": "website",
     "turkish": "internet sitesi",
     "example": "Their website is easy to use.",
-    "exampleTr": "İnternet siteleri kullanımı kolay.",
+    "exampleTr": "İnternet sitesinin kullanımı kolay.",
     "level": "A1",
     "tags": [
       "technology"

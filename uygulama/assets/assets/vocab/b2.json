@@ -608,7 +608,7 @@
     "tags": [
       "verbs"
     ],
-    "tipTr": "Üç hâli de aynıdır: overcome-overcame-overcome."
+    "tipTr": "Düzensizdir: overcome – overcame – overcome (come gibi)."
   },
   {
     "english": "prioritise",
@@ -1327,7 +1327,7 @@
   {
     "english": "scenario",
     "turkish": "senaryo, olası durum",
-    "example": "In the worst scenario, we lose a week.",
+    "example": "In the worst-case scenario, we lose a week.",
     "exampleTr": "En kötü durumda bir hafta kaybederiz.",
     "level": "B2",
     "tags": [
@@ -1681,7 +1681,7 @@
       "idioms",
       "health"
     ],
-    "tipTr": "Hava durumuyla ilgisi yoktur; \"hastalanmak üzere\" demektir."
+    "tipTr": "Hava durumuyla ilgisi yoktur; biraz rahatsız, keyifsiz demektir."
   },
   {
     "english": "a piece of cake",
@@ -6286,7 +6286,7 @@
   },
   {
     "english": "licence",
-    "turkish": "ruhsat, lisans",
+    "turkish": "ehliyet, ruhsat, lisans",
     "example": "You need a licence to drive a lorry.",
     "exampleTr": "Kamyon kullanmak için ehliyet gerekir.",
     "level": "B2",
