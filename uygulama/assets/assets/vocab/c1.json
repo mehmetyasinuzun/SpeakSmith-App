@@ -626,17 +626,6 @@
     "tipTr": "Amerikan yazımı \"hypothesize\" şeklindedir."
   },
   {
-    "english": "speculate",
-    "turkish": "tahmin yürütmek, spekülasyon yapmak",
-    "example": "I would rather not speculate about the cause yet.",
-    "exampleTr": "Neden konusunda henüz tahmin yürütmemeyi tercih ederim.",
-    "level": "C1",
-    "tags": [
-      "verbs",
-      "hedging"
-    ]
-  },
-  {
     "english": "surmise",
     "turkish": "çıkarımda bulunmak, sanmak",
     "example": "From the logs we can surmise that the disk filled up overnight.",
@@ -646,18 +635,6 @@
       "verbs",
       "formal"
     ]
-  },
-  {
-    "english": "infer",
-    "turkish": "çıkarım yapmak, anlamak",
-    "example": "Readers infer the writer's position from the examples.",
-    "exampleTr": "Okurlar yazarın tutumunu örneklerden çıkarır.",
-    "level": "C1",
-    "tags": [
-      "verbs",
-      "academic"
-    ],
-    "tipTr": "Konuşan \"imply\" eder, dinleyen \"infer\" eder."
   },
   {
     "english": "attest",
@@ -761,17 +738,6 @@
     "tags": [
       "verbs",
       "hedging"
-    ]
-  },
-  {
-    "english": "counter",
-    "turkish": "karşılık vermek, karşı çıkmak",
-    "example": "He countered the objection calmly, then let others counter his own point.",
-    "exampleTr": "İtiraza sakince karşılık verdi, sonra kendi görüşüne itiraz edilmesine izin verdi.",
-    "level": "C1",
-    "tags": [
-      "verbs",
-      "discourse"
     ]
   },
   {
@@ -905,17 +871,6 @@
     "turkish": "öncülük etmek, başını çekmek",
     "example": "She will spearhead the accessibility effort.",
     "exampleTr": "Erişilebilirlik çalışmasının başını o çekecek.",
-    "level": "C1",
-    "tags": [
-      "verbs",
-      "business"
-    ]
-  },
-  {
-    "english": "champion",
-    "turkish": "savunuculuğunu yapmak, desteklemek",
-    "example": "Someone senior has to champion the idea internally.",
-    "exampleTr": "Fikrin savunuculuğunu kıdemli birinin yapması gerekiyor.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -1288,18 +1243,6 @@
     ]
   },
   {
-    "english": "margin",
-    "turkish": "marj, pay",
-    "example": "We won by a comfortable margin last quarter.",
-    "exampleTr": "Geçen çeyrekte rahat bir farkla kazandık.",
-    "level": "C1",
-    "tags": [
-      "abstract nouns",
-      "business"
-    ],
-    "tipTr": "\"profit margin\" ve \"by a narrow margin\" sık eşdizimlerdir."
-  },
-  {
     "english": "surplus",
     "turkish": "fazla, artı, bütçe fazlası",
     "example": "The department ended the year with a small surplus.",
@@ -1538,17 +1481,6 @@
     "turkish": "şart, koşul",
     "example": "They accepted the offer with the proviso that we start in June.",
     "exampleTr": "Haziranda başlamamız şartıyla teklifi kabul ettiler.",
-    "level": "C1",
-    "tags": [
-      "abstract nouns",
-      "legal"
-    ]
-  },
-  {
-    "english": "clause",
-    "turkish": "madde, fıkra",
-    "example": "The confidentiality clause runs for two years.",
-    "exampleTr": "Gizlilik maddesi iki yıl geçerli.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -2029,17 +1961,6 @@
     "tipTr": "Resmî muhasebe dilinde \"spending\" yerine kullanılır."
   },
   {
-    "english": "exposure",
-    "turkish": "maruz kalma, açık pozisyon",
-    "example": "The audit reduced our exposure to fraud.",
-    "exampleTr": "Denetim dolandırıcılığa maruz kalma riskimizi azalttı.",
-    "level": "C1",
-    "tags": [
-      "abstract nouns",
-      "money"
-    ]
-  },
-  {
     "english": "fluctuation",
     "turkish": "dalgalanma",
     "example": "A daily fluctuation of two per cent is normal.",
@@ -2125,17 +2046,6 @@
     "tags": [
       "abstract nouns",
       "work"
-    ]
-  },
-  {
-    "english": "obligation",
-    "turkish": "yükümlülük",
-    "example": "We have a legal obligation to keep the records.",
-    "exampleTr": "Kayıtları tutma konusunda yasal bir yükümlülüğümüz var.",
-    "level": "C1",
-    "tags": [
-      "abstract nouns",
-      "legal"
     ]
   },
   {
@@ -2251,18 +2161,6 @@
       "abstract nouns",
       "media"
     ]
-  },
-  {
-    "english": "stance",
-    "turkish": "tutum, duruş",
-    "example": "The company softened its stance on remote work.",
-    "exampleTr": "Şirket uzaktan çalışma konusundaki tutumunu yumuşattı.",
-    "level": "C1",
-    "tags": [
-      "abstract nouns",
-      "media"
-    ],
-    "tipTr": "\"take a stance on\" kalıbıyla kullanılır."
   },
   {
     "english": "ubiquitous",
@@ -5633,30 +5531,6 @@
     ]
   },
   {
-    "english": "contrast",
-    "turkish": "karşıtlık, karşılaştırmak",
-    "example": "The contrast is clear when you contrast the two designs.",
-    "exampleTr": "İki tasarımı karşılaştırdığınızda karşıtlık netleşiyor.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "İsimde vurgu başta: CONtrast; fiilde sonda: conTRAST."
-  },
-  {
-    "english": "convert",
-    "turkish": "dönüştürmek; (isim) din veya görüş değiştiren kişi",
-    "example": "We convert the file first, then send it to the conversion queue.",
-    "exampleTr": "Dosyayı önce dönüştürüp sonra dönüşüm kuyruğuna gönderiyoruz.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda: conVERT; isimde başta: CONvert."
-  },
-  {
     "english": "rebel",
     "turkish": "isyan etmek, isyancı",
     "example": "Teams rebel quietly when the process makes no sense.",
@@ -5669,17 +5543,6 @@
     "tipTr": "Fiilde vurgu sonda: reBEL; isimde başta: REBel."
   },
   {
-    "english": "transfer",
-    "turkish": "aktarmak, aktarım",
-    "example": "We transfer the data at night and log every transfer.",
-    "exampleTr": "Veriyi geceleyin aktarıyor ve her aktarımı kaydediyoruz.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ]
-  },
-  {
     "english": "insult",
     "turkish": "hakaret etmek, hakaret",
     "example": "Do not insult the reader with a vague error message.",
@@ -5690,64 +5553,6 @@
       "stress"
     ],
     "tipTr": "Fiilde vurgu sonda: inSULT; isimde başta: INsult."
-  },
-  {
-    "english": "permit",
-    "turkish": "izin vermek, izin belgesi",
-    "example": "The rules permit one exception, and you need a written permit.",
-    "exampleTr": "Kurallar tek bir istisnaya izin veriyor ve yazılı bir izin belgesi gerekiyor.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda: perMIT; isimde başta: PERmit."
-  },
-  {
-    "english": "export",
-    "turkish": "ihraç etmek, ihracat",
-    "example": "We export to twelve countries, and every export is audited.",
-    "exampleTr": "On iki ülkeye ihracat yapıyoruz ve her ihracat denetleniyor.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ]
-  },
-  {
-    "english": "import",
-    "turkish": "ithal etmek, içe almak",
-    "example": "You can import the list, but each import overwrites the old one.",
-    "exampleTr": "Listeyi içe alabilirsiniz ama her içe alma eskisini siler.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "technology"
-    ]
-  },
-  {
-    "english": "suspect",
-    "turkish": "şüphelenmek, şüpheli",
-    "example": "I suspect a cache problem, and the logs point to the same suspect.",
-    "exampleTr": "Bir önbellek sorunundan şüpheleniyorum ve kayıtlar aynı şüpheliyi gösteriyor.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda: susPECT; isimde başta: SUSpect."
-  },
-  {
-    "english": "console",
-    "turkish": "teselli etmek, kumanda paneli",
-    "example": "Nothing can console a team that lost a week of work.",
-    "exampleTr": "Bir haftalık işi kaybeden ekibi hiçbir şey teselli edemez.",
-    "level": "C1",
-    "tags": [
-      "word families",
-      "stress"
-    ],
-    "tipTr": "Fiilde vurgu sonda; isim hâlinde başta ve \"panel\" demektir."
   },
   {
     "english": "alternate",
@@ -5829,17 +5634,6 @@
       "adjectives"
     ],
     "tipTr": "\"continual\" tekrarlayan, \"continuous\" kesintisiz demektir."
-  },
-  {
-    "english": "continuous",
-    "turkish": "kesintisiz, aralıksız",
-    "example": "The service needs continuous monitoring.",
-    "exampleTr": "Servisin kesintisiz izlenmesi gerekiyor.",
-    "level": "C1",
-    "tags": [
-      "false friends",
-      "technology"
-    ]
   },
   {
     "english": "complement",
@@ -6001,29 +5795,6 @@
     "tags": [
       "false friends",
       "social"
-    ]
-  },
-  {
-    "english": "precede",
-    "turkish": "önce gelmek, öncelemek",
-    "example": "A design review should precede any coding.",
-    "exampleTr": "Tasarım incelemesi kodlamadan önce gelmelidir.",
-    "level": "C1",
-    "tags": [
-      "false friends",
-      "formal"
-    ],
-    "tipTr": "\"precede\" önce gelmek, \"proceed\" devam etmektir."
-  },
-  {
-    "english": "proceed",
-    "turkish": "devam etmek, ilerlemek",
-    "example": "We can proceed once the tests pass.",
-    "exampleTr": "Testler geçince devam edebiliriz.",
-    "level": "C1",
-    "tags": [
-      "false friends",
-      "formal"
     ]
   },
   {
@@ -6711,5 +6482,755 @@
       "work",
       "presentation"
     ]
+  },
+  {
+    "english": "undermine",
+    "turkish": "zayıflatmak, baltalamak",
+    "example": "Constant criticism can undermine confidence.",
+    "exampleTr": "Sürekli eleştiri özgüveni zayıflatabilir.",
+    "level": "C1",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "allocate",
+    "turkish": "tahsis etmek, ayırmak",
+    "example": "We allocate two hours to each session.",
+    "exampleTr": "Her oturuma iki saat ayırıyoruz.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "work"
+    ]
+  },
+  {
+    "english": "attribute",
+    "turkish": "atfetmek, bağlamak",
+    "example": "She attributes her success to hard work.",
+    "exampleTr": "Başarısını çok çalışmaya bağlıyor.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "academic"
+    ],
+    "tipTr": "\"attribute sth to sb/sth\" kalıbı kullanılır."
+  },
+  {
+    "english": "comply",
+    "turkish": "uymak",
+    "example": "All staff must comply with the rules.",
+    "exampleTr": "Tüm personel kurallara uymak zorunda.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "formal"
+    ],
+    "tipTr": "\"comply with sth\" edatıyla kullanılır."
+  },
+  {
+    "english": "facilitate",
+    "turkish": "kolaylaştırmak",
+    "example": "A shared calendar facilitates planning.",
+    "exampleTr": "Ortak takvim planlamayı kolaylaştırır.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "formal"
+    ]
+  },
+  {
+    "english": "sustain",
+    "turkish": "sürdürmek, ayakta tutmak",
+    "example": "It is hard to sustain this pace.",
+    "exampleTr": "Bu tempoyu sürdürmek zor.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "formal"
+    ]
+  },
+  {
+    "english": "disrupt",
+    "turkish": "aksatmak, bozmak",
+    "example": "Strikes disrupted the whole timetable.",
+    "exampleTr": "Grevler bütün tarifeyi aksattı.",
+    "level": "C1",
+    "tags": [
+      "verbs"
+    ]
+  },
+  {
+    "english": "verify",
+    "turkish": "doğrulamak",
+    "example": "Please verify your email address.",
+    "exampleTr": "Lütfen e-posta adresini doğrula.",
+    "level": "C1",
+    "tags": [
+      "verbs",
+      "technology"
+    ]
+  },
+  {
+    "english": "scope",
+    "turkish": "kapsam",
+    "example": "The scope of the project grew quickly.",
+    "exampleTr": "Projenin kapsamı hızla büyüdü.",
+    "level": "C1",
+    "tags": [
+      "work",
+      "academic"
+    ]
+  },
+  {
+    "english": "constraint",
+    "turkish": "kısıt, sınırlama",
+    "example": "Time is the biggest constraint here.",
+    "exampleTr": "Buradaki en büyük kısıt zaman.",
+    "level": "C1",
+    "tags": [
+      "work",
+      "academic"
+    ]
+  },
+  {
+    "english": "dimension",
+    "turkish": "boyut",
+    "example": "The problem has a political dimension too.",
+    "exampleTr": "Sorunun siyasi bir boyutu da var.",
+    "level": "C1",
+    "tags": [
+      "academic"
+    ]
+  },
+  {
+    "english": "distinction",
+    "turkish": "ayrım",
+    "example": "There is a clear distinction between the two terms.",
+    "exampleTr": "İki terim arasında net bir ayrım var.",
+    "level": "C1",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"make a distinction between\" kalıbı kullanılır."
+  },
+  {
+    "english": "indicator",
+    "turkish": "gösterge",
+    "example": "Unemployment is a key economic indicator.",
+    "exampleTr": "İşsizlik önemli bir ekonomik göstergedir.",
+    "level": "C1",
+    "tags": [
+      "business",
+      "academic"
+    ]
+  },
+  {
+    "english": "breakthrough",
+    "turkish": "atılım, çığır açan gelişme",
+    "example": "The vaccine was a major breakthrough.",
+    "exampleTr": "Aşı büyük bir atılımdı.",
+    "level": "C1",
+    "tags": [
+      "academic",
+      "technology"
+    ]
+  },
+  {
+    "english": "consensus",
+    "turkish": "uzlaşı, fikir birliği",
+    "example": "There is no consensus among experts.",
+    "exampleTr": "Uzmanlar arasında fikir birliği yok.",
+    "level": "C1",
+    "tags": [
+      "academic",
+      "society"
+    ]
+  },
+  {
+    "english": "credibility",
+    "turkish": "inandırıcılık, güvenilirlik",
+    "example": "The mistake damaged his credibility.",
+    "exampleTr": "Hata inandırıcılığına zarar verdi.",
+    "level": "C1",
+    "tags": [
+      "media",
+      "work"
+    ]
+  },
+  {
+    "english": "benchmark",
+    "turkish": "ölçüt, kıyas noktası",
+    "example": "Their service sets the benchmark.",
+    "exampleTr": "Onların hizmeti ölçütü belirliyor.",
+    "level": "C1",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "english": "turnover",
+    "turkish": "ciro, personel devir hızı",
+    "example": "Staff turnover is high in this sector.",
+    "exampleTr": "Bu sektörde personel devir hızı yüksek.",
+    "level": "C1",
+    "tags": [
+      "business"
+    ],
+    "tipTr": "\"turnover\" hem ciro hem personel değişim oranıdır."
+  },
+  {
+    "english": "recruitment",
+    "turkish": "işe alım",
+    "example": "Recruitment takes at least a month.",
+    "exampleTr": "İşe alım en az bir ay sürüyor.",
+    "level": "C1",
+    "tags": [
+      "business",
+      "work"
+    ]
+  },
+  {
+    "english": "assert",
+    "turkish": "iddia etmek, savunmak",
+    "example": "The article asserts that prices will fall.",
+    "exampleTr": "Makale fiyatların düşeceğini savunuyor.",
+    "level": "C1",
+    "tags": [
+      "reporting verbs",
+      "formal"
+    ]
+  },
+  {
+    "english": "allege",
+    "turkish": "iddia etmek, öne sürmek",
+    "example": "The report alleges serious mistakes.",
+    "exampleTr": "Rapor ciddi hatalar olduğunu öne sürüyor.",
+    "level": "C1",
+    "tags": [
+      "reporting verbs",
+      "media"
+    ],
+    "tipTr": "Hukuk ve haber dilinde kanıtlanmamış iddialar için kullanılır."
+  },
+  {
+    "english": "confess",
+    "turkish": "itiraf etmek",
+    "example": "She confessed that she had forgotten.",
+    "exampleTr": "Unuttuğunu itiraf etti.",
+    "level": "C1",
+    "tags": [
+      "reporting verbs"
+    ]
+  },
+  {
+    "english": "boast",
+    "turkish": "övünmek",
+    "example": "He boasts about his exam results.",
+    "exampleTr": "Sınav sonuçlarıyla övünüyor.",
+    "level": "C1",
+    "tags": [
+      "reporting verbs"
+    ]
+  },
+  {
+    "english": "reassure",
+    "turkish": "içini rahatlatmak, güvence vermek",
+    "example": "The nurse reassured the worried parents.",
+    "exampleTr": "Hemşire endişeli aileyi rahatlattı.",
+    "level": "C1",
+    "tags": [
+      "reporting verbs"
+    ]
+  },
+  {
+    "english": "presumably",
+    "turkish": "herhalde, muhtemelen",
+    "example": "Presumably, they are still waiting for the reply.",
+    "exampleTr": "Herhalde hâlâ yanıtı bekliyorlar.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "supposedly",
+    "turkish": "güya, sözde",
+    "example": "The train is supposedly faster than the bus.",
+    "exampleTr": "Tren güya otobüsten hızlıymış.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "allegedly",
+    "turkish": "iddiaya göre",
+    "example": "The company allegedly ignored the warnings.",
+    "exampleTr": "İddiaya göre şirket uyarıları görmezden geldi.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs",
+      "media"
+    ]
+  },
+  {
+    "english": "seemingly",
+    "turkish": "görünüşte, görünürde",
+    "example": "A seemingly small change caused big problems.",
+    "exampleTr": "Görünüşte küçük bir değişiklik büyük sorunlara yol açtı.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "notably",
+    "turkish": "özellikle, dikkate değer biçimde",
+    "example": "Several cities, notably Izmir, joined the scheme.",
+    "exampleTr": "Birkaç şehir, özellikle İzmir, programa katıldı.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "namely",
+    "turkish": "yani, şöyle ki",
+    "example": "Two people, namely Ali and Ece, will present.",
+    "exampleTr": "İki kişi, yani Ali ve Ece, sunum yapacak.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "nonetheless",
+    "turkish": "yine de",
+    "example": "It rained all week; nonetheless, we enjoyed the trip.",
+    "exampleTr": "Bütün hafta yağmur yağdı, yine de geziden keyif aldık.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs",
+      "linkers"
+    ],
+    "tipTr": "\"nonetheless\" ve \"nevertheless\" aynı anlamdadır."
+  },
+  {
+    "english": "regardless",
+    "turkish": "yine de, ne olursa olsun",
+    "example": "She applied regardless of the low salary.",
+    "exampleTr": "Düşük maaşa rağmen yine de başvurdu.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ],
+    "tipTr": "\"regardless of sth\" kalıbı kullanılır."
+  },
+  {
+    "english": "undoubtedly",
+    "turkish": "kuşkusuz",
+    "example": "She is undoubtedly the strongest candidate.",
+    "exampleTr": "Kuşkusuz en güçlü aday o.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "frankly",
+    "turkish": "açıkçası",
+    "example": "Frankly, the service was terrible.",
+    "exampleTr": "Açıkçası hizmet berbattı.",
+    "level": "C1",
+    "tags": [
+      "discourse adverbs"
+    ]
+  },
+  {
+    "english": "productive",
+    "turkish": "verimli",
+    "example": "I am more productive in the morning.",
+    "exampleTr": "Sabahları daha verimliyim.",
+    "level": "C1",
+    "tags": [
+      "word families",
+      "work"
+    ]
+  },
+  {
+    "english": "productivity",
+    "turkish": "verimlilik",
+    "example": "Short breaks increase productivity.",
+    "exampleTr": "Kısa molalar verimliliği artırır.",
+    "level": "C1",
+    "tags": [
+      "word families",
+      "work"
+    ]
+  },
+  {
+    "english": "reliability",
+    "turkish": "güvenilirlik",
+    "example": "The reliability of the data is questionable.",
+    "exampleTr": "Verilerin güvenilirliği tartışmalı.",
+    "level": "C1",
+    "tags": [
+      "word families",
+      "academic"
+    ]
+  },
+  {
+    "english": "sustainability",
+    "turkish": "sürdürülebilirlik",
+    "example": "Sustainability is part of their strategy.",
+    "exampleTr": "Sürdürülebilirlik stratejilerinin bir parçası.",
+    "level": "C1",
+    "tags": [
+      "word families",
+      "environment"
+    ]
+  },
+  {
+    "english": "profitable",
+    "turkish": "kârlı",
+    "example": "The café became profitable in a year.",
+    "exampleTr": "Kafe bir yılda kârlı hâle geldi.",
+    "level": "C1",
+    "tags": [
+      "word families",
+      "business"
+    ]
+  },
+  {
+    "english": "substantial",
+    "turkish": "hatırı sayılır, epey büyük",
+    "example": "They received a substantial discount.",
+    "exampleTr": "Hatırı sayılır bir indirim aldılar.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "business"
+    ]
+  },
+  {
+    "english": "credible",
+    "turkish": "inandırıcı",
+    "example": "We need a credible explanation.",
+    "exampleTr": "İnandırıcı bir açıklamaya ihtiyacımız var.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "media"
+    ]
+  },
+  {
+    "english": "explicit",
+    "turkish": "açık, net ifade edilmiş",
+    "example": "The instructions are explicit about timing.",
+    "exampleTr": "Talimatlar zamanlama konusunda çok açık.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "formal"
+    ]
+  },
+  {
+    "english": "reluctant",
+    "turkish": "isteksiz, gönülsüz",
+    "example": "He was reluctant to change his mind.",
+    "exampleTr": "Fikrini değiştirmeye isteksizdi.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ],
+    "tipTr": "\"be reluctant to do sth\" kalıbı kullanılır."
+  },
+  {
+    "english": "competent",
+    "turkish": "ehil, yetkin",
+    "example": "She is a competent and calm manager.",
+    "exampleTr": "Yetkin ve sakin bir yönetici.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "work"
+    ]
+  },
+  {
+    "english": "subtle",
+    "turkish": "ince, sezilmesi güç",
+    "example": "There is a subtle difference in meaning.",
+    "exampleTr": "Anlamda ince bir fark var.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "academic"
+    ],
+    "tipTr": "\"b\" harfi okunmaz: \"sat-l\" gibi söylenir."
+  },
+  {
+    "english": "vague",
+    "turkish": "belirsiz, muğlak",
+    "example": "His answer was deliberately vague.",
+    "exampleTr": "Cevabı bilerek muğlaktı.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ]
+  },
+  {
+    "english": "straightforward",
+    "turkish": "anlaşılır, dosdoğru",
+    "example": "The form is straightforward to fill in.",
+    "exampleTr": "Formu doldurmak gayet basit.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ]
+  },
+  {
+    "english": "overwhelming",
+    "turkish": "bunaltıcı, ezici",
+    "example": "The response was overwhelming.",
+    "exampleTr": "Gelen tepki ezici boyuttaydı.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ]
+  },
+  {
+    "english": "striking",
+    "turkish": "çarpıcı",
+    "example": "There is a striking similarity between them.",
+    "exampleTr": "Aralarında çarpıcı bir benzerlik var.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ]
+  },
+  {
+    "english": "prominent",
+    "turkish": "önde gelen, göze çarpan",
+    "example": "A prominent scientist opened the event.",
+    "exampleTr": "Önde gelen bir bilim insanı etkinliği açtı.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "media"
+    ]
+  },
+  {
+    "english": "vulnerable",
+    "turkish": "kırılgan, savunmasız",
+    "example": "Older people are more vulnerable to the cold.",
+    "exampleTr": "Yaşlılar soğuğa karşı daha savunmasızdır.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "society"
+    ]
+  },
+  {
+    "english": "cautious",
+    "turkish": "temkinli",
+    "example": "The bank is cautious about new loans.",
+    "exampleTr": "Banka yeni krediler konusunda temkinli.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "business"
+    ]
+  },
+  {
+    "english": "theoretical",
+    "turkish": "kuramsal",
+    "example": "The course is too theoretical for me.",
+    "exampleTr": "Ders benim için fazla kuramsal.",
+    "level": "C1",
+    "tags": [
+      "adjectives",
+      "study"
+    ]
+  },
+  {
+    "english": "subsidy",
+    "turkish": "devlet desteği, sübvansiyon",
+    "example": "Farmers receive a small subsidy.",
+    "exampleTr": "Çiftçiler küçük bir devlet desteği alıyor.",
+    "level": "C1",
+    "tags": [
+      "business",
+      "society"
+    ]
+  },
+  {
+    "english": "merger",
+    "turkish": "birleşme",
+    "example": "The merger created a bigger company.",
+    "exampleTr": "Birleşme daha büyük bir şirket yarattı.",
+    "level": "C1",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "english": "start-up",
+    "turkish": "yeni kurulan girişim",
+    "example": "Her start-up employs six people.",
+    "exampleTr": "Girişimi altı kişi istihdam ediyor.",
+    "level": "C1",
+    "tags": [
+      "business"
+    ]
+  },
+  {
+    "english": "inequality",
+    "turkish": "eşitsizlik",
+    "example": "Income inequality has grown since 2010.",
+    "exampleTr": "Gelir eşitsizliği 2010'dan beri arttı.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "discrimination",
+    "turkish": "ayrımcılık",
+    "example": "Discrimination at work is illegal.",
+    "exampleTr": "İş yerinde ayrımcılık yasa dışıdır.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "migration",
+    "turkish": "göç",
+    "example": "Migration to the cities continues.",
+    "exampleTr": "Şehirlere göç devam ediyor.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "literacy",
+    "turkish": "okuryazarlık",
+    "example": "Adult literacy improved after the campaign.",
+    "exampleTr": "Kampanyadan sonra yetişkin okuryazarlığı arttı.",
+    "level": "C1",
+    "tags": [
+      "society",
+      "study"
+    ]
+  },
+  {
+    "english": "petition",
+    "turkish": "dilekçe, imza kampanyası",
+    "example": "Ten thousand people signed the petition.",
+    "exampleTr": "On bin kişi dilekçeyi imzaladı.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "referendum",
+    "turkish": "referandum",
+    "example": "The referendum takes place in autumn.",
+    "exampleTr": "Referandum sonbaharda yapılıyor.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "corruption",
+    "turkish": "yolsuzluk",
+    "example": "Corruption slows down development.",
+    "exampleTr": "Yolsuzluk kalkınmayı yavaşlatır.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "transparency",
+    "turkish": "şeffaflık",
+    "example": "Voters demand more transparency.",
+    "exampleTr": "Seçmenler daha fazla şeffaflık talep ediyor.",
+    "level": "C1",
+    "tags": [
+      "society"
+    ]
+  },
+  {
+    "english": "legislation",
+    "turkish": "yasal düzenleme, mevzuat",
+    "example": "New legislation protects part-time workers.",
+    "exampleTr": "Yeni mevzuat yarı zamanlı çalışanları koruyor.",
+    "level": "C1",
+    "tags": [
+      "society",
+      "formal"
+    ]
+  },
+  {
+    "english": "terrific",
+    "turkish": "harika, muhteşem",
+    "example": "You did a terrific job.",
+    "exampleTr": "Harika bir iş çıkardın.",
+    "level": "C1",
+    "tags": [
+      "false friends"
+    ],
+    "tipTr": "Yanıltıcı: \"terrific\" olumludur; korkunç için \"terrible/terrifying\"."
+  },
+  {
+    "english": "personnel",
+    "turkish": "personel, insan kaynakları",
+    "example": "All personnel must wear a badge.",
+    "exampleTr": "Tüm personel yaka kartı takmalıdır.",
+    "level": "C1",
+    "tags": [
+      "false friends",
+      "work"
+    ],
+    "tipTr": "Yanıltıcı: \"personnel\" personel, \"personal\" ise kişisel demektir."
+  },
+  {
+    "english": "serial",
+    "turkish": "dizi hâlinde, seri",
+    "example": "The novel appeared in serial form.",
+    "exampleTr": "Roman dizi hâlinde yayımlandı.",
+    "level": "C1",
+    "tags": [
+      "false friends",
+      "media"
+    ],
+    "tipTr": "\"serial\" sıralı yayın, \"cereal\" ise kahvaltılık gevrektir."
+  },
+  {
+    "english": "skeptical",
+    "turkish": "şüpheci, kuşkulu",
+    "example": "I'm a little skeptical about those online reviews.",
+    "exampleTr": "O internet yorumlarına biraz şüpheyle yaklaşıyorum.",
+    "level": "C1",
+    "tags": [
+      "adjectives"
+    ],
+    "tipTr": "İngiliz yazımı \"sceptical\". \"skeptical about/of sth\" = bir şeye şüpheyle yaklaşmak."
+  },
+  {
+    "english": "prioritize",
+    "turkish": "öncelik vermek, önem sırasına koymak",
+    "example": "When you have a lot of homework, prioritize the tasks that are due first.",
+    "exampleTr": "Çok ödevin olduğunda teslim tarihi en yakın olanlara öncelik ver.",
+    "level": "C1",
+    "tags": [
+      "verbs"
+    ],
+    "tipTr": "Amerikan yazımıdır; İngiliz İngilizcesinde \"prioritise\" de yazılır."
   }
 ]
