@@ -27,7 +27,6 @@
         "remedy",
         "practitioner",
         "rehabilitation",
-        "prescribe",
         "ward",
         "discharge",
         "inject"
@@ -53,9 +52,9 @@
           "exampleTr": "Serviste üç gece kaldıktan sonra hastaneden taburcu oldu."
         },
         {
-          "phrase": "keep a finger on the pulse of sth",
+          "phrase": "keep your finger on the pulse of sth",
           "turkish": "bir şeyin nabzını tutmak (gelişmeleri yakından izlemek)",
-          "example": "Good practitioners keep a finger on the pulse of new research.",
+          "example": "Good practitioners keep their finger on the pulse of new research.",
           "exampleTr": "İyi hekimler yeni araştırmaların nabzını tutar."
         }
       ],
@@ -63,13 +62,13 @@
         {
           "prompt": "Do you think people rely too much on the internet to diagnose themselves?",
           "promptTr": "Sence insanlar kendilerine teşhis koymak için internete fazla mı güveniyor?",
-          "answer": "Honestly, I think a lot of us do. You look up a headache and suddenly you're convinced it's a tumor. That said, online information isn't all bad; it can help people with chronic conditions ask better questions. But a real diagnosis should come from a practitioner who can actually examine you.",
+          "answer": "To be honest, I think a lot of us do. You look up a headache and suddenly you're convinced it's a tumor. Even so, online information isn't all bad; it can help people with chronic conditions ask better questions. But a real diagnosis should come from a practitioner who can actually examine you.",
           "answerTr": "Açıkçası çoğumuzun öyle yaptığını düşünüyorum. Baş ağrısını aratıyorsun ve birden bunun tümör olduğuna inanıyorsun. Yine de internetteki bilgiler tamamen kötü değil; kronik hastalığı olanların daha iyi sorular sormasına yardım edebilir. Ama gerçek teşhisi seni bizzat muayene edebilecek bir hekim koymalı."
         },
         {
           "prompt": "Tell me about a time you or someone close to you had to stay in the hospital. What happened?",
           "promptTr": "Senin ya da yakın birinin hastanede kalmak zorunda kaldığı bir zamanı anlat. Ne oldu?",
-          "answer": "A couple of years ago, my dad needed knee surgery. The surgical part went fine, but he hated being on the ward because it was so noisy at night. They discharged him after three days, and honestly, the rehabilitation was harder than the operation. It took months of exercises before he could walk without pain.",
+          "answer": "A couple of years ago, my dad needed knee surgery. The surgical part went fine, but he hated being on the ward because it was so noisy at night. They discharged him after three days, and frankly, the rehabilitation was harder than the operation. It took months of exercises before he could walk without pain.",
           "answerTr": "Birkaç yıl önce babamın diz ameliyatı olması gerekti. Ameliyat kısmı sorunsuz geçti ama serviste kalmaktan nefret etti, çünkü geceleri çok gürültülüydü. Üç gün sonra taburcu ettiler ve açıkçası rehabilitasyon ameliyattan daha zordu. Ağrısız yürüyebilmesi için aylarca egzersiz yapması gerekti."
         },
         {
@@ -138,12 +137,12 @@
           "prompt": "What's the difference between an epidemic and an outbreak? Give an example if you can.",
           "promptTr": "Salgın (epidemic) ile salgının baş göstermesi (outbreak) arasındaki fark nedir? Yapabilirsen bir örnek ver.",
           "answer": "As I understand it, an outbreak is a sudden rise in cases in one place, like food poisoning at a wedding. An epidemic is bigger; it spreads across a whole region or country. So most epidemics probably start as an outbreak, but plenty of outbreaks get contained before they ever turn into one.",
-          "answerTr": "Anladığım kadarıyla outbreak, bir düğündeki gıda zehirlenmesi gibi tek bir yerde vakaların aniden artmasıdır. Epidemic daha büyüktür; bütün bir bölgeye ya da ülkeye yayılır. Yani çoğu salgın muhtemelen küçük bir patlamayla başlar ama bu patlamaların pek çoğu salgına dönüşmeden kontrol altına alınır."
+          "answerTr": "Anladığım kadarıyla outbreak, bir düğündeki gıda zehirlenmesi gibi tek bir yerde vakaların aniden artmasıdır. Epidemic daha büyüktür; bütün bir bölgeye ya da ülkeye yayılır. Yani çoğu salgın muhtemelen yerel bir salgınla başlar ama bu yerel salgınların pek çoğu salgına dönüşmeden kontrol altına alınır."
         },
         {
           "prompt": "How would you convince a friend who smokes to finally give up tobacco?",
           "promptTr": "Sigara içen bir arkadaşını tütünü nihayet bırakmaya nasıl ikna ederdin?",
-          "answer": "I wouldn't lecture them, because that usually backfires. I'd focus on what they'd gain: more energy, more money, and food that actually tastes good again. Admittedly, quitting tobacco is tough, so I'd suggest cutting back gradually and getting support. And I'd gently point out that the toxic smoke affects the people around them too.",
+          "answer": "I wouldn't lecture them, because that usually backfires. I'd focus on what they'd gain: more energy, more money, and food that actually tastes good again. Granted, quitting tobacco is tough, so I'd suggest cutting back gradually and getting support. And I'd gently point out that the toxic smoke affects the people around them too.",
           "answerTr": "Nutuk çekmezdim, çünkü genelde ters teper. Kazanacaklarına odaklanırdım: daha fazla enerji, daha fazla para ve yeniden tadı gerçekten güzel gelen yemekler. Kabul etmek gerekir ki tütünü bırakmak zor, o yüzden yavaş yavaş azaltmayı ve destek almayı önerirdim. Bir de zehirli dumanın çevrelerindeki insanları da etkilediğini nazikçe hatırlatırdım."
         },
         {
@@ -213,7 +212,7 @@
         {
           "prompt": "Tell me about a time you stumbled or nearly fell in public. How did you react?",
           "promptTr": "Herkesin önünde tökezlediğin ya da az kalsın düştüğün bir zamanı anlat. Nasıl tepki verdin?",
-          "answer": "Last winter I stumbled on an icy sidewalk right outside my office. I didn't fall all the way, but I sort of leaped forward and grabbed a pole. A few people glanced over, and one guy nodded like, \"You okay?\" I just laughed it off, but honestly, I was pretty embarrassed.",
+          "answer": "Last winter I stumbled on an icy sidewalk right outside my office. I didn't fall all the way, but I sort of leaped forward and grabbed a pole. A few people glanced over, and one guy nodded like, \"You okay?\" I just laughed it off, but I'll admit, I was pretty embarrassed.",
           "answerTr": "Geçen kış ofisimin hemen önündeki buzlu kaldırımda tökezledim. Tamamen düşmedim ama öne doğru bir sıçrayıp bir direğe tutundum. Birkaç kişi şöyle bir baktı, bir adam da \"İyi misin?\" der gibi başını salladı. Ben güler geçtim ama açıkçası epey utanmıştım."
         },
         {
@@ -225,8 +224,8 @@
         {
           "prompt": "If you had skipped every workout for the past month, how would you feel right now?",
           "promptTr": "Geçen ay boyunca bütün antrenmanlarını atlamış olsaydın, şu anda nasıl hissederdin?",
-          "answer": "Honestly, I'd probably feel sluggish and a little guilty. When I skip even one week, my back starts to ache and I feel like I'm crawling through the day. That said, a short break isn't the end of the world; sometimes your body needs rest. I'd just try not to let it linger for a whole month.",
-          "answerTr": "Açıkçası muhtemelen halsiz ve biraz suçlu hissederdim. Tek bir hafta bile atladığımda sırtım ağrımaya başlıyor ve günü sürünerek geçiriyormuş gibi hissediyorum. Yine de kısa bir ara dünyanın sonu değil; bazen vücudun dinlenmeye ihtiyacı olur. Sadece bunun bütün bir aya yayılmasına izin vermemeye çalışırdım."
+          "answer": "Honestly, I'd probably feel sluggish and a little guilty. When I skip even one week, my back starts to ache and I feel like I'm crawling through the day. That said, a short break isn't the end of the world; sometimes your body needs rest. I'd just try not to let it drag on for a whole month, because the guilt tends to linger.",
+          "answerTr": "Açıkçası muhtemelen halsiz ve biraz suçlu hissederdim. Tek bir hafta bile atladığımda sırtım ağrımaya başlıyor ve günü sürünerek geçiriyormuş gibi hissediyorum. Yine de kısa bir ara dünyanın sonu değil; bazen vücudun dinlenmeye ihtiyacı olur. Sadece bunun bütün bir aya yayılmasına izin vermemeye çalışırdım, çünkü suçluluk duygusu insanın peşini kolay bırakmıyor."
         }
       ]
     },
@@ -285,13 +284,13 @@
         {
           "prompt": "Do you think it's ever justified to slam a door or yell when you're angry?",
           "promptTr": "Sence sinirliyken kapıyı çarpmak ya da bağırmak hiç haklı görülebilir mi?",
-          "answer": "Honestly, I don't think slamming a door is the end of the world; sometimes you just need to let the frustration out. That said, there's a big difference between that and snapping at people or punching a wall. Once anger hurts someone or breaks something, it's crossed a line. Taking a walk usually works better.",
+          "answer": "Honestly, I don't think slamming a door is the end of the world; sometimes you just need to let the frustration out. Then again, there's a big difference between that and snapping at people or punching a wall. Once anger hurts someone or breaks something, it's crossed a line. Taking a walk usually works better.",
           "answerTr": "Açıkçası kapıyı çarpmanın dünyanın sonu olduğunu düşünmüyorum; bazen sadece öfkeni dışarı atman gerekir. Yine de bununla insanları terslemek ya da duvara yumruk atmak arasında büyük fark var. Öfke birini incittiği ya da bir şeyi kırdığı anda sınır aşılmış olur. Genelde yürüyüşe çıkmak daha iyi işe yarar."
         },
         {
           "prompt": "Tell me about a time something broke or shattered at the worst possible moment.",
           "promptTr": "Bir şeyin en kötü anda kırıldığı ya da tuzla buz olduğu bir zamanı anlat.",
-          "answer": "At my sister's birthday dinner, I was carrying a huge glass bowl of salad and it just slipped. It shattered on the floor with a loud bang, and everyone froze. I was mortified, but my sister burst out laughing, so I did too. We ended up ordering pizza, and honestly, we had a blast.",
+          "answer": "At my sister's birthday dinner, I was carrying a huge glass bowl of salad and it just slipped. It shattered on the floor with a loud bang, and everyone froze. I was mortified, but my sister burst out laughing, so I did too. We ended up ordering pizza, and frankly, we had a blast.",
           "answerTr": "Kız kardeşimin doğum günü yemeğinde kocaman cam bir salata kâsesi taşıyordum ve elimden kayıverdi. Büyük bir gümlemeyle yerde tuzla buz oldu ve herkes donakaldı. Yerin dibine girdim ama kardeşim kahkahayı bastı, ben de güldüm. Sonunda pizza söyledik ve açıkçası çok eğlendik."
         },
         {
@@ -372,7 +371,7 @@
         {
           "prompt": "How would you convince a friend to fix things themselves instead of throwing them away?",
           "promptTr": "Bir arkadaşını eşyalarını atmak yerine kendisi tamir etmeye nasıl ikna ederdin?",
-          "answer": "I'd make the case that it saves money, and honestly, it's really satisfying. Most repairs are simple: you wipe something clean, seal a crack, or replace a part. Sure, it takes time at first, and you might mess up once or twice. But once you've fixed a dripping faucet yourself, you won't want to pay someone to do it again.",
+          "answer": "I'd make the case that it saves money, and it's genuinely satisfying. Most repairs are simple: you wipe something clean, seal a crack, or replace a part. Sure, it takes time at first, and you might mess up once or twice. But once you've fixed a dripping faucet yourself, you won't want to pay someone to do it again.",
           "answerTr": "Bunun para kazandırdığını ve açıkçası çok tatmin edici olduğunu savunurdum. Çoğu tamir basittir: bir şeyi silip temizlersin, bir çatlağı kapatırsın ya da bir parçayı değiştirirsin. Elbette başta zaman alır ve bir iki kez berbat edebilirsin. Ama damlayan bir musluğu bir kez kendin tamir ettin mi, bunun için bir daha kimseye para vermek istemezsin."
         }
       ]
@@ -439,12 +438,12 @@
           "prompt": "How would you politely ask your landlord in an email to fix a broken heater? And how would you describe the problem to a friend?",
           "promptTr": "Ev sahibinden bozuk ısıtıcıyı tamir etmesini bir e-postada kibarca nasıl isterdin? Peki aynı sorunu bir arkadaşına nasıl anlatırdın?",
           "answer": "In the email, I'd write, \"Dear Ms. Lee, I'm writing to let you know the heater in my unit isn't working. Could you arrange a repair this week?\" To a friend, I'd just say, \"My heater's dead, it's freezing, and I'm still paying full utilities.\" Tenants have rights, so I'd follow up if needed.",
-          "answerTr": "E-postaya şunu yazardım: \"Sayın Lee, dairemdeki ısıtıcının çalışmadığını bildirmek için yazıyorum. Bu hafta bir tamir ayarlayabilir misiniz?\" Bir arkadaşıma ise sadece \"Isıtıcım öldü, ev buz gibi ve faturaları hâlâ tam ödüyorum.\" derdim. Kiracıların hakları var, o yüzden gerekirse takip ederdim."
+          "answerTr": "E-postaya şunu yazardım: \"Sayın Lee, dairemdeki ısıtıcının çalışmadığını bildirmek için yazıyorum. Bu hafta bir tamir ayarlayabilir misiniz?\" Bir arkadaşıma ise sadece \"Isıtıcım bozuldu, ev buz gibi ve faturaları hâlâ tam ödüyorum.\" derdim. Kiracıların hakları var, o yüzden gerekirse takip ederdim."
         },
         {
           "prompt": "How would you define a good layout for a home? Give an example.",
           "promptTr": "Bir ev için iyi bir yerleşim planını nasıl tanımlarsın? Bir örnek ver.",
-          "answer": "I'd define a good layout as one that fits how you actually live. For example, I'd want the kitchen adjacent to the living room, so you can cook and still chat with guests. Long, narrow hallways waste space, so width matters too. Honestly, a smart layout can make a small place feel twice as big.",
+          "answer": "I'd define a good layout as one that fits how you actually live. For example, I'd want the kitchen adjacent to the living room, so you can cook and still chat with guests. Long, narrow hallways waste space, so width matters too. Truth be told, a smart layout can make a small place feel twice as big.",
           "answerTr": "İyi bir yerleşim planını, gerçekte nasıl yaşadığına uyan plan olarak tanımlardım. Örneğin mutfağın oturma odasının hemen yanında olmasını isterdim; böylece hem yemek yapıp hem misafirlerle sohbet edebilirsin. Uzun, dar koridorlar yer israfıdır, yani genişlik de önemli. Açıkçası akıllıca bir plan küçük bir evi iki kat büyük gösterebilir."
         }
       ]
@@ -506,7 +505,7 @@
         {
           "prompt": "To what extent should parents interfere in their adult children's decisions?",
           "promptTr": "Ebeveynler yetişkin çocuklarının kararlarına ne ölçüde karışmalı?",
-          "answer": "I think parents should mostly stay out of it once their kids are adults. Constantly interfering can damage the relationship and keep young people from maturing. That said, if a parent sees real danger, like their child being betrayed or exploited, speaking up seems fair. It's about respecting boundaries while still showing you care.",
+          "answer": "I think parents should mostly stay out of it once their kids are adults. Constantly interfering can damage the relationship and keep young people from maturing. Still, if a parent sees real danger, like their child being betrayed or exploited, speaking up seems fair. It's about respecting boundaries while still showing you care.",
           "answerTr": "Bence çocukları yetişkin olduktan sonra ebeveynler büyük ölçüde işin dışında kalmalı. Sürekli karışmak ilişkiye zarar verebilir ve gençlerin olgunlaşmasını engelleyebilir. Yine de ebeveyn, çocuğunun ihanete uğraması ya da istismar edilmesi gibi gerçek bir tehlike görüyorsa sesini çıkarması makul görünüyor. Mesele, önemsediğini göstermeye devam ederken sınırlara saygı duymak."
         },
         {
@@ -582,7 +581,7 @@
         {
           "prompt": "How would you persuade a group of friends to try a new restaurant instead of your usual place?",
           "promptTr": "Bir grup arkadaşını her zamanki mekânınız yerine yeni bir restoranı denemeye nasıl ikna ederdin?",
-          "answer": "I'd pitch it as a fun outing rather than just dinner. I'd say the place has a vibrant atmosphere, the owners are charming, and the menu caters to vegetarians, so everyone's covered. Admittedly, it's a bit pricier, but I'd point out that we always complain our usual spot is boring. That usually wins people over.",
+          "answer": "I'd pitch it as a fun outing rather than just dinner. I'd say the place has a vibrant atmosphere, the owners are charming, and the menu caters to vegetarians, so everyone's covered. To be fair, it's a bit pricier, but I'd point out that we always complain our usual spot is boring. That usually wins people over.",
           "answerTr": "Bunu sadece bir akşam yemeği değil, eğlenceli bir gezinti olarak sunardım. Mekânın havasının çok canlı olduğunu, sahiplerinin çok sevimli olduğunu ve menünün vejetaryenlere de hitap ettiğini, yani herkese bir şey olduğunu söylerdim. Kabul, biraz daha pahalı ama her zamanki yerimizin sıkıcı olduğundan sürekli şikâyet ettiğimizi hatırlatırdım. Bu genelde herkesi ikna eder."
         },
         {
@@ -657,7 +656,7 @@
         {
           "prompt": "Do you think it's worth paying a premium for brand-name products, or is generic just as good?",
           "promptTr": "Sence markalı ürünler için fazladan para ödemeye değer mi, yoksa markasız ürünler de aynı derecede iyi mi?",
-          "answer": "For most things, I think generic is just as good. Medicine, cleaning products, basic groceries: honestly, I can't tell the difference. That said, I'll pay a premium for shoes or electronics, because quality and warranties matter there. So it really depends on the product and how long you need it to last.",
+          "answer": "For most things, I think generic is just as good. Medicine, cleaning products, basic groceries: frankly, I can't tell the difference. All the same, I'll pay a premium for shoes or electronics, because quality and warranties matter there. So it really depends on the product and how long you need it to last.",
           "answerTr": "Çoğu şey için markasız ürünlerin de aynı derecede iyi olduğunu düşünüyorum. İlaç, temizlik ürünleri, temel market alışverişi: açıkçası farkı anlayamıyorum. Yine de ayakkabı ya da elektronik için fazladan öderim, çünkü orada kalite ve garanti önemli. Yani gerçekten ürüne ve ne kadar dayanmasını istediğine bağlı."
         },
         {
@@ -732,7 +731,7 @@
           "prompt": "Do you think cities should spend more on public transit than on new highways?",
           "promptTr": "Sence şehirler yeni otoyollardan çok toplu taşımaya mı para harcamalı?",
           "answer": "On balance, I'd say yes. Good public transit improves mobility for people who can't afford a car, and it keeps downtown traffic from grinding to a halt. That said, highways still matter for shipping, since trucks have to move cargo from warehouses to stores somehow. So I'd fund both, but I'd lean toward transit.",
-          "answerTr": "Genel olarak bakınca evet derim. İyi bir toplu taşıma, araba alamayan insanların ulaşım imkânını artırır ve şehir merkezindeki trafiğin kilitlenmesini önler. Öte yandan otoyollar nakliye için hâlâ önemli, çünkü kamyonların yükü depolardan mağazalara bir şekilde taşıması gerekiyor. Yani ikisine de bütçe ayırırdım ama ağırlığı toplu taşımaya verirdim."
+          "answerTr": "Genel olarak bakınca evet derim. İyi bir toplu taşıma, araba alamayan insanların ulaşım imkânını artırır ve şehir merkezindeki trafiğin kilitlenmesini önler. Yine de otoyollar nakliye için hâlâ önemli, çünkü kamyonların yükü depolardan mağazalara bir şekilde taşıması gerekiyor. Yani ikisine de bütçe ayırırdım ama ağırlığı toplu taşımaya verirdim."
         },
         {
           "prompt": "What does the word \"hub\" mean when people talk about transportation? Give an example.",
@@ -744,7 +743,7 @@
           "prompt": "If your flight had been diverted to another city at midnight, what would you have done?",
           "promptTr": "Uçağın gece yarısı başka bir şehre yönlendirilmiş olsaydı ne yapardın?",
           "answer": "Honestly, I'd probably have panicked a little at first. Then I'd have checked whether the airline was rebooking people or putting us up in a hotel. If not, I'd have found a cheap place near the transit hub so I could get back to the airport early. I'd also have texted my boss to warn her I'd be late.",
-          "answerTr": "Açıkçası ilk başta muhtemelen biraz panik yapardım. Sonra havayolunun yolcuları başka uçuşa mı aktardığına yoksa otele mi yerleştirdiğine bakardım. Yerleştirmiyorsa, sabah erkenden havalimanına dönebilmek için ulaşım merkezinin yakınında ucuz bir yer bulurdum. Bir de patronuma geç kalacağımı haber vermek için mesaj atardım."
+          "answerTr": "Açıkçası ilk başta muhtemelen biraz panik yapardım. Sonra havayolunun yolcuları başka uçuşa mı aktardığına yoksa otele mi yerleştirdiğine bakardım. Yerleştirmeseydi, sabah erkenden havalimanına dönebilmek için ulaşım merkezinin yakınında ucuz bir yer bulurdum. Bir de patronuma geç kalacağımı haber vermek için mesaj atardım."
         }
       ]
     },
@@ -803,7 +802,7 @@
         {
           "prompt": "Tell me about a time you watched or played in a game that ended with a dramatic comeback.",
           "promptTr": "İzlediğin ya da oynadığın ve dramatik bir geri dönüşle biten bir maçı anlat.",
-          "answer": "A couple of years ago, I went to a college basketball game with my cousin. Our team was down by eighteen at halftime, and half the arena had already left. Then a rookie came off the bench and hit four threes in a row. We won by two, and honestly, it felt like a personal triumph.",
+          "answer": "A couple of years ago, I went to a college basketball game with my cousin. Our team was down by eighteen at halftime, and half the arena had already left. Then a rookie came off the bench and hit four threes in a row. We won by two, and frankly, it felt like a personal triumph.",
           "answerTr": "Birkaç yıl önce kuzenimle bir üniversite basketbol maçına gittim. Takımımız ilk yarıda on sekiz sayı gerideydi ve salonun yarısı çoktan çıkmıştı. Sonra bir çaylak yedek kulübesinden geldi ve üst üste dört üçlük attı. İki sayı farkla kazandık ve açıkçası bu bana kişisel bir zafer gibi geldi."
         },
         {
@@ -875,14 +874,14 @@
         {
           "prompt": "Do you think live gigs are overrated compared to listening to music at home?",
           "promptTr": "Sence canlı konserler evde müzik dinlemeye kıyasla abartılıyor mu?",
-          "answer": "I don't think they're overrated at all. There's something about hearing a superb vocal performance in a packed room that you just can't get through headphones. That said, I'll admit tickets are expensive and the sound at some gigs is terrible, so for certain albums, I'd honestly rather stay home and listen properly.",
+          "answer": "I don't think they're overrated at all. There's something about hearing a superb vocal performance in a packed room that you just can't get through headphones. Even so, I'll admit tickets are expensive and the sound at some gigs is terrible, so for certain albums, I'd honestly rather stay home and listen properly.",
           "answerTr": "Bence hiç abartılmıyorlar. Tıklım tıklım bir salonda mükemmel bir vokal performansı dinlemenin kulaklıkla yakalanamayacak bir yanı var. Yine de biletlerin pahalı olduğunu ve bazı konserlerde sesin berbat olduğunu kabul ediyorum; o yüzden bazı albümler için açıkçası evde oturup düzgünce dinlemeyi tercih ederim."
         },
         {
           "prompt": "If you had learned an instrument as a kid, which one would you have picked, and how would your life be different now?",
           "promptTr": "Çocukken bir enstrüman öğrenmiş olsaydın hangisini seçerdin ve hayatın şimdi nasıl farklı olurdu?",
           "answer": "I think I'd have picked the bass, because I've always loved how it holds a song together without being in the spotlight. If I'd stuck with it, I'd probably be playing gigs with friends on the weekends now. Who knows, maybe we'd even be a decent jazz trio by now.",
-          "answerTr": "Sanırım bas gitarı seçerdim, çünkü ilgi odağı olmadan bir şarkıyı bir arada tutmasını hep sevmişimdir. Devam etseydim, şimdi muhtemelen hafta sonları arkadaşlarımla konserler veriyor olurdum. Kim bilir, belki şimdiye fena olmayan bir caz üçlüsü bile olmuştuk."
+          "answerTr": "Sanırım bas gitarı seçerdim, çünkü ilgi odağı olmadan bir şarkıyı bir arada tutmasını hep sevmişimdir. Devam etseydim, şimdi muhtemelen hafta sonları arkadaşlarımla konserler veriyor olurdum. Kim bilir, belki şimdiye fena olmayan bir caz üçlüsü bile olurduk."
         },
         {
           "prompt": "Tell me about the last time a performance really moved you.",
@@ -924,7 +923,7 @@
           "phrase": "against the backdrop of sth",
           "turkish": "… ortamında, … arka planında",
           "example": "The memoir is set against the backdrop of the 1970s oil crisis.",
-          "exampleTr": "Anı kitabı 1970'lerdeki petrol krizinin gölgesinde geçiyor."
+          "exampleTr": "Anı kitabı 1970'lerdeki petrol krizi döneminde geçiyor."
         },
         {
           "phrase": "sketch out sth",
@@ -955,7 +954,7 @@
         {
           "prompt": "How would you convince a friend to watch a documentary instead of the latest blockbuster sequel?",
           "promptTr": "Bir arkadaşını son gişe rekortmeni devam filmi yerine bir belgesel izlemeye nasıl ikna ederdin?",
-          "answer": "I'd pitch it as something that's just as exciting. I'd say, \"Look, the filmmaker spent five years on this, and some of the footage is honestly jaw-dropping. The sequel will be streaming next month anyway.\" Admittedly, that might not win them over, but if I offer to make popcorn, it usually works.",
+          "answer": "I'd pitch it as something that's just as exciting. I'd say, \"Look, the filmmaker spent five years on this, and some of the footage is really jaw-dropping. The sequel will be streaming next month anyway.\" Mind you, that might not win them over, but if I offer to make popcorn, it usually works.",
           "answerTr": "Belgeseli en az onun kadar heyecan verici bir şey gibi sunardım. \"Bak, sinemacı buna beş yılını vermiş ve bazı görüntüler gerçekten ağız açık bırakıyor. Devam filmi zaten gelecek ay dijital platformlara gelecek\" derdim. Kabul ediyorum, bu onu ikna etmeyebilir ama patlamış mısır yapmayı teklif edersem genellikle işe yarıyor."
         },
         {
@@ -1022,7 +1021,7 @@
           "prompt": "To what extent should ordinary people be responsible for sustainability, rather than governments and big companies?",
           "promptTr": "Sürdürülebilirlik konusunda hükûmetler ve büyük şirketler yerine sıradan insanlar ne ölçüde sorumlu olmalı?",
           "answer": "I think individuals do have some responsibility. We can conserve energy, cut back on plastic, and think about how we dispose of things. That said, I'd argue the biggest ecological impact comes from industry, so governments really need to set the rules. Individual effort matters, but it can't replace good policy.",
-          "answerTr": "Bence bireylerin de bir miktar sorumluluğu var. Enerji tasarrufu yapabilir, plastiği azaltabilir ve eşyaları nasıl attığımızı düşünebiliriz. Öte yandan en büyük ekolojik etkinin sanayiden geldiğini savunurum, bu yüzden kuralları gerçekten hükûmetlerin koyması gerekiyor. Bireysel çaba önemli ama iyi politikaların yerini tutamaz."
+          "answerTr": "Bence bireylerin de bir miktar sorumluluğu var. Enerji tasarrufu yapabilir, plastiği azaltabilir ve eşyaları nasıl attığımızı düşünebiliriz. Yine de en büyük ekolojik etkinin sanayiden geldiğini savunurum, bu yüzden kuralları gerçekten hükûmetlerin koyması gerekiyor. Bireysel çaba önemli ama iyi politikaların yerini tutamaz."
         },
         {
           "prompt": "If humans had never hunted large predators like wolves, how would the natural world be different today?",
@@ -1099,12 +1098,12 @@
         {
           "prompt": "Describe a time you spent in the countryside or on a farm. What happened?",
           "promptTr": "Kırsalda ya da bir çiftlikte geçirdiğin bir zamanı anlat. Neler oldu?",
-          "answer": "When I was about twelve, I spent a week on my uncle's farm. I had to help feed the cattle at six every morning, which I hated at first. By the end of the week, though, I'd learned how they cultivate corn, and I even helped with the harvest. The terrain was rough, but honestly, it was one of my best summers.",
+          "answer": "When I was about twelve, I spent a week on my uncle's farm. I had to help feed the cattle at six every morning, which I hated at first. By the end of the week, though, I'd learned how they cultivate corn, and I even helped with the harvest. The terrain was rough, but looking back, it was one of my best summers.",
           "answerTr": "On iki yaşlarındayken amcamın çiftliğinde bir hafta geçirdim. Her sabah altıda sığırları beslemeye yardım etmem gerekiyordu ve başta bundan nefret ettim. Ama haftanın sonunda mısırı nasıl yetiştirdiklerini öğrenmiştim, hatta hasada bile yardım ettim. Arazi zorluydu ama açıkçası en güzel yazlarımdan biriydi."
         },
         {
           "prompt": "How would you complain formally in an email about a mining project near your town, and how would you say it to a friend?",
-          "promptTr": "Kasabanın yakınındaki bir maden projesiyle ilgili e-postada resmî bir şikâyeti nasıl yazardın, aynı şeyi bir arkadaşına nasıl söylerdin?",
+          "promptTr": "Yaşadığın kasabanın yakınındaki bir maden projesiyle ilgili e-postada resmî bir şikâyeti nasıl yazardın, aynı şeyi bir arkadaşına nasıl söylerdin?",
           "answer": "In an email, I'd write, \"I'm writing to express my concern about the proposed mining project, particularly its potential impact on the dam and the surrounding terrain.\" To a friend, I'd just say, \"Can you believe they want to dig a huge mine right next to the dam? That's crazy. Somebody's got to stop it.\"",
           "answerTr": "E-postada şöyle yazardım: \"Önerilen maden projesiyle, özellikle de baraj ve çevresindeki arazi üzerindeki olası etkisiyle ilgili kaygılarımı dile getirmek için yazıyorum.\" Bir arkadaşıma ise \"İnanabiliyor musun, barajın hemen yanına koca bir maden açmak istiyorlar. Bu delilik. Birinin bunu durdurması lazım\" derdim."
         }
@@ -1173,14 +1172,14 @@
         {
           "prompt": "If electricity had never been discovered, how would your daily life be different now?",
           "promptTr": "Elektrik hiç keşfedilmemiş olsaydı günlük hayatın şimdi nasıl farklı olurdu?",
-          "answer": "Honestly, I can barely imagine it. There'd be no power grid, so no phones, no laptops, and none of the machinery we rely on in factories. I'd probably go to bed when it got dark and spend a lot more time outdoors. That said, I might actually sleep better and read more books.",
-          "answerTr": "Açıkçası bunu hayal bile edemiyorum. Elektrik şebekesi olmazdı; yani ne telefon, ne dizüstü bilgisayar, ne de fabrikalarda güvendiğimiz makineler olurdu. Muhtemelen hava kararınca yatar ve çok daha fazla vakit dışarıda geçirirdim. Öte yandan belki daha iyi uyur, daha çok kitap okurdum."
+          "answer": "Frankly, I can barely imagine it. There'd be no power grid, so no phones, no laptops, and none of the machinery we rely on in factories. I'd probably go to bed when it got dark and spend a lot more time outdoors. Then again, I might actually sleep better and read more books.",
+          "answerTr": "Açıkçası bunu hayal bile edemiyorum. Elektrik şebekesi olmazdı; yani ne telefon, ne dizüstü bilgisayar, ne de fabrikalarda güvendiğimiz makineler olurdu. Muhtemelen hava kararınca yatar ve çok daha fazla vakit dışarıda geçirirdim. Yine de belki daha iyi uyur, daha çok kitap okurdum."
         },
         {
           "prompt": "Do you think hydrogen cars are a realistic alternative to electric ones? Why or why not?",
           "promptTr": "Sence hidrojenli arabalar elektrikli arabalara gerçekçi bir alternatif mi? Neden?",
-          "answer": "I think they could work in some cases, like trucks or buses that cover long distances, because hydrogen refuels quickly. That said, producing hydrogen still takes a lot of energy, and the conversion process loses quite a bit of efficiency along the way. So on balance, I'd say electric cars are more practical for now.",
-          "answerTr": "Bence bazı durumlarda işe yarayabilirler; örneğin uzun mesafe kat eden kamyonlar ya da otobüsler için, çünkü hidrojen dolumu hızlı. Öte yandan hidrojen üretmek hâlâ çok enerji gerektiriyor ve dönüşüm sürecinde epey verim kaybediliyor. Yani her şeyi tartınca şimdilik elektrikli arabaların daha pratik olduğunu söylerim."
+          "answer": "I think they could work in some cases, like trucks or buses that cover long distances, because hydrogen cars refuel quickly. That said, producing hydrogen still takes a lot of energy, and the conversion process loses quite a bit of efficiency along the way. So on balance, I'd say electric cars are more practical for now.",
+          "answerTr": "Bence bazı durumlarda işe yarayabilirler; örneğin uzun mesafe kat eden kamyonlar ya da otobüsler için, çünkü hidrojenli araçların yakıt dolumu hızlı. Yine de hidrojen üretmek hâlâ çok enerji gerektiriyor ve dönüşüm sürecinde epey verim kaybediliyor. Yani her şeyi tartınca şimdilik elektrikli arabaların daha pratik olduğunu söylerim."
         }
       ]
     },
@@ -1247,8 +1246,8 @@
         {
           "prompt": "Do you think the news spends too much time covering violent crime? Is it fair to the public?",
           "promptTr": "Sence haberler şiddet içeren suçlara çok fazla zaman ayırıyor mu? Bu halka karşı adil mi?",
-          "answer": "To some extent, yes. When the news is full of brutal attacks and homicide cases, people start believing crime is rampant, even when the numbers are actually going down. That said, the public does have a right to know what's happening, so I wouldn't want reporters to ignore it. It's more about balance and context.",
-          "answerTr": "Bir ölçüde evet. Haberler vahşi saldırılar ve cinayet vakalarıyla dolu olunca, rakamlar aslında düşüyor olsa bile insanlar suçun kol gezdiğine inanmaya başlıyor. Öte yandan halkın olan biteni bilme hakkı var, bu yüzden muhabirlerin bunu görmezden gelmesini de istemem. Mesele daha çok denge ve bağlam."
+          "answer": "To some extent, yes. When the news is full of brutal attacks and homicide cases, people start believing crime is rampant, even when the numbers are actually going down. Still, the public does have a right to know what's happening, so I wouldn't want reporters to ignore it. It's more about balance and context.",
+          "answerTr": "Bir ölçüde evet. Haberler vahşi saldırılar ve cinayet vakalarıyla dolu olunca, rakamlar aslında düşüyor olsa bile insanlar suçun kol gezdiğine inanmaya başlıyor. Yine de halkın olan biteni bilme hakkı var, bu yüzden muhabirlerin bunu görmezden gelmesini de istemem. Mesele daha çok denge ve bağlam."
         },
         {
           "prompt": "Someone keeps sending you nasty messages online. How would you report it formally to the website, and how would you describe it to a friend?",
@@ -1378,7 +1377,7 @@
           "phrase": "testify against sb",
           "turkish": "birinin aleyhine tanıklık etmek",
           "example": "His own brother agreed to testify against him in exchange for immunity.",
-          "exampleTr": "Kendi kardeşi, dokunulmazlık karşılığında onun aleyhine tanıklık etmeyi kabul etti."
+          "exampleTr": "Kendi kardeşi, kovuşturulmama güvencesi karşılığında onun aleyhine tanıklık etmeyi kabul etti."
         },
         {
           "phrase": "file a lawsuit against sb",
@@ -1430,7 +1429,7 @@
         "invoke",
         "pursuant to",
         "a gray area",
-        "retrospectively",
+        "retroactively",
         "waive",
         "uphold",
         "overturn",
@@ -1481,13 +1480,13 @@
           "prompt": "How would you tell your landlord politely that the lease doesn't entitle him to walk in without notice? Then how would you say it to a friend?",
           "promptTr": "Ev sahibine, kira sözleşmesinin ona haber vermeden içeri girme hakkı tanımadığını kibarca nasıl söylerdin? Peki aynı şeyi bir arkadaşına nasıl anlatırdın?",
           "answer": "To my landlord, I'd say, \"I'd really appreciate it if we could stick to the terms of the lease, which require twenty-four hours' notice before entry.\" To a friend, I'd just say, \"He keeps walking in whenever he wants! He's not entitled to do that, and I'm going to make him abide by the contract.\"",
-          "answerTr": "Ev sahibine şöyle derdim: \"Girmeden yirmi dört saat önce haber verilmesini öngören kira sözleşmesinin şartlarına uyabilirsek çok memnun olurum.\" Arkadaşıma ise sadece şunu derdim: \"Canı istediği zaman içeri dalıyor! Buna hakkı yok, ona sözleşmeye uymasını sağlatacağım.\""
+          "answerTr": "Ev sahibine şöyle derdim: \"Girmeden yirmi dört saat önce haber verilmesini öngören kira sözleşmesinin şartlarına uyabilirsek çok memnun olurum.\" Arkadaşıma ise sadece şunu derdim: \"Canı istediği zaman içeri dalıyor! Buna hakkı yok, sözleşmeye uymasını sağlayacağım.\""
         },
         {
           "prompt": "What counts as a gray area in your opinion? Give an example.",
           "promptTr": "Sence gri alan ne demek? Bir örnek ver.",
-          "answer": "To me, a gray area is a situation where the rules don't clearly say yes or no. Downloading an old video game that nobody sells anymore is a good example. Technically, the copyright still exists, but nobody's really enforcing it. So it isn't clearly legitimate, but it doesn't feel obviously wrong either.",
-          "answerTr": "Bana göre gri alan, kuralların açıkça evet ya da hayır demediği bir durumdur. Artık kimsenin satmadığı eski bir video oyununu indirmek iyi bir örnek. Teknik olarak telif hakkı hâlâ geçerli ama kimse bunu gerçekten uygulatmıyor. Yani tam olarak meşru değil ama apaçık yanlış gibi de gelmiyor."
+          "answer": "To me, a gray area is a situation where the rules don't clearly say yes or no. Printing a few personal pages at work is a good example. Most offices don't have an explicit policy on it, and nobody's really harmed. So it isn't clearly legitimate, but it doesn't feel obviously wrong either.",
+          "answerTr": "Bana göre gri alan, kuralların açıkça evet ya da hayır demediği bir durumdur. İşte birkaç kişisel sayfanın çıktısını almak iyi bir örnek. Çoğu ofisin bu konuda açık bir kuralı yok ve kimse gerçekten zarar görmüyor. Yani tam olarak meşru değil ama apaçık yanlış gibi de gelmiyor."
         },
         {
           "prompt": "Tell me about a time you had to read the fine print before agreeing to something.",
@@ -1565,7 +1564,7 @@
         {
           "prompt": "To what extent should ordinary citizens be able to propose laws directly, rather than leaving it to the legislature?",
           "promptTr": "Sıradan vatandaşlar, işi yasama organına bırakmak yerine, doğrudan yasa önerebilmeli mi? Ne ölçüde?",
-          "answer": "I think citizens should have some way to do it, at least on big issues. Lots of states already let voters put measures on the ballot. That said, writing good legislation is hard, and a catchy proposal can have provisions nobody's really read. So I'd keep the legislature in charge most of the time, with direct votes as a backup.",
+          "answer": "I think citizens should have some way to do it, at least on big issues. Lots of states already let voters put measures on the ballot. All the same, writing good legislation is hard, and a catchy proposal can have provisions nobody's really read. So I'd keep the legislature in charge most of the time, with direct votes as a backup.",
           "answerTr": "Bence vatandaşların en azından büyük konularda bunu yapmanın bir yolu olmalı. Pek çok eyalet zaten seçmenlerin önerileri oy pusulasına koymasına izin veriyor. Yine de iyi bir yasa yazmak zordur ve kulağa hoş gelen bir önerinin kimsenin doğru dürüst okumadığı maddeleri olabilir. O yüzden çoğu zaman yetkiyi yasama organında tutar, doğrudan oylamayı yedek bir yol olarak bırakırdım."
         }
       ]
@@ -1583,6 +1582,7 @@
         "enforce",
         "violate",
         "violation",
+        "prescribe",
         "proscribe",
         "stipulate",
         "stringent",
@@ -1638,8 +1638,8 @@
         {
           "prompt": "What's the difference between following the rules and finding a way to circumvent them? Give an example.",
           "promptTr": "Kurallara uymak ile kuralları dolanmanın bir yolunu bulmak arasındaki fark nedir? Bir örnek ver.",
-          "answer": "Following the rules means you comply with both the wording and the purpose. Circumventing them means you technically stay within the rules but defeat the point. For example, if meetings over an hour need a manager's approval, splitting one long meeting into two short ones circumvents that. You're not technically violating anything, but you're clearly dodging the point.",
-          "answerTr": "Kurallara uymak, hem metne hem amaca uymak demektir. Kuralları dolanmak ise teknik olarak kuralların içinde kalıp asıl amacı boşa çıkarmaktır. Örneğin bir saati aşan toplantılar yönetici onayı gerektiriyorsa, uzun bir toplantıyı iki kısa toplantıya bölmek bu kuralı dolanmaktır. Teknik olarak hiçbir şeyi ihlal etmiyorsun ama asıl amaçtan açıkça kaçıyorsun."
+          "answer": "Following the rules means you comply with both the wording and the purpose. Circumventing them means you technically stay within the rules but defeat the purpose. For example, if meetings over an hour need a manager's approval, splitting one long meeting into two short ones circumvents that. You're not technically violating anything, but you're clearly dodging the spirit of the rule.",
+          "answerTr": "Kurallara uymak, hem metne hem amaca uymak demektir. Kuralları dolanmak ise teknik olarak kuralların içinde kalıp asıl amacı boşa çıkarmaktır. Örneğin bir saati aşan toplantılar yönetici onayı gerektiriyorsa, uzun bir toplantıyı iki kısa toplantıya bölmek bu kuralı dolanmaktır. Teknik olarak hiçbir şeyi ihlal etmiyorsun ama kuralın ruhundan açıkça kaçıyorsun."
         }
       ]
     },
@@ -1700,7 +1700,7 @@
           "prompt": "How would you persuade a friend who never votes to cast a ballot in the next local election?",
           "promptTr": "Hiç oy kullanmayan bir arkadaşını bir sonraki yerel seçimde oy vermeye nasıl ikna ederdin?",
           "answer": "I'd skip the lecture and make it personal. I'd say, \"You complain about the bus service all the time, right? The people on this ballot decide that.\" Then I'd point out that turnout in local elections is often so low that a few hundred votes can swing the result. And I'd offer to go to the polls together, so it feels easy.",
-          "answerTr": "Nutuk atmak yerine konuyu kişisel hâle getirirdim. \"Otobüs hizmetinden sürekli şikâyet ediyorsun, değil mi? Buna bu oy pusulasındaki insanlar karar veriyor.\" derdim. Sonra yerel seçimlerde katılımın çoğu zaman o kadar düşük olduğunu, birkaç yüz oyun sonucu değiştirebildiğini anlatırdım. Bir de kolay gelsin diye sandığa birlikte gitmeyi teklif ederdim."
+          "answerTr": "Nutuk çekmek yerine konuyu kişisel hâle getirirdim. \"Otobüs hizmetinden sürekli şikâyet ediyorsun, değil mi? Buna bu oy pusulasındaki insanlar karar veriyor.\" derdim. Sonra yerel seçimlerde katılımın çoğu zaman o kadar düşük olduğunu, birkaç yüz oyun sonucu değiştirebildiğini anlatırdım. Bir de kolay gelsin diye sandığa birlikte gitmeyi teklif ederdim."
         },
         {
           "prompt": "If you had run for class president in high school, what would your campaign pledge have been?",
@@ -1853,8 +1853,8 @@
         {
           "prompt": "How would you make the case for sending humanitarian aid to a country that isn't an ally?",
           "promptTr": "Müttefik olmayan bir ülkeye insani yardım gönderilmesini nasıl savunurdun?",
-          "answer": "I'd argue that humanitarian aid shouldn't depend on politics. Ordinary people didn't choose their government, and letting them suffer doesn't punish the leaders. I'd also make a practical point: helping now builds goodwill, and today's hostile neighbor could become tomorrow's ally. Cooperation on something basic like food or medicine can open diplomatic doors that years of threats never could.",
-          "answerTr": "İnsani yardımın siyasete bağlı olmaması gerektiğini savunurdum. Sıradan insanlar hükümetlerini kendileri seçmedi ve onları acı çekmeye terk etmek liderleri cezalandırmaz. Pratik bir noktaya da değinirdim: Şimdi yardım etmek iyi niyet yaratır ve bugünün düşmanca komşusu yarının müttefiki olabilir. Gıda ya da ilaç gibi temel bir konuda işbirliği, yıllarca süren tehditlerin açamadığı diplomatik kapıları açabilir."
+          "answer": "I'd argue that humanitarian aid shouldn't depend on politics. Ordinary people often didn't choose their government, and letting them suffer doesn't punish the leaders. I'd also make a practical point: helping now builds goodwill, and today's hostile neighbor could become tomorrow's ally. Cooperation on something basic like food or medicine can open diplomatic doors that years of threats never could.",
+          "answerTr": "İnsani yardımın siyasete bağlı olmaması gerektiğini savunurdum. Sıradan insanlar çoğu zaman hükümetlerini kendileri seçmedi ve onları acı çekmeye terk etmek liderleri cezalandırmaz. Pratik bir noktaya da değinirdim: Şimdi yardım etmek iyi niyet yaratır ve bugünün düşmanca komşusu yarının müttefiki olabilir. Gıda ya da ilaç gibi temel bir konuda iş birliği, yıllarca süren tehditlerin açamadığı diplomatik kapıları açabilir."
         },
         {
           "prompt": "Imagine the United Nations had never been created after World War II. What would be different today?",
@@ -1973,7 +1973,7 @@
           "phrase": "stage a coup",
           "turkish": "darbe yapmak",
           "example": "Officers who tried to stage a coup were arrested within hours.",
-          "exampleTr": "Darbe yapmaya kalkışan subaylar birkaç saat içinde tutuklandı."
+          "exampleTr": "Darbe yapmaya kalkışan subaylar birkaç saat içinde gözaltına alındı."
         },
         {
           "phrase": "crack down on sth",
@@ -2070,7 +2070,7 @@
         {
           "prompt": "Do you think countries should allow dual citizenship? Why or why not?",
           "promptTr": "Sence ülkeler çifte vatandaşlığa izin vermeli mi? Neden?",
-          "answer": "On balance, I think they should. Many migrants feel loyal to both their homeland and their new country, and dual citizenship lets them keep both connections. That said, I can see why some governments worry about conflicting obligations, like taxes or military service. Still, I'd argue the benefits for families usually outweigh those concerns.",
+          "answer": "On balance, I think they should. Many migrants feel loyal to both their homeland and their new country, and dual citizenship lets them keep both connections. Even so, I can see why some governments worry about conflicting obligations, like taxes or military service. Still, I'd argue the benefits for families usually outweigh those concerns.",
           "answerTr": "Genel olarak bakınca bence vermeli. Pek çok göçmen hem anavatanına hem de yeni ülkesine bağlılık duyuyor ve çifte vatandaşlık her iki bağı da korumalarını sağlıyor. Bununla birlikte, bazı hükümetlerin vergi ya da askerlik gibi çatışan yükümlülüklerden neden endişe ettiğini anlayabiliyorum. Yine de bence aileler açısından faydalar genellikle bu kaygılardan ağır basıyor."
         },
         {
@@ -2124,6 +2124,12 @@
           "turkish": "tehlikeden uzak, güvende",
           "example": "Rescue teams worked through the night to evacuate patients and keep them out of harm's way.",
           "exampleTr": "Kurtarma ekipleri hastaları tahliye edip güvende tutmak için sabaha kadar çalıştı."
+        },
+        {
+          "phrase": "a race against time",
+          "turkish": "zamana karşı yarış",
+          "example": "It was a race against time to evacuate the coastal towns before the storm hit.",
+          "exampleTr": "Fırtına vurmadan önce kıyı kasabalarını tahliye etmek zamana karşı bir yarıştı."
         }
       ],
       "sayPrompts": [
@@ -2137,13 +2143,13 @@
           "prompt": "How would you warn the people in your building about an approaching storm, first formally in an email, then casually in a text to a friend?",
           "promptTr": "Binandaki insanları yaklaşan bir fırtına konusunda önce e-postayla resmî bir dille, sonra bir arkadaşına attığın mesajda gündelik bir dille nasıl uyarırdın?",
           "answer": "In the email, I'd write: \"Due to the approaching storm, residents are strongly advised to prepare an emergency kit and to be ready to evacuate if instructed.\" To a friend, I'd just text: \"Hey, this storm sounds pretty bad. Grab some water and batteries, and if we get an evacuation alert, let's leave together, okay?\"",
-          "answerTr": "E-postada şöyle yazardım: \"Yaklaşan fırtına nedeniyle sakinlerin bir acil durum çantası hazırlamaları ve talimat verilmesi hâlinde binayı boşaltmaya hazır olmaları önemle rica olunur.\" Arkadaşıma ise sadece şunu yazardım: \"Baksana, bu fırtına epey kötü görünüyor. Biraz su ve pil al; tahliye uyarısı gelirse birlikte çıkalım, tamam mı?\""
+          "answerTr": "E-postada şöyle yazardım: \"Yaklaşan fırtına nedeniyle sakinlerin bir acil durum çantası hazırlamaları ve talimat verilmesi hâlinde binayı boşaltmaya hazır olmaları önemle tavsiye edilir.\" Arkadaşıma ise sadece şunu yazardım: \"Baksana, bu fırtına epey kötü görünüyor. Biraz su ve pil al; tahliye uyarısı gelirse birlikte çıkalım, tamam mı?\""
         },
         {
           "prompt": "How would you convince a friend who never thinks about emergencies to put together an emergency kit?",
           "promptTr": "Acil durumları hiç düşünmeyen bir arkadaşını acil durum çantası hazırlamaya nasıl ikna ederdin?",
           "answer": "I'd try not to scare them, but I'd point out that the aftermath of a disaster is often harder than the event itself. Stores close, roads get blocked and help can take days to arrive. A basic kit costs maybe fifty dollars, and it could be the difference between a damaging situation and a fatal one. It's cheap peace of mind.",
-          "answerTr": "Onu korkutmamaya çalışırdım ama bir felaketin sonrasının çoğu zaman olayın kendisinden daha zor olduğunu hatırlatırdım. Dükkânlar kapanır, yollar kapanır ve yardımın gelmesi günler sürebilir. Basit bir çanta belki elli dolar tutar ve zararlı bir durumla ölümcül bir durum arasındaki farkı yaratabilir. Ucuz bir gönül rahatlığı."
+          "answerTr": "Onu korkutmamaya çalışırdım ama bir felaketin sonrasının çoğu zaman olayın kendisinden daha zor olduğunu hatırlatırdım. Dükkânlar kapanır, yollar tıkanır ve yardımın gelmesi günler sürebilir. Basit bir çanta belki elli dolar tutar ve zararlı bir durumla ölümcül bir durum arasındaki farkı yaratabilir. Ucuz bir gönül rahatlığı."
         }
       ]
     },
@@ -2210,7 +2216,7 @@
         {
           "prompt": "Should cities spend public money on the preservation of old buildings, or is it better to build something new?",
           "promptTr": "Şehirler eski binaların korunmasına kamu parası harcamalı mı, yoksa yeni bir şey inşa etmek mi daha iyi?",
-          "answer": "I'd lean toward preservation, mostly because historic buildings give a city its character, and once they're gone, they're gone. Admittedly, restoration can be incredibly expensive, and not every old building is worth saving. So I think cities should be selective: protect the ones with real historical value and let the rest make way for new housing.",
+          "answer": "I'd lean toward preservation, mostly because historic buildings give a city its character, and once they're gone, they're gone. Sure, restoration can be incredibly expensive, and not every old building is worth saving. So I think cities should be selective: protect the ones with real historical value and let the rest make way for new housing.",
           "answerTr": "Ben korumadan yana olurdum, çünkü tarihî binalar bir şehre karakterini veriyor ve bir kez yok olunca geri gelmiyorlar. Kabul etmek gerekir ki restorasyon inanılmaz pahalı olabilir ve her eski bina kurtarılmaya değmez. Bu yüzden bence şehirler seçici olmalı: gerçek tarihî değeri olanları korumalı, geri kalanların yerine yeni konutlar yapılmasına izin vermeli."
         },
         {
@@ -2250,7 +2256,7 @@
       "phrases": [
         {
           "phrase": "close the gap",
-          "turkish": "aradaki farkı kapatmak",
+          "turkish": "aradaki farkı kapatmak (eşitsizliği, açığı gidermek)",
           "example": "Free tutoring could help close the gap and reduce inequality in schools.",
           "exampleTr": "Ücretsiz özel ders, aradaki farkı kapatıp okullardaki eşitsizliği azaltmaya yardımcı olabilir."
         },
@@ -2270,7 +2276,7 @@
           "phrase": "challenge a stereotype",
           "turkish": "bir klişeyi sorgulamak, yıkmak",
           "example": "Her novel challenges the stereotype of the helpless immigrant.",
-          "exampleTr": "Romanı, çaresiz göçmen klişesini yıkıyor."
+          "exampleTr": "Romanı, çaresiz göçmen klişesini sorguluyor."
         }
       ],
       "sayPrompts": [
@@ -2283,7 +2289,7 @@
         {
           "prompt": "How would you persuade your city council to make public spaces more accessible?",
           "promptTr": "Belediye meclisini kamusal alanları daha erişilebilir hâle getirmeye nasıl ikna ederdin?",
-          "answer": "I'd reframe it as something that benefits everyone, not just a small group. Ramps and elevators help wheelchair users, sure, but they also help parents with strollers and older people with bad knees. Making spaces accessible and inclusive isn't charity; it's basic fairness. And honestly, a city that shuts out vulnerable residents is missing out on their talent and their spending.",
+          "answer": "I'd reframe it as something that benefits everyone, not just a small group. Ramps and elevators help wheelchair users, sure, but they also help parents with strollers and older people with bad knees. Making spaces accessible and inclusive isn't charity; it's basic fairness. And frankly, a city that shuts out vulnerable residents is missing out on their talent and their spending.",
           "answerTr": "Konuyu yalnızca küçük bir grubun değil, herkesin işine yarayan bir şey olarak sunardım. Rampalar ve asansörler tekerlekli sandalye kullananlara yardımcı olur, evet, ama bebek arabalı ebeveynlere ve dizleri ağrıyan yaşlılara da yardımcı olur. Mekânları erişilebilir ve kapsayıcı yapmak bir hayır işi değil, temel bir hakkaniyet meselesi. Açıkçası savunmasız sakinlerini dışlayan bir şehir, onların yeteneğinden ve harcamalarından da mahrum kalır."
         },
         {
@@ -2426,19 +2432,19 @@
         {
           "prompt": "Do you think rituals still matter in a secular society? Why or why not?",
           "promptTr": "Sence laik bir toplumda ritüeller hâlâ önemli mi? Neden?",
-          "answer": "I'd say they matter more than we think. Even in a secular society, people still crave rituals, like family dinners, graduations or blowing out candles on a birthday cake. They give life structure and meaning. Admittedly, some traditions feel empty when people just go through the motions. But on balance, I think we'd be lonelier without them.",
+          "answer": "I'd say they matter more than we think. Even in a secular society, people still crave rituals, like family dinners, graduations or blowing out candles on a birthday cake. They give life structure and meaning. Granted, some traditions feel empty when people just go through the motions. But on balance, I think we'd be lonelier without them.",
           "answerTr": "Bence düşündüğümüzden daha önemliler. Laik bir toplumda bile insanlar aile yemekleri, mezuniyetler ya da doğum günü pastasındaki mumları üflemek gibi ritüellere ihtiyaç duyuyor. Bunlar hayata bir düzen ve anlam katıyor. Kabul etmek gerekir ki insanlar bazı gelenekleri sırf adet yerini bulsun diye yaşadığında içleri boş geliyor. Ama genel olarak bakınca, onlar olmadan daha yalnız olurduk diye düşünüyorum."
         },
         {
           "prompt": "Tell me about a time when something that seemed like bad luck turned out to be a blessing.",
           "promptTr": "Kötü şans gibi görünen bir şeyin sonunda bir nimete dönüştüğü bir zamanı anlat.",
-          "answer": "A few years ago, I missed a flight to a job interview and was furious. I ended up taking a different job here instead, and that's where I met my best friend. It wasn't a miracle or anything, but looking back, it was honestly a blessing. It taught me to count my blessings and stop treating every setback like a disaster.",
+          "answer": "A few years ago, I missed a flight to a job interview and was furious. I ended up taking a different job here instead, and that's where I met my best friend. It wasn't a miracle or anything, but looking back, it was really a blessing. It taught me to count my blessings and stop treating every setback like a disaster.",
           "answerTr": "Birkaç yıl önce bir iş görüşmesine giderken uçağı kaçırdım ve çok sinirlendim. Sonunda onun yerine burada başka bir işe girdim ve en yakın arkadaşımla orada tanıştım. Mucize falan değildi ama dönüp bakınca açıkçası bir nimetti. Bana elimdekilerin kıymetini bilmeyi ve her aksiliği bir felaket gibi görmemeyi öğretti."
         },
         {
           "prompt": "If your parents hadn't made certain sacrifices for you, what would your life look like now?",
           "promptTr": "Annenle baban senin için bazı fedakârlıklar yapmamış olsaydı, hayatın şimdi nasıl olurdu?",
-          "answer": "Quite a lot, I think. My mom worked two jobs so I could go to a better school, and without that sacrifice I probably wouldn't have gotten into college. I don't see it as a miracle; it was sheer hard work. But I know it was a kind of grace I didn't earn, and my conscience won't let me take it for granted.",
+          "answer": "Very different, I think. My mom worked two jobs so I could go to a better school, and without that sacrifice I probably wouldn't have gotten into college. I don't see it as a miracle; it was sheer hard work. But I know it was a kind of grace I didn't earn, and my conscience won't let me take it for granted.",
           "answerTr": "Bence epey farklı olurdu. Annem daha iyi bir okula gidebileyim diye iki işte çalıştı; o fedakârlık olmasaydı muhtemelen üniversiteye giremezdim. Bunu bir mucize olarak görmüyorum, düpedüz sıkı bir çalışmanın ürünüydü. Ama bunun hak etmediğim bir tür lütuf olduğunu biliyorum ve vicdanım bunu olağan saymama izin vermiyor."
         }
       ]
@@ -2512,7 +2518,7 @@
           "prompt": "What's the difference between news reporting and commentary? Give an example.",
           "promptTr": "Haber ile yorum arasındaki fark nedir? Bir örnek ver.",
           "answer": "Reporting tells you what happened; commentary tells you what someone thinks about it. A correspondent might report that a city has cut its library budget, quoting officials and giving numbers. A columnist, on the other hand, might argue the cuts are shortsighted. Both are useful, but problems start when commentary is dressed up as straight news.",
-          "answerTr": "Haber sana ne olduğunu anlatır, yorum ise birinin bu konuda ne düşündüğünü. Bir muhabir, yetkililerden alıntı yapıp rakamlar vererek bir şehrin kütüphane bütçesini kıstığını aktarabilir. Bir köşe yazarı ise bu kesintilerin ileriyi görmemek olduğunu savunabilir. İkisi de faydalı; ama sorunlar yorum, saf haber kılığına sokulduğunda başlıyor."
+          "answerTr": "Haber sana ne olduğunu anlatır, yorum ise birinin bu konuda ne düşündüğünü. Bir muhabir, yetkililerden alıntı yapıp rakamlar vererek bir şehrin kütüphane bütçesini kıstığını aktarabilir. Bir köşe yazarı ise bu kesintilerin dar görüşlü bir karar olduğunu savunabilir. İkisi de faydalı; ama sorunlar yorum, saf haber kılığına sokulduğunda başlıyor."
         }
       ]
     },
@@ -2583,7 +2589,7 @@
         {
           "prompt": "If you had become famous as a teenager, how do you think it would have changed you?",
           "promptTr": "Ergenlik çağında ünlü olsaydın, sence bu seni nasıl değiştirirdi?",
-          "answer": "Honestly, I think it would've been a disaster. At sixteen, I loved to boast about tiny achievements, so I can only imagine how I'd have flaunted real success. I'd probably have been hailed as something special, believed every word of it, and stopped working hard. I'm glad recognition and appreciation came later for me, when I could actually handle it.",
+          "answer": "If I'm honest, I think it would've been a disaster. At sixteen, I loved to boast about tiny achievements, so I can only imagine how I'd have flaunted real success. I'd probably have been hailed as something special, believed every word of it, and stopped working hard. I'm glad recognition and appreciation came later for me, when I could actually handle it.",
           "answerTr": "Açıkçası bence felaket olurdu. On altı yaşında ufacık başarılarımla bile böbürlenmeye bayılırdım; gerçek bir başarıyla nasıl hava atardım, bir düşün. Muhtemelen özel biri olarak göklere çıkarılır, bunun her kelimesine inanır ve sıkı çalışmayı bırakırdım. Takdirin ve tanınmanın bana daha sonra, onu gerçekten kaldırabileceğim bir dönemde gelmesine seviniyorum."
         }
       ]
@@ -2645,7 +2651,7 @@
         {
           "prompt": "Do you think fast broadband should be treated as a basic public service, like water or electricity?",
           "promptTr": "Hızlı geniş bant internetin su ya da elektrik gibi temel bir kamu hizmeti sayılması gerektiğini düşünüyor musun?",
-          "answer": "I'd say yes, mostly. Without decent connectivity, you can't apply for jobs, see a doctor online, or even do homework. That said, building broadband in remote areas is really expensive, so I get why governments hesitate. Maybe the answer is a basic, guaranteed connection, with faster upgrades left to the market.",
+          "answer": "I'd say yes, mostly. Without decent connectivity, you can't apply for jobs, see a doctor online, or even do homework. Then again, building broadband in remote areas is really expensive, so I get why governments hesitate. Maybe the answer is a basic, guaranteed connection, with faster upgrades left to the market.",
           "answerTr": "Büyük ölçüde evet derim. İyi bir bağlantı olmadan iş başvurusu yapamaz, internetten doktora görünemez, hatta ödev bile yapamazsın. Yine de uzak bölgelere geniş bant götürmek gerçekten pahalı, hükümetlerin neden tereddüt ettiğini anlıyorum. Belki çözüm, garantili temel bir bağlantı olur; daha hızlı yükseltmeler de piyasaya bırakılır."
         },
         {
@@ -2655,8 +2661,8 @@
           "answerTr": "Depolama, dosyalarının durduğu yerdir; dizüstün ya da bir bulut hesabı gibi. Yedek ise başka bir yerde tutulan ikinci kopyadır, böylece ilki kaybolursa geri getirebilirsin. Örneğin fotoğraflarım telefonumda duruyor ama varsayılan olarak buluta da yedekleniyor; telefonu göle düşürdüğümde beni bu kurtardı."
         },
         {
-          "prompt": "If you'd lost all your files in a data breach last year, what would you have done differently since then?",
-          "promptTr": "Geçen yıl bir veri ihlalinde bütün dosyalarını kaybetmiş olsaydın, o zamandan beri neyi farklı yapardın?",
+          "prompt": "If you'd lost all your files in a ransomware attack last year, what would you have done differently since then?",
+          "promptTr": "Geçen yıl bir fidye yazılımı saldırısında bütün dosyalarını kaybetmiş olsaydın, o zamandan beri neyi farklı yapardın?",
           "answer": "Honestly, I probably would've gotten a lot more careful. I'd have set up automatic backups on a second drive and turned on two-factor login everywhere. I'd also have changed the default settings on my router, which I've never touched. It's a bit embarrassing, but it usually takes a scare like that to change your habits.",
           "answerTr": "Açıkçası muhtemelen çok daha dikkatli olurdum. İkinci bir diske otomatik yedekleme kurar, her yerde iki aşamalı girişi açardım. Hiç dokunmadığım yönlendiricinin varsayılan ayarlarını da değiştirirdim. Biraz utanç verici ama alışkanlıkları değiştirmek için genelde böyle bir korku gerekiyor."
         }
@@ -2718,7 +2724,7 @@
           "prompt": "How would you tell your manager, diplomatically, that the analytics dashboard is giving misleading numbers? Then how would you say it to a friend?",
           "promptTr": "Analitik panelinin yanıltıcı rakamlar verdiğini yöneticine diplomatik bir dille nasıl söylersin? Peki bir arkadaşına nasıl söylerdin?",
           "answer": "To my manager I'd say, \"I've noticed the dashboard might be double-counting some users, so I'd suggest we verify the query before the board meeting.\" To a friend, I'd just say, \"Our analytics are totally broken. The filter's counting everyone twice, and nobody's noticed for months.\"",
-          "answerTr": "Yöneticime şöyle derdim: \"Panelin bazı kullanıcıları iki kez sayıyor olabileceğini fark ettim, yönetim toplantısından önce sorguyu doğrulamamızı öneririm.\" Bir arkadaşıma ise sadece \"Analitik verilerimiz tamamen bozuk. Filtre herkesi iki kez sayıyor ve aylardır kimse fark etmemiş\" derdim."
+          "answerTr": "Yöneticime şöyle derdim: \"Panelin bazı kullanıcıları iki kez sayıyor olabileceğini fark ettim, yönetim kurulu toplantısından önce sorguyu doğrulamamızı öneririm.\" Bir arkadaşıma ise sadece \"Analitik verilerimiz tamamen bozuk. Filtre herkesi iki kez sayıyor ve aylardır kimse fark etmemiş\" derdim."
         },
         {
           "prompt": "How would you convince a skeptical friend that social media algorithms shape what they believe?",
@@ -2795,7 +2801,7 @@
           "prompt": "In your own words, what's a trade-off in software design? Give an example.",
           "promptTr": "Kendi cümlelerinle yazılım tasarımında ödünleşim nedir? Bir örnek ver.",
           "answer": "A trade-off is when improving one thing makes something else worse, so you have to choose. Caching is a classic example: it speeds things up and removes a bottleneck, but users might see stale data. Neither option's wrong; it depends on what matters more for that product, and you should be honest about what you're giving up.",
-          "answerTr": "Ödünleşim, bir şeyi iyileştirmenin başka bir şeyi kötüleştirdiği ve seçim yapmak zorunda kaldığın durumdur. Önbelleğe alma klasik bir örnektir: işleri hızlandırır ve bir darboğazı ortadan kaldırır ama kullanıcılar eski veri görebilir. İki seçenek de yanlış değildir; o ürün için neyin daha önemli olduğuna bağlıdır ve neden vazgeçtiğin konusunda dürüst olmalısın."
+          "answerTr": "Ödünleşim, bir şeyi iyileştirmenin başka bir şeyi kötüleştirdiği ve seçim yapmak zorunda kaldığın durumdur. Önbelleğe alma klasik bir örnektir: işleri hızlandırır ve bir darboğazı ortadan kaldırır ama kullanıcılar eski veri görebilir. İki seçenek de yanlış değildir; o ürün için neyin daha önemli olduğuna bağlıdır ve neyden vazgeçtiğin konusunda dürüst olmalısın."
         },
         {
           "prompt": "Think of a startup that ignored scalability early on. If it had designed its first product with scalability in mind, how would things be different now?",
@@ -2806,7 +2812,7 @@
         {
           "prompt": "Some engineers say maintainable code matters more than fast code. Do you agree?",
           "promptTr": "Bazı mühendisler bakımı kolay kodun hızlı koddan daha önemli olduğunu söylüyor. Katılıyor musun?",
-          "answer": "Mostly, yes. Code gets read far more often than it's written, so a maintainable module saves the whole team time. Admittedly, there are cases where throughput really matters, like payment processing at scale. But even then, I'd write it clearly first, measure it, and only optimize the parts that are actually slow.",
+          "answer": "Mostly, yes. Code gets read far more often than it's written, so a maintainable module saves the whole team time. To be fair, there are cases where throughput really matters, like payment processing at scale. But even then, I'd write it clearly first, measure it, and only optimize the parts that are actually slow.",
           "answerTr": "Büyük ölçüde evet. Kod yazıldığından çok daha sık okunur, bu yüzden bakımı kolay bir modül bütün ekibe zaman kazandırır. Kabul, iş hacminin gerçekten önemli olduğu durumlar var; büyük ölçekte ödeme işleme gibi. Ama o zaman bile önce açık yazar, ölçer ve sadece gerçekten yavaş olan kısımları iyileştiririm."
         }
       ]
@@ -3003,7 +3009,7 @@
         },
         {
           "phrase": "a quick fix",
-          "turkish": "geçici, üstünkörü çözüm",
+          "turkish": "geçici, üstünkörü çözüm (sorunun kökünü çözmeyen)",
           "example": "Restarting the server is a quick fix, but it won't stop the regression.",
           "exampleTr": "Sunucuyu yeniden başlatmak geçici bir çözüm ama gerilemeyi durdurmaz."
         },
@@ -3024,7 +3030,7 @@
         {
           "prompt": "How would you convince a product manager to give the team a full sprint for bug fixes instead of new features?",
           "promptTr": "Bir ürün yöneticisini, ekibe yeni özellikler yerine hata düzeltmeleri için tam bir sprint vermeye nasıl ikna ederdin?",
-          "answer": "I'd reframe it in terms of what they care about. I'd show them that we've reopened the same defects three times and that maintenance is eating half of every sprint anyway. One focused sprint would let the team pay down that debt and ship features faster afterward. Admittedly, the roadmap slips a little, but it's a short-term cost.",
+          "answer": "I'd reframe it in terms of what they care about. I'd show them that we've reopened the same defects three times and that maintenance is eating half of every sprint anyway. One focused sprint would let the team pay down that debt and ship features faster afterward. Mind you, the roadmap slips a little, but it's a short-term cost.",
           "answerTr": "Konuyu onların önemsediği şeyler üzerinden yeniden çerçevelerdim. Aynı kusurları üç kez yeniden açtığımızı ve bakımın zaten her sprintin yarısını yediğini gösterirdim. Odaklı bir sprint o borcu azaltmamızı ve sonrasında özellikleri daha hızlı çıkarmamızı sağlar. Kabul, yol haritası biraz kayar ama bu kısa vadeli bir maliyet."
         },
         {
@@ -3094,19 +3100,19 @@
         {
           "prompt": "Are startups overrated as a career choice for young people?",
           "promptTr": "Gençler için kariyer seçeneği olarak girişimler abartılıyor mu?",
-          "answer": "A little, yes. Most startups fail, and equity in a company that never becomes profitable is basically worthless. That said, you learn incredibly fast in a small team, and you tap into skills a big company might never let you use. So I'd say it's worth it early on, as long as you go in with open eyes.",
-          "answerTr": "Biraz evet. Girişimlerin çoğu batar ve hiç kâra geçmeyen bir şirketteki hisse aslında değersizdir. Yine de küçük bir ekipte inanılmaz hızlı öğrenirsin ve büyük bir şirketin belki hiç kullanmana izin vermeyeceği becerilerine el atarsın. O yüzden gözün açık girdiğin sürece kariyerin başında buna değer derim."
+          "answer": "A little, yes. Most startups fail, and equity in a company that never becomes profitable is basically worthless. Still, you learn incredibly fast in a small team, and you tap into skills a big company might never let you use. So I'd say it's worth it early on, as long as you go in with open eyes.",
+          "answerTr": "Biraz evet. Girişimlerin çoğu batar ve hiç kâra geçmeyen bir şirketteki hisse aslında değersizdir. Yine de küçük bir ekipte inanılmaz hızlı öğrenirsin ve büyük bir şirketin belki hiç kullanmana izin vermeyeceği becerilerini kullanma fırsatı bulursun. O yüzden gözün açık girdiğin sürece kariyerin başında buna değer derim."
         },
         {
           "prompt": "Pitch an idea for a small business to a prospective investor in under a minute.",
           "promptTr": "Olası bir yatırımcıya küçük bir iş fikrini bir dakikadan kısa sürede anlat.",
           "answer": "Every apartment building has people who'd share tools if it were easy. Our app lets neighbors lend drills, ladders, and tents safely. It's a small niche, but it's gaining traction fast: we've got three hundred buildings in six months with zero ads. With your backing, we'd scale up to five more cities next year.",
-          "answerTr": "Her apartmanda kolay olsa aletlerini paylaşacak insanlar var. Uygulamamız komşuların matkap, merdiven ve çadır gibi şeyleri güvenle ödünç vermesini sağlıyor. Küçük bir niş ama hızla ilgi görüyor: hiç reklam yapmadan altı ayda üç yüz binaya ulaştık. Sizin desteğinizle gelecek yıl beş şehre daha büyüyeceğiz."
+          "answerTr": "Her apartmanda kolay olsa aletlerini paylaşacak insanlar var. Uygulamamız komşuların matkap, merdiven ve çadır gibi şeyleri güvenle ödünç vermesini sağlıyor. Küçük bir niş ama hızla ilgi görüyor: hiç reklam yapmadan altı ayda üç yüz binaya ulaştık. Sizin desteğinizle gelecek yıl beş şehre daha büyüyebiliriz."
         },
         {
           "prompt": "How would you tell your team, tactfully, that the company has to scale back after losing its funding? Then how would you tell a close friend?",
           "promptTr": "Şirketin finansmanını kaybettikten sonra küçülmek zorunda olduğunu ekibine nasıl incelikle söylerdin? Peki yakın bir arkadaşına nasıl anlatırdın?",
-          "answer": "To the team, I'd say, \"Our main investor has pulled out, so we're going to scale back some plans while we look for new backing. Nobody's losing their job today, and I'll be fully transparent.\" To a friend, I'd just admit, \"Honestly, I'm terrified. The money's gone, and I don't know if the venture's still viable.\"",
+          "answer": "To the team, I'd say, \"Our main investor has pulled out, so we're going to scale back some plans while we look for new backing. Nobody's losing their job today, and I'll be fully transparent.\" To a friend, I'd just admit, \"To be honest, I'm terrified. The money's gone, and I don't know if the venture's still viable.\"",
           "answerTr": "Ekibe şöyle derdim: \"Ana yatırımcımız çekildi, yeni destek ararken bazı planlarımızı küçülteceğiz. Bugün kimse işini kaybetmiyor ve size karşı tamamen şeffaf olacağım.\" Bir arkadaşıma ise açıkça \"Açıkçası ödüm kopuyor. Para bitti ve girişim hâlâ ayakta kalabilir mi bilmiyorum\" derdim."
         }
       ]
@@ -3239,7 +3245,7 @@
         {
           "prompt": "Do you think a long economic boom is always good news for ordinary people, or does it come with hidden costs?",
           "promptTr": "Uzun süren bir ekonomik patlama sıradan insanlar için her zaman iyi bir haber midir, yoksa gizli bedelleri var mı?",
-          "answer": "Mostly, I'd say it's good news, since jobs are easier to find and wages tend to rise. That said, a boom often pushes rents and home prices way up, so people who don't own property can actually feel poorer. And when prices plunge afterward, it's usually ordinary families who take the hardest hit.",
+          "answer": "Mostly, I'd say it's good news, since jobs are easier to find and wages tend to rise. All the same, a boom often pushes rents and home prices way up, so people who don't own property can actually feel poorer. And when prices plunge afterward, it's usually ordinary families who take the hardest hit.",
           "answerTr": "Genel olarak iyi haber derim, çünkü iş bulmak kolaylaşır ve ücretler artma eğilimindedir. Yine de patlama dönemleri çoğu zaman kiraları ve konut fiyatlarını çok yükseltir, bu yüzden mülkü olmayanlar kendilerini aslında daha yoksul hissedebilir. Sonrasında fiyatlar çakıldığında da en ağır darbeyi genellikle sıradan aileler yer."
         },
         {
@@ -3312,7 +3318,7 @@
         {
           "prompt": "How would you tell your boss, diplomatically, that the project's budget is unrealistic? Then how would you say it to a friend?",
           "promptTr": "Patronuna projenin bütçesinin gerçekçi olmadığını diplomatik bir dille nasıl söylerdin? Peki aynı şeyi bir arkadaşına nasıl söylerdin?",
-          "answer": "To my boss, I'd say: \"I've gone through the numbers, and I'm concerned the current allocation won't cover our overhead. Could we factor in a small buffer?\" To a friend, I'd just say, \"Honestly, the budget's a joke. We'll go over it in a month, and someone's going to have to rein in the spending.\"",
+          "answer": "To my boss, I'd say: \"I've gone through the numbers, and I'm concerned the current allocation won't cover our overhead. Could we factor in a small buffer?\" To a friend, I'd just say, \"Seriously, the budget's a joke. We'll go over it in a month, and someone's going to have to rein in the spending.\"",
           "answerTr": "Patronuma şöyle derdim: \"Rakamları inceledim ve mevcut tahsisatın genel giderlerimizi karşılamayacağından endişeliyim. Küçük bir pay ekleyebilir miyiz?\" Bir arkadaşıma ise sadece şunu derdim: \"Açıkçası bütçe tam bir şaka. Bir ayda aşarız, sonra da birinin harcamaları dizginlemesi gerekecek.\""
         },
         {
@@ -3390,7 +3396,7 @@
         {
           "prompt": "Is it fair that college tuition is so expensive in some countries, or are students simply paying for what they get?",
           "promptTr": "Bazı ülkelerde üniversite öğrenim ücretlerinin bu kadar yüksek olması adil mi, yoksa öğrenciler yalnızca aldıkları hizmetin karşılığını mı ödüyor?",
-          "answer": "I don't think it's fair when tuition is so high that students graduate with crushing debt. Education benefits society as a whole, not just the student. Admittedly, universities aren't cheap to run, and scholarships and financial aid do help a lot of recipients. But I'd still say the cost shouldn't fall so heavily on eighteen-year-olds.",
+          "answer": "I don't think it's fair when tuition is so high that students graduate with crushing debt. Education benefits society as a whole, not just the student. Sure, universities aren't cheap to run, and scholarships and financial aid do help a lot of recipients. But I'd still say the cost shouldn't fall so heavily on eighteen-year-olds.",
           "answerTr": "Öğrencilerin ezici borçlarla mezun olacağı kadar yüksek öğrenim ücretlerinin adil olduğunu düşünmüyorum. Eğitim yalnızca öğrenciye değil, bütün topluma fayda sağlar. Kabul etmek gerekir ki üniversiteleri işletmek ucuz değil ve burslarla mali yardımlar pek çok öğrenciye gerçekten destek oluyor. Yine de bu yükün bu kadar ağır biçimde on sekiz yaşındakilere binmemesi gerektiğini söylerdim."
         }
       ]
@@ -3417,7 +3423,6 @@
         "specialized",
         "appoint",
         "interim",
-        "freshman",
         "terminate"
       ],
       "synonyms": {},
@@ -3451,7 +3456,7 @@
         {
           "prompt": "Tell me about a time someone acted as a mentor to you. What did you learn?",
           "promptTr": "Birinin sana akıl hocalığı yaptığı bir zamanı anlat. Ne öğrendin?",
-          "answer": "When I was a freshman, a senior in my program sort of became my mentor. She showed me which professors to take and how to apply for internships. Honestly, her advice helped me get my first summer job. The biggest thing I learned, though, was that most accomplishments come from asking for help early, not from struggling alone.",
+          "answer": "When I was a freshman, a senior in my program sort of became my mentor. She showed me which professors to take and how to apply for internships. Truth be told, her advice helped me get my first summer job. The biggest thing I learned, though, was that most accomplishments come from asking for help early, not from struggling alone.",
           "answerTr": "Üniversitede birinci sınıftayken bölümümdeki son sınıf öğrencilerinden biri bir nevi akıl hocam oldu. Bana hangi hocaların derslerini almam gerektiğini ve staj başvurusunu nasıl yapacağımı gösterdi. Açıkçası tavsiyeleri ilk yaz işimi bulmama yardım etti. Yine de öğrendiğim en büyük şey, başarıların çoğunun yalnız başına boğuşmaktan değil, erkenden yardım istemekten geldiğiydi."
         },
         {
@@ -3602,7 +3607,7 @@
         },
         {
           "prompt": "Describe a time when a meeting went badly. What happened, and what would have helped?",
-          "promptTr": "Bir toplantının kötü geçtiği bir zamanı anlat. Ne oldu ve ne işe yarardı?",
+          "promptTr": "Bir toplantının kötü geçtiği bir zamanı anlat. Ne oldu ve neler yardımcı olurdu?",
           "answer": "Last spring, we had a planning meeting with no agenda and nobody presiding over it. Two people argued for an hour, the quieter contributors never spoke, and we adjourned without any decisions. Looking back, a clear agenda and a short follow-up email would've helped a lot, and so would asking everyone for input before the meeting.",
           "answerTr": "Geçen bahar gündemi olmayan ve kimsenin yönetmediği bir planlama toplantısı yaptık. İki kişi bir saat tartıştı, daha sessiz katılımcılar hiç konuşmadı ve hiçbir karar almadan toplantıyı kapattık. Geriye dönüp bakınca net bir gündem ve kısa bir takip e-postası çok işe yarardı; toplantıdan önce herkesin görüşünü almak da öyle."
         },
@@ -3610,7 +3615,7 @@
           "prompt": "What's the difference between collaboration and simple cooperation? Give an example from school or work.",
           "promptTr": "İş birliği ile basit yardımlaşma arasındaki fark nedir? Okuldan ya da işten bir örnek ver.",
           "answer": "Cooperation is when people stay out of each other's way and help when asked. Collaboration goes further: you actually build something together and share the credit. For example, two departments can be cooperative by sharing data, but real collaboration means they design the project together from day one, with everyone's involvement.",
-          "answerTr": "Yardımlaşma, insanların birbirinin işine karışmaması ve istendiğinde yardım etmesidir. İş birliği daha ileri gider: gerçekten birlikte bir şey inşa edersiniz ve başarıyı paylaşırsınız. Örneğin iki departman verilerini paylaşarak iş birliğine açık davranabilir, ama gerçek iş birliği projeyi ilk günden herkesin katılımıyla birlikte tasarlamaları demektir."
+          "answerTr": "Yardımlaşma, insanların birbirinin işine karışmaması ve istendiğinde yardım etmesidir. İş birliği daha ileri gider: gerçekten birlikte bir şey inşa edersiniz ve başarıyı paylaşırsınız. Örneğin iki departman verilerini paylaşarak yardımlaşmaya açık davranabilir, ama gerçek iş birliği projeyi ilk günden herkesin katılımıyla birlikte tasarlamaları demektir."
         }
       ]
     },
@@ -3670,14 +3675,14 @@
         {
           "prompt": "Do you agree that the best negotiators are the ones who never concede anything?",
           "promptTr": "En iyi müzakerecilerin hiçbir şeyden taviz vermeyenler olduğu görüşüne katılıyor musun?",
-          "answer": "I disagree, mostly. Refusing to concede anything turns every talk into a zero-sum game, and the other side usually walks away resentful. That said, you shouldn't give in too quickly either; good negotiators know which concessions are cheap for them and valuable to the other side. That's how you actually bridge the gap.",
-          "answerTr": "Büyük ölçüde katılmıyorum. Hiçbir şeyden taviz vermemek her görüşmeyi birinin kazanıp diğerinin kaybettiği bir oyuna çevirir ve karşı taraf genellikle kırgın ayrılır. Bununla birlikte çok çabuk boyun eğmemek de gerekir; iyi müzakereciler hangi tavizlerin kendilerine ucuza patladığını, karşı taraf için ise değerli olduğunu bilir. Aradaki farkı gerçekten böyle kapatırsınız."
+          "answer": "I disagree, mostly. Refusing to concede anything turns every talk into a zero-sum game, and the other side usually walks away resentful. Even so, you shouldn't give in too quickly either; good negotiators know which concessions are cheap for them and valuable to the other side. That's how you actually bridge the gap.",
+          "answerTr": "Büyük ölçüde katılmıyorum. Hiçbir şeyden taviz vermemek her görüşmeyi birinin kazanıp diğerinin kaybettiği bir oyuna çevirir ve karşı taraf genellikle kırgın ayrılır. Bununla birlikte çok çabuk boyun eğmemek de gerekir; iyi müzakereciler hangi tavizlerin kendilerine ucuza mal olduğunu, karşı taraf için ise değerli olduğunu bilir. Aradaki farkı gerçekten böyle kapatırsınız."
         },
         {
           "prompt": "Think of a past disagreement. If you had been more flexible, how might things be different between you and that person today?",
           "promptTr": "Geçmişteki bir anlaşmazlığı düşün. Daha esnek davransaydın bugün o kişiyle aranızda neler farklı olabilirdi?",
           "answer": "There's an old friend I fell out with over a group trip. If I'd been willing to compromise on the dates, we'd probably still be close. Instead, I dug in, and a small sticking point turned into a real rift. We've since tried to smooth things over, but it's still a bit delicate.",
-          "answerTr": "Bir grup gezisi yüzünden arası bozulduğum eski bir arkadaşım var. Tarihlerde orta yolu bulmaya razı olsaydım muhtemelen hâlâ yakın olurduk. Bunun yerine inat ettim ve küçük bir anlaşmazlık noktası gerçek bir kopukluğa dönüştü. O zamandan beri araları düzeltmeye çalıştık ama konu hâlâ biraz hassas."
+          "answerTr": "Bir grup gezisi yüzünden aramın bozulduğu eski bir arkadaşım var. Tarihlerde orta yolu bulmaya razı olsaydım muhtemelen hâlâ yakın olurduk. Bunun yerine inat ettim ve küçük bir anlaşmazlık noktası gerçek bir kopukluğa dönüştü. O zamandan beri aramızı düzeltmeye çalıştık ama konu hâlâ biraz hassas."
         }
       ]
     },
@@ -3819,7 +3824,7 @@
         {
           "prompt": "If you had learned to manage your time better in high school, how would that have changed your life?",
           "promptTr": "Lisede zamanını daha iyi yönetmeyi öğrenmiş olsaydın bu hayatını nasıl değiştirirdi?",
-          "answer": "I think I would've been a lot less stressed, honestly. I was diligent, but I wasted hours on low-priority stuff and then stayed up cramming. If I'd built that habit early, I'd probably have had more time for sports and friends. I'm not sure my grades would've changed much, though; the competence was there, just not the system.",
+          "answer": "I think I would've been a lot less stressed, to be honest. I was diligent, but I wasted hours on low-priority stuff and then stayed up cramming. If I'd built that habit early, I'd probably have had more time for sports and friends. I'm not sure my grades would've changed much, though; the competence was there, just not the system.",
           "answerTr": "Açıkçası çok daha az stresli olurdum diye düşünüyorum. Gayretliydim ama saatlerimi önemsiz işlere harcayıp sonra sabaha kadar ders çalışıyordum. Bu alışkanlığı erkenden edinseydim muhtemelen spora ve arkadaşlara daha çok zamanım olurdu. Yine de notlarımın çok değişeceğinden emin değilim; yetkinlik vardı, sadece bir sistem yoktu."
         }
       ]
@@ -3873,13 +3878,13 @@
         {
           "prompt": "How would you tell your boss diplomatically that a project should go on the back burner? Then how would you say it to a friend?",
           "promptTr": "Patronuna bir projenin ertelenmesi gerektiğini diplomatik bir dille nasıl söylerdin? Peki aynı şeyi bir arkadaşına nasıl söylerdin?",
-          "answer": "To my boss, I'd say something like, \"Given our current priorities, it might make sense to put this on the back burner and focus on the low-hanging fruit first.\" To a friend, I'd just say, \"Honestly, this project's going nowhere right now. Let's park it and do the easy stuff.\"",
+          "answer": "To my boss, I'd say something like, \"Given our current priorities, it might make sense to put this on the back burner and focus on the low-hanging fruit first.\" To a friend, I'd just say, \"Look, this project's going nowhere right now. Let's park it and do the easy stuff.\"",
           "answerTr": "Patronuma şöyle bir şey derdim: \"Şu anki önceliklerimizi düşünürsek bunu bir süre ertelemek ve önce kolay kazanımlara odaklanmak mantıklı olabilir.\" Bir arkadaşıma ise sadece şunu derdim: \"Açıkçası bu proje şu an hiçbir yere gitmiyor. Bir kenara koyalım, kolay işleri yapalım.\""
         },
         {
           "prompt": "Do you think business idioms like \"move the needle\" make communication clearer, or are they overrated?",
           "promptTr": "Sence \"move the needle\" gibi iş deyimleri iletişimi daha anlaşılır mı kılıyor, yoksa abartılıyorlar mı?",
-          "answer": "On balance, I think they're useful in small doses. A phrase like \"move the needle\" or \"the big picture\" gets the idea across quickly, and everyone in the room knows what you mean. That said, when people string five idioms together, it starts to sound like empty jargon, and colleagues who aren't native speakers can feel left out.",
+          "answer": "On balance, I think they're useful in small doses. A phrase like \"move the needle\" or \"the big picture\" gets the idea across quickly, and everyone in the room knows what you mean. Then again, when people string five idioms together, it starts to sound like empty jargon, and colleagues who aren't native speakers can feel left out.",
           "answerTr": "Genel olarak, az miktarda kullanıldıklarında faydalı olduklarını düşünüyorum. \"Move the needle\" ya da \"the big picture\" gibi bir ifade fikri hızla anlatıyor ve odadaki herkes ne demek istediğini anlıyor. Yine de insanlar art arda beş deyim sıralayınca bu boş bir jargon gibi gelmeye başlıyor ve anadili İngilizce olmayan meslektaşlar kendini dışlanmış hissedebiliyor."
         },
         {
@@ -3896,6 +3901,7 @@
       "titleEn": "Education and school",
       "words": [
         "academy",
+        "freshman",
         "sophomore",
         "enroll",
         "admission",
@@ -3923,7 +3929,7 @@
           "phrase": "take attendance",
           "turkish": "yoklama almak",
           "example": "Ms. Reyes takes attendance at the start of every class, so don't be late.",
-          "exampleTr": "Bayan Reyes her dersin başında yoklama alıyor, o yüzden geç kalma."
+          "exampleTr": "Reyes Öğretmen her dersin başında yoklama alıyor, o yüzden geç kalma."
         },
         {
           "phrase": "in the absence of sth",
@@ -3960,7 +3966,7 @@
         {
           "prompt": "Should attendance count toward a student's final grade? Why or why not?",
           "promptTr": "Derse devam, öğrencinin final notuna dâhil edilmeli mi? Neden?",
-          "answer": "I'd say yes, but only a little. Showing up regularly creates an environment that's conducive to learning, and students who are rarely absent usually do better. Admittedly, attendance doesn't prove anyone's actually paying attention, and some students miss class for serious reasons. So I'd keep it at, say, five percent, with exceptions for illness.",
+          "answer": "I'd say yes, but only a little. Showing up regularly creates an environment that's conducive to learning, and students who are rarely absent usually do better. Granted, attendance doesn't prove anyone's actually paying attention, and some students miss class for serious reasons. So I'd keep it at, say, five percent, with exceptions for illness.",
           "answerTr": "Bence evet, ama çok az. Derslere düzenli gelmek öğrenmeye elverişli bir ortam yaratıyor ve nadiren devamsızlık yapan öğrenciler genellikle daha başarılı oluyor. Kabul etmek gerekir ki derse gelmek kimsenin gerçekten dikkatini verdiğini kanıtlamaz ve bazı öğrenciler ciddi sebeplerle derse gelemiyor. O yüzden bunu, diyelim ki yüzde beşte tutar, hastalık için istisna tanırdım."
         }
       ]
@@ -4033,7 +4039,7 @@
         {
           "prompt": "If you could run any experiment with unlimited money, what would you study?",
           "promptTr": "Sınırsız paran olsa ve istediğin deneyi yapabilsen, neyi araştırırdın?",
-          "answer": "I'd probably probe how social media affects teenagers' attention spans over ten years. Most current research is short and not very systematic. With unlimited funding, I'd follow thousands of kids, use a rigorous methodology, and pore over the data with a team of statisticians. That said, I'd worry about privacy, so consent would be a big issue.",
+          "answer": "I'd probably probe how social media affects teenagers' attention spans over ten years. Most current research is short and not very systematic. With unlimited funding, I'd follow thousands of kids, use a rigorous methodology, and pore over the data with a team of statisticians. Still, I'd worry about privacy, so consent would be a big issue.",
           "answerTr": "Muhtemelen sosyal medyanın gençlerin dikkat süresini on yıl boyunca nasıl etkilediğini derinlemesine araştırırdım. Mevcut araştırmaların çoğu kısa süreli ve pek sistemli değil. Sınırsız bütçeyle binlerce çocuğu takip eder, titiz bir yöntem kullanır ve verileri bir istatistikçi ekibiyle didik didik incelerdim. Yine de mahremiyet konusunda endişelenirdim, bu yüzden onay meselesi çok önemli olurdu."
         }
       ]
@@ -4088,22 +4094,22 @@
         {
           "phrase": "a margin of error",
           "turkish": "hata payı",
-          "example": "The poll's margin of error is three points, so the gap is barely discernible.",
-          "exampleTr": "Anketin hata payı üç puan, yani aradaki fark neredeyse fark edilmiyor."
+          "example": "The margin of error is three points, so a lead that's only marginally bigger may not be real.",
+          "exampleTr": "Hata payı üç puan, yani bundan yalnızca biraz büyük bir fark gerçek olmayabilir."
         }
       ],
       "sayPrompts": [
         {
-          "prompt": "Imagine you had saved ten percent of every paycheck since your first job. How would your life be different now?",
-          "promptTr": "İlk işinden beri her maaşının yüzde onunu biriktirmiş olduğunu düşün. Hayatın şimdi nasıl farklı olurdu?",
-          "answer": "Honestly, the remainder of my twenties would've looked very different. Even a modest amount adds up, and with interest it would've grown substantially. I'd probably have a decent emergency fund instead of panicking about every shortfall. That said, I spent a handful of those paychecks on travel, and I don't regret that at all.",
-          "answerTr": "Açıkçası yirmili yaşlarımın geri kalanı çok farklı görünürdü. Küçük bir miktar bile birikiyor ve faiziyle önemli ölçüde büyürdü. Muhtemelen her para açığında paniğe kapılmak yerine elimde makul bir acil durum fonu olurdu. Yine de o maaşların birkaçını seyahate harcadım ve buna hiç pişman değilim."
+          "prompt": "If you'd been in charge of your school's budget last year, what would you have done differently?",
+          "promptTr": "Geçen yıl okulunun bütçesinden sen sorumlu olsaydın neyi farklı yapardın?",
+          "answer": "First, I'd have done a proper calculation of what each program really spent, since last year's projections were way off. A handful of clubs used up a substantial part of the money, so I'd have spread it more fairly. I'd also have kept the remainder as a buffer, because a shortfall in the spring always seems to hit the arts first.",
+          "answerTr": "Önce her programın gerçekte ne harcadığını düzgünce hesaplardım, çünkü geçen yılın tahminleri epey yanlıştı. Bir avuç kulüp paranın önemli bir kısmını harcamıştı, bu yüzden parayı daha adil dağıtırdım. Kalanını da yedek olarak tutardım, çünkü bahar dönemindeki bir bütçe açığı her seferinde önce sanat derslerini vuruyor gibi."
         },
         {
           "prompt": "Explain what a ratio is, and give an example from everyday life.",
           "promptTr": "Oranın ne olduğunu açıkla ve gündelik hayattan bir örnek ver.",
           "answer": "A ratio compares two amounts and shows how much of one you have for each unit of the other. Cooking rice is a good example: a common ratio is roughly two cups of water to one cup of rice. If you get the ratio wrong, even marginally, the texture changes noticeably, so the calculation actually matters.",
-          "answerTr": "Oran iki miktarı karşılaştırır ve birinin her birimine karşılık diğerinden ne kadar olduğunu gösterir. Pilav pişirmek iyi bir örnek: yaygın oran kabaca bir su bardağı pirince iki su bardağı sudur. Oranı çok az bile tutturamazsan kıvamı gözle görülür şekilde değişir, yani hesap gerçekten önemli."
+          "answerTr": "Oran iki miktarı karşılaştırır ve birinin her birimine karşılık diğerinden ne kadar olduğunu gösterir. Pilav pişirmek iyi bir örnek: yaygın oran kabaca bir su bardağı pirince iki su bardağı sudur. Oranı azıcık bile şaşırırsan kıvamı gözle görülür şekilde değişir, yani hesap gerçekten önemli."
         },
         {
           "prompt": "Do you think people trust statistics and projections too much?",
@@ -4169,18 +4175,18 @@
           "prompt": "How would you persuade someone who always trusts their gut to think more rationally about big decisions?",
           "promptTr": "Her zaman içgüdüsüne güvenen birini büyük kararlarda daha akılcı düşünmeye nasıl ikna ederdin?",
           "answer": "I'd start by admitting their gut isn't useless; instincts are often fast pattern-matching. Then I'd point out that our brains have predictable cognitive biases, so a gut feeling can be wrong in very consistent ways. Finally, I'd suggest a simple habit: before a big decision, write down your real motive and one rational argument against it.",
-          "answerTr": "İşe içgüdülerinin işe yaramaz olmadığını kabul ederek başlardım; içgüdüler çoğu zaman hızlı örüntü tanımadır. Sonra beynimizin öngörülebilir bilişsel yanlılıkları olduğunu, bu yüzden içgüdüsel bir hissin çok tutarlı biçimde yanılabileceğini belirtirdim. Son olarak basit bir alışkanlık önerirdim: büyük bir karardan önce asıl güdünü ve buna karşı bir akılcı argümanı yaz."
+          "answerTr": "İşe içgüdülerinin işe yaramaz olmadığını kabul ederek başlardım; içgüdüler çoğu zaman hızlı örüntü tanımadır. Sonra beynimizin öngörülebilir bilişsel yanlılıkları olduğunu, bu yüzden içgüdüsel bir hissin çok tutarlı biçimde yanılabileceğini belirtirdim. Son olarak basit bir alışkanlık önerirdim: büyük bir karardan önce asıl güdünü ve buna karşı akılcı bir karşı argümanı yaz."
         },
         {
           "prompt": "Tell me about a time curiosity got you into, or out of, trouble.",
-          "promptTr": "Merakının seni başını belaya soktuğu ya da beladan kurtardığı bir zamanı anlat.",
+          "promptTr": "Merakının başını belaya soktuğu ya da seni beladan kurtardığı bir zamanı anlat.",
           "answer": "When I was about ten, my curiosity got the better of me and I took apart my dad's old radio. I couldn't put it back together, and he was furious. But it sparked a real obsession with electronics, and that's partly why I'm studying engineering now. So, in a way, it was a turning point.",
           "answerTr": "Yaklaşık on yaşındayken merakıma yenik düştüm ve babamın eski radyosunu söktüm. Tekrar birleştiremedim ve babam çok kızdı. Ama bu bende elektroniğe karşı gerçek bir tutku başlattı ve şu an mühendislik okumamın bir sebebi de bu. Yani bir bakıma bir dönüm noktasıydı."
         },
         {
           "prompt": "If you had never owned a smartphone, would you have a better attention span now?",
           "promptTr": "Hiç akıllı telefonun olmasaydı, şimdi dikkat süren daha iyi olur muydu?",
-          "answer": "I suspect I would, at least a little. There's a lot of research on cognitive load and how constant notifications can inhibit focus. Then again, I might have found other distractions, like TV. Honestly, my dependence on my phone is more about habit than the device itself, and the realization that habits can change is kind of encouraging.",
+          "answer": "I suspect I would, at least a little. There's a lot of research on cognitive load and how constant notifications can inhibit focus. Then again, I might have found other distractions, like TV. Frankly, my dependence on my phone is more about habit than the device itself, and the realization that habits can change is kind of encouraging.",
           "answerTr": "Sanırım olurdu, en azından biraz. Bilişsel yük ve sürekli bildirimlerin odaklanmayı nasıl engelleyebildiği üzerine pek çok araştırma var. Öte yandan televizyon gibi başka dikkat dağıtıcılar da bulabilirdim. Açıkçası telefona olan bağımlılığım cihazdan çok alışkanlıkla ilgili ve alışkanlıkların değişebileceğini fark etmek biraz umut verici."
         }
       ]
@@ -4217,8 +4223,8 @@
         {
           "phrase": "defuse the tension",
           "turkish": "gerginliği yatıştırmak",
-          "example": "She cracked a joke to defuse the tension before the argument got too heated.",
-          "exampleTr": "Tartışma fazla kızışmadan gerginliği yatıştırmak için bir espri yaptı."
+          "example": "The mediator suggested a short break to defuse the tension between the two sides.",
+          "exampleTr": "Arabulucu, iki taraf arasındaki gerginliği yatıştırmak için kısa bir ara önerdi."
         },
         {
           "phrase": "in a fit of rage",
@@ -4243,19 +4249,19 @@
         {
           "prompt": "How would you tactfully tell a coworker that a comment they made was inappropriate? Then how would you say it to a close friend?",
           "promptTr": "Bir iş arkadaşına yaptığı bir yorumun uygunsuz olduğunu incelikle nasıl söylerdin? Peki aynısını yakın bir arkadaşına nasıl söylerdin?",
-          "answer": "With a coworker, I'd keep it calm and private: \"Hey, I'm sure you didn't mean anything by it, but that comment came across as a bit inappropriate.\" With a close friend, I'd be blunter: \"Dude, that was harsh. You can't say stuff like that.\" Either way, I'd want to defuse things, not provoke a fight.",
-          "answerTr": "Bir iş arkadaşıyla sakin ve baş başa konuşurdum: \"Kötü bir niyetin olmadığına eminim ama o yorum biraz uygunsuz kaçtı.\" Yakın bir arkadaşıma daha dolaysız olurdum: \"Dostum, bu çok sertti. Böyle şeyler söyleyemezsin.\" Her iki durumda da amacım ortamı yatıştırmak olurdu, kavga çıkarmak değil."
+          "answer": "With a coworker, I'd wait until we were alone and keep it short: \"That comment in the meeting was a bit inappropriate, and it landed badly with a few people. Could you be more careful next time?\" With a close friend, I'd be blunter: \"Dude, that was harsh. You can't say stuff like that.\" Either way, I'd want to defuse things, not provoke a fight.",
+          "answerTr": "Bir iş arkadaşıyla baş başa kalana kadar bekler ve kısa tutardım: \"Toplantıdaki o yorum biraz uygunsuzdu ve birkaç kişiye kötü geldi. Bir dahaki sefere biraz daha dikkat edebilir misin?\" Yakın bir arkadaşıma daha dolaysız olurdum: \"Dostum, bu çok sertti. Böyle şeyler söyleyemezsin.\" Her iki durumda da amacım ortamı yatıştırmak olurdu, kavga çıkarmak değil."
         },
         {
           "prompt": "Is it ever justified to confront someone in public, or should it always happen in private?",
           "promptTr": "Birinin üzerine herkesin önünde gitmek hiç haklı görülebilir mi, yoksa bu hep baş başa mı yapılmalı?",
           "answer": "Generally, I'd say private is better, because a public confrontation tends to heighten everyone's emotions, and the other person gets defensive. That said, if someone's being openly aggressive or cruel to another person, staying quiet is worse. In that case, speaking up right away can be completely justified, even if it's uncomfortable.",
-          "answerTr": "Genel olarak baş başa konuşmanın daha iyi olduğunu söylerim, çünkü herkesin önünde yaşanan bir yüzleşme herkesin duygularını tırmandırır ve karşı taraf savunmaya geçer. Yine de biri başka birine açıkça saldırgan ya da acımasız davranıyorsa, sessiz kalmak daha kötüdür. O durumda rahatsız edici olsa bile hemen sesini yükseltmek tamamen haklı olabilir."
+          "answerTr": "Genel olarak baş başa konuşmanın daha iyi olduğunu söylerim, çünkü herkesin önünde yaşanan bir yüzleşme herkesin duygularını tırmandırır ve karşı taraf savunmaya geçer. Yine de biri başka birine açıkça saldırgan ya da acımasız davranıyorsa, sessiz kalmak daha kötüdür. O durumda rahatsız edici olsa bile hemen itiraz etmek tamamen haklı olabilir."
         },
         {
           "prompt": "Tell me about a time you lost your cool. Looking back, what would you have done differently?",
           "promptTr": "Sakinliğini kaybettiğin bir zamanı anlat. Geriye dönüp baktığında neyi farklı yapardın?",
-          "answer": "A couple of years ago, a customer insulted me in front of my whole team, and I snapped back. The frustration had been building for weeks. Looking back, I'd have taken a breath and asked to continue the conversation privately. Admittedly, he was out of line, but my reaction just made the clash worse.",
+          "answer": "A couple of years ago, a customer insulted me in front of my whole team, and I snapped back. The frustration had been building for weeks. Looking back, I'd have taken a breath and asked to continue the conversation privately. To be fair, he was out of line, but my reaction just made the clash worse.",
           "answerTr": "Birkaç yıl önce bir müşteri bütün ekibimin önünde bana hakaret etti ve ben de ters bir cevap verdim. Bıkkınlık haftalardır birikiyordu. Geriye dönüp baktığımda derin bir nefes alır ve konuşmaya baş başa devam etmeyi isterdim. Kabul etmek gerekir ki o haddini aşmıştı ama benim tepkim sürtüşmeyi daha da kötüleştirdi."
         }
       ]
@@ -4321,7 +4327,7 @@
         {
           "prompt": "What's the difference between optimism and hope, in your own words?",
           "promptTr": "Kendi sözlerinle, iyimserlik ile umut arasındaki fark nedir?",
-          "answer": "For me, optimism is a general belief that things will turn out well, almost a personality trait. Hope is more active: you're hopeful about a specific outcome even when the odds aren't great. So an optimist expects good news, while a hopeful person works toward it. That said, the two often overlap.",
+          "answer": "For me, optimism is a general belief that things will turn out well, almost a personality trait. Hope is more active: you're hopeful about a specific outcome even when the odds aren't great. So an optimist expects good news, while a hopeful person works toward it. All the same, the two often overlap.",
           "answerTr": "Bana göre iyimserlik, işlerin iyi gideceğine dair genel bir inanç, neredeyse bir kişilik özelliği. Umut ise daha etkin: şartlar pek iyi olmasa bile belirli bir sonuç için umutlusun. Yani iyimser kişi iyi haber bekler, umutlu kişi ise ona doğru çalışır. Yine de ikisi çoğu zaman iç içe geçer."
         },
         {
@@ -4388,19 +4394,19 @@
         {
           "prompt": "Describe a time you had to bite the bullet and do something you'd been putting off.",
           "promptTr": "Ertelediğin bir şeyi dişini sıkıp yapmak zorunda kaldığın bir zamanı anlat.",
-          "answer": "Last spring I finally went to the dentist after months of ignoring a persistent toothache. The thought of it was daunting, honestly. But the problem was smaller than I'd feared, and the relief was huge. Looking back, my inability to just make the call caused me more stress than the treatment itself.",
+          "answer": "Last spring I finally went to the dentist after months of ignoring a persistent toothache. The thought of it was daunting, to be honest. But the problem was smaller than I'd feared, and the relief was huge. Looking back, my inability to just make the call caused me more stress than the treatment itself.",
           "answerTr": "Geçen bahar, aylarca geçmeyen bir diş ağrısını görmezden geldikten sonra nihayet dişçiye gittim. Açıkçası düşüncesi bile gözümü korkutuyordu. Ama sorun korktuğumdan küçüktü ve büyük bir rahatlama yaşadım. Geriye dönüp bakınca, bir türlü o telefonu açamamam bana tedavinin kendisinden daha çok stres yaşattı."
         },
         {
           "prompt": "If you had grown up in a really precarious situation, how do you think it would have shaped you?",
           "promptTr": "Gerçekten güvencesiz koşullarda büyümüş olsaydın, sence bu seni nasıl şekillendirirdi?",
-          "answer": "I imagine I'd have become tougher, but probably more anxious too. Kids who grow up in precarious homes often learn to tolerate a lot and to grapple with adult worries early. Admittedly, that can build real resilience. Still, I suspect I'd have found it harder to trust that things would ease up eventually.",
+          "answer": "I imagine I'd have become tougher, but probably more anxious too. Kids who grow up in precarious homes often learn to tolerate a lot and to grapple with adult worries early. Mind you, that can build real resilience. Still, I suspect I'd have found it harder to trust that things would ease up eventually.",
           "answerTr": "Sanırım daha dayanıklı ama muhtemelen daha kaygılı biri olurdum. Güvencesiz evlerde büyüyen çocuklar çoğu zaman pek çok şeye katlanmayı ve yetişkin dertleriyle erkenden boğuşmayı öğrenir. Kabul etmek gerekir ki bu gerçek bir dayanıklılık kazandırabilir. Yine de işlerin eninde sonunda hafifleyeceğine inanmakta daha çok zorlanırdım diye düşünüyorum."
         },
         {
           "prompt": "How would you politely tell your manager that your workload has become onerous? Then how would you tell a friend?",
           "promptTr": "Müdürüne iş yükünün ağırlaştığını kibarca nasıl söylerdin? Peki bunu bir arkadaşına nasıl anlatırdın?",
-          "answer": "To my manager, I'd say, \"I want to keep delivering good work, but my current workload's become fairly onerous. Could we look at priorities together?\" To a friend, I'd just say, \"Honestly, I'm drowning at work, and I'm stuck with everyone else's deadlines. I'm talking to my boss tomorrow regardless.\"",
+          "answer": "To my manager, I'd say, \"I want to keep delivering good work, but my current workload's become fairly onerous. Could we look at priorities together?\" To a friend, I'd just say, \"Ugh, I'm drowning at work, and I'm stuck with everyone else's deadlines. I'm talking to my boss tomorrow regardless.\"",
           "answerTr": "Müdürüme şöyle derdim: \"İyi iş çıkarmaya devam etmek istiyorum ama şu anki iş yüküm epey ağırlaştı. Öncelikleri birlikte gözden geçirebilir miyiz?\" Bir arkadaşıma ise sadece şunu derdim: \"Açıkçası işte boğuluyorum, herkesin teslim tarihleri bana kalıyor. Ne olursa olsun yarın patronumla konuşacağım.\""
         }
       ]
@@ -4476,7 +4482,7 @@
         {
           "prompt": "If you had been the principal of your school, what would you have done to support grieving students?",
           "promptTr": "Okulunun müdürü sen olsaydın, yas tutan öğrencilere destek olmak için ne yapardın?",
-          "answer": "I'd have trained teachers to notice students who seem troubled or fragile after a loss, instead of expecting them to bounce back in a week. I'd also have made sure nobody felt like a burden for asking for help. Admittedly, schools have limited budgets, but grief doesn't follow the school calendar.",
+          "answer": "I'd have trained teachers to notice students who seem troubled or fragile after a loss, instead of expecting them to bounce back in a week. I'd also have made sure nobody felt like a burden for asking for help. Sure, schools have limited budgets, but grief doesn't follow the school calendar.",
           "answerTr": "Öğretmenleri, bir kayıptan sonra sıkıntılı ya da kırılgan görünen öğrencileri fark etmeleri için eğitirdim; bir haftada toparlanmalarını beklemek yerine. Ayrıca yardım istediği için kimsenin kendini yük gibi hissetmemesini sağlardım. Kabul etmek gerekir ki okulların bütçesi sınırlı, ama yas okul takvimine göre işlemiyor."
         }
       ]
@@ -4551,7 +4557,7 @@
         {
           "prompt": "Tell me about a time someone handled an awkward situation really well.",
           "promptTr": "Birinin tuhaf, rahatsız edici bir durumu çok iyi idare ettiği bir anı anlat.",
-          "answer": "At my cousin's wedding, the best man completely forgot his speech. It was incredibly awkward, but my aunt stepped in with a bit of wit, joked about her own wedding disasters, and soon everyone was laughing. It was so thoughtful of her, and honestly, I admired her restraint, because she never embarrassed him.",
+          "answer": "At my cousin's wedding, the best man completely forgot his speech. It was incredibly awkward, but my aunt stepped in with a bit of wit, joked about her own wedding disasters, and soon everyone was laughing. It was so thoughtful of her, and frankly, I admired her restraint, because she never embarrassed him.",
           "answerTr": "Kuzenimin düğününde sağdıç konuşmasını tamamen unuttu. İnanılmaz tuhaf bir andı ama teyzem araya girdi, biraz espriyle kendi düğün felaketleriyle dalga geçti ve kısa sürede herkes gülmeye başladı. Çok düşünceli bir davranıştı; açıkçası ölçülülüğüne de hayran kaldım, çünkü onu hiç mahcup etmedi."
         }
       ]
@@ -4611,20 +4617,20 @@
         {
           "prompt": "How would you tell your boss diplomatically that a report is too convoluted? Then how would you say it to a friend?",
           "promptTr": "Patronuna bir raporun fazla dolambaçlı olduğunu diplomatik bir dille nasıl söylersin? Peki aynı şeyi bir arkadaşına nasıl söylersin?",
-          "answer": "To my boss, I'd say, \"The analysis is strong, but a few sections feel a bit convoluted. Could we pare it down so the key points come across with more clarity?\" To a friend, I'd just say, \"Honestly, it's way too complicated. Cut half of it and get to the point.\"",
+          "answer": "To my boss, I'd say, \"The analysis is strong, but a few sections feel a bit convoluted. Could we pare it down so the key points come across with more clarity?\" To a friend, I'd just say, \"Seriously, it's way too complicated. Cut half of it and get to the point.\"",
           "answerTr": "Patronuma şöyle derdim: \"Analiz güçlü ama birkaç bölüm biraz dolambaçlı geliyor. Ana noktalar daha net anlaşılsın diye biraz sadeleştirebilir miyiz?\" Bir arkadaşıma ise sadece şunu derdim: \"Açıkçası çok karışık olmuş. Yarısını at ve sadede gel.\""
         },
         {
           "prompt": "If a teacher had explained your hardest school subject more clearly, would you have enjoyed it more?",
           "promptTr": "Bir öğretmen en zorlandığın dersi daha açık anlatsaydı, o dersten daha çok keyif alır mıydın?",
-          "answer": "Probably, yes. Math was my weakest subject, and my teacher's explanations were often vague. If she'd started with the basic ideas, I think I'd have grasped them much faster. That said, I didn't ask many questions either, so it wasn't entirely her fault. The complexity scared me more than the math itself.",
+          "answer": "Probably, yes. Math was my weakest subject, and my teacher's explanations were often vague. If she'd started with the basic ideas, I think I'd have grasped them much faster. Even so, I didn't ask many questions either, so it wasn't entirely her fault. The complexity scared me more than the math itself.",
           "answerTr": "Muhtemelen evet. Matematik en zayıf dersimdi ve öğretmenimin anlatımı çoğu zaman muğlaktı. Temel fikirlerle başlasaydı bence onları çok daha hızlı kavrardım. Yine de ben de pek soru sormuyordum, yani tamamen onun suçu değildi. Beni asıl korkutan matematiğin kendisinden çok karmaşıklığıydı."
         },
         {
           "prompt": "How would you convince a colleague to make their presentations more concise?",
           "promptTr": "Bir iş arkadaşını sunumlarını daha derli toplu yapmaya nasıl ikna edersin?",
-          "answer": "I'd point out that people's attention is limited, so a concise talk actually gets more of your ideas across. I'd suggest cutting superfluous slides and saving the details for questions, where they can elaborate if anyone asks. Admittedly, some topics need depth, but in other words, less really is more.",
-          "answerTr": "İnsanların dikkatinin sınırlı olduğunu, bu yüzden derli toplu bir konuşmanın aslında fikirlerin daha fazlasını aktardığını belirtirdim. Gereksiz slaytları çıkarmasını ve ayrıntıları soru kısmına saklamasını önerirdim; soran olursa orada açabilir. Kabul, bazı konular derinlik ister ama başka bir deyişle, az gerçekten çoktur."
+          "answer": "I'd point out that people's attention is limited, so a concise talk actually gets more of your ideas across. I'd suggest cutting superfluous slides and saving the details for questions, where they can elaborate if anyone asks. Granted, some topics need depth, but in most cases, less really is more.",
+          "answerTr": "İnsanların dikkatinin sınırlı olduğunu, bu yüzden derli toplu bir konuşmanın aslında fikirlerin daha fazlasını aktardığını belirtirdim. Gereksiz slaytları çıkarmasını ve ayrıntıları soru kısmına saklamasını önerirdim; soran olursa orada açabilir. Kabul, bazı konular derinlik ister ama çoğu durumda az gerçekten çoktur."
         }
       ]
     },
@@ -4976,7 +4982,7 @@
         {
           "prompt": "If your city had been planned on a much larger scale, how would daily life be different now?",
           "promptTr": "Şehrin çok daha büyük ölçekte planlanmış olsaydı, gündelik hayat bugün nasıl farklı olurdu?",
-          "answer": "I think life would be easier in some ways. With large-scale planning, we'd have wider roads and real parks instead of scattered little green spaces. That said, immense projects often destroy old neighborhoods, so we'd probably have lost a chunk of the city's character too.",
+          "answer": "I think life would be easier in some ways. With large-scale planning, we'd have wider roads and real parks instead of scattered little green spaces. Then again, immense projects often destroy old neighborhoods, so we'd probably have lost a chunk of the city's character too.",
           "answerTr": "Bence bazı açılardan hayat daha kolay olurdu. Büyük çaplı bir planlamayla oraya buraya dağılmış küçük yeşil alanlar yerine daha geniş yollarımız ve gerçek parklarımız olurdu. Yine de devasa projeler çoğu zaman eski mahalleleri yok eder; muhtemelen şehrin karakterinin bir kısmını da kaybederdik."
         },
         {
@@ -4988,7 +4994,7 @@
         {
           "prompt": "How would you tell a client formally that their budget is insufficient for the project? Then rephrase it casually for a coworker.",
           "promptTr": "Bir müşteriye bütçesinin proje için yetersiz olduğunu resmî bir dille nasıl söylersin? Sonra bunu bir iş arkadaşına gündelik bir dille yeniden ifade et.",
-          "answer": "Formally, I'd say, \"Having reviewed the scope, we feel the current budget is insufficient to cover the full project. We'd be happy to propose a smaller version.\" To a coworker, I'd say, \"Honestly, their budget's way too small. It barely covers the bare minimum.\"",
+          "answer": "Formally, I'd say, \"Having reviewed the scope, we feel the current budget is insufficient to cover the full project. We'd be happy to propose a smaller version.\" To a coworker, I'd say, \"Look, their budget's way too small. It barely covers the bare minimum.\"",
           "answerTr": "Resmî olarak şöyle derdim: \"Kapsamı inceledikten sonra mevcut bütçenin projenin tamamını karşılamak için yetersiz olduğunu düşünüyoruz. Daha küçük bir versiyon önermekten memnuniyet duyarız.\" Bir iş arkadaşıma ise şöyle derdim: \"Açıkçası bütçeleri çok az. Asgari olanı ancak karşılıyor.\""
         }
       ]
@@ -5060,12 +5066,12 @@
           "prompt": "How would you convince a friend that a too-good-to-be-true investment is a red flag?",
           "promptTr": "Bir arkadaşını, gerçek olamayacak kadar iyi görünen bir yatırımın tehlike işareti olduğuna nasıl ikna edersin?",
           "answer": "I'd say if someone promises huge returns with no risk, that's a red flag, period. Real investments always carry some likelihood of loss. I'd admit it's conceivably legit, but that's a long shot, and the repercussions of losing your savings are way worse than missing out on a deal.",
-          "answerTr": "Biri hiç risk olmadan büyük kazanç vaat ediyorsa bunun bir tehlike işareti olduğunu, nokta, derdim. Gerçek yatırımlarda her zaman bir kayıp olasılığı vardır. Belki de gerçekten yasal olabileceğini kabul ederim ama bu zayıf bir ihtimal ve birikimini kaybetmenin sonuçları bir fırsatı kaçırmaktan çok daha kötü."
+          "answerTr": "Biri hiç risk olmadan büyük kazanç vaat ediyorsa bunun bir tehlike işareti olduğunu, nokta, derdim. Gerçek yatırımlarda her zaman bir kayıp olasılığı vardır. Belki de gerçekten sahici olabileceğini kabul ederim ama bu zayıf bir ihtimal ve birikimini kaybetmenin sonuçları bir fırsatı kaçırmaktan çok daha kötü."
         },
         {
           "prompt": "Do you think it's wiser to play it safe or take risks early in your career?",
           "promptTr": "Sence kariyerin başında riske girmemek mi daha akıllıca, yoksa risk almak mı?",
-          "answer": "On balance, I'd say take some risks early, while the stakes are lower. Staying in a stable job is a safe bet, but it can become a slippery slope where you never try anything new. Admittedly, risk is a double-edged sword, so having some savings before you jump is just common sense.",
+          "answer": "On balance, I'd say take some risks early, while the stakes are lower. Staying in a stable job is a safe bet, but it can become a slippery slope where you never try anything new. To be fair, risk is a double-edged sword, so having some savings before you jump is just common sense.",
           "answerTr": "Genel olarak bakınca, kaybedecek şey azken erken dönemde biraz risk almayı öneririm. İstikrarlı bir işte kalmak garanti bir seçim ama hiç yeni bir şey denemediğin kaygan bir zemine dönüşebilir. Kabul, risk iki ucu keskin bir kılıç; o yüzden atlamadan önce biraz birikim yapmak sağduyunun gereği."
         }
       ]
@@ -5100,7 +5106,7 @@
         {
           "phrase": "diminishing returns",
           "turkish": "azalan verim",
-          "example": "After six hours of studying, you hit diminishing returns.",
+          "example": "After six hours of studying, you hit the point of diminishing returns.",
           "exampleTr": "Altı saat ders çalıştıktan sonra verim düşmeye başlıyor."
         },
         {
@@ -5132,7 +5138,7 @@
         {
           "prompt": "Suppose your town hadn't invested in public transportation. What would traffic be like now?",
           "promptTr": "Kasaban toplu taşımaya yatırım yapmamış olsaydı, trafik şimdi nasıl olurdu?",
-          "answer": "Honestly, I think it'd be a nightmare. Traffic would have kept getting worse, air quality would've deteriorated, and the recent surge in new residents would have overwhelmed the roads. The buses aren't perfect, but they definitely diminish congestion and foster a sense that the city belongs to everyone, not just drivers.",
+          "answer": "If I'm honest, I think it'd be a nightmare. Traffic would have kept getting worse, air quality would've deteriorated, and the recent surge in new residents would have overwhelmed the roads. The buses aren't perfect, but they definitely ease congestion and foster a sense that the city belongs to everyone, not just drivers.",
           "answerTr": "Açıkçası bence kâbus gibi olurdu. Trafik giderek kötüleşir, hava kalitesi bozulur ve son dönemdeki yeni sakin akını yolları tıkardı. Otobüsler kusursuz değil ama trafik sıkışıklığını kesinlikle azaltıyor ve şehrin sadece sürücülerin değil herkesin olduğu duygusunu güçlendiriyor."
         }
       ]
@@ -5177,7 +5183,7 @@
         },
         {
           "phrase": "a change of heart",
-          "turkish": "fikir değiştirme, caymak",
+          "turkish": "fikir değiştirme, kararından dönme",
           "example": "She had a change of heart and decided to renew her lease after all.",
           "exampleTr": "Fikrini değiştirdi ve sonunda kira sözleşmesini yenilemeye karar verdi."
         },
@@ -5192,7 +5198,7 @@
         {
           "prompt": "Do you think hybrid work is here to stay, or will most companies eventually go back to the office?",
           "promptTr": "Sence hibrit çalışma kalıcı mı, yoksa çoğu şirket eninde sonunda ofise mi dönecek?",
-          "answer": "I think hybrid work's here to stay, mostly because people have gotten used to the flexibility. Going back five days a week would feel like reversing years of progress. That said, I can see why some managers push for it. There's a social side to the office that video calls just can't substitute for.",
+          "answer": "I think hybrid work's here to stay, mostly because people have gotten used to the flexibility. Going back five days a week would feel like reversing years of progress. Still, I can see why some managers push for it. There's a social side to the office that video calls just can't substitute for.",
           "answerTr": "Bence hibrit çalışma kalıcı, çünkü insanlar artık bu esnekliğe alıştı. Haftada beş gün ofise dönmek, yılların kazanımını geri almak gibi gelirdi. Yine de bazı yöneticilerin neden bunun için bastırdığını anlayabiliyorum. Ofisin, görüntülü görüşmelerin yerini tutamayacağı sosyal bir yanı var."
         },
         {
@@ -5264,14 +5270,14 @@
         {
           "prompt": "How would you tell your boss, diplomatically, that a project should be put on hold? And how would you say it to a friend?",
           "promptTr": "Patronuna bir projenin askıya alınması gerektiğini diplomatik bir dille nasıl söylerdin? Peki aynı şeyi bir arkadaşına nasıl söylerdin?",
-          "answer": "With my boss, I'd say something like, \"Given the budget situation, it might make sense to hold off until next quarter and resume once we've got more clarity.\" With a friend, I'd be much more direct: \"Honestly, we should just scrap this for now. It's not going anywhere.\"",
+          "answer": "With my boss, I'd say something like, \"Given the budget situation, it might make sense to hold off until next quarter and resume once we've got more clarity.\" With a friend, I'd be much more direct: \"Look, we should just scrap this for now. It's not going anywhere.\"",
           "answerTr": "Patronuma şöyle bir şey derdim: \"Bütçe durumunu düşününce, bir sonraki çeyreğe kadar beklemek ve durum netleşince devam etmek mantıklı olabilir.\" Bir arkadaşıma ise çok daha doğrudan olurdum: \"Açıkçası şimdilik bunu rafa kaldıralım. Hiçbir yere varmıyor.\""
         },
         {
           "prompt": "Tell me about a time you had to scrap a plan you were really excited about.",
           "promptTr": "Çok heyecanlandığın bir planı iptal etmek zorunda kaldığın bir zamanı anlat.",
-          "answer": "Last spring, a few friends and I planned a road trip, and we'd been looking forward to it for months. Then my friend's car broke down, and rental prices were crazy, so we had to scrap the whole thing. I was pretty disappointed at first, but we deferred it to the fall, and it actually turned out better.",
-          "answerTr": "Geçen bahar birkaç arkadaşla bir yol gezisi planlamıştık ve aylardır dört gözle bekliyorduk. Sonra arkadaşımın arabası bozuldu, kiralık araç fiyatları da uçmuştu; o yüzden her şeyi iptal etmek zorunda kaldık. Başta epey hayal kırıklığına uğradım ama geziyi sonbahara erteledik ve aslında daha da güzel geçti."
+          "answer": "Last spring, a few friends and I planned a road trip, and we'd been looking forward to it for months. Then my friend's car broke down, and rental prices were crazy, so we had to scrap the whole thing. I was pretty disappointed at first, but we postponed it until the fall, the campsite allowed us to defer our deposit, and it actually turned out better.",
+          "answerTr": "Geçen bahar birkaç arkadaşla bir yol gezisi planlamıştık ve aylardır dört gözle bekliyorduk. Sonra arkadaşımın arabası bozuldu, kiralık araç fiyatları da uçmuştu; o yüzden her şeyi iptal etmek zorunda kaldık. Başta epey hayal kırıklığına uğradım ama geziyi sonbahara erteledik, kamp alanı da kaporamızı ertelememize izin verdi ve aslında daha da güzel geçti."
         },
         {
           "prompt": "How would you convince your city to phase in a car-free downtown instead of banning cars overnight?",
@@ -5343,14 +5349,14 @@
         {
           "prompt": "Walk me through a project that started slowly but then gathered pace.",
           "promptTr": "Bana yavaş başlayıp sonra hız kazanan bir projeyi adım adım anlat.",
-          "answer": "Last year, I helped organize a book swap at our local library. For the first couple of months, maybe five people showed up. Then a local news site wrote about it, and things really started to gather pace. By summer, we had over fifty regulars, and now the library wants us to embark on a second location.",
-          "answerTr": "Geçen yıl mahalle kütüphanemizde bir kitap takası düzenlenmesine yardım ettim. İlk birkaç ay belki beş kişi geldi. Sonra yerel bir haber sitesi bizi yazdı ve işler gerçekten hız kazanmaya başladı. Yaza kadar elliden fazla müdavimimiz olmuştu ve şimdi kütüphane ikinci bir şube açmaya girişmemizi istiyor."
+          "answer": "Last year, I helped organize a book swap at our local library. For the first couple of months, maybe five people showed up. Then a local news site wrote about it, and things really started to gather pace. By summer, we had over fifty regulars, and now the library wants us to embark on a second swap at another branch.",
+          "answerTr": "Geçen yıl mahalle kütüphanemizde bir kitap takası düzenlenmesine yardım ettim. İlk birkaç ay belki beş kişi geldi. Sonra yerel bir haber sitesi bizi yazdı ve işler gerçekten hız kazanmaya başladı. Yaza kadar elliden fazla müdavimimiz olmuştu ve şimdi kütüphane başka bir şubede ikinci bir takas başlatmamızı istiyor."
         },
         {
           "prompt": "If the internet had never been invented, what would your daily life look like now?",
           "promptTr": "İnternet hiç icat edilmemiş olsaydı, günlük hayatın şimdi neye benzerdi?",
           "answer": "I'd probably spend a lot more time at the library and writing actual letters. The internet was such a huge breakthrough that it's hard to picture life without it. Progress would've been slower, I think, but maybe we'd strive harder to stay in touch face to face. Still, I'd really miss how online courses accelerate learning.",
-          "answerTr": "Muhtemelen kütüphanede çok daha fazla vakit geçirir, gerçek mektuplar yazardım. İnternet öyle büyük bir atılımdı ki onsuz bir hayatı hayal etmek zor. Bence ilerleme daha yavaş olurdu ama belki yüz yüze görüşmek için daha çok çabalardık. Yine de çevrimiçi kursların öğrenmeyi nasıl hızlandırdığını gerçekten özlerdim."
+          "answerTr": "Muhtemelen kütüphanede çok daha fazla vakit geçirir, gerçek mektuplar yazardım. İnternet öyle büyük bir atılımdı ki onsuz bir hayatı hayal etmek zor. Bence ilerleme daha yavaş olurdu ama belki yüz yüze görüşmek için daha çok çabalardık. Yine de çevrim içi kursların öğrenmeyi nasıl hızlandırdığını gerçekten özlerdim."
         }
       ]
     },
@@ -5376,7 +5382,7 @@
         "interplay",
         "feed into",
         "hinge on",
-        "a vicious circle"
+        "a vicious cycle"
       ],
       "synonyms": {},
       "phrases": [
@@ -5389,7 +5395,7 @@
         {
           "phrase": "the root cause of sth",
           "turkish": "-in asıl nedeni, kök nedeni",
-          "example": "We kept treating the symptoms instead of the root cause, and a vicious circle developed.",
+          "example": "We kept treating the symptoms instead of the root cause, and a vicious cycle developed.",
           "exampleTr": "Asıl nedeni değil belirtileri tedavi edip durduk ve bir kısır döngü oluştu."
         },
         {
@@ -5407,16 +5413,16 @@
       ],
       "sayPrompts": [
         {
-          "prompt": "How would you define a vicious circle? Give an example from everyday life.",
+          "prompt": "How would you define a vicious cycle? Give an example from everyday life.",
           "promptTr": "Kısır döngüyü nasıl tanımlarsın? Günlük hayattan bir örnek ver.",
-          "answer": "A vicious circle's when a problem creates conditions that make the same problem worse. For instance, when I'm stressed, I sleep badly, and the lack of sleep makes me even more stressed. The only way out is usually to deal with the underlying cause, because the cycle won't break on its own.",
+          "answer": "A vicious cycle's when a problem creates conditions that make the same problem worse. For instance, when I'm stressed, I sleep badly, and the lack of sleep makes me even more stressed. The only way out is usually to deal with the underlying cause, because the cycle won't break on its own.",
           "answerTr": "Kısır döngü, bir sorunun aynı sorunu daha da kötüleştiren koşullar yaratmasıdır. Örneğin stresliyken kötü uyuyorum, uykusuzluk da beni daha da stresli yapıyor. Genellikle tek çıkış yolu altta yatan nedenle uğraşmaktır, çünkü döngü kendiliğinden kırılmaz."
         },
         {
           "prompt": "How would you persuade a friend that their bad mood probably comes from lack of sleep, not their job?",
           "promptTr": "Bir arkadaşını, kötü ruh hâlinin muhtemelen işinden değil uykusuzluktan kaynaklandığına nasıl ikna ederdin?",
           "answer": "I'd gently point out that the timing doesn't quite add up. They loved their job three months ago, and the bad moods only started when they began staying up past two. I'd say, \"Look, work might feed into it, but I'd bet it mostly stems from sleep. Try a week of early nights and see.\"",
-          "answerTr": "Zamanlamanın pek tutmadığını nazikçe hatırlatırdım. Üç ay önce işlerini çok seviyorlardı ve kötü ruh hâli ancak gece ikiden sonra yatmaya başlayınca ortaya çıktı. Şöyle derdim: \"Bak, iş de buna katkıda bulunuyor olabilir ama bahse girerim asıl kaynağı uyku. Bir hafta erken yat, gör bak.\""
+          "answerTr": "Zamanlamanın pek tutmadığını nazikçe hatırlatırdım. Üç ay önce işini çok seviyordu ve kötü ruh hâli ancak gece ikiden sonra yatmaya başlayınca ortaya çıktı. Şöyle derdim: \"Bak, iş de buna katkıda bulunuyor olabilir ama bahse girerim asıl kaynağı uyku. Bir hafta erken yat, gör bak.\""
         },
         {
           "prompt": "How would you explain to your manager, formally, what caused a delay? Then how would you put it casually to a coworker?",
@@ -5490,7 +5496,7 @@
         {
           "prompt": "Do you think the line between work and personal life is disappearing? Is that a bad thing?",
           "promptTr": "Sence iş ile özel hayat arasındaki çizgi kayboluyor mu? Bu kötü bir şey mi?",
-          "answer": "I'd say it's definitely blurring, mostly because of our phones. A lot of people now see it less as a dichotomy and more as a continuum. Admittedly, that gives us more freedom to run errands during the day. But I still think we need a clear distinction, or work slowly takes over everything.",
+          "answer": "I'd say it's definitely blurring, mostly because of our phones. A lot of people now see it less as a dichotomy and more as a continuum. Mind you, that gives us more freedom to run errands during the day. But I still think we need a clear distinction, or work slowly takes over everything.",
           "answerTr": "Bence kesinlikle bulanıklaşıyor, büyük ölçüde telefonlarımız yüzünden. Artık pek çok insan bunu keskin bir ikilikten çok bir süreklilik olarak görüyor. Kabul etmek gerekir ki bu, gün içinde ufak tefek işlerimizi halletmemiz için bize daha çok özgürlük tanıyor. Ama yine de net bir ayrıma ihtiyacımız olduğunu düşünüyorum, yoksa iş yavaş yavaş her şeyi ele geçiriyor."
         }
       ]
@@ -5547,7 +5553,7 @@
         {
           "prompt": "Is it ever justified for a company to conceal bad news from its customers?",
           "promptTr": "Bir şirketin kötü haberleri müşterilerinden gizlemesi hiç haklı görülebilir mi?",
-          "answer": "On balance, I'd say no. If you conceal problems, the fallout's usually much worse when the truth comes out. That said, I can see a case for delaying disclosure briefly, say, while you're fixing a security flaw so hackers can't exploit it. But eventually, customers deserve full transparency.",
+          "answer": "On balance, I'd say no. If you conceal problems, the fallout's usually much worse when the truth comes out. All the same, I can see a case for delaying disclosure briefly, say, while you're fixing a security flaw so hackers can't exploit it. But eventually, customers deserve full transparency.",
           "answerTr": "Genel olarak bakınca hayır derim. Sorunları gizlersen, gerçek ortaya çıktığında sonuçları genellikle çok daha ağır olur. Yine de açıklamayı kısa bir süre ertelemenin savunulabileceğini görüyorum; örneğin bilgisayar korsanları istismar etmesin diye bir güvenlik açığını kapatırken. Ama eninde sonunda müşteriler tam bir şeffaflığı hak ediyor."
         },
         {
@@ -5559,7 +5565,7 @@
         {
           "prompt": "Suppose a friend had told you a painful truth instead of hiding it. Would you have preferred that?",
           "promptTr": "Diyelim ki bir arkadaşın acı bir gerçeği senden saklamak yerine sana söyleseydi. Bunu tercih eder miydin?",
-          "answer": "Honestly, yes. A friend once kept something from me for months, ostensibly to protect my feelings, and when it finally came out, the revelation hurt way more than the truth would have. Admittedly, honesty can sting, but I'd rather deal with it upfront than feel manipulated later.",
+          "answer": "To be honest, yes. A friend once kept something from me for months, ostensibly to protect my feelings, and when it finally came out, the revelation hurt way more than the truth would have. Admittedly, honesty can sting, but I'd rather deal with it upfront than feel manipulated later.",
           "answerTr": "Açıkçası evet. Bir arkadaşım bir keresinde, görünüşte duygularımı korumak için, bir şeyi aylarca benden sakladı; sonunda ortaya çıktığında bu, gerçeğin kendisinin acıtacağından çok daha fazla acıttı. Kabul etmek gerekir ki dürüstlük can yakabilir ama sonradan kandırılmış hissetmektense en baştan yüzleşmeyi tercih ederim."
         }
       ]
@@ -5621,7 +5627,7 @@
           "prompt": "How would you convince a skeptical friend that a claim they read online doesn't hold water?",
           "promptTr": "İnternette okuduğu bir iddianın mantığa sığmadığına kuşkucu bir arkadaşını nasıl ikna ederdin?",
           "answer": "I'd skip the lecture and just show them the evidence. I'd say, \"Look, three independent sources refute this, and the original post doesn't substantiate anything. There's no data, just a screenshot.\" If they still weren't sure, I'd ask what it would take to change their mind. That question usually undermines the claim better than I could.",
-          "answerTr": "Nutuk atmayı bırakıp doğrudan kanıtları gösterirdim. Şöyle derdim: \"Bak, üç bağımsız kaynak bunu çürütüyor, asıl paylaşım da hiçbir şeyi kanıtlamıyor. Veri yok, sadece bir ekran görüntüsü var.\" Hâlâ emin olmazlarsa, fikirlerini değiştirmek için neyin gerektiğini sorardım. Bu soru, iddiayı genellikle benim yapabileceğimden daha iyi sarsıyor."
+          "answerTr": "Nutuk çekmeyi bırakıp doğrudan kanıtları gösterirdim. Şöyle derdim: \"Bak, üç bağımsız kaynak bunu çürütüyor, asıl paylaşım da hiçbir şeyi kanıtlamıyor. Veri yok, sadece bir ekran görüntüsü var.\" Hâlâ emin olmazlarsa, fikirlerini değiştirmek için neyin gerektiğini sorardım. Bu soru, iddiayı genellikle benim yapabileceğimden daha iyi sarsıyor."
         },
         {
           "prompt": "What counts as compelling evidence, in your opinion? Give an example.",
@@ -5699,7 +5705,7 @@
         {
           "prompt": "If you had been born a hundred years ago, what do you think your core convictions would be?",
           "promptTr": "Yüz yıl önce doğmuş olsaydın, sence temel inançların ne olurdu?",
-          "answer": "I'd like to think I'd still believe in fairness, since that feels intrinsic to who I am. But honestly, a lot of my convictions come from the time I grew up in. I'd probably hold some views I'd find uncomfortable today, which is a humbling reflection. It makes me slower to judge people from the past.",
+          "answer": "I'd like to think I'd still believe in fairness, since that feels intrinsic to who I am. But frankly, a lot of my convictions come from the time I grew up in. I'd probably hold some views I'd find uncomfortable today, which is a humbling reflection. It makes me slower to judge people from the past.",
           "answerTr": "Adalete yine inanacağımı düşünmek isterim, çünkü bu bana kim olduğumun özünde varmış gibi geliyor. Ama açıkçası inançlarımın çoğu içinde büyüdüğüm dönemden geliyor. Muhtemelen bugün beni rahatsız edecek bazı görüşlere sahip olurdum; bu, insanı alçakgönüllü kılan bir düşünce. Geçmişteki insanları yargılamakta daha temkinli olmamı sağlıyor."
         }
       ]
@@ -5837,7 +5843,7 @@
         {
           "prompt": "Tell me about a time someone exaggerated a story. What really happened?",
           "promptTr": "Birinin bir hikâyeyi abarttığı bir anı anlat. Gerçekte ne olmuştu?",
-          "answer": "My cousin loves to recount his fishing trips, and he always exaggerates. Last summer he claimed he'd caught a fish \"as big as a kid.\" Supposedly, there were witnesses. In reality, I was there, and it was maybe two feet long. Admittedly, it was still a nice fish, so I didn't want to call him out in front of everyone.",
+          "answer": "My cousin loves to recount his fishing trips, and he always exaggerates. Last summer he claimed he'd caught a fish \"as big as a kid.\" Supposedly, there were witnesses. In reality, I was there, and it was maybe two feet long. Sure, it was still a nice fish, so I didn't want to call him out in front of everyone.",
           "answerTr": "Kuzenim balık gezilerini anlatmaya bayılır ve her seferinde abartır. Geçen yaz \"bir çocuk kadar büyük\" bir balık yakaladığını iddia etti. Güya tanıklar da varmış. Gerçekte ben oradaydım ve balık en fazla altmış santim kadardı. Kabul etmek gerek, yine de güzel bir balıktı, o yüzden onu herkesin önünde yalanlamak istemedim."
         },
         {
@@ -5849,7 +5855,7 @@
         {
           "prompt": "How would you tell your manager, diplomatically, that a colleague's been exaggerating their results? Then how would you say it to a friend?",
           "promptTr": "Bir iş arkadaşının sonuçlarını abarttığını yöneticine diplomatik bir dille nasıl söylerdin? Peki bunu bir arkadaşına nasıl söylerdin?",
-          "answer": "To my manager, I'd say, \"I don't want to insinuate anything, but some of the figures in Sam's report don't match our data. Could we look at them together?\" To a friend, I'd just say, \"Honestly, Sam's totally exaggerating his numbers, and I'm not sure what to do about it.\"",
+          "answer": "To my manager, I'd say, \"I don't want to insinuate anything, but some of the figures in Sam's report don't match our data. Could we look at them together?\" To a friend, I'd just say, \"Seriously, Sam's totally exaggerating his numbers, and I'm not sure what to do about it.\"",
           "answerTr": "Yöneticime, \"Bir şey ima etmek istemem ama Sam'in raporundaki bazı rakamlar verilerimizle uyuşmuyor. Birlikte bakabilir miyiz?\" derdim. Bir arkadaşıma ise sadece, \"Açıkçası Sam rakamlarını resmen abartıyor ve ne yapacağımı bilmiyorum.\" derdim."
         }
       ]
@@ -5987,7 +5993,7 @@
         {
           "prompt": "How would you tell a client, politely, that their complaint isn't entirely fair? Then how would you put it to a friend?",
           "promptTr": "Bir müşteriye şikâyetinin pek de haklı olmadığını kibarca nasıl söylerdin? Peki bunu bir arkadaşına nasıl anlatırdın?",
-          "answer": "To the client, I'd say, \"I completely understand your frustration. That said, the delay wasn't solely on our side; we were waiting on approval from your team.\" To a friend, I'd be more blunt: \"Their complaint was utterly ridiculous. The delay had nothing whatsoever to do with us.\"",
+          "answer": "To the client, I'd say, \"I completely understand your frustration. Even so, the delay wasn't solely on our side; we were waiting on approval from your team.\" To a friend, I'd be more blunt: \"Their complaint was utterly ridiculous. The delay had nothing whatsoever to do with us.\"",
           "answerTr": "Müşteriye, \"Hayal kırıklığınızı tamamen anlıyorum. Yine de gecikme yalnızca bizden kaynaklanmadı; sizin ekibinizden onay bekliyorduk.\" derdim. Bir arkadaşıma daha açık konuşurdum: \"Şikâyetleri tamamen saçmaydı. Gecikmenin bizimle hiçbir ilgisi yoktu.\""
         },
         {
@@ -6065,14 +6071,14 @@
         {
           "prompt": "If you had never moved to the city you live in now, how would your life be different today?",
           "promptTr": "Şu an yaşadığın şehre taşınmamış olsaydın, bugün hayatın nasıl farklı olurdu?",
-          "answer": "If I'd never moved here, I'd probably still be living with my parents, and I wouldn't have met most of my friends. Admittedly, life back home was calmer; there was only the occasional traffic jam. But here I'm presently working two jobs simultaneously, so it's busier but more exciting.",
+          "answer": "If I'd never moved here, I'd probably still be living with my parents, and I wouldn't have met most of my friends. Granted, life back home was calmer; there was only the occasional traffic jam. But here I'm presently working two jobs simultaneously, so it's busier but more exciting.",
           "answerTr": "Buraya taşınmasaydım muhtemelen hâlâ ailemle yaşıyor olurdum ve arkadaşlarımın çoğuyla tanışmamış olurdum. Kabul etmek gerek, memleketteki hayat daha sakindi; ancak ara sıra trafik sıkışıklığı olurdu. Ama burada şu anda aynı anda iki işte çalışıyorum, yani hayat daha yoğun ama daha heyecanlı."
         },
         {
           "prompt": "How would you convince your boss to replace a lengthy weekly meeting with a short update email?",
           "promptTr": "Patronunu uzun haftalık bir toplantıyı kısa bir bilgilendirme e-postasıyla değiştirmeye nasıl ikna ederdin?",
-          "answer": "I'd point out that our lengthy Monday meetings take up two hours for twelve people. That's a full workday every week. I'd suggest a short email instead, and in the meantime we could keep one meeting a month for bigger issues. If the upcoming quarter goes well, we'd keep the new format.",
-          "answerTr": "Uzun pazartesi toplantılarımızın on iki kişinin iki saatini aldığını belirtirdim. Bu her hafta tam bir iş günü demek. Bunun yerine kısa bir e-posta önerirdim; bu arada büyük konular için ayda bir toplantıyı sürdürebiliriz. Önümüzdeki çeyrek iyi geçerse yeni düzene devam ederiz."
+          "answer": "I'd point out that our lengthy Monday meetings take up two hours for twelve people. That's three full workdays every week. I'd suggest a short email instead, and in the meantime we could keep one meeting a month for bigger issues. If the upcoming quarter goes well, we'd keep the new format.",
+          "answerTr": "Uzun pazartesi toplantılarımızın on iki kişinin iki saatini aldığını belirtirdim. Bu her hafta üç tam iş günü demek. Bunun yerine kısa bir e-posta önerirdim; bu arada büyük konular için ayda bir toplantıyı sürdürebiliriz. Önümüzdeki çeyrek iyi geçerse yeni düzene devam ederiz."
         }
       ]
     },
@@ -6137,14 +6143,14 @@
         {
           "prompt": "Do you think companies should raise salaries in line with inflation every year?",
           "promptTr": "Sence şirketler her yıl maaşları enflasyon doğrultusunda artırmalı mı?",
-          "answer": "I think they should, at least in principle. If salaries don't rise in line with inflation, people effectively take a pay cut. That said, a small business might not afford it every year, so the raise could be subject to how the company's doing. Barring a real crisis, though, it seems fair.",
+          "answer": "I think they should, at least in principle. If salaries don't rise in line with inflation, people effectively take a pay cut. That said, a small business might not be able to afford it every year, so the raise could be subject to how the company's doing. Barring a real crisis, though, it seems fair.",
           "answerTr": "İlke olarak bence artırmalılar. Maaşlar enflasyon doğrultusunda artmazsa insanlar fiilen maaş kesintisine uğramış olur. Yine de küçük bir işletme bunu her yıl karşılayamayabilir, bu yüzden zam şirketin durumuna bağlı olabilir. Ama gerçek bir kriz olmadıkça bu adil görünüyor."
         },
         {
           "prompt": "Walk me through a big decision you made recently and why you made it.",
           "promptTr": "Yakın zamanda verdiğin büyük bir kararı ve neden verdiğini adım adım anlat.",
-          "answer": "Last spring, I switched from a full-time job to part-time work with a view to finishing my degree. First I talked to my manager, who agreed on the grounds that I'd still cover the busy days. Then I cut my expenses, thereby making the lower salary manageable. So far, it's working.",
-          "answerTr": "Geçen bahar, diplomamı tamamlamak amacıyla tam zamanlı işten yarı zamanlıya geçtim. Önce yöneticimle konuştum; yoğun günleri yine üstlenmem gerekçesiyle kabul etti. Sonra harcamalarımı kıstım ve böylece düşük maaşı idare edilebilir hâle getirdim. Şimdiye kadar işe yarıyor."
+          "answer": "Last spring, I switched from a full-time job to part-time work with a view to finishing my degree. First I talked to my manager, who agreed on the condition that I'd still cover the busy days. She backed it on the grounds that I'd trained most of the new staff. Then I cut my expenses, thereby making the lower salary manageable. So far, it's working.",
+          "answerTr": "Geçen bahar, diplomamı tamamlamak amacıyla tam zamanlı işten yarı zamanlıya geçtim. Önce yöneticimle konuştum; yoğun günleri yine üstlenmem koşuluyla kabul etti. Yeni çalışanların çoğunu benim yetiştirmiş olmam gerekçesiyle de bu kararı destekledi. Sonra harcamalarımı kıstım ve böylece düşük maaşı idare edilebilir hâle getirdim. Şimdiye kadar işe yarıyor."
         }
       ]
     },
@@ -6210,8 +6216,8 @@
         {
           "prompt": "What does \"the elephant in the room\" mean? Give an example from work or family life.",
           "promptTr": "\"The elephant in the room\" ne demek? İş ya da aile hayatından bir örnek ver.",
-          "answer": "It's a big, obvious problem that everyone knows about but nobody wants to mention. For example, at family dinners, my uncle's money troubles are the elephant in the room. In essence, we all talk about the weather instead. To put it another way, avoiding the topic is easier than facing it.",
-          "answerTr": "Herkesin bildiği ama kimsenin dile getirmek istemediği büyük, apaçık bir sorundur. Örneğin aile yemeklerinde amcamın para sıkıntıları herkesin bildiği ama konuşmadığı konudur. Özünde hepimiz onun yerine hava durumundan bahsederiz. Başka bir deyişle, konudan kaçmak onunla yüzleşmekten daha kolay."
+          "answer": "It's a big, obvious problem that everyone knows about but nobody wants to mention. For example, at family dinners, my uncle's money troubles are the elephant in the room. In essence, it's a problem we've all agreed to ignore, so we talk about the weather instead. To put it another way, avoiding the topic is easier than facing it.",
+          "answerTr": "Herkesin bildiği ama kimsenin dile getirmek istemediği büyük, apaçık bir sorundur. Örneğin aile yemeklerinde amcamın para sıkıntıları herkesin bildiği ama konuşmadığı konudur. Özünde hepimizin görmezden gelmeye razı olduğu bir sorun; bu yüzden onun yerine hava durumundan konuşuruz. Başka bir deyişle, konudan kaçmak onunla yüzleşmekten daha kolay."
         },
         {
           "prompt": "Your team keeps avoiding an awkward problem. How would you persuade them to finally talk about it?",
@@ -6291,7 +6297,7 @@
           "prompt": "Imagine you were offered your dream job abroad tomorrow. What would you do?",
           "promptTr": "Yarın yurt dışında hayalindeki iş teklif edilseydi ne yapardın?",
           "answer": "My first inclination would be to say yes right away. But I'd contemplate it for a few days first, because moving abroad is a huge change. I'm inclined to think I'd take the plunge, though. I'd hate to forgo an opportunity like that and regret it later.",
-          "answerTr": "İlk isteğim hemen evet demek olurdu. Ama önce birkaç gün üzerinde ciddi ciddi düşünürdüm, çünkü yurt dışına taşınmak çok büyük bir değişiklik. Yine de cesaretimi toplayıp atılacağımı düşünmeye meyilliyim. Böyle bir fırsattan vazgeçip sonra pişman olmaktan nefret ederdim."
+          "answerTr": "İlk eğilimim hemen evet demek olurdu. Ama önce birkaç gün üzerinde ciddi ciddi düşünürdüm, çünkü yurt dışına taşınmak çok büyük bir değişiklik. Yine de cesaretimi toplayıp atılacağımı düşünmeye meyilliyim. Böyle bir fırsattan vazgeçip sonra pişman olmaktan nefret ederdim."
         }
       ]
     },
@@ -6360,13 +6366,13 @@
         {
           "prompt": "How would you convince your landlord to let you paint your apartment?",
           "promptTr": "Ev sahibini daireni boyamana izin vermeye nasıl ikna ederdin?",
-          "answer": "I'd show him I've thought it through. I'd say I've devised a simple plan: neutral colors, professional supplies, and I'd pay for everything. I'd also offer to repaint it before I move out if he wants. Framed that way, it doesn't warrant much worry, and it could even augment the apartment's value.",
+          "answer": "I'd show him I've thought it through. I'd say I've devised a simple plan: neutral colors, professional supplies, and I'd pay for everything. I'd also offer to repaint it before I move out if he wants. Framed that way, it doesn't warrant much worry, and it could even add to the apartment's value.",
           "answerTr": "Ona her şeyi düşündüğümü gösterirdim. Basit bir plan geliştirdiğimi söylerdim: nötr renkler, profesyonel malzemeler ve tüm masrafları ben karşılarım. İsterse taşınmadan önce yeniden boyamayı da teklif ederdim. Böyle anlatınca pek endişelenmeyi gerektirmez, hatta dairenin değerini artırabilir."
         },
         {
           "prompt": "If a teacher had scrutinized your work more closely in high school, would you have learned more?",
           "promptTr": "Lisede bir öğretmen çalışmalarını daha yakından didik didik inceleseydi daha çok şey öğrenir miydin?",
-          "answer": "Probably, yes. My teachers rarely scrutinized my essays, so I never learned to formulate a strong argument. If someone had pointed out my weak spots, I could have fixed them earlier. Then again, too much criticism might have compelled me to give up writing altogether.",
+          "answer": "Probably, yes. My teachers rarely scrutinized my essays, so I never learned to formulate a strong argument. If someone had pointed out my weak spots, I could have fixed them earlier. Then again, too much criticism might have driven me to give up writing altogether.",
           "answerTr": "Muhtemelen evet. Öğretmenlerim yazılarımı nadiren didik didik incelerdi, bu yüzden güçlü bir argüman oluşturmayı hiç öğrenmedim. Biri zayıf noktalarımı gösterseydi onları daha erken düzeltebilirdim. Öte yandan fazla eleştiri beni yazmayı tamamen bırakmaya zorlayabilirdi."
         }
       ]
@@ -6400,9 +6406,9 @@
       "phrases": [
         {
           "phrase": "skive off sth",
-          "turkish": "(okulu, işi) asmak, kaytarmak (ABD'de play hooky / cut class)",
-          "example": "We used to skive off PE on Friday afternoons.",
-          "exampleTr": "Cuma öğleden sonraları beden eğitimi dersini asardık."
+          "turkish": "(işi, antrenmanı) asmak, kaytarmak (ABD'de slack off; okul için play hooky)",
+          "example": "He always tries to skive off football practice when it's raining.",
+          "exampleTr": "Yağmur yağınca hep futbol antrenmanından kaytarmaya çalışıyor."
         },
         {
           "phrase": "have a lie-in",
@@ -6420,7 +6426,7 @@
           "phrase": "be on the telly",
           "turkish": "televizyona çıkmak (ABD'de be on TV)",
           "example": "My old teacher was on the telly last night, talking about sixth form exams.",
-          "exampleTr": "Eski öğretmenim dün akşam televizyondaydı, lise son sınıf sınavlarını anlatıyordu."
+          "exampleTr": "Eski öğretmenim dün akşam televizyondaydı, A level sınavlarını anlatıyordu."
         }
       ],
       "sayPrompts": [
@@ -6432,7 +6438,7 @@
         },
         {
           "prompt": "If you had spent a year living in London, which of these British words would you have picked up first?",
-          "promptTr": "Londra'da bir yıl yaşamış olsaydın, bu İngilizce kelimelerden hangilerini önce kapardın?",
+          "promptTr": "Londra'da bir yıl yaşamış olsaydın, bu İngiliz İngilizcesi kelimelerinden hangilerini önce kapardın?",
           "answer": "I'd definitely have picked up \"knackered\" first, because Londoners seem to be tired all the time. I'd also have learned \"brolly\" pretty quickly, given the weather. And I'd probably have heard \"bloke\" every day, since people use it for any man, a bit like \"guy\" in American English.",
           "answerTr": "Kesinlikle önce \"knackered\" kelimesini kapardım, çünkü Londralılar hep yorgun görünüyor. Hava düşünülürse \"brolly\" kelimesini de epey çabuk öğrenirdim. Muhtemelen \"bloke\" kelimesini de her gün duyardım, çünkü insanlar bunu her erkek için kullanıyor, Amerikan İngilizcesindeki \"guy\" gibi."
         },

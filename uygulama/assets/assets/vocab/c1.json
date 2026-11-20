@@ -219,18 +219,6 @@
     "tipTr": "Gündelik dilde kısaca \"rehab\" denir; hükümlülerin topluma kazandırılması için de kullanılır."
   },
   {
-    "english": "prescribe",
-    "turkish": "reçete etmek, öngörmek, şart koşmak",
-    "example": "The guide does not prescribe a single tool.",
-    "exampleTr": "Kılavuz tek bir aracı şart koşmuyor.",
-    "level": "C1",
-    "tags": [
-      "false friends",
-      "formal"
-    ],
-    "tipTr": "Tıpta \"prescribe sb sth\" (birine ilaç yazmak) biçiminde kullanılır. \"proscribe\" (yasaklamak) ile karıştırılmamalı."
-  },
-  {
     "english": "ward",
     "turkish": "koğuş, servis (hastane); vesayet altındaki kişi",
     "example": "She was moved from the ICU to a regular ward once her condition stabilized.",
@@ -428,7 +416,6 @@
     "exampleTr": "Hastaların çoğu ilk dozdan sonra herhangi bir olumsuz etki bildirmedi.",
     "level": "C1",
     "tags": [
-      "false friends",
       "health"
     ],
     "tipTr": "\"adverse\" olumsuz, \"averse\" ise isteksiz demektir (\"risk-averse\"). \"adverse effects/conditions\" biçiminde kullanılır."
@@ -1055,7 +1042,7 @@
       "verbs",
       "arts"
     ],
-    "tipTr": "Geçmiş zamanı \"wove\"dur. \"weave through traffic\" trafikte zikzak çizmek, \"weave a story\" bir hikâye örmektir."
+    "tipTr": "Geçmiş zamanı \"wove\"dur; \"trafikte zikzak çizmek\" anlamında çoğunlukla \"weaved\" kullanılır: \"weave through traffic\". \"weave a story\" bir hikâye örmektir."
   },
   {
     "english": "thread",
@@ -1207,7 +1194,7 @@
     "english": "reside",
     "turkish": "ikamet etmek, oturmak",
     "example": "Applicants must reside in the county for at least one year before applying.",
-    "exampleTr": "Başvuru sahiplerinin başvurmadan önce en az bir yıl o ilçede ikamet etmesi gerekir.",
+    "exampleTr": "Başvuru sahiplerinin başvurmadan önce en az bir yıl o bölgede ikamet etmesi gerekir.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -2615,7 +2602,7 @@
   },
   {
     "english": "horn",
-    "turkish": "korno (nefesli çalgı); korna; boynuz",
+    "turkish": "(bakır) nefesli çalgı; korna; boynuz",
     "example": "The horn section really makes this song feel like a party.",
     "exampleTr": "Bu şarkıya asıl parti havasını nefesli çalgılar katıyor.",
     "level": "C1",
@@ -2903,7 +2890,7 @@
     "english": "backdrop",
     "turkish": "fon, dekor; (olayların) arka planı",
     "example": "The movie's love story plays out against the backdrop of the Great Depression.",
-    "exampleTr": "Filmdeki aşk hikâyesi Büyük Buhran'ın gölgesinde geçiyor.",
+    "exampleTr": "Filmdeki aşk hikâyesi Büyük Buhran döneminde geçiyor.",
     "level": "C1",
     "tags": [
       "arts"
@@ -3123,7 +3110,7 @@
     "tags": [
       "nature"
     ],
-    "tipTr": "Çoğul fiille kullanılır: \"The cattle are grazing.\" Tek hayvan için \"a cow\" denir."
+    "tipTr": "Çoğul fiille kullanılır: \"The cattle are grazing.\" Tek hayvan için \"a cow\" (dişi) ya da \"a head of cattle\" denir."
   },
   {
     "english": "harvest",
@@ -3471,7 +3458,6 @@
     "exampleTr": "Kamyon geri geri gelip bana çarptığında arabam tamamen duruyordu.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"stationary\" (sabit) ile \"stationery\" (kırtasiye) karıştırılmamalı; okunuşları aynıdır."
@@ -3493,7 +3479,6 @@
     "exampleTr": "Kâğıt bir fener ışığı dağıtıyor, böylece oda o kadar sert görünmüyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "science"
     ],
     "tipTr": "\"diffuse\" (yaymak) ile \"defuse\" (bombayı ya da gerginliği etkisiz hâle getirmek) karıştırılmamalı. Fiil \"di-FYUZ\", sıfat \"di-FYUS\" okunur."
@@ -3512,8 +3497,8 @@
   {
     "english": "sphere",
     "turkish": "küre; (etki) alanı",
-    "example": "A soap bubble forms a sphere because that shape needs the least surface area.",
-    "exampleTr": "Sabun köpüğü küre şeklini alır çünkü bu şekil en az yüzey alanı gerektirir.",
+    "example": "A soap bubble forms a sphere because that shape has the least surface area for its volume.",
+    "exampleTr": "Sabun köpüğü küre şeklini alır çünkü bu şekil, hacmine göre en küçük yüzey alanına sahiptir.",
     "level": "C1",
     "tags": [
       "science"
@@ -3661,7 +3646,6 @@
     "exampleTr": "Polise göre para, sahte spor ayakkabılarının yasa dışı satışından geliyordu.",
     "level": "C1",
     "tags": [
-      "false friends",
       "legal"
     ],
     "tipTr": "\"illicit\" yasa dışı, \"elicit\" ortaya çıkarmaktır."
@@ -3816,7 +3800,7 @@
     "english": "suspicion",
     "turkish": "şüphe, kuşku",
     "example": "She was arrested on suspicion of stealing thousands of dollars from her employer.",
-    "exampleTr": "İşvereninden binlerce dolar çaldığı şüphesiyle tutuklandı.",
+    "exampleTr": "İşvereninden binlerce dolar çaldığı şüphesiyle gözaltına alındı.",
     "level": "C1",
     "tags": [
       "crime"
@@ -4103,7 +4087,6 @@
     "exampleTr": "Tanık, avukatının tavsiyesi üzerine soruyu yanıtlamayı reddetti.",
     "level": "C1",
     "tags": [
-      "false friends",
       "law"
     ],
     "tipTr": "\"counsel\" avukat ya da öğüt, \"council\" ise kuruldur; ikisi aynı okunur."
@@ -4284,8 +4267,8 @@
   {
     "english": "consent",
     "turkish": "rıza, onam; razı olmak",
-    "example": "Doctors can't perform surgery without the patient's informed consent.",
-    "exampleTr": "Doktorlar hastanın aydınlatılmış onamı olmadan ameliyat yapamaz.",
+    "example": "Doctors generally need the patient's informed consent before surgery.",
+    "exampleTr": "Doktorların ameliyattan önce genellikle hastanın aydınlatılmış onamını alması gerekir.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -4364,16 +4347,16 @@
     "tipTr": "İngiliz yazımı \"a grey area\" biçimindedir."
   },
   {
-    "english": "retrospectively",
+    "english": "retroactively",
     "turkish": "geriye dönük olarak",
-    "example": "The tax change was applied retrospectively, so some families suddenly owed money.",
+    "example": "The tax change was applied retroactively, so some families suddenly owed money.",
     "exampleTr": "Vergi değişikliği geriye dönük uygulandığı için bazı aileler bir anda borçlu çıktı.",
     "level": "C1",
     "tags": [
       "adverbs",
       "law"
     ],
-    "tipTr": "Hukuk dilinde ABD'de \"retroactively\" daha yaygındır."
+    "tipTr": "İngiltere'de \"retrospectively\" de kullanılır; ABD hukuk dilinde \"retroactively\" yaygındır."
   },
   {
     "english": "waive",
@@ -4660,7 +4643,7 @@
     "english": "congressional",
     "turkish": "Kongre'ye ait, Kongre ile ilgili",
     "example": "She spoke at a congressional hearing on online safety for kids.",
-    "exampleTr": "Çocuklar için çevrimiçi güvenlik konulu bir Kongre oturumunda konuştu.",
+    "exampleTr": "Çocuklar için çevrim içi güvenlik konulu bir Kongre oturumunda konuştu.",
     "level": "C1",
     "tags": [
       "adjectives",
@@ -4716,7 +4699,7 @@
   {
     "english": "chamber",
     "turkish": "(meclisin) kanadı, kamara; oda (salon)",
-    "example": "It passed the House, but the bill still needs approval from the other chamber.",
+    "example": "The bill passed the House, but it still needs approval from the other chamber.",
     "exampleTr": "Tasarı Temsilciler Meclisi'nden geçti ama hâlâ diğer kanadın onayını bekliyor.",
     "level": "C1",
     "tags": [
@@ -4818,13 +4801,23 @@
     "tipTr": "\"in violation of sth\" kalıbıyla kullanılır; ABD'de \"traffic violation\" trafik kuralı ihlalidir."
   },
   {
+    "english": "prescribe",
+    "turkish": "reçete etmek, öngörmek, şart koşmak",
+    "example": "The guide does not prescribe a single tool.",
+    "exampleTr": "Kılavuz tek bir aracı şart koşmuyor.",
+    "level": "C1",
+    "tags": [
+      "formal"
+    ],
+    "tipTr": "Tıpta \"prescribe sb sth\" (birine ilaç yazmak) biçiminde kullanılır. \"proscribe\" (yasaklamak) ile karıştırılmamalı."
+  },
+  {
     "english": "proscribe",
     "turkish": "(resmî olarak) yasaklamak, men etmek",
     "example": "The treaty proscribes the use of chemical weapons in any armed conflict.",
     "exampleTr": "Antlaşma, her türlü silahlı çatışmada kimyasal silah kullanımını yasaklar.",
     "level": "C1",
     "tags": [
-      "false friends",
       "formal"
     ],
     "tipTr": "\"proscribe\" yasaklamak, \"prescribe\" ise reçete etmek ya da öngörmek demektir."
@@ -4929,7 +4922,6 @@
     "exampleTr": "Bazı sürücüler okulun hemen önünde hız sınırını hiçe sayıyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "law"
     ],
     "tipTr": "\"flout\" hiçe saymak, \"flaunt\" ise gösteriş yapmaktır."
@@ -5043,7 +5035,6 @@
     "exampleTr": "Gönüllüler hafta sonunu belediye başkanının kampanyası için kapı kapı dolaşarak geçirdi.",
     "level": "C1",
     "tags": [
-      "false friends",
       "politics"
     ],
     "tipTr": "Tek \"s\" ile yazılan \"canvas\" ise tuvaldir."
@@ -5219,8 +5210,8 @@
   {
     "english": "municipal",
     "turkish": "belediyeye ait, yerel yönetimle ilgili",
-    "example": "Municipal elections usually get much lower turnout than national ones.",
-    "exampleTr": "Yerel seçimlere katılım genellikle genel seçimlerden çok daha düşük olur.",
+    "example": "In many U.S. cities, turnout in municipal elections is much lower than in national ones.",
+    "exampleTr": "ABD'nin pek çok şehrinde belediye seçimlerine katılım, ulusal seçimlere göre çok daha düşüktür.",
     "level": "C1",
     "tags": [
       "adjectives",
@@ -5526,9 +5517,9 @@
   },
   {
     "english": "cooperation",
-    "turkish": "işbirliği",
+    "turkish": "iş birliği",
     "example": "The arrests were only possible thanks to cooperation between police in three countries.",
-    "exampleTr": "Tutuklamalar ancak üç ülkenin polisi arasındaki işbirliği sayesinde mümkün oldu.",
+    "exampleTr": "Tutuklamalar ancak üç ülkenin polisi arasındaki iş birliği sayesinde mümkün oldu.",
     "level": "C1",
     "tags": [
       "politics"
@@ -5536,7 +5527,7 @@
   },
   {
     "english": "cooperate",
-    "turkish": "işbirliği yapmak; (talebe) yardımcı olmak",
+    "turkish": "iş birliği yapmak; (talebe) yardımcı olmak",
     "example": "In a statement, the company said it'll fully cooperate with the investigation.",
     "exampleTr": "Şirket yaptığı açıklamada soruşturmaya tam destek vereceğini söyledi.",
     "level": "C1",
@@ -6146,7 +6137,7 @@
       "verbs",
       "politics"
     ],
-    "tipTr": "Geçmiş zamanı düzensizdir: \"fled\". Edatsız kullanılır: \"flee the country\"."
+    "tipTr": "Geçmiş zamanı düzensizdir: \"fled\". Çoğunlukla nesneyle edatsız kullanılır (\"flee the country\"); \"flee from/to\" da yaygındır."
   },
   {
     "english": "settlement",
@@ -6523,8 +6514,8 @@
   {
     "english": "glorious",
     "turkish": "şanlı, görkemli; (hava) harika",
-    "example": "Historians often describe it as the city's most glorious era of art and trade.",
-    "exampleTr": "Tarihçiler bu dönemi çoğu zaman şehrin sanatta ve ticarette en görkemli çağı olarak anlatır.",
+    "example": "Historians often describe the fifteenth century as the city's most glorious era of art and trade.",
+    "exampleTr": "Tarihçiler on beşinci yüzyılı çoğu zaman şehrin sanatta ve ticarette en görkemli çağı olarak anlatır.",
     "level": "C1",
     "tags": [
       "adjectives",
@@ -6877,7 +6868,7 @@
       "academic",
       "false friends"
     ],
-    "tipTr": "Türkçedeki \"marjinal\" (aykırı, sıra dışı) anlamı İngilizcede daha az yaygındır; \"marginalized groups\" toplumun kenarına itilmiş gruplar demektir."
+    "tipTr": "İngilizcede \"aykırı, sıra dışı\" anlamı yoktur; Türkçedeki \"marjinal\" ile karıştırılmamalı. \"marginalized groups\" toplumun kenarına itilmiş gruplar demektir."
   },
   {
     "english": "accessible",
@@ -7642,8 +7633,7 @@
     "exampleTr": "Köprü, iş çıkış saatlerindeki trafik sıkışıklığıyla adı çıkmış bir yer.",
     "level": "C1",
     "tags": [
-      "adjectives",
-      "false friends"
+      "adjectives"
     ],
     "tipTr": "\"infamous\" ünsüz anlamına gelmez, kötü şöhretli demektir; okunuşu \"İN-fı-mıs\"."
   },
@@ -7665,7 +7655,6 @@
     "exampleTr": "Memleketine her gidişinde yeni arabasıyla hava atmaya bayılıyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "social"
     ],
     "tipTr": "\"flaunt\" gösteriş yapmak; \"flout\" ise (kurala) açıkça uymamak demektir."
@@ -7677,7 +7666,7 @@
     "exampleTr": "Bizim küçük kasabamız eyaletin en eski halk kütüphanesine sahip.",
     "level": "C1",
     "tags": [
-      "reporting verbs"
+      "verbs"
     ],
     "tipTr": "\"boast about / of sth\" böbürlenmek; nesneyle kullanıldığında \"gururla sahip olmak\" demektir."
   },
@@ -7746,7 +7735,6 @@
     "exampleTr": "Patronum sunumum için bana iltifat etti, haftamı resmen güzelleştirdi.",
     "level": "C1",
     "tags": [
-      "false friends",
       "social"
     ],
     "tipTr": "\"compliment\" iltifattır; aynı okunan \"complement\" ise tamamlamak demektir."
@@ -8456,7 +8444,6 @@
     "exampleTr": "Taşıma işini ayrık adımlara böldük, böylece her biri tek başına geri alınabiliyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "technology"
     ],
     "tipTr": "Aynı okunan \"discreet\" (ağzı sıkı, ölçülü) ile karıştırılmamalı."
@@ -8482,7 +8469,8 @@
     "tags": [
       "technology",
       "engineering"
-    ]
+    ],
+    "tipTr": "\"resilience\" ise bir sorun yaşandıktan sonra toparlanabilmektir."
   },
   {
     "english": "intricate",
@@ -8738,7 +8726,7 @@
       "technology",
       "engineering"
     ],
-    "tipTr": "\"merge conflict\" birleştirme çakışmasıdır; şirketler için \"merge with\" birleşmek demektir."
+    "tipTr": "\"merge conflict\" birleştirme çakışmasıdır; şirketler için \"merge with\" birleşmek demektir. \"consolidate\" ise dağınık parçaları tek ve güçlü bir bütünde toplamayı ya da bir konumu pekiştirmeyi vurgular."
   },
   {
     "english": "downtime",
@@ -8819,7 +8807,8 @@
     "tags": [
       "technology",
       "engineering"
-    ]
+    ],
+    "tipTr": "\"robustness\" bozulmaya karşı dayanıklılıktır; \"resilience\" ise bozulduktan sonra kendini toparlayabilmektir."
   },
   {
     "english": "observability",
@@ -8924,7 +8913,7 @@
       "technology",
       "engineering"
     ],
-    "tipTr": "Bir sorunun etrafından dolaşmak anlamındaki \"work around sth\" fiilinden gelir."
+    "tipTr": "Bir sorunun etrafından dolaşmak anlamındaki \"work around sth\" fiilinden gelir. \"a quick fix\" sorunu geçici olarak düzelten aceleye getirilmiş çözümdür; \"workaround\" ise sorunu çözmeden etrafından dolaşan yöntemdir."
   },
   {
     "english": "rollback",
@@ -9096,7 +9085,7 @@
     "tags": [
       "phrasal verbs"
     ],
-    "tipTr": "Kişiler için \"pin sb down\" birini net bir cevap vermeye zorlamaktır."
+    "tipTr": "Kişiler için \"pin sb down\" birini net bir cevap vermeye zorlamaktır. \"nail down\" bir şeyi kesinleştirmektir (tarih, anlaşma); \"pin down\" ise tam olarak saptamak ya da birini net cevaba zorlamaktır."
   },
   {
     "english": "home in on",
@@ -9223,7 +9212,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "ABD'de bitişik \"startup\" yazılır; İngiliz yazımında \"start-up\" da görülür. Fiil ayrı yazılır: \"start up a company\"."
+    "tipTr": "ABD'de bitişik \"startup\" yazılır; İngiliz yazımında \"start-up\" da görülür. Fiil ayrı yazılır: \"start up a company\". \"venture\" riskli her girişim ya da iş için kullanılır; \"endeavor\" ise (iş olmak zorunda olmayan) zorlu bir çabadır."
   },
   {
     "english": "venture",
@@ -9234,7 +9223,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "\"venture capital\" girişim sermayesidir; fiil olarak \"venture into a new market\" denir."
+    "tipTr": "\"venture capital\" girişim sermayesidir; fiil olarak \"venture into a new market\" denir. \"startup\" yeni kurulan şirkettir; \"endeavor\" ise resmî dilde zorlu bir çabadır."
   },
   {
     "english": "equity",
@@ -9245,7 +9234,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "Toplumsal anlamda \"equity\" hakkaniyettir; \"equality\" (eşitlik) ile karıştırılmamalı."
+    "tipTr": "Toplumsal anlamda \"equity\" hakkaniyettir; \"equality\" (eşitlik) ile karıştırılmamalı. \"stake\" ise bir şirketteki herhangi bir paydır (\"a 20 percent stake\"); \"equity\" çoğunlukla çalışana verilen hisseyi ya da özsermayeyi anlatır."
   },
   {
     "english": "stake",
@@ -9256,7 +9245,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "\"have a stake in sth\" bir şeyde çıkarı olmak, \"at stake\" tehlikede, söz konusu demektir."
+    "tipTr": "\"have a stake in sth\" bir şeyde çıkarı olmak, \"at stake\" tehlikede, söz konusu demektir. \"equity\" ise çoğunlukla girişimlerde çalışana verilen hisse ya da özsermayedir."
   },
   {
     "english": "shareholder",
@@ -9322,7 +9311,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "Sıfat hâli \"pioneering\" (çığır açan): \"pioneering research\"."
+    "tipTr": "Sıfat hâli \"pioneering\" (çığır açan): \"pioneering research\". \"spearhead\" ise bir kampanyaya ya da çabaya önderlik etmektir; \"pioneer\" ilk kez yapan, çığır açan olmaktır."
   },
   {
     "english": "niche",
@@ -9375,7 +9364,8 @@
     "level": "C1",
     "tags": [
       "business"
-    ]
+    ],
+    "tipTr": "\"feasibility\" bir şeyin yapılabilir olmasıdır; \"viability\" ise yapıldıktan sonra (çoğunlukla ticari olarak) ayakta kalabilmesidir."
   },
   {
     "english": "viable",
@@ -9511,14 +9501,14 @@
   {
     "english": "consolidate",
     "turkish": "birleştirmek, pekiştirmek",
-    "example": "Let us consolidate the three reports into one.",
-    "exampleTr": "Üç raporu tek bir raporda birleştirelim.",
+    "example": "We plan to consolidate the three reports into one.",
+    "exampleTr": "Üç raporu tek bir raporda birleştirmeyi planlıyoruz.",
     "level": "C1",
     "tags": [
       "business",
       "formal"
     ],
-    "tipTr": "\"consolidate its position\" (konumunu sağlamlaştırmak) biçiminde de kullanılır."
+    "tipTr": "\"consolidate its position\" (konumunu sağlamlaştırmak) biçiminde de kullanılır. \"merge\" daha çok iki şeyin (şirket, kod dalı) birleşmesi için kullanılır."
   },
   {
     "english": "ahead of the curve",
@@ -9629,7 +9619,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "Olumsuz değil, saygı uyandıran bir gücü anlatır."
+    "tipTr": "Genellikle hayranlık ve saygı bildirir; \"korkutucu derecede güçlü\" anlamı da vardır."
   },
   {
     "english": "farm out",
@@ -9938,7 +9928,7 @@
       "abstract nouns",
       "money"
     ],
-    "tipTr": "\"run a deficit\" açık vermek demektir; karşıtı \"surplus\". Mecazen \"a trust deficit\" (güven eksikliği) de denir."
+    "tipTr": "\"run a deficit\" açık vermek demektir; karşıtı \"surplus\". Mecazen \"a trust deficit\" (güven eksikliği) de denir. \"shortfall\" ise beklenen ya da gereken miktara göre oluşan eksiktir; \"deficit\" çoğunlukla gelir-gider farkından doğan (bütçe) açığıdır."
   },
   {
     "english": "surplus",
@@ -10007,8 +9997,7 @@
     "exampleTr": "Balıkçı teknelerinin her sezon ne kadar morina tutabileceğine dair sıkı bir kotası var.",
     "level": "C1",
     "tags": [
-      "abstract nouns",
-      "environment"
+      "abstract nouns"
     ],
     "tipTr": "\"meet/fill a quota\" kotayı doldurmak demektir; satışta \"sales quota\" (satış hedefi) yaygındır."
   },
@@ -10343,7 +10332,6 @@
     "exampleTr": "Bu kapıdan yalnızca yetkili personel geçebilir.",
     "level": "C1",
     "tags": [
-      "false friends",
       "work"
     ],
     "tipTr": "\"personnel\" kadro, \"personal\" ise kişisel demektir; vurgu sondadır: per-suh-NEL."
@@ -10403,7 +10391,6 @@
     "exampleTr": "Şirket yıl sonu ikramiyelerini iptal edince ekibin morali ciddi biçimde bozuldu.",
     "level": "C1",
     "tags": [
-      "false friends",
       "work"
     ],
     "tipTr": "\"morale\" (mo-RAL) çalışma şevkidir; \"moral\" ise ahlaki ya da bir hikâyenin ana fikri demektir."
@@ -10447,7 +10434,7 @@
     "english": "aspire",
     "turkish": "-e heves etmek, … olmayı arzulamak",
     "example": "I've never aspired to management; I'd much rather stay hands-on.",
-    "exampleTr": "Hiçbir zaman yönetici olmaya heves etmedim; işin içinde kalmayı çok daha çok tercih ederim.",
+    "exampleTr": "Hiçbir zaman yönetici olmaya heves etmedim; işin içinde kalmayı çok daha fazla tercih ederim.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -10522,19 +10509,7 @@
     "tags": [
       "work"
     ],
-    "tipTr": "\"in the interim\" bu arada, o zamana kadar demektir."
-  },
-  {
-    "english": "freshman",
-    "turkish": "birinci sınıf öğrencisi (lise, üniversite)",
-    "example": "I took my first part-time job the summer after freshman year.",
-    "exampleTr": "İlk yarı zamanlı işime birinci sınıfı bitirdiğim yaz başladım.",
-    "level": "C1",
-    "tags": [
-      "education",
-      "people"
-    ],
-    "tipTr": "ABD'de sınıflar sırasıyla \"freshman, sophomore, junior, senior\" diye adlandırılır; çoğulu \"freshmen\"."
+    "tipTr": "\"in the interim\" bu arada, o zamana kadar demektir. \"interim\" iki dönem arasındaki geçici durumu anlatır (vekil müdür, ara rapor); \"provisional\" ise sonradan değişebilecek, kesinleşmemiş olanı anlatır."
   },
   {
     "english": "terminate",
@@ -10602,7 +10577,7 @@
     "tags": [
       "business"
     ],
-    "tipTr": "İsim olarak \"mızrak ucu, öncü güç\" demektir; fiil olarak \"lead\" kelimesinden daha vurguludur."
+    "tipTr": "İsim olarak \"mızrak ucu, öncü güç\" demektir; fiil olarak \"lead\" kelimesinden daha vurguludur. \"pioneer\" ise bir şeyi ilk kez yapmak, çığır açmaktır."
   },
   {
     "english": "supervise",
@@ -10689,14 +10664,14 @@
   {
     "english": "remit",
     "turkish": "görev alanı, yetki kapsamı",
-    "example": "Hiring decisions are outside my remit, so you'll have to ask HR.",
-    "exampleTr": "İşe alım kararları benim yetki alanımın dışında, o yüzden İK'ya sorman gerekecek.",
+    "example": "Under its new remit, the committee will also review school safety plans.",
+    "exampleTr": "Yeni görev alanı kapsamında komite okul güvenlik planlarını da inceleyecek.",
     "level": "C1",
     "tags": [
       "abstract nouns",
       "business"
     ],
-    "tipTr": "Bu isim daha çok İngiliz İngilizcesinde yaygındır; ABD'de \"purview\" ya da \"scope\" da denir."
+    "tipTr": "Daha çok İngiliz İngilizcesinde yaygındır; ABD'de \"purview\" daha yaygındır (\"outside my purview\")."
   },
   {
     "english": "discretion",
@@ -10725,12 +10700,12 @@
     "english": "organizational",
     "turkish": "örgütsel, kurumsal",
     "example": "The new VP is planning major organizational changes, so everyone's a little nervous.",
-    "exampleTr": "Yeni genel müdür yardımcısı büyük örgütsel değişiklikler planlıyor, bu yüzden herkes biraz tedirgin.",
+    "exampleTr": "Yeni başkan yardımcısı büyük örgütsel değişiklikler planlıyor, bu yüzden herkes biraz tedirgin.",
     "level": "C1",
     "tags": [
       "business"
     ],
-    "tipTr": "İngiliz yazımı \"organisational\"; \"organizational skills\" iş düzenleme becerisidir."
+    "tipTr": "İngiliz yazımı \"organisational\"; \"organizational skills\" iş düzenleme becerisidir. \"institutional\" daha çok okul, banka, hastane gibi köklü kurumlara aittir: \"institutional investors\"."
   },
   {
     "english": "handling",
@@ -11191,7 +11166,7 @@
       "idioms",
       "negotiation"
     ],
-    "tipTr": "\"bridge the gap between A and B\" biçiminde kullanılır."
+    "tipTr": "\"bridge the gap between A and B\" biçiminde kullanılır. \"close the gap\" farkı tamamen kapatmak, \"bridge the gap\" ise iki taraf arasında köprü kurup aradaki farkı aşmaktır."
   },
   {
     "english": "sound out",
@@ -11285,7 +11260,7 @@
       "abstract nouns",
       "business"
     ],
-    "tipTr": "Sıfatı \"feasible\" (yapılabilir, uygulanabilir)."
+    "tipTr": "Sıfatı \"feasible\" (yapılabilir, uygulanabilir). \"viability\" ise yapıldıktan sonra ayakta kalabilmesidir: \"a feasibility study\" yapılabilirlik çalışmasıdır."
   },
   {
     "english": "map out",
@@ -11318,7 +11293,7 @@
     "tags": [
       "work"
     ],
-    "tipTr": "\"nail down the details\" (ayrıntıları netleştirmek) ve \"nail sb down\" (birini net bir söz vermeye zorlamak) biçimleri yaygındır."
+    "tipTr": "\"nail down the details\" (ayrıntıları netleştirmek) ve \"nail sb down\" (birini net bir söz vermeye zorlamak) biçimleri yaygındır. \"pin down\" ise bir şeyi tam olarak saptamak ya da birini net cevaba zorlamaktır."
   },
   {
     "english": "follow through",
@@ -11352,7 +11327,7 @@
       "adjectives",
       "formal"
     ],
-    "tipTr": "Sonradan değişebilecek, henüz kesinleşmemiş bir şeyi anlatır: \"a provisional date\"."
+    "tipTr": "Sonradan değişebilecek, henüz kesinleşmemiş bir şeyi anlatır: \"a provisional date\". \"interim\" ise iki dönem arasındaki geçici durumu anlatır: \"an interim director\"."
   },
   {
     "english": "preliminary",
@@ -11412,7 +11387,7 @@
   {
     "english": "carry over",
     "turkish": "devretmek, aktarmak",
-    "example": "Unused leave does not carry over to next year.",
+    "example": "Unused leave doesn't carry over to next year.",
     "exampleTr": "Kullanılmayan izin gelecek yıla devredilmez.",
     "level": "C1",
     "tags": [
@@ -11439,7 +11414,7 @@
     "tags": [
       "verbs"
     ],
-    "tipTr": "\"conceive of sth\" bir şeyi hayal etmek demektir; ismi \"conception\", sıfatı \"inconceivable\" (akıl almaz)."
+    "tipTr": "\"conceive of sth\" bir şeyi hayal etmek demektir; ismi \"conception\", sıfatı \"conceivable\", olumsuzu \"inconceivable\" (akıl almaz)."
   },
   {
     "english": "endeavor",
@@ -11451,7 +11426,7 @@
       "abstract nouns",
       "formal"
     ],
-    "tipTr": "İngiliz yazımı \"endeavour\"; resmî bir sözcüktür, fiil olarak \"endeavor to do sth\" (… için çaba göstermek)."
+    "tipTr": "İngiliz yazımı \"endeavour\"; resmî bir sözcüktür, fiil olarak \"endeavor to do sth\" (… için çaba göstermek). \"venture\" ise riskli bir iş girişimi, \"startup\" yeni kurulan şirkettir."
   },
   {
     "english": "productive",
@@ -11705,7 +11680,7 @@
       "idioms",
       "business"
     ],
-    "tipTr": "Çoğunlukla olumsuz cümlede kullanılır: \"It won't move the needle.\""
+    "tipTr": "Olumlu ve olumsuz cümlede kullanılır: \"It won't move the needle.\" / \"This could really move the needle.\""
   },
   {
     "english": "a ballpark figure",
@@ -11857,8 +11832,7 @@
     "exampleTr": "Teslim tarihi gelecek cuma; bu hafta gerçekten kendimizi işe vermemiz lazım.",
     "level": "C1",
     "tags": [
-      "idioms",
-      "work"
+      "phrasal verbs"
     ],
     "tipTr": "Gayri resmîdir; \"knuckle down to sth\" biçiminde de kullanılır."
   },
@@ -11907,6 +11881,18 @@
       "education"
     ],
     "tipTr": "\"military / police / naval academy\" eşdizimleri yaygındır; ABD'de bazı özel okulların adında da geçer."
+  },
+  {
+    "english": "freshman",
+    "turkish": "birinci sınıf öğrencisi (lise, üniversite)",
+    "example": "I took my first part-time job the summer after freshman year.",
+    "exampleTr": "İlk yarı zamanlı işime birinci sınıfı bitirdiğim yaz başladım.",
+    "level": "C1",
+    "tags": [
+      "education",
+      "people"
+    ],
+    "tipTr": "ABD'de sınıflar sırasıyla \"freshman, sophomore, junior, senior\" diye adlandırılır; çoğulu \"freshmen\"."
   },
   {
     "english": "sophomore",
@@ -12016,7 +12002,7 @@
     "english": "instruct",
     "turkish": "talimat vermek; ders vermek, eğitmek",
     "example": "Our teacher instructed us to write the essay without using any AI tools.",
-    "exampleTr": "Öğretmenimiz makaleyi hiçbir yapay zekâ aracı kullanmadan yazmamızı söyledi.",
+    "exampleTr": "Öğretmenimiz ödevi hiçbir yapay zekâ aracı kullanmadan yazmamızı söyledi.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -12034,7 +12020,7 @@
       "adjectives",
       "education"
     ],
-    "tipTr": "\"institutional memory\" (kurumsal hafıza) ve \"institutional investors\" (kurumsal yatırımcılar) sık eşdizimlerdir."
+    "tipTr": "\"institutional memory\" (kurumsal hafıza) ve \"institutional investors\" (kurumsal yatırımcılar) sık eşdizimlerdir. \"organizational\" ise bir şirketin ya da ekibin iç düzenine ilişkindir: \"organizational changes\"."
   },
   {
     "english": "theoretical",
@@ -12109,8 +12095,8 @@
   {
     "english": "absence",
     "turkish": "yokluk, devamsızlık; eksiklik",
-    "example": "In the absence of clear rules, every teacher grades late work differently.",
-    "exampleTr": "Net kurallar olmadığı için her öğretmen geç teslim edilen ödevleri farklı notluyor.",
+    "example": "Her long absence from school worried her teachers, so they called her parents.",
+    "exampleTr": "Okuldan uzun süre uzak kalması öğretmenlerini endişelendirdi, bu yüzden ailesini aradılar.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -12598,7 +12584,7 @@
     "tags": [
       "money"
     ],
-    "tipTr": "\"a shortfall in sth\" ya da \"a shortfall of $X\" biçiminde kullanılır."
+    "tipTr": "\"a shortfall in sth\" ya da \"a shortfall of $X\" biçiminde kullanılır. \"deficit\" ise çoğunlukla gelirin gideri karşılamamasından doğan bütçe açığıdır."
   },
   {
     "english": "cognitive",
@@ -12615,8 +12601,8 @@
   {
     "english": "consciousness",
     "turkish": "bilinç, şuur; farkındalık",
-    "example": "He hit his head on the ice and lost consciousness for a few seconds.",
-    "exampleTr": "Kafasını buza çarptı ve birkaç saniyeliğine bilincini kaybetti.",
+    "example": "Social media has pushed climate change into the public consciousness.",
+    "exampleTr": "Sosyal medya iklim değişikliğini kamuoyunun gündemine taşıdı.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -12700,7 +12686,7 @@
     "english": "motive",
     "turkish": "güdü, sebep (bir davranışın ardındaki)",
     "example": "I don't doubt her talent, but I do question her motives.",
-    "exampleTr": "Yeteneğinden şüphem yok ama bunu hangi amaçla yaptığını sorguluyorum.",
+    "exampleTr": "Yeteneğinden şüphem yok ama niyetini sorguluyorum.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -12998,8 +12984,8 @@
   {
     "english": "outrage",
     "turkish": "infial, büyük öfke; öfkelendirmek",
-    "example": "The decision to close the library sparked outrage across the community.",
-    "exampleTr": "Kütüphaneyi kapatma kararı bütün mahallede infiale yol açtı.",
+    "example": "There was public outrage when the company quietly raised prices during the storm.",
+    "exampleTr": "Şirket fırtına sırasında fiyatları sessizce artırınca kamuoyunda büyük bir öfke oluştu.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -13038,7 +13024,6 @@
     "exampleTr": "Saygılı kaldığı sürece biraz tartışmaya karşı değilim.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"averse to sth\" (bir şeye karşı) ile \"adverse\" (olumsuz, ters: \"adverse effects\") karıştırılmamalı."
@@ -13050,7 +13035,6 @@
     "exampleTr": "Yerinde yapılmış bir şaka, gergin bir ortamı her özürden daha hızlı yumuşatabilir.",
     "level": "C1",
     "tags": [
-      "false friends",
       "social"
     ],
     "tipTr": "\"defuse\" yatıştırmak, \"diffuse\" yaymak demektir."
@@ -13787,7 +13771,6 @@
     "exampleTr": "Dâhiyane bir alet: tek bir kabloyla üç cihazımı birden şarj ediyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"ingenious\" yaratıcı, \"ingenuous\" saf ve içten demektir."
@@ -13799,7 +13782,6 @@
     "exampleTr": "İnternet dolandırıcıları hiçbir şeyi teyit etmeyen, her söze inanan insanlara güveniyor.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"credulous\" kolay inanan, \"credible\" inandırıcı demektir; karşıtı \"incredulous\" (inanamayan)."
@@ -13811,7 +13793,6 @@
     "exampleTr": "Merak etme, ağzımı sıkı tutarım, işte kimseye bahsetmem.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"discreet\" ağzı sıkı, \"discrete\" ayrı ayrı, ayrık demektir; okunuşları aynıdır."
@@ -13929,7 +13910,6 @@
     "exampleTr": "Ergen oğlum ekranda olmayan hiçbir şeye ilgi duymuyor gibi.",
     "level": "C1",
     "tags": [
-      "false friends",
       "feelings"
     ],
     "tipTr": "\"uninterested in sth\" kalıbıyla kullanılır; \"disinterested\" (tarafsız) ile karıştırılmamalı."
@@ -13941,7 +13921,6 @@
     "exampleTr": "Anlaşmazlık, çıkarı olmayan üçüncü bir tarafça çözülmeli.",
     "level": "C1",
     "tags": [
-      "false friends",
       "formal"
     ],
     "tipTr": "\"disinterested\" tarafsız, \"uninterested\" ilgisiz demektir; günlük dilde \"ilgisiz\" anlamında da duyulur ama bu kullanım tartışmalıdır."
@@ -14339,7 +14318,6 @@
     "exampleTr": "Açıkçası argümanının dolambaçlı mantığını takip edemedim.",
     "level": "C1",
     "tags": [
-      "false friends",
       "formal"
     ],
     "tipTr": "\"tortuous\" dolambaçlı, \"torturous\" işkence gibi demektir."
@@ -14636,8 +14614,7 @@
     "exampleTr": "Kışın uçarken böyle rötarlar olağandır.",
     "level": "C1",
     "tags": [
-      "idioms",
-      "travel"
+      "idioms"
     ],
     "tipTr": "Golf kökenlidir; \"par\" bir delik için beklenen vuruş sayısıdır."
   },
@@ -14908,7 +14885,6 @@
     "exampleTr": "Lokantanın adı aklıma gelmiyor ama istasyonun yakınındaydı.",
     "level": "C1",
     "tags": [
-      "false friends",
       "verbs"
     ],
     "tipTr": "\"allude\" (ima etmek) ile karıştırılmamalı; \"sth eludes sb\" = bir şey birinin aklına gelmemek."
@@ -15402,7 +15378,6 @@
     "exampleTr": "Fırtınanın gelmesi an meselesi olduğu için bölge sakinlerine evlerini terk etmeleri söylendi.",
     "level": "C1",
     "tags": [
-      "false friends",
       "formal"
     ],
     "tipTr": "\"imminent\" pek yakın, \"eminent\" saygın demektir."
@@ -16106,7 +16081,7 @@
   },
   {
     "english": "closure",
-    "turkish": "kapanma, kapatılma; (bir konuyu içinde) kapatma",
+    "turkish": "kapanma (kapatılma); (duygusal) sonlandırma, içinde kapatma",
     "example": "The closure of the local library left many families without a quiet place to study.",
     "exampleTr": "Mahalle kütüphanesinin kapanması pek çok aileyi sessiz bir çalışma yerinden yoksun bıraktı.",
     "level": "C1",
@@ -16382,7 +16357,7 @@
     "tags": [
       "collocations"
     ],
-    "tipTr": "Daha gündelik bir karşılığı \"pick up speed\" biçimindedir."
+    "tipTr": "ABD'de \"pick up speed\" ya da \"pick up steam\" daha yaygındır."
   },
   {
     "english": "quest",
@@ -16455,7 +16430,7 @@
     "english": "accelerate",
     "turkish": "hızlandırmak, hızlanmak",
     "example": "The pandemic accelerated the shift to online shopping.",
-    "exampleTr": "Pandemi çevrimiçi alışverişe geçişi hızlandırdı.",
+    "exampleTr": "Pandemi çevrim içi alışverişe geçişi hızlandırdı.",
     "level": "C1",
     "tags": [
       "verbs"
@@ -16564,7 +16539,7 @@
       "abstract nouns",
       "academic"
     ],
-    "tipTr": "Matematikte \"sonuç teoremi\" anlamına gelir; günlük dilde \"natural consequence\" karşılığıdır."
+    "tipTr": "Matematikte \"sonuç\" (bir teoremden doğrudan çıkan önerme) anlamına gelir; günlük dilde \"natural consequence\" karşılığıdır."
   },
   {
     "english": "attribute",
@@ -16667,15 +16642,15 @@
     "tipTr": "\"hinge on/upon sth\" biçiminde kullanılır; \"hinge\" kapı menteşesi demektir."
   },
   {
-    "english": "a vicious circle",
+    "english": "a vicious cycle",
     "turkish": "kısır döngü",
-    "example": "Stress keeps me up at night, and then I'm even more stressed. It's a vicious circle.",
+    "example": "Stress keeps me up at night, and then I'm even more stressed. It's a vicious cycle.",
     "exampleTr": "Stres yüzünden geceleri uyuyamıyorum, sonra daha da stresli oluyorum. Tam bir kısır döngü.",
     "level": "C1",
     "tags": [
       "idioms"
     ],
-    "tipTr": "ABD'de \"a vicious cycle\" daha yaygındır; karşıtı \"a virtuous circle/cycle\" biçimindedir."
+    "tipTr": "İngiltere'de \"a vicious circle\" da denir; karşıtı \"a virtuous cycle\" biçimindedir."
   },
   {
     "english": "resemble",
@@ -16746,8 +16721,8 @@
   {
     "english": "differentiate",
     "turkish": "ayırt etmek; farklılaştırmak",
-    "example": "Little kids can't always differentiate between fantasy and reality.",
-    "exampleTr": "Küçük çocuklar hayal ile gerçeği her zaman ayırt edemez.",
+    "example": "The new phone needs one feature that'll really differentiate it from its rivals.",
+    "exampleTr": "Yeni telefonun onu rakiplerinden gerçekten ayıracak bir özelliğe ihtiyacı var.",
     "level": "C1",
     "tags": [
       "verbs"
@@ -16865,7 +16840,7 @@
     "exampleTr": "Acı sos mısırın tatlılığını gerçekten çok güzel tamamlıyor.",
     "level": "C1",
     "tags": [
-      "false friends"
+      "verbs"
     ],
     "tipTr": "\"complement\" tamamlar, \"compliment\" iltifattır; ikisi aynı okunur."
   },
@@ -17109,7 +17084,7 @@
     "tags": [
       "hedging"
     ],
-    "tipTr": "Gerçek nedenin başka olduğunu ima eder."
+    "tipTr": "\"ostensibly\" görünürdeki nedenin gerçek neden olmadığını ima eder; \"seemingly\" yalnızca öyle göründüğünü söyler; \"supposedly\" ise başkalarının iddiasına kuşkuyla yaklaşır."
   },
   {
     "english": "overt",
@@ -17230,7 +17205,7 @@
   {
     "english": "hold water",
     "turkish": "mantıklı olmak, tutarlı olmak",
-    "example": "That explanation does not hold water.",
+    "example": "That explanation doesn't hold water.",
     "exampleTr": "Bu açıklama mantığa sığmıyor.",
     "level": "C1",
     "tags": [
@@ -17449,7 +17424,7 @@
     "english": "paradigm",
     "turkish": "paradigma, (düşünce) modeli",
     "example": "Online learning forced a real paradigm shift in how schools think about teaching.",
-    "exampleTr": "Çevrimiçi eğitim, okulların öğretime bakışında gerçek bir paradigma değişimine yol açtı.",
+    "exampleTr": "Çevrim içi eğitim, okulların öğretime bakışında gerçek bir paradigma değişimine yol açtı.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -18040,7 +18015,7 @@
     "tags": [
       "hedging"
     ],
-    "tipTr": "Başkalarının söylediğine pek inanılmadığını gösterir."
+    "tipTr": "\"ostensibly\" görünürdeki nedenin gerçek neden olmadığını ima eder; \"seemingly\" yalnızca öyle göründüğünü söyler; \"supposedly\" ise başkalarının iddiasına kuşkuyla yaklaşır."
   },
   {
     "english": "seemingly",
@@ -18051,7 +18026,7 @@
     "tags": [
       "discourse adverbs"
     ],
-    "tipTr": "Çoğunlukla bir sıfatın önünde gelir: \"a seemingly endless line\"."
+    "tipTr": "Çoğunlukla bir sıfatın önünde gelir: \"a seemingly endless line\". \"ostensibly\" görünürdeki nedenin gerçek neden olmadığını ima eder; \"seemingly\" yalnızca öyle göründüğünü söyler; \"supposedly\" ise başkalarının iddiasına kuşkuyla yaklaşır."
   },
   {
     "english": "tentative",
@@ -18264,9 +18239,9 @@
   },
   {
     "english": "having said that",
-    "turkish": "bununla birlikte, öte yandan",
+    "turkish": "bununla birlikte, yine de",
     "example": "I love living here. Having said that, the winters are brutal.",
-    "exampleTr": "Burada yaşamayı seviyorum. Öte yandan kışlar çok sert.",
+    "exampleTr": "Burada yaşamayı seviyorum. Yine de kışlar çok sert.",
     "level": "C1",
     "tags": [
       "discourse",
@@ -18277,12 +18252,13 @@
   {
     "english": "undeniably",
     "turkish": "inkâr edilemez biçimde, şüphesiz",
-    "example": "She's undeniably talented, but she still needs to work on her timing.",
-    "exampleTr": "Yetenekli olduğu inkâr edilemez ama zamanlaması üzerinde hâlâ çalışması gerek.",
+    "example": "The numbers are undeniably clear: the new bus line has cut commute times in half.",
+    "exampleTr": "Rakamlar yadsınamayacak kadar açık: yeni otobüs hattı yolculuk sürelerini yarıya indirdi.",
     "level": "C1",
     "tags": [
       "discourse adverbs"
-    ]
+    ],
+    "tipTr": "Kanıt ya da gerçek karşısında yadsınamaz olanı vurgular; \"undoubtedly\" ise daha çok konuşanın kendi kesin kanaatini bildirir."
   },
   {
     "english": "unequivocally",
@@ -18498,7 +18474,6 @@
     "exampleTr": "Sokağımızdaki park sorunu hakkındaki bitmek bilmeyen şikâyetlerden bıktım.",
     "level": "C1",
     "tags": [
-      "false friends",
       "adjectives"
     ],
     "tipTr": "\"continual\" aralarla tekrarlanan, \"continuous\" hiç kesintisiz demektir."
@@ -18517,8 +18492,8 @@
   {
     "english": "perennial",
     "turkish": "bitmek bilmeyen, yıllardır süren; çok yıllık (bitki)",
-    "example": "Parking is a perennial problem in this part of town.",
-    "exampleTr": "Şehrin bu bölgesinde park etmek yıllardır süren bir sorun.",
+    "example": "Who gets the last slice of pizza is a perennial argument in our house.",
+    "exampleTr": "Son pizza dilimini kimin alacağı evimizde yıllardır süren bir tartışma.",
     "level": "C1",
     "tags": [
       "adjectives"
@@ -18652,8 +18627,8 @@
   {
     "english": "lengthy",
     "turkish": "uzun (süren), upuzun",
-    "example": "After a lengthy discussion, we finally agreed on a name for the baby.",
-    "exampleTr": "Uzun bir tartışmadan sonra sonunda bebeğe bir isimde anlaştık.",
+    "example": "The form came with a lengthy list of instructions that nobody actually read.",
+    "exampleTr": "Formla birlikte aslında kimsenin okumadığı upuzun bir talimat listesi geldi.",
     "level": "C1",
     "tags": [
       "adjectives"
@@ -18754,8 +18729,8 @@
   {
     "english": "in light of",
     "turkish": "… ışığında, … göz önüne alınarak",
-    "example": "In light of the storm warning, tonight's concert has been postponed.",
-    "exampleTr": "Fırtına uyarısı göz önüne alınarak bu akşamki konser ertelendi.",
+    "example": "In light of the new evidence, the school board agreed to review its decision.",
+    "exampleTr": "Yeni kanıtlar ışığında okul yönetim kurulu kararını yeniden gözden geçirmeyi kabul etti.",
     "level": "C1",
     "tags": [
       "linkers",
@@ -19259,7 +19234,7 @@
     "english": "inclination",
     "turkish": "eğilim, istek",
     "example": "My first inclination was to say no, but I slept on it.",
-    "exampleTr": "İlk isteğim hayır demekti ama bir gece düşündüm.",
+    "exampleTr": "İlk eğilimim hayır demekti ama bir gece düşündüm.",
     "level": "C1",
     "tags": [
       "abstract nouns",
@@ -19406,7 +19381,7 @@
   },
   {
     "english": "discern",
-    "turkish": "seçmek, ayırt etmek",
+    "turkish": "(gözle, zihinle) seçebilmek, ayırt etmek",
     "example": "It was hard to discern any real difference between the two designs.",
     "exampleTr": "İki tasarım arasında gerçek bir fark seçmek zordu.",
     "level": "C1",
@@ -19434,7 +19409,6 @@
     "exampleTr": "Yüzüğü sigorta poliçemize eklemeden önce ona değer biçtirdik.",
     "level": "C1",
     "tags": [
-      "false friends",
       "money"
     ],
     "tipTr": "\"appraise\" değer biçmek, \"apprise\" haberdar etmektir."
@@ -19522,8 +19496,8 @@
   {
     "english": "augment",
     "turkish": "artırmak, takviye etmek",
-    "example": "Many teachers augment their income by tutoring on weekends.",
-    "exampleTr": "Pek çok öğretmen hafta sonları özel ders vererek gelirini artırıyor.",
+    "example": "The city hired extra drivers to augment its regular bus service during the festival.",
+    "exampleTr": "Belediye festival boyunca olağan otobüs seferlerini takviye etmek için fazladan şoför tuttu.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -19533,14 +19507,14 @@
   {
     "english": "ascribe",
     "turkish": "atfetmek, -e bağlamak",
-    "example": "She ascribes her success to hard work and a great mentor.",
-    "exampleTr": "Başarısını sıkı çalışmaya ve harika bir akıl hocasına bağlıyor.",
+    "example": "Sailors in ancient times often ascribed violent storms to the anger of the gods.",
+    "exampleTr": "Eski çağlarda denizciler şiddetli fırtınaları çoğu zaman tanrıların öfkesine bağlardı.",
     "level": "C1",
     "tags": [
       "academic",
       "formal"
     ],
-    "tipTr": "\"ascribe X to Y\" kalıbı \"X'i Y'ye bağlamak\" demektir."
+    "tipTr": "\"ascribe X to Y\" kalıbıyla kullanılır; \"attribute\" ile yakın anlamlıdır ama daha resmî ve edebîdir."
   },
   {
     "english": "compel",
@@ -19568,13 +19542,14 @@
   {
     "english": "postulate",
     "turkish": "(kuram olarak) varsaymak, öne sürmek",
-    "example": "Some researchers postulate that sleep helps the brain clear out waste.",
-    "exampleTr": "Bazı araştırmacılar uykunun beynin atıklardan arınmasına yardım ettiğini öne sürüyor.",
+    "example": "Einstein postulated that the speed of light is the same for every observer.",
+    "exampleTr": "Einstein, ışık hızının her gözlemci için aynı olduğunu varsaydı.",
     "level": "C1",
     "tags": [
       "academic",
       "formal"
-    ]
+    ],
+    "tipTr": "\"posit\" ile yakın anlamlıdır ama daha resmî ve kuramsaldır; çoğunlukla bir kuramın temel varsayımı için kullanılır."
   },
   {
     "english": "whilst",
@@ -19626,7 +19601,7 @@
     "english": "dodgy",
     "turkish": "şüpheli, güvenilmez; bozuk",
     "example": "That kebab van looked a bit dodgy, so we went somewhere else.",
-    "exampleTr": "O kebap minibüsü biraz şüpheli görünüyordu, biz de başka yere gittik.",
+    "exampleTr": "O seyyar kebapçı biraz şüpheli görünüyordu, biz de başka yere gittik.",
     "level": "C1",
     "tags": [
       "adjectives"
@@ -19635,15 +19610,14 @@
   },
   {
     "english": "skive",
-    "turkish": "(okulu, işi) asmak, kaytarmak",
-    "example": "He skived off school to watch the match at his mate's house.",
-    "exampleTr": "Maçı arkadaşının evinde izlemek için okulu astı.",
+    "turkish": "(işi, antrenmanı) asmak, kaytarmak",
+    "example": "He skived off work to watch the match at his mate's house.",
+    "exampleTr": "Maçı arkadaşının evinde izlemek için işten kaytardı.",
     "level": "C1",
     "tags": [
-      "verbs",
-      "education"
+      "verbs"
     ],
-    "tipTr": "İngiliz İngilizcesi, gündelik; genellikle \"skive off\" biçiminde kullanılır. ABD'de okul için \"play hooky\" denir."
+    "tipTr": "İngiliz İngilizcesi, gündelik; genellikle \"skive off\" biçiminde kullanılır. ABD'de işten kaytarmak için \"slack off\", okul için \"play hooky\" denir."
   },
   {
     "english": "car boot sale",
@@ -19721,7 +19695,7 @@
     "tags": [
       "money"
     ],
-    "tipTr": "İngiliz İngilizcesi; ödeme bitene kadar mal satıcıya ait kalır. ABD'de \"installment plan\" denir."
+    "tipTr": "İngiliz İngilizcesi; ödeme bitene kadar mal satıcıya ya da finansman şirketine ait kalır. ABD'de \"installment plan\" denir."
   },
   {
     "english": "estate car",
@@ -19747,7 +19721,7 @@
   },
   {
     "english": "bloke",
-    "turkish": "adam, herif (gündelik)",
+    "turkish": "adam, tip (gündelik)",
     "example": "Her new boyfriend seems like a really nice bloke.",
     "exampleTr": "Yeni erkek arkadaşı gerçekten iyi bir adama benziyor.",
     "level": "C1",

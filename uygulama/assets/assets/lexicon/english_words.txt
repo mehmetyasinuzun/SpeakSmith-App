@@ -14327,6 +14327,7 @@ ascot
 ascothoracica
 ascribable
 ascribe
+ascribed
 ascribes
 ascript
 ascription
@@ -61266,6 +61267,7 @@ eimak
 eimer
 eimeria
 einkorn
+einstein
 einsteinian
 einsteinium
 eireannach
@@ -80217,6 +80219,7 @@ godmothership
 godown
 godpapa
 godparent
+gods
 godsake
 godsend
 godship
@@ -154991,6 +154994,7 @@ postulant
 postulantship
 postulata
 postulate
+postulated
 postulation
 postulational
 postulator
@@ -176146,6 +176150,7 @@ sailorlike
 sailorly
 sailorman
 sailorproof
+sailors
 sailplane
 sailship
 sailsman
