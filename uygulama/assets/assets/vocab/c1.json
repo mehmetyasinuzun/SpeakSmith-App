@@ -162,9 +162,9 @@
   },
   {
     "english": "circumvent",
-    "turkish": "etrafından dolaşmak, atlatmak",
+    "turkish": "etrafından dolaşmak, atlamak",
     "example": "Nobody should circumvent the review process.",
-    "exampleTr": "Kimse inceleme sürecini atlatmamalı.",
+    "exampleTr": "Kimse inceleme sürecini atlamamalı.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -210,7 +210,7 @@
     "english": "consolidate",
     "turkish": "birleştirmek, pekiştirmek",
     "example": "Let us consolidate the three reports into one.",
-    "exampleTr": "Üç raporu tek bir rapora birleştirelim.",
+    "exampleTr": "Üç raporu tek bir raporda birleştirelim.",
     "level": "C1",
     "tags": [
       "verbs",
@@ -754,7 +754,7 @@
   },
   {
     "english": "caution",
-    "turkish": "uyarmak, ihtiyat payı bırakmak",
+    "turkish": "uyarmak; (isim) dikkat, ihtiyat",
     "example": "Analysts caution that one quarter proves nothing.",
     "exampleTr": "Analistler tek bir çeyreğin hiçbir şey kanıtlamadığı konusunda uyarıyor.",
     "level": "C1",
@@ -1301,7 +1301,7 @@
   },
   {
     "english": "surplus",
-    "turkish": "fazla, artı değer",
+    "turkish": "fazla, artı, bütçe fazlası",
     "example": "The department ended the year with a small surplus.",
     "exampleTr": "Birim yılı küçük bir fazlayla kapattı.",
     "level": "C1",
@@ -1389,7 +1389,7 @@
   },
   {
     "english": "momentum",
-    "turkish": "ivme, moment",
+    "turkish": "ivme, momentum",
     "example": "The campaign lost momentum after the holidays.",
     "exampleTr": "Kampanya tatilden sonra ivme kaybetti.",
     "level": "C1",
@@ -2586,7 +2586,7 @@
     "english": "exorbitant",
     "turkish": "fahiş, aşırı yüksek",
     "example": "The vendor quoted an exorbitant licence fee.",
-    "exampleTr": "Tedarikçi fahiş bir lisans ücreti verdi.",
+    "exampleTr": "Tedarikçi fahiş bir lisans ücreti istedi.",
     "level": "C1",
     "tags": [
       "adjectives",
@@ -2957,7 +2957,7 @@
   {
     "english": "provisional",
     "turkish": "geçici, kesinleşmemiş",
-    "example": "These are provisional figures, so treat them lightly.",
+    "example": "These are provisional figures, so treat them with caution.",
     "exampleTr": "Bunlar geçici rakamlar, o yüzden ihtiyatla yaklaşın.",
     "level": "C1",
     "tags": [
@@ -3293,7 +3293,7 @@
     "english": "scarcely",
     "turkish": "neredeyse hiç, güçlükle",
     "example": "I had scarcely finished when the call dropped.",
-    "exampleTr": "Daha bitirmemiştim ki görüşme koptu.",
+    "exampleTr": "Daha yeni bitirmiştim ki görüşme koptu.",
     "level": "C1",
     "tags": [
       "adverbs",
@@ -4251,7 +4251,7 @@
     "english": "a win-win",
     "turkish": "iki tarafın da kazandığı durum",
     "example": "Shorter meetings are a win-win for everyone.",
-    "exampleTr": "Daha kısa toplantılar herkes için iki tarafın da kazandığı bir durum.",
+    "exampleTr": "Daha kısa toplantılardan herkes kazançlı çıkar.",
     "level": "C1",
     "tags": [
       "idioms",
@@ -4617,7 +4617,7 @@
     "english": "carry over",
     "turkish": "devretmek, aktarmak",
     "example": "Unused leave does not carry over to next year.",
-    "exampleTr": "Kullanılmayan izin gelecek yıla devretmez.",
+    "exampleTr": "Kullanılmayan izin gelecek yıla devredilmez.",
     "level": "C1",
     "tags": [
       "phrasal verbs",
@@ -4684,7 +4684,7 @@
     "english": "farm out",
     "turkish": "dışarıya vermek, taşere etmek",
     "example": "They farm out translation to three agencies.",
-    "exampleTr": "Çeviriyi üç ajansa dışarıdan veriyorlar.",
+    "exampleTr": "Çeviriyi üç ajansa dışarıya veriyorlar.",
     "level": "C1",
     "tags": [
       "phrasal verbs",
@@ -4715,7 +4715,7 @@
   },
   {
     "english": "flesh out",
-    "turkish": "etini budunu doldurmak, ayrıntılandırmak",
+    "turkish": "ayrıntılandırmak, somutlaştırmak",
     "example": "Could you flesh out the second option?",
     "exampleTr": "İkinci seçeneği biraz ayrıntılandırabilir misin?",
     "level": "C1",
@@ -5611,9 +5611,9 @@
   },
   {
     "english": "hold water",
-    "turkish": "su tutmak, mantıklı olmak",
+    "turkish": "mantıklı olmak, tutarlı olmak",
     "example": "That explanation does not hold water.",
-    "exampleTr": "Bu açıklama su tutmuyor.",
+    "exampleTr": "Bu açıklama mantığa sığmıyor.",
     "level": "C1",
     "tags": [
       "collocations",
@@ -5646,7 +5646,7 @@
   },
   {
     "english": "convert",
-    "turkish": "dönüştürmek, dönüşen kişi",
+    "turkish": "dönüştürmek; (isim) din veya görüş değiştiren kişi",
     "example": "We convert the file first, then send it to the conversion queue.",
     "exampleTr": "Dosyayı önce dönüştürüp sonra dönüşüm kuyruğuna gönderiyoruz.",
     "level": "C1",
@@ -5913,9 +5913,9 @@
   },
   {
     "english": "prescribe",
-    "turkish": "reçete etmek, buyurmak",
+    "turkish": "reçete etmek, öngörmek, şart koşmak",
     "example": "The guide does not prescribe a single tool.",
-    "exampleTr": "Kılavuz tek bir araç buyurmuyor.",
+    "exampleTr": "Kılavuz tek bir aracı şart koşmuyor.",
     "level": "C1",
     "tags": [
       "false friends",
@@ -6272,9 +6272,9 @@
   },
   {
     "english": "deprecate",
-    "turkish": "kullanımdan kaldırmaya almak",
+    "turkish": "kullanımdan kaldırılacağını duyurmak, eskimiş olarak işaretlemek",
     "example": "We deprecate the old endpoint before we remove it.",
-    "exampleTr": "Eski uç noktayı kaldırmadan önce kullanımdan kaldırmaya alıyoruz.",
+    "exampleTr": "Eski uç noktayı kaldırmadan önce eskimiş (deprecated) olarak işaretliyoruz.",
     "level": "C1",
     "tags": [
       "technology",
@@ -6507,9 +6507,9 @@
   },
   {
     "english": "breaking change",
-    "turkish": "kırıcı değişiklik",
+    "turkish": "uyumluluğu bozan değişiklik",
     "example": "Renaming that field is a breaking change.",
-    "exampleTr": "O alanı yeniden adlandırmak kırıcı bir değişikliktir.",
+    "exampleTr": "O alanı yeniden adlandırmak uyumluluğu bozan bir değişikliktir.",
     "level": "C1",
     "tags": [
       "technology",

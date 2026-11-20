@@ -124,7 +124,7 @@
   },
   {
     "english": "development",
-    "turkish": "gelişme, kalkınma",
+    "turkish": "gelişme, geliştirme, kalkınma",
     "example": "The development of the app took two years.",
     "exampleTr": "Uygulamanın geliştirilmesi iki yıl sürdü.",
     "level": "B1",
@@ -812,7 +812,7 @@
   },
   {
     "english": "moody",
-    "turkish": "dengesiz ruh hâlli",
+    "turkish": "huysuz, ruh hâli değişken",
     "example": "Teenagers can be moody.",
     "exampleTr": "Ergenlerin ruh hâli değişken olabilir.",
     "level": "B1",
@@ -1717,7 +1717,7 @@
     "english": "promote",
     "turkish": "terfi ettirmek, tanıtmak",
     "example": "She was promoted to team leader.",
-    "exampleTr": "Ekip lideri olarak terfi ettirildi.",
+    "exampleTr": "Ekip liderliğine terfi etti.",
     "level": "B1",
     "tags": [
       "work"
@@ -1819,7 +1819,7 @@
     "tags": [
       "travel"
     ],
-    "tipTr": "Dönüşlü bilet için \"return ticket\" denir."
+    "tipTr": "Gidiş-dönüş bileti için \"return ticket\" denir."
   },
   {
     "english": "rush hour",
@@ -2309,9 +2309,9 @@
   },
   {
     "english": "stretch",
-    "turkish": "esnemek, germek",
-    "example": "Stretch your legs before you run.",
-    "exampleTr": "Koşmadan önce bacaklarını ger.",
+    "turkish": "germek, esnetmek, gerinmek",
+    "example": "Stretch your muscles before you run.",
+    "exampleTr": "Koşmadan önce kaslarını esnet.",
     "level": "B1",
     "tags": [
       "health"
@@ -4319,7 +4319,7 @@
     "english": "go ahead",
     "turkish": "devam etmek, başlamak",
     "example": "Go ahead and open the envelope.",
-    "exampleTr": "Devam et ve zarfı aç.",
+    "exampleTr": "Hadi, aç zarfı.",
     "level": "B1",
     "tags": [
       "phrasal verbs"
@@ -4995,9 +4995,9 @@
   },
   {
     "english": "unless",
-    "turkish": "-medikçe",
+    "turkish": "-mezse, -medikçe",
     "example": "We will go unless it rains.",
-    "exampleTr": "Yağmur yağmadıkça gideceğiz.",
+    "exampleTr": "Yağmur yağmazsa gideceğiz.",
     "level": "B1",
     "tags": [
       "linkers"
@@ -5673,7 +5673,7 @@
     "english": "give a hand",
     "turkish": "yardım etmek",
     "example": "Can you give me a hand with these bags?",
-    "exampleTr": "Bu çantalarda bana yardım eder misin?",
+    "exampleTr": "Bu çantaları taşımama yardım eder misin?",
     "level": "B1",
     "tags": [
       "collocations",

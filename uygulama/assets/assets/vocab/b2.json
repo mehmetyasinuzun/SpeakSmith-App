@@ -732,7 +732,7 @@
     "english": "compensate",
     "turkish": "telafi etmek, tazmin etmek",
     "example": "The airline compensated the passengers.",
-    "exampleTr": "Havayolu yolcuları tazmin etti.",
+    "exampleTr": "Havayolu yolculara tazminat ödedi.",
     "level": "B2",
     "tags": [
       "verbs",
@@ -744,7 +744,7 @@
     "english": "undergo",
     "turkish": "geçirmek, maruz kalmak",
     "example": "The building will undergo major repairs.",
-    "exampleTr": "Bina kapsamlı bir onarımdan geçecek.",
+    "exampleTr": "Bina kapsamlı bir onarım görecek.",
     "level": "B2",
     "tags": [
       "verbs",
@@ -1943,9 +1943,9 @@
   },
   {
     "english": "once and for all",
-    "turkish": "bir kez ve son kez, kesin olarak",
+    "turkish": "kesin olarak, temelli",
     "example": "Let us settle this once and for all.",
-    "exampleTr": "Bunu bir kez ve son kez halledelim.",
+    "exampleTr": "Şu işi kesin olarak halledelim.",
     "level": "B2",
     "tags": [
       "idioms"
@@ -2928,9 +2928,9 @@
   },
   {
     "english": "understandably",
-    "turkish": "anlaşılır biçimde",
+    "turkish": "doğal olarak, haklı olarak",
     "example": "Understandably, the students were nervous.",
-    "exampleTr": "Anlaşılır biçimde öğrenciler gergindi.",
+    "exampleTr": "Öğrencilerin gergin olması gayet anlaşılırdı.",
     "level": "B2",
     "tags": [
       "discourse adverbs"
@@ -4848,7 +4848,7 @@
   },
   {
     "english": "considerable",
-    "turkish": "epeyce, hayli",
+    "turkish": "hatırı sayılır, kayda değer",
     "example": "The project needs considerable funding.",
     "exampleTr": "Proje epeyce fon gerektiriyor.",
     "level": "B2",
@@ -5913,7 +5913,7 @@
     "english": "authority",
     "turkish": "yetki, makam",
     "example": "Only the local authority can approve it.",
-    "exampleTr": "Sadece yerel makam onaylayabilir.",
+    "exampleTr": "Bunu yalnızca yerel yönetim onaylayabilir.",
     "level": "B2",
     "tags": [
       "society",
@@ -6355,8 +6355,8 @@
   {
     "english": "whereas",
     "turkish": "oysa, buna karşın",
-    "example": "He likes cities, whereas she prefers villages.",
-    "exampleTr": "O şehirleri sever, oysa kadın köyleri tercih eder.",
+    "example": "Ali likes cities, whereas Ece prefers villages.",
+    "exampleTr": "Ali şehirleri sever, Ece ise köyleri tercih eder.",
     "level": "B2",
     "tags": [
       "linkers",

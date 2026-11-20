@@ -88,7 +88,7 @@
     "usefulPhrases": [
       "My first flight was delayed.",
       "Is there anything later tonight?",
-      "I really need to be there by tomorrow."
+      "I really need to be there tonight."
     ]
   },
   {
@@ -189,9 +189,9 @@
     "titleTr": "Tren grevi",
     "titleEn": "Rail strike stranded",
     "briefTr": "Ani bir grev yüzünden akşam trenin iptal oldu ve yarın sabahki toplantıya yetişmen şart; gişedeki görevli 'elimden bir şey gelmez' deyip duruyor. Somut bir alternatif güzergâh önerip ek masrafı tren şirketinin karşılaması gerektiğini makul gerekçelerle savunacaksın.",
-    "sceneEn": "A sudden strike cancels the learner's evening train while the station manager insists nothing can be done, and the learner must reach a morning meeting in another city.",
+    "sceneEn": "A sudden strike cancels the learner's evening train while the ticket office clerk insists nothing can be done, and the learner must reach a morning meeting in another city.",
     "goalEn": "propose a concrete alternative route and argue reasonably that the company should cover the extra cost",
-    "partnerRole": "a dismissive station manager",
+    "partnerRole": "a dismissive ticket office clerk",
     "userRole": "a stranded business traveler",
     "level": "C1",
     "tags": [
