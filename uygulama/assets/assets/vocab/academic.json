@@ -1,0 +1,68 @@
+[
+  {
+    "english": "given",
+    "turkish": "belirli, belli; (bir şey) göz önüne alınınca",
+    "example": "Each group has a given amount of time, usually ten minutes, to present.",
+    "exampleTr": "Her grubun sunum için belirli bir süresi var, genellikle on dakika.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"given that\" (…göz önüne alınırsa) kalıbı konuşmada sık geçer: \"Given that the sample was small, it's only a first step.\""
+  },
+  {
+    "english": "developed",
+    "turkish": "gelişmiş, iyi işlenmiş",
+    "example": "The idea is well developed in the second chapter, with clear examples.",
+    "exampleTr": "Fikir ikinci bölümde açık örneklerle iyi işlenmiş.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"developed countries\" (gelişmiş ülkeler) ile \"developing countries\" (gelişmekte olan ülkeler) çoğu zaman birlikte anılır."
+  },
+  {
+    "english": "handout",
+    "turkish": "(derste dağıtılan) el notu, bilgi kâğıdı",
+    "example": "The lecturer gave everyone a handout with the main points of the talk.",
+    "exampleTr": "Öğretim görevlisi herkese konuşmanın ana noktalarını içeren bir el notu verdi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim bitişik yazılır (a handout); fiil ayrıdır: \"hand out\" (dağıtmak)."
+  },
+  {
+    "english": "intermediate",
+    "turkish": "orta düzey, orta seviye; ara",
+    "example": "This course is for intermediate students who already know the basic terms.",
+    "exampleTr": "Bu ders temel terimleri zaten bilen orta düzey öğrenciler için.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Dil kurslarında düzeyler çoğu zaman \"beginner, intermediate, advanced\" (başlangıç, orta, ileri) diye sıralanır."
+  },
+  {
+    "english": "lecturer",
+    "turkish": "(üniversitede) öğretim görevlisi, okutman",
+    "example": "Our lecturer posts the slides online after every session.",
+    "exampleTr": "Öğretim görevlimiz her dersten sonra slaytları çevrim içi paylaşıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD'de konuşma dilinde üniversite hocalarına genellikle \"professor\" denir; \"lecturer\" daha çok bir unvan olarak geçer."
+  },
+  {
+    "english": "percent",
+    "turkish": "yüzde",
+    "example": "About forty percent of the students said they study late at night.",
+    "exampleTr": "Öğrencilerin yaklaşık yüzde kırkı gece geç saatte ders çalıştığını söyledi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD yazımı bitişiktir (percent). Oranın kendisi için \"percentage\" kullanılır: \"a high percentage of students\"."
+  }
+]
