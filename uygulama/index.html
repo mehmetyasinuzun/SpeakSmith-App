@@ -29,7 +29,10 @@
          bulut sağlayıcıları, Hugging Face (bölgesel CDN konakları değişir),
          şarkı sözü/çeviri/Invidious uçları. Yerel model sunucuları için
          localhost.
-       - WebLLM CDN'den değil vendor/'dan gelir: dış betik konağı gerekmez. -->
+       - WebLLM CDN'den değil vendor/'dan gelir: dış betik konağı gerekmez.
+       - Derleme `flutter build web --release --no-web-resources-cdn` olmalı:
+         bayraksız derleme CanvasKit'i gstatic'ten ister, bu politika engeller
+         ve uygulama açılış ekranında kalır (test/web_build_cdn_flag_guard_test.dart). -->
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-inline' https://www.youtube.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https: http://localhost:* http://127.0.0.1:*; media-src 'self' blob:; worker-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'none'; manifest-src 'self'">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
