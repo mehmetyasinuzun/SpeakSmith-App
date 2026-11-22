@@ -1,31 +1,31 @@
 {
-  "versionCode": 2081,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm64.apk",
-  "changelog": "Yatay ekran ve koç kurulumu düzeltmeleri.\n• Telefonu yataya çevirince YouTube oynatıcısı artık tüm ekranı kaplamıyor; ders metni, karaoke sözleri ve geri düğmesi kullanılabilir kalıyor.\n• Ücretsiz koçu indirince sohbetler kendiliğinden ona geçer; bulut sağlayıcı seçtiysen seçimin korunur.\n• \"Kendi API anahtarım var\" seçeneği Ayarlar'ı sağlayıcılar açık getirir; koç kartı süren indirmeyi yüzdesiyle gösterir.\n• Yapay zekâyı atlayan yeni kullanıcı ana sayfada hata uyarısı değil, isteğe bağlı koç kartı görür; \"AI ile üret\" gibi yerlerde de önce ücretsiz koç önerilir.\n• Sohbette küçük modelin bıraktığı ham etiket görünmez; sunum ve boş ders mesajları daha açık.",
+  "versionCode": 2082,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.2/speaksmith-v0.8.2-arm64.apk",
+  "changelog": "Yedekleme, mikrofonsuz pratik ve haftalık hedeflerde büyük düzeltmeler.\n• Yedeği \"Birleştir\"mek artık kelimeleri ikilemez; daha iyi öğrendiğin kopya ve bu telefonun ayarları kalır. Yeni telefona geçiyorsan \"Temiz geri yükle\"yi seç.\n• Zaten ikilenmiş kelimeler için: Ayarlar → Veri Yönetimi → \"Yinelenen kelimeleri birleştir\". Bozuk ayarlı yedek artık uygulamayı kilitlemez.\n• Mikrofon yoksa shadowing'i yazarak yapabilirsin; \"Günün 5 dakikası\" yine biter (yazılı deneme telaffuz başarımına sayılmaz).\n• Yeni: \"Günün 5 dakikası\", \"Bu haftan\" raporu, seviye testi (Ayarlar'da), yeni kelime tanıtım kartı ve sıradaki paket önerisi.\n• Haftalık görevler hafta boyunca aynı kalır; bitirip almadığın ödül hafta dönümünde ödenir. Günlük shadowing hedefi farklı cümleler ister.\n• Seri bittiğinde, köprü günü kullanıldığında ve pazartesi \"Geçen haftan\" ile ana sayfa seni bilgilendirir.\n• Ekran okuyucu, klavye ve büyük yazı desteği iyileşti.\n• Güvenlik: başka uygulamalardan SpeakSmith'e paylaşılan dosyalar artık denetlenir; kötü niyetli bir uygulama SpeakSmith'in kendi verilerine yazamaz.\n• Deneysel: cihazda doğal ses ve shadowing'de internetsiz konuşma tanıma (henüz telefonda denenmedi). Uygulama boyutu büyüdü.\n• Gemini, Claude ve OpenAI koçları güncel modellerle çalışır; canlı ders ve karaokede çok sayıda düzeltme.",
   "minSupportedCode": 0,
-  "sha256": "8fcaa1dbb9334595ad63745a0d2037db6533062cc88bd8e2d422af6f77ee0b9d",
+  "sha256": "b53aa97a49c96e2897cdcfd5543fbe4458a91b7d72e5531a4acf08bd9ea184fb",
   "signatureChangedAtBuild": 50,
   "variants": {
     "arm64-v8a": {
-      "versionCode": 2081,
-      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm64.apk",
-      "sha256": "8fcaa1dbb9334595ad63745a0d2037db6533062cc88bd8e2d422af6f77ee0b9d"
+      "versionCode": 2082,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.2/speaksmith-v0.8.2-arm64.apk",
+      "sha256": "b53aa97a49c96e2897cdcfd5543fbe4458a91b7d72e5531a4acf08bd9ea184fb"
     },
     "armeabi-v7a": {
-      "versionCode": 1081,
-      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-arm32.apk",
-      "sha256": "f825194fc8cfbee41e65d2fe6d3c14ba78cefdb0d76565ad739026aa3a228e16"
+      "versionCode": 1082,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.2/speaksmith-v0.8.2-arm32.apk",
+      "sha256": "f88427c81d1a8ae04ee4f5ecfd02590964643f038689d5461d6b802c6e334b83"
     },
     "x86_64": {
-      "versionCode": 4081,
-      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-x64.apk",
-      "sha256": "e818cbc2212e70704720232fbaeff3ccf536fca9bfde9d55a0e1293d7027f9d5"
+      "versionCode": 4082,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.2/speaksmith-v0.8.2-x64.apk",
+      "sha256": "5eff7ba37d2851a37628c71cc7272252d52aa870c3dac3836e292408308dd51f"
     },
     "universal": {
-      "versionCode": 81,
-      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.1/speaksmith-v0.8.1-universal.apk",
-      "sha256": "f9a6a8a4bf063df31fa6ccf66028a58d66228bb1f9a9c9bed8b97a1c1975b6eb"
+      "versionCode": 82,
+      "apkUrl": "https://github.com/mehmetyasinuzun/SpeakSmith-App/releases/download/v0.8.2/speaksmith-v0.8.2-universal.apk",
+      "sha256": "2c58660eb65234281c3c60487dd1636830646fbff15621c8c8b24518ce15d277"
     }
   }
 }
