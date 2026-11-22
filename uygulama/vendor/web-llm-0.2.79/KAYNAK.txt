@@ -1,0 +1,19 @@
+@mlc-ai/web-llm 0.2.79 — lib/index.js, npm paketinden BAYT BAYT aynı kopya.
+
+Neden burada: WebLLM eskiden her açılışta esm.run → cdn.jsdelivr.net'ten
+yükleniyordu (bütünlük denetimi yok; jsDelivr'ın +esm çıktısı dinamik
+üretildiği için SRI da kullanılamaz). Artık uygulama kendi kökünden sunar ve
+yalnız tarayıcı modeli kullanılırken yükler (web/webllm_bridge.js).
+
+Kaynak:     https://registry.npmjs.org/@mlc-ai/web-llm/-/web-llm-0.2.79.tgz
+npm integrity (tarball): sha512-Hy1ZHQ0o2bZGZoVnGK48+fts/ZSKwLe96xjvqL/6C59Mem9HoHTcFE07NC2E23mRmhd01tL655N6CPeYmwWgwQ==
+index.js sha256: adf78adb083a12022ca09ad1612594b4c3b44f37ab9689b82671a2344f0cd606
+Boyut: 6.002.196 bayt (gzip -9 ile ~2,0 MB). Dış içe aktarma yok (loglevel
+paketin içine gömülü), eval / new Function yok.
+Lisans: Apache-2.0 (LICENSE).
+
+Güncelleme: yeni sürümün tarball'ını indir, npm integrity'yi doğrula,
+lib/index.js ve LICENSE'ı yeni sürüm klasörüne kopyala; web/webllm_bridge.js
+içindeki WEBLLM_URL'yi ve test/webllm_vendor_guard_test.dart içindeki özeti
+güncelle. Model ağırlıkları ve model wasm'ı yine Hugging Face / GitHub'dan
+gelir (web/index.html CSP connect-src).

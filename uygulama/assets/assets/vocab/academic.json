@@ -24,8 +24,8 @@
   {
     "english": "handout",
     "turkish": "(derste dağıtılan) el notu, bilgi kâğıdı",
-    "example": "The lecturer gave everyone a handout with the main points of the talk.",
-    "exampleTr": "Öğretim görevlisi herkese konuşmanın ana noktalarını içeren bir el notu verdi.",
+    "example": "The professor gave everyone a handout with the main points of the talk.",
+    "exampleTr": "Hoca herkese konuşmanın ana noktalarını içeren bir el notu verdi.",
     "level": "ACADEMIC",
     "tags": [
       "academic"
@@ -44,17 +44,6 @@
     "tipTr": "Dil kurslarında düzeyler çoğu zaman \"beginner, intermediate, advanced\" (başlangıç, orta, ileri) diye sıralanır."
   },
   {
-    "english": "lecturer",
-    "turkish": "(üniversitede) öğretim görevlisi, okutman",
-    "example": "Our lecturer posts the slides online after every session.",
-    "exampleTr": "Öğretim görevlimiz her dersten sonra slaytları çevrim içi paylaşıyor.",
-    "level": "ACADEMIC",
-    "tags": [
-      "academic"
-    ],
-    "tipTr": "ABD'de konuşma dilinde üniversite hocalarına genellikle \"professor\" denir; \"lecturer\" daha çok bir unvan olarak geçer."
-  },
-  {
     "english": "percent",
     "turkish": "yüzde",
     "example": "About forty percent of the students said they study late at night.",
@@ -64,5 +53,467 @@
       "academic"
     ],
     "tipTr": "ABD yazımı bitişiktir (percent). Oranın kendisi için \"percentage\" kullanılır: \"a high percentage of students\"."
+  },
+  {
+    "english": "instructor",
+    "turkish": "(üniversitede) öğretim görevlisi, dersi veren hoca",
+    "example": "Our instructor posts the slides online after every class.",
+    "exampleTr": "Dersi veren hocamız her dersten sonra slaytları internette paylaşıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD'de dersi veren kişiye unvanı ne olursa olsun \"instructor\" denebilir; konuşurken çoğu öğrenci \"professor\" der."
+  },
+  {
+    "english": "advisor",
+    "turkish": "(tez, araştırma) danışman hoca",
+    "example": "My advisor reads every chapter of my thesis before I submit it.",
+    "exampleTr": "Danışman hocam tezimin her bölümünü ben teslim etmeden önce okuyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD yazımı çoğunlukla \"advisor\"dır; lisansüstü öğrenciler \"my advisor\" der, İngiliz kullanımındaki \"supervisor\" yerine."
+  },
+  {
+    "english": "syllabus",
+    "turkish": "ders izlencesi (dersin konu, ödev ve notlandırma planı)",
+    "example": "The syllabus says the final paper counts for forty percent of the grade.",
+    "exampleTr": "Ders izlencesine göre dönem sonu ödevi notun yüzde kırkını oluşturuyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD'de dersin ilk günü dağıtılır; ödev tarihleri ve notlandırma için önce syllabus'a bakılır."
+  },
+  {
+    "english": "department",
+    "turkish": "(üniversitede) bölüm",
+    "example": "Every student in the seminar comes from a different department.",
+    "exampleTr": "Seminerdeki her öğrenci farklı bir bölümden geliyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Üniversitede \"department\" bölümdür: \"the history department\" (tarih bölümü). Şirketteki \"departman\" anlamı başkadır."
+  },
+  {
+    "english": "classic",
+    "turkish": "(örnek için) tipik, bilinen, ders kitaplarına geçmiş",
+    "example": "The professor called it a classic case of bad planning.",
+    "exampleTr": "Hoca bunu kötü planlamanın bilinen bir örneği olarak nitelendirdi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik konuşmada çoğunlukla \"a classic example / case of\" kalıbıyla geçer; \"classical\" ise klasik dönem ya da klasik müzik içindir."
+  },
+  {
+    "english": "lead",
+    "turkish": "(bir sonuca) yol açmak",
+    "example": "Poor sleep can lead to lower grades during exam week.",
+    "exampleTr": "Kötü uyku sınav haftasında notların düşmesine yol açabilir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"lead to\" kalıbıyla kullanılır; geçmiş zamanı \"led\": \"The change led to fewer complaints.\""
+  },
+  {
+    "english": "sense",
+    "turkish": "anlam; (make sense) anlaşılır olmak, mantıklı gelmek",
+    "example": "Your explanation makes sense now, so thanks for going over it again.",
+    "exampleTr": "Açıklamanız şimdi anlaşılır geldi, tekrar anlattığınız için teşekkürler.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"It makes sense\" (mantıklı) ve \"in a sense\" (bir bakıma) konuşmada çok sık geçer."
+  },
+  {
+    "english": "point",
+    "turkish": "(konuşmada) görüş, ana fikir, nokta",
+    "example": "Each paragraph in your essay should make one clear point.",
+    "exampleTr": "Ödev yazındaki her paragraf tek bir net görüş ortaya koymalı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"That's a good point\" (haklı bir nokta) ve \"my point is that…\" (demek istediğim şu…) seminerde sık kullanılır."
+  },
+  {
+    "english": "refer",
+    "turkish": "(bir kaynağa) atıfta bulunmak; kastetmek",
+    "example": "In your essay, try to refer to at least two recent studies.",
+    "exampleTr": "Ödev yazında en az iki yeni çalışmaya atıfta bulunmaya çalış.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"refer to\" kalıbıyla kullanılır; isim hâli \"reference\" (kaynak, atıf)."
+  },
+  {
+    "english": "parallel",
+    "turkish": "(fikir, kuram) koşut, benzer çizgide giden",
+    "example": "The two theories are parallel, but they reach different conclusions.",
+    "exampleTr": "İki kuram koşut ama farklı sonuçlara varıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"draw a parallel between\" (… arasında benzerlik kurmak) kalıbı da akademik konuşmada sık geçer."
+  },
+  {
+    "english": "grow",
+    "turkish": "(sayı, miktar) artmak, büyümek",
+    "example": "The number of online students tends to grow after the first year.",
+    "exampleTr": "Çevrim içi öğrenci sayısı ilk yıldan sonra artma eğiliminde.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Grafik anlatırken \"grow by\" (… kadar artmak) ve isim hâli \"growth\" (büyüme) birlikte kullanılır."
+  },
+  {
+    "english": "rate",
+    "turkish": "oran, hız (bir şeyin ne sıklıkla ya da ne hızla olduğu)",
+    "example": "The dropout rate is much higher in the first year than later.",
+    "exampleTr": "Okulu bırakma oranı ilk yılda sonrakilere göre çok daha yüksek.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"the rate of growth\" (büyüme hızı) ve \"at a fast rate\" (hızla) grafik anlatımında sık geçer."
+  },
+  {
+    "english": "argue",
+    "turkish": "(gerekçeyle) savunmak, ileri sürmek",
+    "example": "In her new book, the author argues that homework should be shorter.",
+    "exampleTr": "Yazar yeni kitabında ödevlerin daha kısa olması gerektiğini savunuyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik konuşmada \"argue that…\" (… olduğunu savunmak) kavga anlamı taşımaz; \"argue about\" ise tartışmaktır."
+  },
+  {
+    "english": "argument",
+    "turkish": "sav, argüman, gerekçe",
+    "example": "Her main argument is that small classes help shy students speak.",
+    "exampleTr": "Ana savı küçük sınıfların çekingen öğrencilerin konuşmasına yardım ettiği.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik bağlamda \"argument\" kavga değil savdır: \"a strong argument\" (güçlü bir sav)."
+  },
+  {
+    "english": "position",
+    "turkish": "(bir konudaki) görüş, tutum",
+    "example": "The author's position is clear: schools should start later in the morning.",
+    "exampleTr": "Yazarın tutumu net: Okullar sabah daha geç başlamalı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"take a position on\" (… konusunda tutum almak) kalıbıyla da geçer; iş yerindeki \"pozisyon\" anlamı başkadır."
+  },
+  {
+    "english": "key",
+    "turkish": "temel, en önemli, kilit",
+    "example": "The key point of the talk was that short sessions work better.",
+    "exampleTr": "Konuşmanın temel noktası kısa oturumların daha iyi işe yaradığıydı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sıfat olarak ismin önüne gelir: \"a key factor\" (önemli bir etken), \"key findings\" (temel bulgular)."
+  },
+  {
+    "english": "control",
+    "turkish": "kontrol grubu, denetim (deneyde karşılaştırma için)",
+    "example": "The control group read the same text but without any music.",
+    "exampleTr": "Kontrol grubu aynı metni müzik olmadan okudu.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Deneyde \"control group\" (kontrol grubu) değişikliğin uygulanmadığı gruptur; \"under controlled conditions\" kontrollü koşullar demektir."
+  },
+  {
+    "english": "stage",
+    "turkish": "(bir süreçte) aşama, evre",
+    "example": "The first stage of our project is a short survey of students.",
+    "exampleTr": "Projemizin ilk aşaması öğrencilerle yapılan kısa bir anket.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik konuşmada \"at this stage\" (bu aşamada) sık geçer; tiyatro sahnesi anlamı burada kastedilmez."
+  },
+  {
+    "english": "cycle",
+    "turkish": "döngü (kendini tekrar eden süreç)",
+    "example": "The water cycle is the first topic on this week's reading list.",
+    "exampleTr": "Su döngüsü bu haftanın okuma listesindeki ilk konu.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"a vicious cycle\" kısır döngü demektir; fiil olarak \"cycle\" bisiklet sürmek anlamına da gelir ama burada kastedilmez."
+  },
+  {
+    "english": "literature",
+    "turkish": "(bir konudaki) alan yazını, literatür",
+    "example": "Before you choose a method, read the recent literature on your topic.",
+    "exampleTr": "Bir yöntem seçmeden önce konunla ilgili güncel alan yazınını oku.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik bağlamda \"the literature\" edebiyat değil, bir konuda yayımlanmış çalışmaların bütünüdür: \"a literature review\" (alan yazın taraması)."
+  },
+  {
+    "english": "reference",
+    "turkish": "(kaynakçada) kaynak, atıf",
+    "example": "Check that every reference in your list includes the page numbers.",
+    "exampleTr": "Listendeki her kaynağın sayfa numaralarını içerdiğini kontrol et.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"references\" ödevin sonundaki kaynakça listesidir; \"a reference to\" bir metne yapılan gönderme demektir."
+  },
+  {
+    "english": "material",
+    "turkish": "(ders, okuma) materyali, kaynak içerik",
+    "example": "The professor posts the course material online before each class.",
+    "exampleTr": "Hoca ders materyalini her dersten önce internette paylaşıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Bu anlamda genellikle sayılamaz kullanılır: \"reading material\", \"course material\"."
+  },
+  {
+    "english": "column",
+    "turkish": "(tabloda, grafikte) sütun",
+    "example": "In this chart, each column shows one age group.",
+    "exampleTr": "Bu grafikte her sütun bir yaş grubunu gösteriyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sütun grafiğe \"bar chart\" ya da \"column chart\" denir; gazetedeki köşe yazısı anlamı burada kastedilmez."
+  },
+  {
+    "english": "pattern",
+    "turkish": "örüntü, (verideki) düzenli eğilim",
+    "example": "There's a clear pattern in the data: scores drop after lunch.",
+    "exampleTr": "Verilerde açık bir örüntü var: Puanlar öğle yemeğinden sonra düşüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"a pattern emerges\" (bir örüntü ortaya çıkıyor) veriyi anlatırken sık kullanılır; kumaştaki desen anlamı burada kastedilmez."
+  },
+  {
+    "english": "range",
+    "turkish": "(değerlerin) aralığı",
+    "example": "The age range in our sample is eighteen to twenty-five.",
+    "exampleTr": "Örneklemimizdeki yaş aralığı on sekiz ile yirmi beş arası.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"range from … to …\" kalıbı da sık geçer: \"Scores range from forty to ninety.\""
+  },
+  {
+    "english": "scale",
+    "turkish": "(grafikte, ankette) ölçek, derecelendirme",
+    "example": "On a scale of one to ten, most students rated the course a seven.",
+    "exampleTr": "Birden ona kadar bir ölçekte öğrencilerin çoğu derse yedi puan verdi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Ankette \"on a scale of 1 to 5\" kalıbı çok yaygındır; \"scale\" büyüklük, çap anlamında da kullanılır."
+  },
+  {
+    "english": "lower",
+    "turkish": "daha düşük, alt (değer, düzey)",
+    "example": "Students who slept less had lower scores on the memory test.",
+    "exampleTr": "Daha az uyuyan öğrencilerin bellek testindeki puanları daha düşüktü.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Grafik anlatırken sıfattır (\"low\"un karşılaştırmalısı); fiil olarak \"lower\" düşürmek, indirmek demektir."
+  },
+  {
+    "english": "single",
+    "turkish": "tek, tek bir",
+    "example": "A single wind turbine can power hundreds of homes.",
+    "exampleTr": "Tek bir rüzgâr türbini yüzlerce evin elektriğini karşılayabilir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Vurgu için \"a single\" kullanılır: \"not a single student\" (tek bir öğrenci bile). Bekâr anlamı burada kastedilmez."
+  },
+  {
+    "english": "critical",
+    "turkish": "eleştirel (kanıtı sorgulayan)",
+    "example": "A critical reader always asks where the numbers come from.",
+    "exampleTr": "Eleştirel bir okur sayıların nereden geldiğini hep sorar.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik bağlamda \"critical\" kusur bulmak değil, sorgulayarak değerlendirmektir: \"critical thinking\" (eleştirel düşünme)."
+  },
+  {
+    "english": "judgment",
+    "turkish": "değerlendirme, yargı (kanıta dayanan karar)",
+    "example": "Wait for all the results before you make a judgment about the method.",
+    "exampleTr": "Yöntem hakkında bir yargıya varmadan önce bütün sonuçları bekle.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD yazımı \"judgment\"tır; \"make a judgment\" (yargıya varmak) kalıbıyla kullanılır."
+  },
+  {
+    "english": "talk",
+    "turkish": "(seminerde, konferansta) konuşma, kısa sunum",
+    "example": "My talk is about fifteen minutes long, with questions at the end.",
+    "exampleTr": "Konuşmam on beş dakika kadar sürüyor, sonunda sorular var.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim olarak \"give a talk\" (konuşma yapmak) kalıbıyla kullanılır; \"presentation\"dan biraz daha az resmîdir."
+  },
+  {
+    "english": "model",
+    "turkish": "(bilimsel) model; bir sistemin basitleştirilmiş kuramsal temsili",
+    "example": "Our model predicts how rents change when more students move to the city.",
+    "exampleTr": "Modelimiz şehre daha çok öğrenci taşındığında kiraların nasıl değiştiğini öngörüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Maket ya da manken anlamındaki \"model\" değil; derste \"an economic model\", \"the model assumes\" gibi kullanılır."
+  },
+  {
+    "english": "change",
+    "turkish": "(zaman içindeki) değişim, değişiklik",
+    "example": "The biggest change in our town came when the railway arrived.",
+    "exampleTr": "Kasabamızdaki en büyük değişim demir yolu gelince yaşandı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sayılabilir isimdir: \"a big change\", \"social changes\". \"Para üstü\" anlamı bu bağlamda geçmez."
+  },
+  {
+    "english": "direct",
+    "turkish": "(anlatım) dolaysız, açık, doğrudan",
+    "example": "Your first sentence should be direct and state your main point.",
+    "exampleTr": "İlk cümlen dolaysız olmalı ve ana fikrini söylemeli.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik konuşmada \"Be direct\" (lafı dolandırma) sık duyulur; \"a direct result of\" (doğrudan sonucu) kalıbıyla da geçer."
+  },
+  {
+    "english": "variable",
+    "turkish": "(araştırmada) değişken",
+    "example": "In our study, hours of sleep is the main variable we measured each week.",
+    "exampleTr": "Çalışmamızda her hafta ölçtüğümüz ana değişken uyku saati.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Deney anlatırken \"two variables\", \"a third variable\" (üçüncü bir değişken) gibi kullanılır; yazılımdaki değişken değil."
+  },
+  {
+    "english": "link",
+    "turkish": "(iki şey arasında) bağlantı, ilişki",
+    "example": "The link between diet and memory was stronger than we expected.",
+    "exampleTr": "Beslenmeyle bellek arasındaki bağlantı beklediğimizden güçlüydü.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"a link between A and B\" kalıbıyla kullanılır; internetteki bağlantı (köprü) anlamı değil."
+  },
+  {
+    "english": "demand",
+    "turkish": "(ekonomide) talep, alıcıların isteği",
+    "example": "When a product becomes popular, demand rises faster than supply.",
+    "exampleTr": "Bir ürün popüler olunca talep arzdan daha hızlı artar.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"supply and demand\" (arz ve talep) kalıbında çok geçer; fiil olarak \"demand\" (talep etmek) daha sert bir istektir."
+  },
+  {
+    "english": "output",
+    "turkish": "üretim miktarı, (bir fabrikanın, ekonominin) çıktısı",
+    "example": "The factory's output doubled after it bought two new machines.",
+    "exampleTr": "Fabrikanın üretimi iki yeni makine aldıktan sonra iki katına çıktı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Ekonomide \"output\" bir dönemde üretilen toplam miktardır; karşıtı \"input\" (girdi) kelimesidir."
+  },
+  {
+    "english": "sheet",
+    "turkish": "(derste) kâğıt, form, çalışma kâğıdı",
+    "example": "Write your group's answers on the sheet and hand it in at the end.",
+    "exampleTr": "Grubunuzun cevaplarını kâğıda yazın ve sonunda teslim edin.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"worksheet\" (alıştırma kâğıdı) ve \"sign-up sheet\" (kayıt listesi) gibi birleşimlerde de geçer."
+  },
+  {
+    "english": "space",
+    "turkish": "(sınıfta, odada) yer, alan, boş yer",
+    "example": "Let's move the desks so we have more space for the activity.",
+    "exampleTr": "Etkinlik için daha çok yerimiz olsun diye sıraları kaydıralım.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Bu anlamda sayılamaz kullanılır: \"more space\", \"enough space\"; \"a space\" tek bir boş yerdir."
+  },
+  {
+    "english": "attack",
+    "turkish": "(bir görüşe, sava) saldırı, sert eleştiri",
+    "example": "Her attack on my argument ignored the data I'd just shown.",
+    "exampleTr": "Argümanıma yönelttiği saldırı az önce gösterdiğim verileri görmezden geldi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Münazarada eleştiri kişiye değil görüşe yönelir: \"attack the argument, not the person\"."
+  },
+  {
+    "english": "explore",
+    "turkish": "(bir soruyu, konuyu) araştırmak, incelemek",
+    "example": "Next week, we'll explore whether the same effect appears in older students.",
+    "exampleTr": "Gelecek hafta aynı etkinin yaşça büyük öğrencilerde de görülüp görülmediğini araştıracağız.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"explore whether\" ve \"explore how\" kalıplarıyla araştırma sorusunu anlatır; \"explore a city\" ise gezip görmektir."
   }
 ]

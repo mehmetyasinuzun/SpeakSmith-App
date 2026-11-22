@@ -17,6 +17,20 @@
   <base href="/SpeakSmith-App/uygulama/">
 
   <meta charset="UTF-8">
+  <!-- İçerik güvenlik politikası. Derlemeden ve ağ kayıtlarından çıkarıldı;
+       denetim: node tools/web_audit.js (ihlal arar), nöbetçi:
+       test/web_csp_guard_test.dart.
+       - script-src: kendi kök + wasm derleme (CanvasKit, WebLLM). 'unsafe-inline'
+         YALNIZ YouTube oynatıcısı için: youtube_player_iframe oynatıcıyı srcdoc
+         çerçevesinde, her açılışta değişen (oynatıcı kimliği) satır içi betikle
+         kurar; srcdoc bu politikayı miras alır, karma (hash) sabitlenemez.
+         Sayfanın kendisinde satır içi betik yok. eval yok.
+       - connect-src https:: kullanıcının girdiği özel sağlayıcı adresi ve
+         bulut sağlayıcıları, Hugging Face (bölgesel CDN konakları değişir),
+         şarkı sözü/çeviri/Invidious uçları. Yerel model sunucuları için
+         localhost.
+       - WebLLM CDN'den değil vendor/'dan gelir: dış betik konağı gerekmez. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-inline' https://www.youtube.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self' https: http://localhost:* http://127.0.0.1:*; media-src 'self' blob:; worker-src 'self'; frame-src https://www.youtube.com https://www.youtube-nocookie.com; object-src 'none'; base-uri 'self'; form-action 'none'; manifest-src 'self'">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="SpeakSmith web sürümü: Türkçe konuşanlar için İngilizce. Kelime tekrarı, gramer haritası, kalıplar ve öğrenme patikası tarayıcıda; Ders Masası Android uygulamasında.">
@@ -125,7 +139,8 @@
     }
   </style>
 
-  <!-- WebLLM bridge — on-device LLM in the browser (WebGPU). -->
+  <!-- WebLLM köprüsü (tarayıcı modeli, WebGPU). Küçük köprü nesnesi; kütüphane
+       (vendor/web-llm-0.2.79) yalnız tarayıcı modeli kullanılınca yüklenir. -->
   <script type="module" src="webllm_bridge.js"></script>
 </head>
 <body>
@@ -139,16 +154,7 @@
       <div class="splash-spinner"></div>
     </div>
   </div>
-  <script>
-    // Flutter ilk frame'i çizdikten sonra splash'i kaldır
-    window.addEventListener('flutter-first-frame', function () {
-      var s = document.getElementById('app-splash');
-      if (s) {
-        s.classList.add('hidden');
-        setTimeout(function () { s.remove(); }, 400);
-      }
-    });
-  </script>
+  <script src="splash.js"></script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
