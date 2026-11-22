@@ -515,5 +515,995 @@
       "academic"
     ],
     "tipTr": "\"explore whether\" ve \"explore how\" kalıplarıyla araştırma sorusunu anlatır; \"explore a city\" ise gezip görmektir."
+  },
+  {
+    "english": "validity",
+    "turkish": "geçerlilik",
+    "example": "Some of us questioned the validity of the survey because only friends answered it.",
+    "exampleTr": "Bazılarımız anketin geçerliliğini sorguladı, çünkü yalnızca arkadaşlar cevaplamıştı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"question the validity of\" (…in geçerliliğini sorgulamak) seminerde sık geçer; sıfatı valid (geçerli)."
+  },
+  {
+    "english": "contradict",
+    "turkish": "çelişmek, … ile ters düşmek",
+    "example": "Your second slide seems to contradict what you said at the start.",
+    "exampleTr": "İkinci slaydın, başta söylediğinle çelişiyor gibi görünüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsmi contradiction (çelişki). \"contradict yourself\": kendinle çelişmek."
+  },
+  {
+    "english": "confirm",
+    "turkish": "doğrulamak, teyit etmek (bulguyu)",
+    "example": "A second study would help confirm what we found this semester.",
+    "exampleTr": "İkinci bir çalışma, bu dönem bulduklarımızı doğrulamaya yardım eder.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"The results confirm that …\": sonuçlar … olduğunu doğruluyor."
+  },
+  {
+    "english": "verify",
+    "turkish": "doğrulamak, sağlamasını yapmak (veriyi, bulguyu)",
+    "example": "Before the talk, verify every number on your slides against the original data.",
+    "exampleTr": "Konuşmadan önce slaytlarındaki her rakamı asıl verilerle karşılaştırıp doğrula.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "confirm'e yakındır; verify daha çok kontrol ederek doğruluğundan emin olmaktır."
+  },
+  {
+    "english": "justify",
+    "turkish": "gerekçelendirmek, haklı çıkarmak (bir seçimi)",
+    "example": "In your methods section, justify why you chose interviews over a survey.",
+    "exampleTr": "Yöntem bölümünde neden anket yerine görüşmeyi seçtiğini gerekçelendir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsmi justification (gerekçe)."
+  },
+  {
+    "english": "consistent",
+    "turkish": "tutarlı (bulgu, sonuç)",
+    "example": "These results are consistent with what earlier studies found.",
+    "exampleTr": "Bu sonuçlar önceki çalışmaların bulgularıyla tutarlı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"consistent with\": … ile tutarlı. Zıttı inconsistent (tutarsız)."
+  },
+  {
+    "english": "undermine",
+    "turkish": "zayıflatmak, sarsmak (bir savı, güveni)",
+    "example": "One biased question can undermine the whole survey.",
+    "exampleTr": "Tek bir yanlı soru bütün anketi zayıflatabilir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"undermine an argument\": bir savı zayıflatmak."
+  },
+  {
+    "english": "attribute",
+    "turkish": "-e bağlamak, …den kaynaklandığını söylemek",
+    "example": "The authors attribute the drop in attendance to the new bus schedule.",
+    "exampleTr": "Yazarlar derse katılımdaki düşüşü yeni otobüs saatlerine bağlıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"attribute A to B\": A'yı B'ye bağlamak. İsim olarak (vurgu ilk hecede) özellik demektir."
+  },
+  {
+    "english": "criteria",
+    "turkish": "ölçütler, kriterler",
+    "example": "What criteria did you use to choose the articles for your review?",
+    "exampleTr": "Derleme için makaleleri seçerken hangi ölçütleri kullandın?",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "criteria çoğuldur: \"these criteria are\". Tekili criterion (ölçüt)."
+  },
+  {
+    "english": "selection",
+    "turkish": "seçim, seçme (örneklem, katılımcı)",
+    "example": "Random selection makes it less likely that the groups differ at the start.",
+    "exampleTr": "Rastgele seçim, grupların başlangıçta farklı olma olasılığını azaltır.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"selection criteria\": seçim ölçütleri; \"selection bias\": seçim yanlılığı."
+  },
+  {
+    "english": "significance",
+    "turkish": "(istatistiksel) anlamlılık; önem",
+    "example": "The effect is small, but it reached statistical significance in both groups.",
+    "exampleTr": "Etki küçük ama iki grupta da istatistiksel anlamlılığa ulaştı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Gündelik dilde önem; istatistikte bir sonucun tesadüf olmadığına dair ölçüt."
+  },
+  {
+    "english": "generalize",
+    "turkish": "genelleme yapmak, genellemek",
+    "example": "Be careful not to generalize too much from just a few interviews.",
+    "exampleTr": "Yalnızca birkaç görüşmeden fazla genelleme yapmamaya dikkat et.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"generalize from … to …\": …den …e genelleme yapmak. İsmi generalization (genelleme)."
+  },
+  {
+    "english": "constraint",
+    "turkish": "kısıt, sınırlayıcı etken (araştırmada)",
+    "example": "Time was our biggest constraint, so we only ran one round of interviews.",
+    "exampleTr": "En büyük kısıtımız zamandı, bu yüzden yalnızca bir tur görüşme yapabildik.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Çoğu zaman çoğul kullanılır: \"budget constraints\", \"time constraints\"."
+  },
+  {
+    "english": "classification",
+    "turkish": "sınıflandırma (bir şemaya göre)",
+    "example": "The textbook offers a simple classification of learning strategies.",
+    "exampleTr": "Ders kitabı öğrenme stratejilerinin basit bir sınıflandırmasını sunuyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Fiili classify (sınıflandırmak)."
+  },
+  {
+    "english": "constitute",
+    "turkish": "sayılmak, oluşturmak",
+    "example": "Does copying one sentence constitute plagiarism if you cite the source?",
+    "exampleTr": "Kaynağı gösterirsen tek bir cümleyi kopyalamak intihal sayılır mı?",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"What constitutes …?\": Ne … sayılır? Resmîdir ama seminerde sık duyulur."
+  },
+  {
+    "english": "element",
+    "turkish": "öğe, unsur (bir bütünün)",
+    "example": "A clear research question is the most important element of a proposal.",
+    "exampleTr": "Açık bir araştırma sorusu, bir önerinin en önemli öğesidir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Kimyada element; akademik konuşmada çoğu zaman bir bütünün parçası: \"an essential element of\"."
+  },
+  {
+    "english": "hierarchy",
+    "turkish": "hiyerarşi, kademe düzeni (kurumda)",
+    "example": "In most departments, there's a clear hierarchy from chair to graduate assistant.",
+    "exampleTr": "Çoğu bölümde, bölüm başkanından lisansüstü asistana uzanan açık bir hiyerarşi var.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sıfatı hierarchical (hiyerarşik)."
+  },
+  {
+    "english": "differentiate",
+    "turkish": "ayırt etmek, ayrımını yapmak",
+    "example": "Can the test differentiate between students who guess and students who know?",
+    "exampleTr": "Test, tahmin eden öğrencilerle bilen öğrencileri ayırt edebiliyor mu?",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"differentiate between A and B\": A ile B'yi ayırt etmek; distinguish ile yakındır."
+  },
+  {
+    "english": "fluctuate",
+    "turkish": "dalgalanmak, inip çıkmak",
+    "example": "Our response rate tended to fluctuate from week to week.",
+    "exampleTr": "Cevap oranımız haftadan haftaya dalgalanma eğilimindeydi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsmi fluctuation (dalgalanma). \"fluctuate between 10 and 20\": 10 ile 20 arasında inip çıkmak."
+  },
+  {
+    "english": "gradual",
+    "turkish": "kademeli, yavaş yavaş olan",
+    "example": "Your professor suggested a gradual approach, one chapter of the thesis at a time.",
+    "exampleTr": "Hocan kademeli bir yol önerdi: tezin her seferinde bir bölümü.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Zarfı gradually (yavaş yavaş). Zıttı sudden (ani)."
+  },
+  {
+    "english": "citation",
+    "turkish": "kaynak gösterme, atıf; kaynak bilgisi",
+    "example": "Each slide with data should have a short citation at the bottom.",
+    "exampleTr": "Veri içeren her slaytın altında kısa bir kaynak bilgisi olmalı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Fiili cite (kaynak göstermek). Konuşmada \"Do I need a citation for this?\" sık duyulur."
+  },
+  {
+    "english": "paraphrase",
+    "turkish": "kendi cümleleriyle aktarmak, başka sözcüklerle anlatmak",
+    "example": "Try to paraphrase the main point instead of reading the quote aloud.",
+    "exampleTr": "Alıntıyı yüksek sesle okumak yerine ana fikri kendi cümlelerinle aktarmaya çalış.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"To paraphrase …\" ile başlayan cümle, birinin sözünü aynen değil özetleyerek aktardığını gösterir."
+  },
+  {
+    "english": "plagiarism",
+    "turkish": "intihal",
+    "example": "The syllabus says plagiarism can lead to failing the whole course.",
+    "exampleTr": "Ders izlencesi, intihalin bütün dersten kalmaya yol açabileceğini söylüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Fiili plagiarize (intihal etmek). Kaynağı belirtmeden yapılan yakın aktarım da intihal sayılır."
+  },
+  {
+    "english": "bibliography",
+    "turkish": "kaynakça",
+    "example": "Make sure every source in your talk also appears in the bibliography.",
+    "exampleTr": "Konuşmandaki her kaynağın kaynakçada da yer aldığından emin ol.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD'de yazım kılavuzuna göre \"works cited\" ya da \"references\" da denir."
+  },
+  {
+    "english": "publication",
+    "turkish": "yayın (makale, kitap)",
+    "example": "Her first publication came out while she was still a graduate student.",
+    "exampleTr": "İlk yayını henüz lisansüstü öğrenciyken çıktı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sayılabilir isimdir: \"a recent publication\" (yakın tarihli bir yayın). Fiili publish."
+  },
+  {
+    "english": "secondary",
+    "turkish": "ikincil (kaynak, veri)",
+    "example": "For this paper, use primary sources rather than secondary ones.",
+    "exampleTr": "Bu ödev için ikincil değil, birincil kaynaklar kullan.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"secondary source\": başkasının çalışmasını aktaran kaynak; \"primary source\": birincil kaynak."
+  },
+  {
+    "english": "adapt",
+    "turkish": "uyarlamak (bir anketi, grafiği)",
+    "example": "We adapted an existing survey so it would fit high school students.",
+    "exampleTr": "Var olan bir anketi lise öğrencilerine uysun diye uyarladık.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"adapted from\": …den uyarlanmıştır (grafik ve tablolarda). Uyum sağlamak anlamı da vardır."
+  },
+  {
+    "english": "conclusive",
+    "turkish": "kesin, kesin sonuç veren",
+    "example": "The pilot study was useful, but its results weren't conclusive.",
+    "exampleTr": "Ön çalışma faydalıydı ama sonuçları kesin değildi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Zıt anlamlısı inconclusive (kesin bir sonuç vermeyen)."
+  },
+  {
+    "english": "address",
+    "turkish": "ele almak (soru, sorun)",
+    "example": "In this talk, I'll address two questions that came up last week.",
+    "exampleTr": "Bu konuşmada geçen hafta gündeme gelen iki soruyu ele alacağım.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik konuşmada address = ele almak: \"address a problem\", \"address a question\". İsim olarak adres anlamı da vardır."
+  },
+  {
+    "english": "investigation",
+    "turkish": "araştırma, inceleme (bilimsel)",
+    "example": "Our investigation focused on how students choose their majors.",
+    "exampleTr": "Araştırmamız öğrencilerin bölümlerini nasıl seçtiğine odaklandı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Polis soruşturması anlamı da vardır; seminerde çoğu zaman bilimsel inceleme demektir."
+  },
+  {
+    "english": "gap",
+    "turkish": "boşluk, eksik (araştırmada)",
+    "example": "Your literature review should end by pointing out a clear gap.",
+    "exampleTr": "Kaynak taraman açık bir boşluğa işaret ederek bitmeli.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"a gap in the research\" ya da \"a research gap\": alanyazındaki boşluk."
+  },
+  {
+    "english": "pose",
+    "turkish": "oluşturmak (zorluk, risk); (soru) ortaya atmak",
+    "example": "A small budget poses a problem, but it doesn't make the study impossible.",
+    "exampleTr": "Küçük bütçe bir sorun oluşturuyor ama çalışmayı imkânsız kılmıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"pose a question\": bir soru ortaya atmak; \"pose a risk\": risk oluşturmak."
+  },
+  {
+    "english": "extend",
+    "turkish": "genişletmek, kapsamını artırmak (çalışmanın)",
+    "example": "Next year, we hope to extend the study to two more cities.",
+    "exampleTr": "Gelecek yıl çalışmayı iki şehre daha genişletmeyi umuyoruz.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Süre için de kullanılır: \"extend the deadline\" (süreyi uzatmak)."
+  },
+  {
+    "english": "inquiry",
+    "turkish": "araştırma, sorgulama (bilimsel)",
+    "example": "Every scientific inquiry starts with a question nobody has answered yet.",
+    "exampleTr": "Her bilimsel araştırma, henüz kimsenin cevaplamadığı bir soruyla başlar.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"line of inquiry\": araştırma yolu. Resmî bir kurum incelemesi anlamı da vardır."
+  },
+  {
+    "english": "quantify",
+    "turkish": "sayıyla ifade etmek, nicelleştirmek",
+    "example": "It's tricky to quantify how much a good advisor helps a student.",
+    "exampleTr": "İyi bir danışmanın bir öğrenciye ne kadar yardım ettiğini sayıyla ifade etmek zor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İlgili sözcükler: quantity (miktar), quantitative (nicel). Zıttı gibi kullanılan qualitative: nitel."
+  },
+  {
+    "english": "margin",
+    "turkish": "pay, fark (hata payı; açık fark)",
+    "example": "The second method beat the first by a wide margin in our tests.",
+    "exampleTr": "Sınamalarımızda ikinci yöntem birinciyi açık farkla geçti.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"margin of error\": hata payı. \"by a wide margin\": açık farkla. Kâğıttaki kenar boşluğu da margin'dir."
+  },
+  {
+    "english": "constant",
+    "turkish": "sabit (değişmeyen)",
+    "example": "Keep the room temperature constant so it doesn't affect the results.",
+    "exampleTr": "Sonuçları etkilemesin diye oda sıcaklığını sabit tut.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"hold constant\" ya da \"keep constant\": sabit tutmak. Matematikte isim olarak sabit."
+  },
+  {
+    "english": "parameter",
+    "turkish": "parametre (modelde, simülasyonda)",
+    "example": "If we change one parameter, the whole model gives different results.",
+    "exampleTr": "Bir parametreyi değiştirirsek bütün model farklı sonuçlar veriyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Çoğu zaman çoğul: \"set the parameters\" (çerçeveyi belirlemek)."
+  },
+  {
+    "english": "index",
+    "turkish": "endeks, gösterge (birleşik ölçüt)",
+    "example": "The happiness index combines four measures into a single score.",
+    "exampleTr": "Mutluluk endeksi dört ölçütü tek bir puanda birleştiriyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Kitabın sonundaki dizin de index'tir; çoğulu indexes ya da indices."
+  },
+  {
+    "english": "adjustment",
+    "turkish": "düzeltme, ayar (yöntemde, planda)",
+    "example": "After the pilot, we made one adjustment to the order of the questions.",
+    "exampleTr": "Ön çalışmadan sonra soruların sırasında bir düzeltme yaptık.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"make an adjustment\": düzeltme yapmak. Fiili adjust."
+  },
+  {
+    "english": "alter",
+    "turkish": "değiştirmek (bir kısmını ya da tamamını)",
+    "example": "Changing one word in a question can alter how people answer it.",
+    "exampleTr": "Bir sorudaki tek kelimeyi değiştirmek, insanların ona nasıl cevap verdiğini değiştirebilir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "change'den biraz daha resmîdir; \"completely alter\" (tamamen değiştirmek) da sık kullanılır."
+  },
+  {
+    "english": "evolve",
+    "turkish": "zamanla gelişmek, evrilmek (fikir, alan)",
+    "example": "Our research question evolved as we read more about the topic.",
+    "exampleTr": "Konu hakkında okudukça araştırma sorumuz evrildi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Biyolojide evrimleşmek; mecazen bir fikrin, alanın zamanla değişmesi."
+  },
+  {
+    "english": "evolution",
+    "turkish": "gelişim, evrim (bir fikrin, alanın)",
+    "example": "The lecture traced the evolution of the idea from the 1950s to today.",
+    "exampleTr": "Ders, fikrin 1950'lerden bugüne gelişimini izledi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"the evolution of\": …in gelişimi."
+  },
+  {
+    "english": "critique",
+    "turkish": "eleştirel değerlendirme (bir çalışmanın)",
+    "example": "For Friday, write a one-page critique of the article's method.",
+    "exampleTr": "Cuma için makalenin yöntemine dair bir sayfalık eleştirel değerlendirme yaz.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Güçlü ve zayıf yanları birlikte ele alır; criticism daha çok olumsuz eleştiridir."
+  },
+  {
+    "english": "evaluation",
+    "turkish": "değerlendirme (bir yöntemin, kaynağın)",
+    "example": "A careful evaluation of your sources makes the whole paper stronger.",
+    "exampleTr": "Kaynaklarının dikkatli bir değerlendirmesi bütün ödevi güçlendirir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Fiili evaluate. Dersin sonunda doldurulan form da evaluation'dır (course evaluation)."
+  },
+  {
+    "english": "robust",
+    "turkish": "sağlam (sonuç, bulgu)",
+    "example": "The finding is robust: it held up in all three samples.",
+    "exampleTr": "Bulgu sağlam: üç örneklemin hepsinde geçerliliğini korudu.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"robust results\": farklı koşullarda da değişmeyen sonuçlar."
+  },
+  {
+    "english": "abstract",
+    "turkish": "özet (makalenin başındaki)",
+    "example": "Read the abstract first; it tells you whether the paper is worth your time.",
+    "exampleTr": "Önce özeti oku; makalenin zamanına değip değmediğini söyler.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sıfat olarak abstract soyut demektir (abstract ideas); makale bağlamında isimdir: özet."
+  },
+  {
+    "english": "appendix",
+    "turkish": "ek, ek bölüm (raporun sonunda)",
+    "example": "I put the interview questions in an appendix so the paper stays short.",
+    "exampleTr": "Ödev kısa kalsın diye görüşme sorularını bir eke koydum.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Çoğulu appendices ya da appendixes. \"See the appendix\": eke bakın."
+  },
+  {
+    "english": "overview",
+    "turkish": "genel bakış, kısa genel tablo",
+    "example": "The first slide gives an overview of the whole project.",
+    "exampleTr": "İlk slayt bütün projeye genel bir bakış sunuyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"give an overview of\": … hakkında genel bir bakış sunmak; ayrıntıya girmeden önce kullanılır."
+  },
+  {
+    "english": "revise",
+    "turkish": "gözden geçirip düzeltmek",
+    "example": "After your feedback, I'll revise my slides and send them tonight.",
+    "exampleTr": "Geri bildiriminizden sonra slaytlarımı düzeltip bu akşam göndereceğim.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD'de revise metni düzeltmek demektir; sınava tekrar etmek için review denir. İsmi revision (düzeltilmiş sürüm)."
+  },
+  {
+    "english": "prerequisite",
+    "turkish": "ön koşul (önce alınması gereken ders)",
+    "example": "This seminar has one prerequisite: the introductory statistics course.",
+    "exampleTr": "Bu seminerin bir ön koşulu var: giriş düzeyindeki istatistik dersi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "ABD ders kataloglarında \"prereq\" diye kısaltılır. \"a prerequisite for\": …in ön koşulu."
+  },
+  {
+    "english": "hypothetical",
+    "turkish": "varsayımsal",
+    "example": "Your professor might ask a hypothetical question to test your argument.",
+    "exampleTr": "Hocan savını sınamak için varsayımsal bir soru sorabilir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Konuşmada isim olarak da kullanılır: \"Let's try a hypothetical.\" (Varsayımsal bir durum düşünelim.)"
+  },
+  {
+    "english": "dependent",
+    "turkish": "bağımlı (değişken); -e bağlı",
+    "example": "Test scores were the dependent variable in all three experiments.",
+    "exampleTr": "Üç deneyin hepsinde bağımlı değişken test puanlarıydı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"dependent on\": -e bağlı. Değişkenler: dependent (bağımlı), independent (bağımsız)."
+  },
+  {
+    "english": "independent",
+    "turkish": "bağımsız (değişken, kaynak)",
+    "example": "In this design, class size is the independent variable.",
+    "exampleTr": "Bu tasarımda sınıf büyüklüğü bağımsız değişken.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"independent variable\": araştırmacının değiştirdiği değişken."
+  },
+  {
+    "english": "application",
+    "turkish": "uygulama (bir kuramın, yöntemin), uygulanma",
+    "example": "Our seminar today focuses on the application of game theory to politics.",
+    "exampleTr": "Bugünkü seminerimiz oyun kuramının siyasete uygulanmasına odaklanıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Gündelik dilde application başvuru (iş, burs) ya da telefon uygulaması demektir; akademik dilde bir kuramın, yöntemin uygulanmasıdır."
+  },
+  {
+    "english": "apply",
+    "turkish": "uygulamak (bir yöntemi, kuramı)",
+    "example": "Can we apply this theory to small businesses as well?",
+    "exampleTr": "Bu kuramı küçük işletmelere de uygulayabilir miyiz?",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"apply for\" başvurmak; \"apply to\" bir şeyi bir alana uygulamak."
+  },
+  {
+    "english": "integrate",
+    "turkish": "entegre etmek, bütünleştirmek (bir sisteme)",
+    "example": "We need to integrate the survey data with the school records.",
+    "exampleTr": "Anket verilerini okul kayıtlarıyla bütünleştirmemiz gerekiyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"integrate A into B\": A'yı B'ye entegre etmek."
+  },
+  {
+    "english": "integration",
+    "turkish": "entegrasyon, bütünleşme (bir sisteme)",
+    "example": "Integration of the new software took most of the semester.",
+    "exampleTr": "Yeni yazılımın sisteme entegrasyonu dönemin büyük kısmını aldı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Toplumsal bağlamda uyum (göçmenlerin topluma uyumu) anlamı da vardır."
+  },
+  {
+    "english": "proponent",
+    "turkish": "savunucu, destekçi (bir fikrin)",
+    "example": "Proponents of group exams say they reduce stress and build teamwork.",
+    "exampleTr": "Grup sınavlarının savunucuları bu sınavların stresi azalttığını ve ekip ruhunu güçlendirdiğini söylüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Zıttı opponent (karşı çıkan). \"a proponent of\": …in savunucusu."
+  },
+  {
+    "english": "opponent",
+    "turkish": "karşı çıkan, karşıt görüşlü kişi",
+    "example": "Opponents of the new grading policy spoke first at the meeting.",
+    "exampleTr": "Yeni not politikasına karşı çıkanlar toplantıda ilk sözü aldı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sporda opponent rakiptir; tartışmada bir fikre karşı çıkan kişidir: \"opponents of the plan\"."
+  },
+  {
+    "english": "authority",
+    "turkish": "yetkili kurum, yetkililer",
+    "example": "Our traffic data come from the city's transit authority, not from a survey.",
+    "exampleTr": "Trafik verilerimiz bir anketten değil, şehrin toplu taşıma kurumundan geliyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Çoğul \"the authorities\": yetkililer. Bir konunun uzmanı için de kullanılır: \"an authority on climate\"."
+  },
+  {
+    "english": "grant",
+    "turkish": "hibe, araştırma bursu",
+    "example": "The grant covers equipment and a small payment for each participant.",
+    "exampleTr": "Hibe, ekipmanı ve her katılımcıya küçük bir ödemeyi karşılıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"apply for a grant\": hibeye başvurmak; \"get a grant\": hibe almak."
+  },
+  {
+    "english": "distribution",
+    "turkish": "dağılım (verinin)",
+    "example": "Look at the distribution of scores before you compare the averages.",
+    "exampleTr": "Ortalamaları karşılaştırmadan önce puanların dağılımına bak.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İstatistikte \"normal distribution\": normal dağılım. Ürün dağıtımı anlamı da vardır."
+  },
+  {
+    "english": "moderate",
+    "turkish": "orta düzeyde, orta derecede (etki, artış)",
+    "example": "The study found a moderate link between exercise and better grades.",
+    "exampleTr": "Çalışma, egzersiz ile daha iyi notlar arasında orta düzeyde bir ilişki buldu.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Akademik dilde moderate çoğu zaman miktar ya da güç bildirir: moderate effect (orta düzeyde etki). Siyasette ılımlı demektir."
+  },
+  {
+    "english": "contradiction",
+    "turkish": "çelişki",
+    "example": "Your two charts show a contradiction, so let's check the data again.",
+    "exampleTr": "İki grafiğin bir çelişki gösteriyor, o yüzden verilere yeniden bakalım.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Fiili contradict (çelişmek). \"a contradiction in terms\": kendi içinde çelişen bir ifade."
+  },
+  {
+    "english": "fallacy",
+    "turkish": "mantık hatası, safsata",
+    "example": "Pointing out a fallacy politely is a useful skill in seminars.",
+    "exampleTr": "Bir mantık hatasını kibarca göstermek seminerlerde işe yarayan bir beceridir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sık anılanlar: \"slippery slope\" (kaygan zemin) ve \"straw man\" (saman adam) safsataları."
+  },
+  {
+    "english": "resolution",
+    "turkish": "çözüm, uzlaşma (anlaşmazlıkta)",
+    "example": "After a long meeting, the two sides finally reached a resolution.",
+    "exampleTr": "Uzun bir toplantının ardından iki taraf sonunda uzlaşmaya vardı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"reach a resolution\": çözüme varmak. Yeni yıl kararı ve ekran çözünürlüğü anlamları da vardır."
+  },
+  {
+    "english": "eliminate",
+    "turkish": "çıkarmak, elemek (gereksizi)",
+    "example": "We eliminated three questions that most people skipped.",
+    "exampleTr": "Çoğu kişinin atladığı üç soruyu çıkardık.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Yarışmada elenmek (be eliminated) anlamı da vardır."
+  },
+  {
+    "english": "compensate",
+    "turkish": "telafi etmek, dengelemek (bir eksikliği)",
+    "example": "We ran the test three times to compensate for a small sample.",
+    "exampleTr": "Küçük bir örneklemi telafi etmek için testi üç kez yaptık.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"compensate for\": …i telafi etmek. Para ödeyerek tazmin etmek anlamı da vardır."
+  },
+  {
+    "english": "maximize",
+    "turkish": "en üst düzeye çıkarmak (katılımı, verimi)",
+    "example": "We sent text reminders to maximize the response rate.",
+    "exampleTr": "Cevap oranını en üst düzeye çıkarmak için mesajla hatırlatma gönderdik.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Zıttı minimize (en aza indirmek)."
+  },
+  {
+    "english": "ethics",
+    "turkish": "ahlak ilkeleri, araştırma etiği",
+    "example": "Our methods course spends a whole week on research ethics.",
+    "exampleTr": "Yöntem dersimiz bütün bir haftayı araştırma etiğine ayırıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"ethics approval\": etik kurul onayı (ABD'de çoğu zaman IRB approval). Sıfatı ethical (etik)."
+  },
+  {
+    "english": "confidential",
+    "turkish": "gizli (başkasıyla paylaşılmayan)",
+    "example": "Your answers are confidential and will only be seen by our team.",
+    "exampleTr": "Cevaplarınız gizli ve yalnızca ekibimiz tarafından görülecek.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "anonymous (isimsiz) ile karıştırılır: confidential'da araştırmacı kim olduğunu bilir ama paylaşmaz."
+  },
+  {
+    "english": "confidentiality",
+    "turkish": "gizlilik",
+    "example": "Before the interview, explain how you'll protect confidentiality.",
+    "exampleTr": "Görüşmeden önce gizliliği nasıl koruyacağını açıkla.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"confidentiality agreement\": gizlilik sözleşmesi."
+  },
+  {
+    "english": "demographic",
+    "turkish": "demografik; nüfus özelliği (yaş, cinsiyet, gelir)",
+    "example": "Your first slide should describe the demographic details of your sample.",
+    "exampleTr": "İlk slaytın, örnekleminin demografik özelliklerini anlatmalı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim olarak hedef kitle anlamında da kullanılır: \"young adults are a key demographic\". Çoğulu demographics: nüfus bilgileri."
+  },
+  {
+    "english": "status",
+    "turkish": "statü, toplumsal konum",
+    "example": "In many cultures, education is closely linked to social status.",
+    "exampleTr": "Birçok kültürde eğitim, toplumsal statüyle yakından bağlantılı.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"social status\": toplumsal statü. Gündelik dilde durum: \"the status of your application\"."
+  },
+  {
+    "english": "furthermore",
+    "turkish": "ayrıca, bunun yanı sıra (sunumda, yazıda)",
+    "example": "Furthermore, the second survey showed exactly the same pattern.",
+    "exampleTr": "Bunun yanı sıra ikinci anket de tam olarak aynı örüntüyü gösterdi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Yazıda ve sunumda yaygındır; gündelik konuşmada çoğu zaman \"plus\" ya da \"what's more\" denir."
+  },
+  {
+    "english": "moreover",
+    "turkish": "üstelik, dahası (resmî)",
+    "example": "The method is cheap; moreover, it's easy to repeat in other schools.",
+    "exampleTr": "Yöntem ucuz; üstelik başka okullarda tekrarlaması da kolay.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Gündelik konuşmada \"what's more\" ya da \"on top of that\" daha doğal gelir."
+  },
+  {
+    "english": "albeit",
+    "turkish": "-se de, gerçi (resmî)",
+    "example": "The results improved, albeit only slightly, after the change.",
+    "exampleTr": "Değişiklikten sonra sonuçlar, az da olsa, iyileşti.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Konuşmada çoğu zaman \"though\" kullanılır: \"It improved, though only slightly.\""
+  },
+  {
+    "english": "namely",
+    "turkish": "yani, şöyle ki (resmî açıklama)",
+    "example": "We tested one idea, namely that shorter classes improve focus.",
+    "exampleTr": "Tek bir fikri sınadık, yani daha kısa derslerin odaklanmayı artırdığı fikrini.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Yazıda yaygındır; konuşmada \"that is\" ya da \"I mean\" de kullanılır."
+  },
+  {
+    "english": "feedback",
+    "turkish": "geri besleme (sistemde), geri bildirim",
+    "example": "In a feedback loop, the output of a process changes its own input.",
+    "exampleTr": "Bir geri besleme döngüsünde bir sürecin çıktısı kendi girdisini değiştirir.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Sistem dilinde feedback geri beslemedir: positive feedback (pekiştiren), negative feedback (dengeleyen). Gündelik dilde geri bildirimdir."
+  },
+  {
+    "english": "reciprocal",
+    "turkish": "iki yönlü, birbirini etkileyen",
+    "example": "The relationship between sleep and mood seems to be reciprocal.",
+    "exampleTr": "Uyku ile ruh hâli arasındaki ilişki iki yönlü görünüyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "mutual (karşılıklı, ortak) ile yakındır; reciprocal özellikle iki tarafın birbirini etkilediği ilişkiler için kullanılır."
+  },
+  {
+    "english": "dynamic",
+    "turkish": "devingen, sürekli değişen (sistem, piyasa)",
+    "example": "Language is dynamic, so new words appear every year.",
+    "exampleTr": "Dil devingendir, bu yüzden her yıl yeni kelimeler ortaya çıkar.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim olarak dynamics: dinamikler, işleyiş (\"group dynamics\": grup dinamikleri)."
+  },
+  {
+    "english": "layer",
+    "turkish": "katman (bir sistemin, modelin)",
+    "example": "Each layer of the model handles a different part of the task.",
+    "exampleTr": "Modelin her katmanı görevin farklı bir kısmını üstleniyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Giysi katı da layer'dır; sistem dilinde katman demektir."
+  },
+  {
+    "english": "network",
+    "turkish": "ağ (ilişkiler, sistem)",
+    "example": "The study maps the social network of students in one dorm.",
+    "exampleTr": "Çalışma, tek bir yurttaki öğrencilerin sosyal ağını haritalıyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"social network\": sosyal ağ; \"a network of\": … ağı."
+  },
+  {
+    "english": "track",
+    "turkish": "kaydını tutmak, (zaman içinde) takibini yapmak",
+    "example": "We track each student's sleep for two weeks with a simple app.",
+    "exampleTr": "Her öğrencinin uykusunun kaydını basit bir uygulamayla iki hafta boyunca tutuyoruz.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"keep track of\": takibini yapmak, kaydını tutmak. İsim olarak pist, patika ve şarkı (parça) anlamları da vardır."
+  },
+  {
+    "english": "isolate",
+    "turkish": "ayırmak, tek başına incelemek (bir etkeni)",
+    "example": "It's hard to isolate the effect of diet from the effect of exercise.",
+    "exampleTr": "Beslenmenin etkisini egzersizin etkisinden ayırmak zor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Kişiler için yalıtmak, yalnız bırakmak anlamı da vardır."
+  },
+  {
+    "english": "exhibit",
+    "turkish": "göstermek (belirti, davranış)",
+    "example": "Some participants exhibited signs of fatigue during the timed task.",
+    "exampleTr": "Bazı katılımcılar süreli görev sırasında yorgunluk belirtileri gösterdi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim olarak sergi ya da sergilenen eser; akademik dilde çoğu zaman fiil: belirti göstermek."
+  },
+  {
+    "english": "display",
+    "turkish": "göstermek (veriyi, sonucu)",
+    "example": "This table displays the scores for each group side by side.",
+    "exampleTr": "Bu tablo her grubun puanlarını yan yana gösteriyor.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "Ekran da display'dir; sunumda \"the chart shows\" daha yaygındır, display biraz daha resmîdir."
+  },
+  {
+    "english": "novel",
+    "turkish": "yeni, özgün (yaklaşım, fikir)",
+    "example": "Your advisor liked the novel idea of using text messages as data.",
+    "exampleTr": "Danışmanın, metin mesajlarını veri olarak kullanma yönündeki özgün fikri beğendi.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "İsim olarak novel romandır; sıfat olarak yeni, daha önce denenmemiş demektir: a novel method."
+  },
+  {
+    "english": "foundation",
+    "turkish": "temel, dayanak (bir çalışmanın)",
+    "example": "Good notes from the first weeks are the foundation for the final project.",
+    "exampleTr": "İlk haftalardan tutulan iyi notlar final projesinin temelini oluşturur.",
+    "level": "ACADEMIC",
+    "tags": [
+      "academic"
+    ],
+    "tipTr": "\"lay the foundation for\": …in temelini atmak. Vakıf anlamı da vardır."
   }
 ]

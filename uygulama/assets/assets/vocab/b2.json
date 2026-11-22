@@ -8804,7 +8804,7 @@
     "english": "evaluation",
     "turkish": "değerlendirme, değer biçme",
     "example": "At the end of the course, students fill out an evaluation of the teacher.",
-    "exampleTr": "Kursun sonunda öğrenciler öğretmen hakkında bir değerlendirme formu doldurur.",
+    "exampleTr": "Dersin sonunda öğrenciler öğretmen hakkında bir değerlendirme formu doldurur.",
     "level": "B2",
     "tags": [
       "education"
@@ -12183,7 +12183,7 @@
     "tags": [
       "verbs"
     ],
-    "tipTr": "\"change\"den biraz daha resmîdir; genellikle bir şeyi tamamen değil, kısmen değiştirmektir. Kıyafet için \"tadil ettirmek\": get a dress altered."
+    "tipTr": "\"change\"den biraz daha resmîdir; çoğu zaman bir şeyin bir kısmını değiştirmek için kullanılır ama \"completely alter\" (tamamen değiştirmek) da sık duyulur. Kıyafet için \"tadil ettirmek\": get a dress altered."
   },
   {
     "english": "adapt",

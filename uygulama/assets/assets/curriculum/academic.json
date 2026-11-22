@@ -3188,6 +3188,2374 @@
           "answerTr": "Dönem başında yalnızca dörtte biriniz kadarı derste konuşurken özgüvenli hissediyordu ama sonunda bu oran neredeyse yüzde yetmişe çıktı. Konuya ilgi de arttı; bu gerçek bir ilerlemeyi gösteriyor."
         }
       ]
+    },
+    {
+      "id": "ac-41",
+      "section": "written",
+      "titleTr": "Kanıt ve iddia",
+      "titleEn": "Evidence and claims",
+      "words": [
+        "demonstrate",
+        "confirm",
+        "valid",
+        "validity",
+        "verify",
+        "justify",
+        "contradict",
+        "consistent",
+        "convincing",
+        "undermine"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the evidence is consistent with",
+          "turkish": "kanıtlar … ile tutarlı",
+          "example": "The evidence is consistent with the idea that bilingual children switch tasks faster.",
+          "exampleTr": "Kanıtlar, iki dilli çocukların görevler arasında daha hızlı geçiş yaptığı fikriyle tutarlı."
+        },
+        {
+          "phrase": "that claim doesn't hold up",
+          "turkish": "bu iddia sağlam değil, bu iddia savunulamıyor",
+          "example": "That claim doesn't hold up, because the newer results contradict it.",
+          "exampleTr": "Bu iddia sağlam değil, çünkü daha yeni sonuçlar onunla çelişiyor."
+        },
+        {
+          "phrase": "what's the evidence for that",
+          "turkish": "bunun kanıtı ne",
+          "example": "It sounds convincing, but what's the evidence for that?",
+          "exampleTr": "Kulağa inandırıcı geliyor ama bunun kanıtı ne?"
+        },
+        {
+          "phrase": "the results confirm that",
+          "turkish": "sonuçlar … olduğunu doğruluyor",
+          "example": "The results confirm that small businesses were hit hardest by the recession.",
+          "exampleTr": "Sonuçlar, durgunluktan en çok küçük işletmelerin etkilendiğini doğruluyor."
+        },
+        {
+          "phrase": "that's a valid point, but",
+          "turkish": "yerinde bir tespit ama, haklı bir nokta ama",
+          "example": "That's a valid point, but one small town isn't enough to generalize from.",
+          "exampleTr": "Yerinde bir tespit ama tek bir küçük kasaba genelleme yapmak için yeterli değil."
+        },
+        {
+          "phrase": "how do we verify that",
+          "turkish": "bunu nasıl doğrularız",
+          "example": "It's an interesting result, but how do we verify that it wasn't luck?",
+          "exampleTr": "İlginç bir sonuç ama bunun şans olmadığını nasıl doğrularız?"
+        },
+        {
+          "phrase": "this seems to undermine",
+          "turkish": "bu, …i zayıflatıyor gibi görünüyor",
+          "example": "This seems to undermine the author's main argument about remote classes.",
+          "exampleTr": "Bu, yazarın uzaktan dersler hakkındaki ana savını zayıflatıyor gibi görünüyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "A friend in your nutrition class says that a single viral video proves that a new diet works. Question the validity of this claim.",
+          "promptTr": "Beslenme dersinden bir arkadaşın, viral olmuş tek bir videonun yeni bir diyetin işe yaradığını kanıtladığını söylüyor. Bu iddianın geçerliliğini sorgula.",
+          "answer": "I'm not sure one video can demonstrate that. It doesn't tell us how many people tried the diet, which makes its validity hard to judge. We'd need a proper study to verify it.",
+          "answerTr": "Tek bir videonun bunu kanıtlayabileceğinden emin değilim. Diyeti kaç kişinin denediğini söylemiyor, bu da geçerliliğini değerlendirmeyi zorlaştırıyor. Bunu doğrulamak için düzgün bir çalışmaya ihtiyacımız olur."
+        },
+        {
+          "prompt": "In office hours, your professor asks why you chose to rely on survey data in your project. Justify your choice.",
+          "promptTr": "Ofis saatinde hocan, projende neden anket verilerine dayandığını soruyor. Seçimini gerekçelendir.",
+          "answer": "I chose a survey because I wanted to hear from a lot of students quickly. The answers were fairly consistent across groups, which I think justifies using it, although interviews could add more detail.",
+          "answerTr": "Anketi seçtim, çünkü kısa sürede çok sayıda öğrencinin görüşünü almak istedim. Cevaplar gruplar arasında oldukça tutarlıydı; bence bu, anketi kullanmayı haklı çıkarıyor, gerçi görüşmeler daha fazla ayrıntı katabilirdi."
+        },
+        {
+          "prompt": "You read an article that contradicts what your instructor said in class. Tell your study group what the article claims.",
+          "promptTr": "Hocanın derste söylediğiyle çelişen bir makale okudun. Çalışma grubuna makalenin ne iddia ettiğini anlat.",
+          "answer": "The article basically contradicts what we heard on Monday. The author claims that short breaks don't improve focus, and her data look convincing. Still, one article isn't enough to undermine the whole theory.",
+          "answerTr": "Makale aslında pazartesi duyduklarımızla çelişiyor. Yazar kısa molaların odaklanmayı artırmadığını iddia ediyor ve verileri inandırıcı görünüyor. Yine de tek bir makale bütün kuramı sarsmaya yetmez."
+        }
+      ]
+    },
+    {
+      "id": "ac-42",
+      "section": "written",
+      "titleTr": "Nedenleri ve etkileri bağlamak",
+      "titleEn": "Linking causes and effects",
+      "words": [
+        "contribute",
+        "contribution",
+        "attribute",
+        "consequently",
+        "thereby",
+        "trigger",
+        "correlation",
+        "correlate",
+        "inevitable",
+        "whereby",
+        "stem"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "one factor that contributes to",
+          "turkish": "…e katkıda bulunan etkenlerden biri",
+          "example": "One factor that contributes to low attendance is the early start time.",
+          "exampleTr": "Derse katılımın düşük olmasına katkıda bulunan etkenlerden biri, dersin erken başlaması."
+        },
+        {
+          "phrase": "can be attributed to",
+          "turkish": "…e bağlanabilir, …den kaynaklandığı söylenebilir",
+          "example": "Most of the improvement can be attributed to the extra practice sessions.",
+          "exampleTr": "İyileşmenin büyük kısmı ek pratik oturumlarına bağlanabilir."
+        },
+        {
+          "phrase": "the problem stems from",
+          "turkish": "sorun …den kaynaklanıyor",
+          "example": "I think the problem stems from unclear instructions, not lazy students.",
+          "exampleTr": "Bence sorun tembel öğrencilerden değil, belirsiz yönergelerden kaynaklanıyor."
+        },
+        {
+          "phrase": "correlation doesn't mean causation",
+          "turkish": "ilişki, nedensellik anlamına gelmez",
+          "example": "Remember, correlation doesn't mean causation; maybe both depend on income.",
+          "exampleTr": "Unutmayın, ilişki nedensellik anlamına gelmez; belki ikisi de gelire bağlıdır."
+        },
+        {
+          "phrase": "thereby reducing",
+          "turkish": "böylece …i azaltarak",
+          "example": "The lab switched to digital forms, thereby reducing paper use by half.",
+          "exampleTr": "Laboratuvar dijital formlara geçti ve böylece kâğıt kullanımını yarıya indirdi."
+        },
+        {
+          "phrase": "a system whereby",
+          "turkish": "…diği bir sistem, … sayesinde işleyen bir düzen",
+          "example": "The lab uses a system whereby each member checks another member's data.",
+          "exampleTr": "Laboratuvar, her üyenin başka bir üyenin verilerini kontrol ettiği bir sistem kullanıyor."
+        },
+        {
+          "phrase": "made a real contribution to",
+          "turkish": "…e gerçek bir katkı sağladı",
+          "example": "Her study made a real contribution to how we understand stress.",
+          "exampleTr": "Onun çalışması, stresi nasıl anladığımıza gerçek bir katkı sağladı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Your group's data show that students who sleep more get better grades. Explain this result without claiming that sleep is the only cause.",
+          "promptTr": "Grubunun verileri, daha çok uyuyan öğrencilerin daha iyi not aldığını gösteriyor. Bu sonucu, tek nedenin uyku olduğunu iddia etmeden açıkla.",
+          "answer": "We found a clear correlation between sleep and grades. Sleep probably contributes to better focus, but other things correlate with both, like having fewer work hours. So we can't attribute the grades to sleep alone.",
+          "answerTr": "Uyku ile notlar arasında açık bir ilişki bulduk. Uyku muhtemelen daha iyi odaklanmaya katkıda bulunuyor ama başka şeyler de, örneğin işte daha az saat çalışmak, ikisiyle birlikte değişiyor. Yani notları yalnızca uykuya bağlayamayız."
+        },
+        {
+          "prompt": "In a seminar on climate, explain how one change can lead to another. Use a simple example.",
+          "promptTr": "İklim üzerine bir seminerde bir değişikliğin nasıl başka bir değişikliğe yol açabileceğini açıkla. Basit bir örnek kullan.",
+          "answer": "Warmer summers trigger more wildfires, and the fires release more carbon. Consequently, temperatures rise even further, and the next fire season gets worse.",
+          "answerTr": "Daha sıcak yazlar daha fazla orman yangınını tetikliyor, yangınlar da daha fazla karbon salıyor. Bunun sonucunda sıcaklıklar daha da artıyor ve bir sonraki yangın mevsimi daha kötü geçiyor."
+        },
+        {
+          "prompt": "In a city planning seminar, a student says that traffic problems are inevitable. Respond and offer one cause that could be changed.",
+          "promptTr": "Bir şehir planlama seminerinde bir öğrenci trafik sorunlarının kaçınılmaz olduğunu söylüyor. Cevap ver ve değiştirilebilecek bir neden öner.",
+          "answer": "I don't think they're inevitable. A lot of the traffic stems from poor public transportation, and that's a policy choice. If buses were faster, fewer people would drive.",
+          "answerTr": "Kaçınılmaz olduklarını düşünmüyorum. Trafiğin büyük kısmı yetersiz toplu taşımadan kaynaklanıyor ve bu bir politika tercihi. Otobüsler daha hızlı olsaydı daha az insan araba kullanırdı."
+        }
+      ]
+    },
+    {
+      "id": "ac-43",
+      "section": "written",
+      "titleTr": "Yöntemi anlatmak",
+      "titleEn": "Describing your method",
+      "words": [
+        "methodology",
+        "conduct",
+        "survey",
+        "participant",
+        "criteria",
+        "select",
+        "selection",
+        "administer",
+        "implement",
+        "questionnaire",
+        "proceed"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "we conducted a survey of",
+          "turkish": "… üzerinde bir anket yaptık",
+          "example": "We conducted a survey of two hundred students in the fall semester.",
+          "exampleTr": "Güz döneminde iki yüz öğrenci üzerinde bir anket yaptık."
+        },
+        {
+          "phrase": "participants were asked to",
+          "turkish": "katılımcılardan … istendi",
+          "example": "Participants were asked to keep a food diary for two weeks.",
+          "exampleTr": "Katılımcılardan iki hafta boyunca yemek günlüğü tutmaları istendi."
+        },
+        {
+          "phrase": "the selection criteria were",
+          "turkish": "seçim ölçütleri … idi",
+          "example": "The selection criteria were simple: full-time students over eighteen.",
+          "exampleTr": "Seçim ölçütleri basitti: on sekiz yaşından büyük tam zamanlı öğrenciler."
+        },
+        {
+          "phrase": "we randomly selected",
+          "turkish": "rastgele seçtik",
+          "example": "From each class, we randomly selected five students to interview.",
+          "exampleTr": "Her sınıftan görüşme yapmak için rastgele beş öğrenci seçtik."
+        },
+        {
+          "phrase": "before we proceed",
+          "turkish": "devam etmeden önce",
+          "example": "Before we proceed, let me explain why we chose this methodology.",
+          "exampleTr": "Devam etmeden önce bu yöntemi neden seçtiğimizi açıklayayım."
+        },
+        {
+          "phrase": "we administered the questionnaire",
+          "turkish": "anketi uyguladık",
+          "example": "We administered the questionnaire online in the first week of classes.",
+          "exampleTr": "Anketi derslerin ilk haftasında internet üzerinden uyguladık."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At a lab meeting, your advisor asks how you chose the people in your study. Explain your method briefly.",
+          "promptTr": "Laboratuvar toplantısında danışmanın, çalışmandaki kişileri nasıl seçtiğini soruyor. Yöntemini kısaca açıkla.",
+          "answer": "We selected participants from three intro courses. Our main criteria were age and how many hours they work, because we wanted a balanced group. In the end, we had sixty participants.",
+          "answerTr": "Katılımcıları üç giriş dersinden seçtik. Ana ölçütlerimiz yaş ve işte kaç saat çalıştıklarıydı, çünkü dengeli bir grup istiyorduk. Sonunda altmış katılımcımız oldu."
+        },
+        {
+          "prompt": "A classmate presenting a project says they \"just asked some people.\" Ask them politely to explain their methodology.",
+          "promptTr": "Projesini sunan bir sınıf arkadaşın \"birkaç kişiye sordum, o kadar\" diyor. Kibarca yöntemini açıklamasını iste.",
+          "answer": "Could you tell us a bit more about your methodology? For example, how did you select the people you asked, and did you use a questionnaire or just talk to them?",
+          "answerTr": "Yönteminden biraz daha bahseder misin? Örneğin sorduğun kişileri nasıl seçtin, bir anket mi kullandın yoksa sadece onlarla konuştun mu?"
+        },
+        {
+          "prompt": "You're presenting your research plan. Tell the audience what you'll do first and how you'll move to the next step.",
+          "promptTr": "Araştırma planını sunuyorsun. Dinleyicilere önce ne yapacağını ve bir sonraki adıma nasıl geçeceğini anlat.",
+          "answer": "First, we'll conduct a short pilot survey to test our questions. If they work well, we'll proceed to the full study and implement the changes the pilot suggests.",
+          "answerTr": "Önce sorularımızı sınamak için kısa bir ön anket yapacağız. Sorular işe yararsa asıl çalışmaya geçeceğiz ve ön çalışmanın gösterdiği değişiklikleri uygulayacağız."
+        }
+      ]
+    },
+    {
+      "id": "ac-44",
+      "section": "written",
+      "titleTr": "Veriyi yorumlamak",
+      "titleEn": "Interpreting data",
+      "words": [
+        "indicate",
+        "indication",
+        "reveal",
+        "interpretation",
+        "estimate",
+        "approximately",
+        "statistics",
+        "statistical",
+        "figure",
+        "correspond",
+        "significance"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the data suggest that",
+          "turkish": "veriler … olduğunu gösteriyor",
+          "example": "The data suggest that most students study approximately ten hours a week.",
+          "exampleTr": "Veriler, öğrencilerin çoğunun haftada yaklaşık on saat ders çalıştığını gösteriyor."
+        },
+        {
+          "phrase": "as you can see in this figure",
+          "turkish": "bu şekilde görebileceğiniz gibi",
+          "example": "As you can see in this figure, attendance drops after midterms.",
+          "exampleTr": "Bu şekilde görebileceğiniz gibi, ara sınavlardan sonra derse katılım düşüyor."
+        },
+        {
+          "phrase": "there's no indication that",
+          "turkish": "… olduğuna dair hiçbir işaret yok",
+          "example": "There's no indication that the new schedule changed anything.",
+          "exampleTr": "Yeni ders programının bir şeyi değiştirdiğine dair hiçbir işaret yok."
+        },
+        {
+          "phrase": "corresponds to",
+          "turkish": "…e karşılık geliyor",
+          "example": "Each color corresponds to a different age group in the survey.",
+          "exampleTr": "Her renk, ankette farklı bir yaş grubuna karşılık geliyor."
+        },
+        {
+          "phrase": "one possible interpretation is that",
+          "turkish": "olası bir yorum, … olduğu",
+          "example": "One possible interpretation is that students simply had less free time.",
+          "exampleTr": "Olası bir yorum, öğrencilerin sadece daha az boş zamanı olduğu."
+        },
+        {
+          "phrase": "it's not statistically significant",
+          "turkish": "istatistiksel olarak anlamlı değil",
+          "example": "The difference looks big, but it's not statistically significant.",
+          "exampleTr": "Fark büyük görünüyor ama istatistiksel olarak anlamlı değil."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Describe a chart from your project that shows how much students spend on textbooks each year. Give an approximate figure.",
+          "promptTr": "Projendeki, öğrencilerin her yıl ders kitaplarına ne kadar harcadığını gösteren grafiği anlat. Yaklaşık bir rakam ver.",
+          "answer": "This chart shows yearly spending on textbooks. We estimate that the average student spends approximately four hundred dollars, and the figures indicate that costs are highest in the first year.",
+          "answerTr": "Bu grafik ders kitaplarına yapılan yıllık harcamayı gösteriyor. Ortalama bir öğrencinin yaklaşık dört yüz dolar harcadığını tahmin ediyoruz ve rakamlar maliyetlerin en yüksek ilk yılda olduğunu gösteriyor."
+        },
+        {
+          "prompt": "Your group found a small difference between two teaching methods. Your lab partner wants to call it a major discovery. Give a careful interpretation.",
+          "promptTr": "Grubun iki öğretim yöntemi arasında küçük bir fark buldu. Laboratuvar arkadaşın buna büyük bir keşif demek istiyor. Temkinli bir yorum yap.",
+          "answer": "I'd be careful with that interpretation. The difference is real, but it didn't reach statistical significance, so it could just be chance.",
+          "answerTr": "Bu yorum konusunda dikkatli olurdum. Fark gerçek ama istatistiksel anlamlılığa ulaşmadı; yani sadece tesadüf olabilir."
+        },
+        {
+          "prompt": "You read a news article about a report on student debt. Tell your group what the statistics revealed.",
+          "promptTr": "Öğrenci borçları üzerine bir rapor hakkında haber okudun. Grubuna istatistiklerin neyi ortaya çıkardığını anlat.",
+          "answer": "According to the article, the statistics revealed that debt has nearly doubled in ten years. The report also indicates that students at public colleges borrow less than others.",
+          "answerTr": "Habere göre istatistikler borcun on yılda neredeyse iki katına çıktığını ortaya koydu. Rapor ayrıca devlet üniversitelerindeki öğrencilerin diğerlerinden daha az borç aldığını gösteriyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-45",
+      "section": "written",
+      "titleTr": "Sınırlılıkları kabul etmek",
+      "titleEn": "Admitting limitations",
+      "words": [
+        "limitation",
+        "constraint",
+        "restrict",
+        "restriction",
+        "bias",
+        "generalize",
+        "scope",
+        "adequate",
+        "sufficient",
+        "flaw",
+        "acknowledge"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "one limitation of this study is",
+          "turkish": "bu çalışmanın sınırlılıklarından biri",
+          "example": "One limitation of this study is that all participants were from one city.",
+          "exampleTr": "Bu çalışmanın sınırlılıklarından biri, bütün katılımcıların tek bir şehirden olması."
+        },
+        {
+          "phrase": "we have to acknowledge that",
+          "turkish": "…i kabul etmemiz gerekiyor",
+          "example": "We have to acknowledge that our sample was fairly small.",
+          "exampleTr": "Örneklemimizin oldukça küçük olduğunu kabul etmemiz gerekiyor."
+        },
+        {
+          "phrase": "that's outside the scope of",
+          "turkish": "bu, … kapsamının dışında",
+          "example": "That's an interesting question, but it's outside the scope of our project.",
+          "exampleTr": "İlginç bir soru ama projemizin kapsamının dışında."
+        },
+        {
+          "phrase": "we can't generalize from",
+          "turkish": "…den genelleme yapamayız",
+          "example": "We can't generalize from twenty students to the whole country.",
+          "exampleTr": "Yirmi öğrenciden bütün ülkeye genelleme yapamayız."
+        },
+        {
+          "phrase": "due to time constraints",
+          "turkish": "zaman kısıtları nedeniyle",
+          "example": "Due to time constraints, we only interviewed students in one department.",
+          "exampleTr": "Zaman kısıtları nedeniyle yalnızca bir bölümdeki öğrencilerle görüştük."
+        },
+        {
+          "phrase": "there may be some bias in",
+          "turkish": "…de bir miktar yanlılık olabilir",
+          "example": "There may be some bias in the results, since volunteers tend to be more motivated.",
+          "exampleTr": "Sonuçlarda bir miktar yanlılık olabilir, çünkü gönüllüler genellikle daha isteklidir."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At the end of your presentation, your instructor asks what the main weaknesses of your study are. Answer honestly.",
+          "promptTr": "Sunumunun sonunda hocan, çalışmanın temel zayıf yanlarının neler olduğunu soruyor. Dürüstçe cevap ver.",
+          "answer": "The main flaw is the sample size, which wasn't really adequate for strong claims. We also had to restrict the survey to first-year students, which means the results may not apply to everyone.",
+          "answerTr": "Asıl kusur örneklem büyüklüğü; güçlü iddialar için pek yeterli değildi. Ayrıca anketi birinci sınıf öğrencileriyle sınırlamak zorunda kaldık, bu da sonuçların herkes için geçerli olmayabileceği anlamına geliyor."
+        },
+        {
+          "prompt": "During peer review, a reviewer from another group writes that your survey results prove what all college students think. Politely correct them.",
+          "promptTr": "Akran değerlendirmesinde başka bir gruptan bir değerlendirici, anket sonuçlarınızın bütün üniversite öğrencilerinin ne düşündüğünü kanıtladığını yazıyor. Kibarca düzelt.",
+          "answer": "That's a nice thought, but I don't think our data are sufficient for that. We only asked students at one school, and there was a restriction on age, so we really can't generalize.",
+          "answerTr": "Güzel bir düşünce ama verilerimizin buna yeteceğini sanmıyorum. Yalnızca tek bir okuldaki öğrencilere sorduk ve yaş sınırlaması vardı, yani gerçekten genelleme yapamayız."
+        },
+        {
+          "prompt": "Summarize the limitations section of a paper you read for your methods course.",
+          "promptTr": "Yöntem dersin için okuduğun bir makalenin sınırlılıklar bölümünü özetle.",
+          "answer": "The authors acknowledge two main limitations. First, budget constraints kept the study short, and second, they only used online surveys. They say future research should widen the scope.",
+          "answerTr": "Yazarlar iki temel sınırlılığı kabul ediyor. Birincisi, bütçe kısıtları çalışmanın kısa tutulmasına yol açmış; ikincisi, yalnızca internet üzerinden anket kullanmışlar. Gelecekteki araştırmaların kapsamı genişletmesi gerektiğini söylüyorlar."
+        }
+      ]
+    },
+    {
+      "id": "ac-46",
+      "section": "written",
+      "titleTr": "Bir konuyu parçalarına ayırmak",
+      "titleEn": "Breaking a topic into parts",
+      "words": [
+        "classify",
+        "classification",
+        "constitute",
+        "consist",
+        "element",
+        "dimension",
+        "hierarchy",
+        "distinct",
+        "specify",
+        "characterize"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the model consists of",
+          "turkish": "model …den oluşuyor",
+          "example": "The model consists of three layers, and each one has a different job.",
+          "exampleTr": "Model üç katmandan oluşuyor ve her birinin farklı bir işi var."
+        },
+        {
+          "phrase": "can be classified into",
+          "turkish": "…e ayrılabilir, … olarak sınıflandırılabilir",
+          "example": "The responses can be classified into four main types.",
+          "exampleTr": "Cevaplar dört ana türe ayrılabilir."
+        },
+        {
+          "phrase": "an essential element of",
+          "turkish": "…in temel öğelerinden biri",
+          "example": "Trust is an essential element of any good research team.",
+          "exampleTr": "Güven, iyi bir araştırma ekibinin temel öğelerinden biridir."
+        },
+        {
+          "phrase": "what exactly constitutes",
+          "turkish": "tam olarak neyin … sayıldığı",
+          "example": "We need to agree on what exactly constitutes cheating on this assignment.",
+          "exampleTr": "Bu ödevde tam olarak neyin kopya sayıldığı konusunda anlaşmamız gerekiyor."
+        },
+        {
+          "phrase": "two distinct groups",
+          "turkish": "birbirinden açıkça ayrılan iki grup",
+          "example": "The participants fell into two distinct groups: early risers and night owls.",
+          "exampleTr": "Katılımcılar birbirinden açıkça ayrılan iki gruba bölündü: erken kalkanlar ve gece kuşları."
+        },
+        {
+          "phrase": "could you specify what you mean by",
+          "turkish": "… derken neyi kastettiğini belirtir misin",
+          "example": "Could you specify what you mean by success in this study?",
+          "exampleTr": "Bu çalışmada başarı derken neyi kastettiğini belirtir misin?"
+        },
+        {
+          "phrase": "another dimension of the problem",
+          "turkish": "sorunun bir başka boyutu",
+          "example": "Cost is another dimension of the problem that we haven't discussed.",
+          "exampleTr": "Maliyet, sorunun henüz tartışmadığımız bir başka boyutu."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a sociology seminar, explain how a university is organized, from the top down.",
+          "promptTr": "Bir sosyoloji seminerinde bir üniversitenin yukarıdan aşağıya nasıl örgütlendiğini anlat.",
+          "answer": "There's a clear hierarchy. The president and the board are at the top, then come the deans, and each college has several departments with their own chairs.",
+          "answerTr": "Açık bir hiyerarşi var. En üstte rektör ve mütevelli heyeti bulunuyor, sonra dekanlar geliyor; her fakültenin de kendi başkanları olan birkaç bölümü var."
+        },
+        {
+          "prompt": "Summarize how your textbook classifies different types of learners.",
+          "promptTr": "Ders kitabının farklı öğrenen türlerini nasıl sınıflandırdığını özetle.",
+          "answer": "The textbook uses a simple classification with three types of learners. It characterizes the first group as visual, the second as verbal, and the third as hands-on. But it admits that most people mix all three.",
+          "answerTr": "Ders kitabı üç öğrenen türünden oluşan basit bir sınıflandırma kullanıyor. İlk grubu görsel, ikinciyi sözel, üçüncüyü de yaparak öğrenen olarak nitelendiriyor. Ama çoğu insanın üçünü de karıştırdığını kabul ediyor."
+        },
+        {
+          "prompt": "A classmate keeps using the word \"community\" in their presentation. Ask them to specify what they mean.",
+          "promptTr": "Bir sınıf arkadaşın sunumunda sürekli \"topluluk\" kelimesini kullanıyor. Neyi kastettiğini belirtmesini iste.",
+          "answer": "Sorry, could you specify what counts as a community here? Do you mean people in the same neighborhood, or does it also include online groups?",
+          "answerTr": "Pardon, burada neyin topluluk sayıldığını belirtir misin? Aynı mahalledeki insanları mı kastediyorsun, yoksa internetteki gruplar da buna dahil mi?"
+        }
+      ]
+    },
+    {
+      "id": "ac-47",
+      "section": "written",
+      "titleTr": "Benzerlikleri ve farkları tartmak",
+      "titleEn": "Weighing similarities and differences",
+      "words": [
+        "similarity",
+        "similarly",
+        "likewise",
+        "conversely",
+        "contrary",
+        "identical",
+        "comparable",
+        "comparison",
+        "analogy",
+        "resemble",
+        "differentiate",
+        "alternative"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "a fair comparison",
+          "turkish": "adil bir karşılaştırma",
+          "example": "It's not a fair comparison, because the second group had more time.",
+          "exampleTr": "Bu adil bir karşılaştırma değil, çünkü ikinci grubun daha fazla zamanı vardı."
+        },
+        {
+          "phrase": "contrary to what we expected",
+          "turkish": "beklediğimizin aksine",
+          "example": "Contrary to what we expected, the remote group did slightly better.",
+          "exampleTr": "Beklediğimizin aksine, uzaktan ders alan grup biraz daha başarılı oldu."
+        },
+        {
+          "phrase": "the two are comparable in",
+          "turkish": "ikisi … bakımından benzer düzeyde",
+          "example": "The two schools are comparable in size, but not in funding.",
+          "exampleTr": "İki okul büyüklük bakımından benzer düzeyde ama maddi kaynak bakımından değil."
+        },
+        {
+          "phrase": "to use an analogy",
+          "turkish": "bir benzetmeyle anlatırsak",
+          "example": "To use an analogy, memory works a bit like a library.",
+          "exampleTr": "Bir benzetmeyle anlatırsak, bellek biraz kütüphane gibi çalışır."
+        },
+        {
+          "phrase": "and conversely",
+          "turkish": "ve tersine, tam tersi de geçerli",
+          "example": "Exercise improves mood, and conversely, a bad mood makes exercise harder.",
+          "exampleTr": "Egzersiz ruh hâlini iyileştirir; tersine, kötü bir ruh hâli de egzersizi zorlaştırır."
+        },
+        {
+          "phrase": "what sets them apart is",
+          "turkish": "onları birbirinden ayıran şey",
+          "example": "The two methods resemble each other, but what sets them apart is the cost.",
+          "exampleTr": "İki yöntem birbirine benziyor ama onları birbirinden ayıran şey maliyet."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Compare the graduation rates of two colleges shown on a slide. One is 72 percent, the other 70 percent.",
+          "promptTr": "Bir slaytta gösterilen iki üniversitenin mezuniyet oranlarını karşılaştır. Biri yüzde 72, diğeri yüzde 70.",
+          "answer": "The rates are almost identical, 72 versus 70 percent. Similarly, both colleges have about the same number of students. On this measure alone, it's hard to differentiate between them.",
+          "answerTr": "Oranlar neredeyse aynı: yüzde 72'ye karşı yüzde 70. Benzer şekilde iki üniversitenin öğrenci sayısı da hemen hemen aynı. Yalnızca bu ölçüte bakarak aralarında ayrım yapmak zor."
+        },
+        {
+          "prompt": "In a biology seminar, explain how the heart works by comparing it to something familiar.",
+          "promptTr": "Bir biyoloji seminerinde kalbin nasıl çalıştığını tanıdık bir şeye benzeterek açıkla.",
+          "answer": "The heart works a lot like a pump in a building. It pushes blood through the body's pipes. Likewise, when one pipe is blocked, the whole system has problems.",
+          "answerTr": "Kalp, bir binadaki pompaya çok benzer şekilde çalışır. Kanı vücudun borularından iter. Aynı şekilde, bir boru tıkandığında bütün sistem sorun yaşar."
+        },
+        {
+          "prompt": "In a debate on education, someone claims that online classes are just as good as in-person classes in every way. Disagree and suggest an alternative view.",
+          "promptTr": "Eğitim üzerine bir tartışmada biri, uzaktan derslerin her açıdan yüz yüze dersler kadar iyi olduğunu öne sürüyor. Katılmadığını söyle ve başka bir bakış açısı öner.",
+          "answer": "I see the similarity in content, but the comparison misses something. In person, you can ask questions right away. An alternative might be mixing both, so students get flexibility and contact.",
+          "answerTr": "İçerikteki benzerliği görüyorum ama bu karşılaştırma bir şeyi gözden kaçırıyor. Yüz yüze derste soruları hemen sorabiliyorsun. Bir alternatif ikisini birleştirmek olabilir; böylece öğrenciler hem esneklik hem de birebir iletişim kazanır."
+        }
+      ]
+    },
+    {
+      "id": "ac-48",
+      "section": "written",
+      "titleTr": "Zaman içindeki eğilimler",
+      "titleEn": "Describing trends over time",
+      "words": [
+        "steady",
+        "peak",
+        "gradual",
+        "gradually",
+        "decrease",
+        "fluctuate",
+        "fluctuation",
+        "stabilize",
+        "expand",
+        "expansion",
+        "accelerate",
+        "dramatically"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "reached a peak in",
+          "turkish": "…de zirveye ulaştı",
+          "example": "Applications reached a peak in 2021 and have dropped since then.",
+          "exampleTr": "Başvurular 2021'de zirveye ulaştı ve o zamandan beri düşüyor."
+        },
+        {
+          "phrase": "there's been a steady rise in",
+          "turkish": "…de istikrarlı bir artış oldu",
+          "example": "There's been a steady rise in the number of students who work.",
+          "exampleTr": "Çalışan öğrenci sayısında istikrarlı bir artış oldu."
+        },
+        {
+          "phrase": "it fluctuates quite a bit",
+          "turkish": "epeyce dalgalanıyor, epey inip çıkıyor",
+          "example": "Attendance is high in September, but it fluctuates quite a bit after that.",
+          "exampleTr": "Derse katılım eylülde yüksek ama sonrasında epeyce dalgalanıyor."
+        },
+        {
+          "phrase": "prices have leveled off",
+          "turkish": "fiyatlar durağanlaştı, artık yükselmiyor",
+          "example": "After years of growth, prices have leveled off and are starting to stabilize.",
+          "exampleTr": "Yıllarca süren artışın ardından fiyatlar durağanlaştı ve istikrar kazanmaya başlıyor."
+        },
+        {
+          "phrase": "a gradual decrease in",
+          "turkish": "…de kademeli bir azalma",
+          "example": "We noticed a gradual decrease in screen time over the semester.",
+          "exampleTr": "Dönem boyunca ekran süresinde kademeli bir azalma fark ettik."
+        },
+        {
+          "phrase": "the change accelerated after",
+          "turkish": "değişim …den sonra hızlandı",
+          "example": "The change accelerated after the college expanded its online programs.",
+          "exampleTr": "Değişim, üniversite uzaktan eğitim programlarını genişlettikten sonra hızlandı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Describe a line graph showing your campus library's visitors over ten years. Numbers grew, then fell sharply in one year, then recovered.",
+          "promptTr": "Kampüs kütüphanesinin on yıllık ziyaretçi sayısını gösteren bir çizgi grafiği anlat. Sayılar arttı, bir yıl birden düştü, sonra toparlandı.",
+          "answer": "Visitor numbers grew gradually for the first six years. Then they dropped dramatically in 2020, when the building closed, but since then they've recovered and seem to be stabilizing.",
+          "answerTr": "Ziyaretçi sayıları ilk altı yıl boyunca yavaş yavaş arttı. Sonra bina kapandığında, 2020'de çarpıcı biçimde düştü ama o zamandan beri toparlandı ve istikrar kazanıyor gibi görünüyor."
+        },
+        {
+          "prompt": "Your group sees small ups and downs in weekly survey answers. Your project partner thinks something big is happening. Give a careful view.",
+          "promptTr": "Grubun haftalık anket cevaplarında küçük inişler ve çıkışlar görüyor. Proje ortağın büyük bir şey olduğunu düşünüyor. Temkinli bir görüş bildir.",
+          "answer": "I'd say these are normal fluctuations rather than a real change. The overall line is pretty steady, so let's wait a few more weeks before we claim anything.",
+          "answerTr": "Bence bunlar gerçek bir değişimden çok olağan dalgalanmalar. Genel çizgi oldukça istikrarlı, o yüzden bir şey iddia etmeden önce birkaç hafta daha bekleyelim."
+        },
+        {
+          "prompt": "In a presentation, move from describing the past to talking about future predictions for a growing city.",
+          "promptTr": "Bir sunumda, büyüyen bir şehrin geçmişini anlatmaktan gelecek tahminlerine geç.",
+          "answer": "So that's how the city expanded over the last decade. Now let's look ahead: most models predict that the expansion will continue but at a slower rate. In other words, growth will slow down, not speed up.",
+          "answerTr": "Şehrin son on yılda nasıl genişlediği böyle. Şimdi ileriye bakalım: çoğu model genişlemenin süreceğini ama daha yavaş bir hızla olacağını öngörüyor. Başka bir deyişle büyüme hızlanmayacak, yavaşlayacak."
+        }
+      ]
+    },
+    {
+      "id": "ac-49",
+      "section": "written",
+      "titleTr": "Kaynak göstermek ve intihalden kaçınmak",
+      "titleEn": "Citing sources and avoiding plagiarism",
+      "words": [
+        "cite",
+        "citation",
+        "quotation",
+        "paraphrase",
+        "plagiarism",
+        "publication",
+        "secondary",
+        "bibliography",
+        "original",
+        "adapt"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "I'm citing a study that",
+          "turkish": "… bir çalışmayı kaynak gösteriyorum",
+          "example": "Here I'm citing a study that followed students for four years.",
+          "exampleTr": "Burada öğrencileri dört yıl boyunca izleyen bir çalışmayı kaynak gösteriyorum."
+        },
+        {
+          "phrase": "in my own words",
+          "turkish": "kendi cümlelerimle",
+          "example": "The original is quite long, so let me put it in my own words.",
+          "exampleTr": "Asıl metin oldukça uzun, o yüzden bunu kendi cümlelerimle anlatayım."
+        },
+        {
+          "phrase": "a direct quotation from",
+          "turkish": "…den doğrudan bir alıntı",
+          "example": "This line is a direct quotation from the original report.",
+          "exampleTr": "Bu satır asıl rapordan doğrudan bir alıntı."
+        },
+        {
+          "phrase": "it counts as plagiarism",
+          "turkish": "intihal sayılır",
+          "example": "Even if you change a few words, it still counts as plagiarism.",
+          "exampleTr": "Birkaç kelimeyi değiştirsen bile bu yine intihal sayılır."
+        },
+        {
+          "phrase": "a secondary source",
+          "turkish": "ikincil bir kaynak",
+          "example": "A textbook is a secondary source, so try to find the original study.",
+          "exampleTr": "Ders kitabı ikincil bir kaynaktır, o yüzden asıl çalışmayı bulmaya çalış."
+        },
+        {
+          "phrase": "adapted from",
+          "turkish": "…den uyarlandı",
+          "example": "This chart is adapted from a recent publication on housing costs.",
+          "exampleTr": "Bu grafik, konut maliyetleri üzerine yakın tarihli bir yayından uyarlandı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "During office hours, ask your instructor how to cite a website in the bibliography of your paper.",
+          "promptTr": "Ofis saatinde hocana, ödevinin kaynakçasında bir web sitesini nasıl göstereceğini sor.",
+          "answer": "I have a quick question about citations. If I use a website, how should I list it in the bibliography? Do I need the date I accessed it, or just the author and title?",
+          "answerTr": "Kaynak gösterme hakkında kısa bir sorum var. Bir web sitesi kullanırsam kaynakçada onu nasıl yazmalıyım? Siteye girdiğim tarihi de yazmam gerekiyor mu, yoksa yazar ve başlık yeterli mi?"
+        },
+        {
+          "prompt": "During a reading discussion, tell the group what an article says, and make it clear that you're paraphrasing.",
+          "promptTr": "Bir okuma tartışmasında gruba bir makalenin ne dediğini anlat ve kendi cümlelerinle aktardığını açıkça belirt.",
+          "answer": "To paraphrase the authors, cities that build bike lanes see fewer accidents over time. That's my summary, not a quotation, so check the original publication for their exact numbers.",
+          "answerTr": "Yazarların söylediğini kendi cümlelerimle aktarırsam, bisiklet yolu yapan şehirlerde zamanla daha az kaza oluyor. Bu benim özetim, alıntı değil; kesin rakamlar için asıl yayına bakın."
+        },
+        {
+          "prompt": "A first-year student asks you why copying a paragraph from a website is a problem, even with a few words changed. Explain.",
+          "promptTr": "Birinci sınıf bir öğrenci, birkaç kelimesi değiştirilse bile bir web sitesinden paragraf kopyalamanın neden sorun olduğunu soruyor. Açıkla.",
+          "answer": "It's plagiarism because the ideas and structure still belong to someone else. Either quote it and cite it, or put it in your own words and still cite the source.",
+          "answerTr": "Bu intihal, çünkü fikirler ve yapı hâlâ başkasına ait. Ya alıntı yapıp kaynağını göster ya da kendi cümlelerinle anlat ve yine kaynağı belirt."
+        }
+      ]
+    },
+    {
+      "id": "ac-50",
+      "section": "written",
+      "titleTr": "Kanıttan sonuç çıkarmak",
+      "titleEn": "Drawing conclusions from evidence",
+      "words": [
+        "infer",
+        "inference",
+        "deduce",
+        "implication",
+        "overall",
+        "ultimately",
+        "tentative",
+        "preliminary",
+        "conclusive",
+        "evident"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "what we can infer from this is",
+          "turkish": "bundan çıkarabileceğimiz sonuç",
+          "example": "What we can infer from this is that cost matters more than distance.",
+          "exampleTr": "Bundan çıkarabileceğimiz sonuç, maliyetin mesafeden daha önemli olduğu."
+        },
+        {
+          "phrase": "the evidence isn't conclusive",
+          "turkish": "kanıtlar kesin değil",
+          "example": "The evidence isn't conclusive yet, so we should keep testing.",
+          "exampleTr": "Kanıtlar henüz kesin değil, o yüzden sınamaya devam etmeliyiz."
+        },
+        {
+          "phrase": "our preliminary findings show",
+          "turkish": "ön bulgularımız … gösteriyor",
+          "example": "Our preliminary findings show a small but clear effect on attendance.",
+          "exampleTr": "Ön bulgularımız derse katılım üzerinde küçük ama açık bir etki gösteriyor."
+        },
+        {
+          "phrase": "it's evident from the data that",
+          "turkish": "verilerden … olduğu açıkça anlaşılıyor",
+          "example": "It's evident from the data that most students prefer morning labs.",
+          "exampleTr": "Verilerden, öğrencilerin çoğunun sabah laboratuvar derslerini tercih ettiği açıkça anlaşılıyor."
+        },
+        {
+          "phrase": "the bigger implication is",
+          "turkish": "asıl önemli sonuç şu",
+          "example": "The bigger implication is that schools may need to rethink homework.",
+          "exampleTr": "Asıl önemli sonuç, okulların ödevi yeniden düşünmesi gerekebileceği."
+        },
+        {
+          "phrase": "when you put it all together",
+          "turkish": "hepsini bir araya getirince",
+          "example": "When you put it all together, the new system ultimately saved time.",
+          "exampleTr": "Hepsini bir araya getirince, yeni sistem sonuçta zaman kazandırdı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At a conference poster session, a visitor asks what your early results show. Answer carefully.",
+          "promptTr": "Bir konferansın poster oturumunda bir ziyaretçi erken sonuçlarının ne gösterdiğini soruyor. Temkinli cevap ver.",
+          "answer": "My conclusions are still tentative. The results point in one direction, but with twelve participants, it's more an inference than a firm finding, so I'd like to run the study again.",
+          "answerTr": "Vardığım sonuçlar henüz kesinleşmiş değil. Sonuçlar bir yönü gösteriyor ama on iki katılımcıyla bu, sağlam bir bulgudan çok bir çıkarım; o yüzden çalışmayı yeniden yapmak istiyorum."
+        },
+        {
+          "prompt": "In a literature seminar, explain how the detective in a short story figured out who the thief was.",
+          "promptTr": "Bir edebiyat seminerinde, bir öyküdeki dedektifin hırsızın kim olduğunu nasıl bulduğunu açıkla.",
+          "answer": "She noticed that the dog didn't bark, so she deduced that the thief was someone the dog knew. From there, she could infer that it was a family member.",
+          "answerTr": "Köpeğin havlamadığını fark etti ve hırsızın köpeğin tanıdığı biri olduğu sonucuna vardı. Buradan hırsızın aileden biri olduğu çıkarımını yapabildi."
+        },
+        {
+          "prompt": "As your group project meeting wraps up, sum up what your team has learned and what it means.",
+          "promptTr": "Grup projesi toplantınız biterken ekibinin ne öğrendiğini ve bunun ne anlama geldiğini özetle.",
+          "answer": "Overall, the survey showed that students want longer library hours. So our main recommendation is to stay open until midnight, and ultimately, that could improve study habits across campus.",
+          "answerTr": "Genel olarak anket, öğrencilerin kütüphanenin daha uzun saatler açık kalmasını istediğini gösterdi. Bu yüzden ana önerimiz gece yarısına kadar açık kalması; sonuçta bu, kampüs genelinde çalışma alışkanlıklarını iyileştirebilir."
+        }
+      ]
+    },
+    {
+      "id": "ac-51",
+      "section": "written",
+      "titleTr": "Araştırma sorusunu belirlemek",
+      "titleEn": "Framing a research question",
+      "words": [
+        "investigate",
+        "investigation",
+        "address",
+        "gap",
+        "pose",
+        "inquiry",
+        "prior",
+        "rationale",
+        "extend",
+        "seek",
+        "pursue"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "there's a gap in the research",
+          "turkish": "araştırmalarda bir boşluk var",
+          "example": "There's a gap in the research on part-time students, and we want to fill it.",
+          "exampleTr": "Yarı zamanlı öğrenciler üzerine yapılan araştırmalarda bir boşluk var ve biz onu doldurmak istiyoruz."
+        },
+        {
+          "phrase": "our study addresses the question of",
+          "turkish": "çalışmamız … sorusunu ele alıyor",
+          "example": "Our study addresses the question of why students drop evening classes.",
+          "exampleTr": "Çalışmamız öğrencilerin akşam derslerini neden bıraktığı sorusunu ele alıyor."
+        },
+        {
+          "phrase": "the rationale behind",
+          "turkish": "…in ardındaki gerekçe",
+          "example": "Can you explain the rationale behind choosing only graduate students?",
+          "exampleTr": "Yalnızca lisansüstü öğrencileri seçmenin ardındaki gerekçeyi açıklayabilir misin?"
+        },
+        {
+          "phrase": "builds on prior work",
+          "turkish": "önceki çalışmaların üzerine kuruluyor",
+          "example": "This project builds on prior work by our lab on language learning in children.",
+          "exampleTr": "Bu proje, laboratuvarımızın çocuklarda dil öğrenimi üzerine önceki çalışmalarının üzerine kuruluyor."
+        },
+        {
+          "phrase": "we want to extend this to",
+          "turkish": "bunu …e genişletmek istiyoruz",
+          "example": "The first study looked at teens, and we want to extend this to adults.",
+          "exampleTr": "İlk çalışma ergenleri inceledi, biz de bunu yetişkinlere genişletmek istiyoruz."
+        },
+        {
+          "phrase": "poses a real challenge",
+          "turkish": "gerçek bir zorluk oluşturuyor",
+          "example": "Finding enough participants poses a real challenge for small departments.",
+          "exampleTr": "Yeterli katılımcı bulmak küçük bölümler için gerçek bir zorluk oluşturuyor."
+        },
+        {
+          "phrase": "a new line of inquiry",
+          "turkish": "yeni bir araştırma yolu",
+          "example": "Your results open up a new line of inquiry for the lab.",
+          "exampleTr": "Sonuçların laboratuvar için yeni bir araştırma yolu açıyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Open your thesis proposal presentation by stating your research question.",
+          "promptTr": "Tez önerisi sunumunu araştırma sorusunu belirterek aç.",
+          "answer": "Good morning, everyone. My project seeks to answer one question: why do first-generation students leave college more often? I'll investigate this through interviews and campus records.",
+          "answerTr": "Herkese günaydın. Projem tek bir soruya cevap arıyor: ailesinde üniversiteye giden ilk kişi olan öğrenciler neden okulu daha sık bırakıyor? Bunu görüşmeler ve kampüs kayıtları aracılığıyla araştıracağım."
+        },
+        {
+          "prompt": "Your advisor says your research question is too broad. Ask how you could narrow it.",
+          "promptTr": "Danışmanın araştırma sorunun fazla geniş olduğunu söylüyor. Nasıl daraltabileceğini sor.",
+          "answer": "That makes sense. Should I focus on one part of the problem, like housing, and leave the rest for a later study? Or would you suggest studying a smaller group of students instead?",
+          "answerTr": "Mantıklı. Sorunun tek bir kısmına, örneğin barınmaya odaklanıp geri kalanını sonraki bir çalışmaya mı bırakmalıyım? Yoksa bunun yerine daha küçük bir öğrenci grubunu incelememi mi önerirsiniz?"
+        },
+        {
+          "prompt": "Tell your study group about a state investigation into rising tuition that you read about.",
+          "promptTr": "Çalışma grubuna, hakkında okuduğun, harçlardaki artışla ilgili bir eyalet incelemesinden bahset.",
+          "answer": "A state investigation looked into why tuition keeps rising. According to the report, the main reason is lower public funding, and it recommends that lawmakers pursue a new strategy to help students.",
+          "answerTr": "Bir eyalet incelemesi harçların neden artmaya devam ettiğini araştırdı. Rapora göre asıl neden kamu finansmanının azalması; rapor, yasa koyucuların öğrencilere yardım edecek yeni bir strateji izlemesini öneriyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-52",
+      "section": "written",
+      "titleTr": "Ölçmek ve hesaplamak",
+      "titleEn": "Measuring and calculating",
+      "words": [
+        "calculate",
+        "calculation",
+        "quantify",
+        "accurate",
+        "accuracy",
+        "magnitude",
+        "constant",
+        "minimal",
+        "parameter",
+        "index",
+        "margin"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "if my calculations are right",
+          "turkish": "hesaplarım doğruysa",
+          "example": "If my calculations are right, we'll need about forty more participants.",
+          "exampleTr": "Hesaplarım doğruysa yaklaşık kırk katılımcıya daha ihtiyacımız olacak."
+        },
+        {
+          "phrase": "within the margin of error",
+          "turkish": "hata payı içinde",
+          "example": "The gap between the two groups is within the margin of error.",
+          "exampleTr": "İki grup arasındaki fark hata payı içinde kalıyor."
+        },
+        {
+          "phrase": "hard to quantify",
+          "turkish": "sayıyla ölçmesi zor",
+          "example": "Stress is real, but it's hard to quantify in a simple survey.",
+          "exampleTr": "Stres gerçek bir şey ama basit bir ankette sayıyla ölçmesi zor."
+        },
+        {
+          "phrase": "we kept the temperature constant",
+          "turkish": "sıcaklığı sabit tuttuk",
+          "example": "During the test, we kept the temperature constant at twenty degrees.",
+          "exampleTr": "Deney sırasında sıcaklığı yirmi derecede sabit tuttuk."
+        },
+        {
+          "phrase": "the effect was minimal",
+          "turkish": "etki çok azdı",
+          "example": "We changed the lighting in the room, but the effect was minimal.",
+          "exampleTr": "Odanın aydınlatmasını değiştirdik ama etki çok azdı."
+        },
+        {
+          "phrase": "set the parameters for",
+          "turkish": "… için parametreleri belirlemek, sınırları çizmek",
+          "example": "Before we start, let's set the parameters for the simulation.",
+          "exampleTr": "Başlamadan önce simülasyonun parametrelerini belirleyelim."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a lab meeting, report how accurate your new measuring tool is compared with the old one.",
+          "promptTr": "Bir laboratuvar toplantısında yeni ölçüm aracının eskisine göre ne kadar doğru ölçtüğünü anlat.",
+          "answer": "Honestly, the new tool is a lot more accurate. Its readings were within one percent of the true value, while the old one was off by five. That's a clear improvement in accuracy.",
+          "answerTr": "Açıkçası yeni araç çok daha doğru ölçüyor. Ölçümleri gerçek değerden en fazla yüzde bir sapıyordu, eskisi ise yüzde beş. Bu, doğrulukta açık bir iyileşme."
+        },
+        {
+          "prompt": "A visitor at your poster asks how you calculated a happiness index for different cities. Explain the basic idea.",
+          "promptTr": "Posterini inceleyen bir ziyaretçi, farklı şehirler için bir mutluluk endeksini nasıl hesapladığını soruyor. Temel fikri açıkla.",
+          "answer": "Basically, we combined four measures, like income and free time, into one number. The calculation gives each measure equal weight, and then we compare the index across cities.",
+          "answerTr": "Temelde gelir ve boş zaman gibi dört ölçütü tek bir sayıda birleştirdik. Hesaplama her ölçüte eşit ağırlık veriyor, sonra da endeksi şehirler arasında karşılaştırıyoruz."
+        },
+        {
+          "prompt": "Your instructor asks how big the problem of food waste on campus really is. You only have rough numbers.",
+          "promptTr": "Hocan, kampüsteki gıda israfı sorununun gerçekte ne kadar büyük olduğunu soruyor. Elinde yalnızca kaba rakamlar var.",
+          "answer": "It's hard to give an exact number, but I don't think people realize the magnitude of the problem. Our rough count suggests the dining halls throw away about a ton of food every week.",
+          "answerTr": "Kesin bir rakam vermek zor ama bence insanlar sorunun boyutunun farkında değil. Kaba sayımımız, yemekhanelerin her hafta yaklaşık bir ton yiyecek attığını gösteriyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-53",
+      "section": "written",
+      "titleTr": "Yöntemi ve planı değiştirmek",
+      "titleEn": "Modifying methods and plans",
+      "words": [
+        "transform",
+        "transformation",
+        "convert",
+        "conversion",
+        "modify",
+        "modification",
+        "adjust",
+        "adjustment",
+        "alter",
+        "evolve",
+        "evolution"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "we had to modify the design",
+          "turkish": "tasarımı değiştirmek zorunda kaldık",
+          "example": "After the pilot, we had to modify the design to make it shorter.",
+          "exampleTr": "Ön çalışmadan sonra tasarımı kısaltmak için değiştirmek zorunda kaldık."
+        },
+        {
+          "phrase": "a few minor adjustments",
+          "turkish": "birkaç küçük düzeltme, ufak ayarlamalar",
+          "example": "The plan works, but it needs a few minor adjustments before we start.",
+          "exampleTr": "Plan işe yarıyor ama başlamadan önce birkaç küçük düzeltme gerekiyor."
+        },
+        {
+          "phrase": "this completely alters",
+          "turkish": "bu, …i tamamen değiştiriyor",
+          "example": "If that's true, this completely alters how we read the results.",
+          "exampleTr": "Bu doğruysa, sonuçları nasıl okuduğumuzu tamamen değiştiriyor."
+        },
+        {
+          "phrase": "has evolved over time",
+          "turkish": "zaman içinde evrildi, zamanla gelişti",
+          "example": "The meaning of the word has evolved over time.",
+          "exampleTr": "Kelimenin anlamı zaman içinde evrildi."
+        },
+        {
+          "phrase": "convert the data into",
+          "turkish": "verileri …e dönüştürmek",
+          "example": "First, we convert the data into percentages so the groups are comparable.",
+          "exampleTr": "Önce grupları karşılaştırılabilir kılmak için verileri yüzdelere dönüştürüyoruz."
+        },
+        {
+          "phrase": "went through a major transformation",
+          "turkish": "köklü bir dönüşüm geçirdi",
+          "example": "The city went through a major transformation when the factories closed.",
+          "exampleTr": "Fabrikalar kapandığında şehir köklü bir dönüşüm geçirdi."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In office hours, your professor asks why you changed your interview questions halfway through the study. Explain.",
+          "promptTr": "Ofis saatinde hocan, çalışmanın ortasında görüşme sorularını neden değiştirdiğini soruyor. Açıkla.",
+          "answer": "Some participants found two questions confusing, so we made a small modification. We didn't alter the topics, we just changed the wording, and the answers got much clearer after that adjustment.",
+          "answerTr": "Bazı katılımcılar iki soruyu kafa karıştırıcı buldu, biz de küçük bir değişiklik yaptık. Konuları değiştirmedik, yalnızca ifadeleri değiştirdik; bu düzeltmeden sonra cevaplar çok daha netleşti."
+        },
+        {
+          "prompt": "Summarize a reading about how smartphones changed the way students study.",
+          "promptTr": "Akıllı telefonların öğrencilerin ders çalışma biçimini nasıl değiştirdiğiyle ilgili bir okumayı özetle.",
+          "answer": "In short, the reading argues that phones have transformed studying. Students now adjust their schedules around short sessions, and the author sees this as an evolution, not a crisis.",
+          "answerTr": "Kısacası okuma, telefonların ders çalışmayı dönüştürdüğünü savunuyor. Öğrenciler artık programlarını kısa çalışma oturumlarına göre ayarlıyor ve yazar bunu bir kriz değil, bir evrim olarak görüyor."
+        },
+        {
+          "prompt": "A teammate wants to convert your whole survey into a phone app. You think it's too much change at once. Respond.",
+          "promptTr": "Bir ekip arkadaşın bütün anketinizi bir telefon uygulamasına dönüştürmek istiyor. Sen bunun bir seferde çok fazla değişiklik olduğunu düşünüyorsun. Cevap ver.",
+          "answer": "I like the idea, but a full conversion right now feels risky. Could we test the app with one small group first and keep the paper version until we know it works?",
+          "answerTr": "Fikri beğendim ama şu anda tamamen dönüştürmek riskli görünüyor. Uygulamayı önce küçük bir grupla sınayıp işe yaradığını anlayana kadar kâğıt sürümü tutabilir miyiz?"
+        }
+      ]
+    },
+    {
+      "id": "ac-54",
+      "section": "written",
+      "titleTr": "Bir çalışmayı eleştirel değerlendirmek",
+      "titleEn": "Critiquing a study",
+      "words": [
+        "weakness",
+        "critique",
+        "evaluate",
+        "evaluation",
+        "assess",
+        "assessment",
+        "merit",
+        "criticize",
+        "criticism",
+        "robust",
+        "rigorous"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the main strength of the paper is",
+          "turkish": "makalenin asıl güçlü yanı",
+          "example": "The main strength of the paper is its rigorous design.",
+          "exampleTr": "Makalenin asıl güçlü yanı titiz tasarımı."
+        },
+        {
+          "phrase": "one weakness I noticed is",
+          "turkish": "fark ettiğim zayıf yanlardan biri",
+          "example": "One weakness I noticed is that the survey questions were very long.",
+          "exampleTr": "Fark ettiğim zayıf yanlardan biri, anket sorularının çok uzun olması."
+        },
+        {
+          "phrase": "to be fair to the authors",
+          "turkish": "yazarların hakkını vermek gerekirse",
+          "example": "To be fair to the authors, they do acknowledge this weakness.",
+          "exampleTr": "Yazarların hakkını vermek gerekirse, bu zayıf yanı kabul ediyorlar."
+        },
+        {
+          "phrase": "has its merits",
+          "turkish": "kendine göre artıları var",
+          "example": "The online format has its merits, especially for students who work.",
+          "exampleTr": "Uzaktan biçimin kendine göre artıları var, özellikle çalışan öğrenciler için."
+        },
+        {
+          "phrase": "how robust are these results",
+          "turkish": "bu sonuçlar ne kadar sağlam",
+          "example": "How robust are these results if we remove the two extreme cases?",
+          "exampleTr": "İki uç vakayı çıkarırsak bu sonuçlar ne kadar sağlam kalır?"
+        },
+        {
+          "phrase": "constructive criticism",
+          "turkish": "yapıcı eleştiri",
+          "example": "Thanks for the constructive criticism; it'll make the next draft better.",
+          "exampleTr": "Yapıcı eleştirin için teşekkürler; bir sonraki taslağı daha iyi yapacak."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In peer review, give the presenter balanced feedback on their slides.",
+          "promptTr": "Akran değerlendirmesinde sunumu yapan kişiye slaytları hakkında dengeli geri bildirim ver.",
+          "answer": "Overall, your slides are clear and well organized. If I had to criticize one thing, it'd be the text size, which is hard to read from the back.",
+          "answerTr": "Genel olarak slaytların açık ve düzenli. Bir şeyi eleştirmem gerekseydi yazı boyutu olurdu; arkadan okumak zor."
+        },
+        {
+          "prompt": "Report to your discussion section what a published critique of a well-known study argued.",
+          "promptTr": "Tartışma şubene, tanınmış bir çalışma hakkında yayımlanmış bir eleştirinin neyi savunduğunu aktar.",
+          "answer": "A recent critique evaluated the original study again and found problems. The authors argue that it ignored family income, so the assessment of the effect wasn't rigorous enough.",
+          "answerTr": "Yakın tarihli bir eleştiri asıl çalışmayı yeniden değerlendirip sorunlar buldu. Yazarlar çalışmanın aile gelirini hesaba katmadığını, bu yüzden etkinin değerlendirilmesinin yeterince titiz olmadığını savunuyor."
+        },
+        {
+          "prompt": "Your instructor's comments on your paper say \"weak evaluation.\" In office hours, ask what that means.",
+          "promptTr": "Hocanın ödevin üzerindeki yorumlarında \"değerlendirme zayıf\" yazıyor. Ofis saatinde bunun ne anlama geldiğini sor.",
+          "answer": "You wrote that my evaluation was weak. Do you mean I didn't assess the sources enough, or that I needed to say more about my own results?",
+          "answerTr": "Değerlendirmemin zayıf olduğunu yazmışsınız. Kaynakları yeterince değerlendirmediğimi mi kastediyorsunuz, yoksa kendi sonuçlarım hakkında daha fazla şey mi söylemeliydim?"
+        }
+      ]
+    },
+    {
+      "id": "ac-55",
+      "section": "written",
+      "titleTr": "Bir makalenin bölümlerinde gezinmek",
+      "titleEn": "Finding your way around a paper",
+      "words": [
+        "abstract",
+        "chapter",
+        "outline",
+        "appendix",
+        "format",
+        "subsequent",
+        "overview",
+        "coherent",
+        "draft",
+        "revise"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "according to the abstract",
+          "turkish": "özete göre",
+          "example": "According to the abstract, the study followed students for two years.",
+          "exampleTr": "Özete göre çalışma öğrencileri iki yıl boyunca izlemiş."
+        },
+        {
+          "phrase": "let me give you a quick overview",
+          "turkish": "size kısa bir genel bakış sunayım",
+          "example": "Let me give you a quick overview before we look at each chapter.",
+          "exampleTr": "Her bölüme bakmadan önce size kısa bir genel bakış sunayım."
+        },
+        {
+          "phrase": "it's in the appendix",
+          "turkish": "ekte, ek bölümde",
+          "example": "The full questionnaire isn't on the slides, but it's in the appendix.",
+          "exampleTr": "Anketin tamamı slaytlarda yok ama ekte bulabilirsiniz."
+        },
+        {
+          "phrase": "in subsequent chapters",
+          "turkish": "sonraki bölümlerde",
+          "example": "The author introduces the theory here and tests it in subsequent chapters.",
+          "exampleTr": "Yazar kuramı burada tanıtıyor ve sonraki bölümlerde sınıyor."
+        },
+        {
+          "phrase": "I'm still revising the draft",
+          "turkish": "taslağı hâlâ düzeltiyorum",
+          "example": "I'm still revising the draft, so the argument isn't fully coherent yet.",
+          "exampleTr": "Taslağı hâlâ gözden geçirip düzeltiyorum, bu yüzden savım henüz tam derli toplu değil."
+        },
+        {
+          "phrase": "follow the required format",
+          "turkish": "istenen biçime uymak",
+          "example": "Make sure you follow the required format for headings and page numbers.",
+          "exampleTr": "Başlıklar ve sayfa numaraları için istenen biçime uyduğundan emin ol."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Start a presentation about a long report by telling the audience how it's organized.",
+          "promptTr": "Uzun bir rapor hakkındaki sunumuna, dinleyicilere raporun nasıl düzenlendiğini anlatarak başla.",
+          "answer": "Let me outline how the report is organized. Chapter one sets up the problem, the next two chapters present the data, and the appendix has all the extra tables.",
+          "answerTr": "Raporun nasıl düzenlendiğini ana hatlarıyla anlatayım. Birinci bölüm sorunu ortaya koyuyor, sonraki iki bölüm verileri sunuyor ve ek bölümde bütün ek tablolar var."
+        },
+        {
+          "prompt": "Your professor returned your first draft with the comment \"not coherent.\" Ask what you should revise.",
+          "promptTr": "Hocan ilk taslağını \"derli toplu değil\" yorumuyla geri verdi. Neyi düzeltmen gerektiğini sor.",
+          "answer": "Thanks for the comments on my draft. When you say it's not coherent, is it the order of the sections, or do the paragraphs not connect well? I'd like to know what to revise first.",
+          "answerTr": "Taslağım hakkındaki yorumlarınız için teşekkürler. Derli toplu değil derken bölümlerin sırasını mı kastediyorsunuz, yoksa paragraflar birbirine iyi bağlanmıyor mu? Önce neyi düzeltmem gerektiğini bilmek istiyorum."
+        },
+        {
+          "prompt": "A friend missed the reading for class. Give them a short summary of the article's abstract.",
+          "promptTr": "Bir arkadaşın derse hazırlık okumasını kaçırdı. Ona makalenin özetini kısaca anlat.",
+          "answer": "Sure, the abstract is short. Basically, the authors tested a new reading program in five schools, and scores went up, but they say the long-term effects need more study.",
+          "answerTr": "Tabii, özet kısa. Temelde yazarlar beş okulda yeni bir okuma programını sınamış ve puanlar artmış; ama uzun vadeli etkilerin daha fazla incelenmesi gerektiğini söylüyorlar."
+        }
+      ]
+    },
+    {
+      "id": "ac-56",
+      "section": "written",
+      "titleTr": "Öncüller ve koşullar",
+      "titleEn": "Premises and conditions",
+      "words": [
+        "premise",
+        "presume",
+        "presumably",
+        "prerequisite",
+        "hypothetical",
+        "regardless",
+        "dependent",
+        "independent",
+        "implicit",
+        "explicit"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "rests on the premise that",
+          "turkish": "… öncülüne dayanıyor",
+          "example": "The whole argument rests on the premise that people act rationally.",
+          "exampleTr": "Bütün sav, insanların akılcı davrandığı öncülüne dayanıyor."
+        },
+        {
+          "phrase": "let's take a hypothetical case",
+          "turkish": "varsayımsal bir örnek ele alalım",
+          "example": "Let's take a hypothetical case: a student who works forty hours a week.",
+          "exampleTr": "Varsayımsal bir örnek ele alalım: haftada kırk saat çalışan bir öğrenci."
+        },
+        {
+          "phrase": "regardless of the outcome",
+          "turkish": "sonuç ne olursa olsun",
+          "example": "Regardless of the outcome, we'll publish the data so others can check it.",
+          "exampleTr": "Sonuç ne olursa olsun, başkaları kontrol edebilsin diye verileri yayımlayacağız."
+        },
+        {
+          "phrase": "the dependent variable is",
+          "turkish": "bağımlı değişken …",
+          "example": "In our study, the dependent variable is the final exam score.",
+          "exampleTr": "Çalışmamızda bağımlı değişken final sınavı puanı."
+        },
+        {
+          "phrase": "is a prerequisite for",
+          "turkish": "…in ön koşulu",
+          "example": "Statistics is a prerequisite for the research methods course.",
+          "exampleTr": "İstatistik, araştırma yöntemleri dersinin ön koşulu."
+        },
+        {
+          "phrase": "make it explicit",
+          "turkish": "açıkça belirtmek",
+          "example": "If that's an assumption, you should make it explicit in your talk.",
+          "exampleTr": "Bu bir varsayımsa, konuşmanda bunu açıkça belirtmelisin."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In an economics seminar, someone argues that raising the minimum wage will always cost jobs. Point out the hidden assumption.",
+          "promptTr": "Bir ekonomi seminerinde biri asgari ücreti artırmanın her zaman iş kaybına yol açacağını savunuyor. Gizli varsayımı göster.",
+          "answer": "There's an implicit premise there: that businesses can't adjust in other ways. Presumably some would raise prices or cut profits instead, so job losses aren't automatic.",
+          "answerTr": "Burada örtük bir öncül var: işletmelerin başka yollarla uyum sağlayamayacağı. Muhtemelen bazıları bunun yerine fiyatları artırır ya da kârlarını azaltır; yani iş kaybı kendiliğinden olmaz."
+        },
+        {
+          "prompt": "Your instructor says a course has a prerequisite. Ask whether you can take it without that class.",
+          "promptTr": "Hocan bir dersin ön koşulu olduğunu söylüyor. O dersi almadan bu dersi alıp alamayacağını sor.",
+          "answer": "Is the prerequisite strict, or can students take this course if they've studied the material on their own? I presume I'd need your permission either way.",
+          "answerTr": "Ön koşul kesin mi, yoksa konuyu kendi başına çalışmış öğrenciler bu dersi alabilir mi? Sanırım her iki durumda da sizin izninize ihtiyacım olur."
+        },
+        {
+          "prompt": "In a methods seminar, explain the difference between the two kinds of variables in your experiment.",
+          "promptTr": "Bir yöntem seminerinde deneyindeki iki değişken türü arasındaki farkı açıkla.",
+          "answer": "Our independent variable is the amount of caffeine, which we control. The dependent variable is reaction time, because it changes depending on the caffeine dose.",
+          "answerTr": "Bağımsız değişkenimiz, kontrol ettiğimiz kafein miktarı. Bağımlı değişken ise tepki süresi, çünkü kafein dozuna göre değişiyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-57",
+      "section": "written",
+      "titleTr": "Fikri uygulamaya koymak",
+      "titleEn": "Putting ideas into practice",
+      "words": [
+        "function",
+        "functional",
+        "apply",
+        "application",
+        "facilitate",
+        "enhance",
+        "efficiency",
+        "efficient",
+        "utilize",
+        "integrate",
+        "integration"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the main function of",
+          "turkish": "…in temel işlevi",
+          "example": "What's the main function of this section in your paper?",
+          "exampleTr": "Bu bölümün ödevindeki temel işlevi ne?"
+        },
+        {
+          "phrase": "we could apply the same idea to",
+          "turkish": "aynı fikri …e uygulayabiliriz",
+          "example": "We could apply the same idea to online forums and see what happens.",
+          "exampleTr": "Aynı fikri internet forumlarına uygulayıp ne olduğunu görebiliriz."
+        },
+        {
+          "phrase": "in practical applications",
+          "turkish": "pratik uygulamalarda",
+          "example": "The theory is elegant, but how does it work in practical applications?",
+          "exampleTr": "Kuram zarif ama pratik uygulamalarda nasıl işliyor?"
+        },
+        {
+          "phrase": "a more efficient way to",
+          "turkish": "…in daha verimli bir yolu",
+          "example": "Is there a more efficient way to code all these interviews?",
+          "exampleTr": "Bütün bu görüşmeleri kodlamanın daha verimli bir yolu var mı?"
+        },
+        {
+          "phrase": "to facilitate group work",
+          "turkish": "grup çalışmasını kolaylaştırmak için",
+          "example": "We set up a shared folder to facilitate group work over the break.",
+          "exampleTr": "Tatil boyunca grup çalışmasını kolaylaştırmak için ortak bir klasör kurduk."
+        },
+        {
+          "phrase": "fully integrated into",
+          "turkish": "…e tamamen entegre edilmiş",
+          "example": "The new tool still isn't fully integrated into the course website.",
+          "exampleTr": "Yeni araç hâlâ ders web sitesine tamamen entegre edilmiş değil."
+        },
+        {
+          "phrase": "to enhance the quality of",
+          "turkish": "…in kalitesini artırmak için",
+          "example": "We added short quizzes to enhance the quality of class discussions.",
+          "exampleTr": "Sınıf tartışmalarının kalitesini artırmak için kısa sınavlar ekledik."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At a project meeting, explain how a new scheduling app could help your lab.",
+          "promptTr": "Bir proje toplantısında yeni bir planlama uygulamasının laboratuvarına nasıl yardımcı olabileceğini açıkla.",
+          "answer": "Right now we book the equipment by email, which isn't very efficient. With the app, the equipment would be better utilized, and it would improve communication between the two teams.",
+          "answerTr": "Şu anda cihazları e-postayla ayırtıyoruz, bu da pek verimli değil. Uygulamayla cihazlar daha iyi kullanılır ve iki ekip arasındaki iletişim de iyileşir."
+        },
+        {
+          "prompt": "Tell your group what a reading says about putting a new teaching method into practice.",
+          "promptTr": "Grubuna bir okumanın yeni bir öğretim yöntemini uygulamaya koyma hakkında ne dediğini anlat.",
+          "answer": "According to the reading, the method works well in theory, but its application in real classrooms is harder. Integration takes time, and teachers need training before they can apply it properly.",
+          "answerTr": "Okumaya göre yöntem kuramda iyi işliyor ama gerçek sınıflarda uygulanması daha zor. Yöntemi derse yerleştirmek zaman alıyor ve öğretmenlerin onu düzgün uygulayabilmesi için önce eğitim alması gerekiyor."
+        },
+        {
+          "prompt": "Describe what happened to energy use after your dorm installed new heating controls.",
+          "promptTr": "Yurdun yeni ısıtma kontrolleri kurduktan sonra enerji kullanımına ne olduğunu anlat.",
+          "answer": "After the new controls went in, energy use fell by about twenty percent. That's a big gain in efficiency, and the system is fully functional, although a few rooms still run cold.",
+          "answerTr": "Yeni kontroller takıldıktan sonra enerji kullanımı yaklaşık yüzde yirmi düştü. Bu, verimlilikte büyük bir artış ve sistem tam olarak çalışıyor, gerçi birkaç oda hâlâ soğuk kalıyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-58",
+      "section": "written",
+      "titleTr": "Tartışmalı konular",
+      "titleEn": "Discussing contested issues",
+      "words": [
+        "controversy",
+        "controversial",
+        "debate",
+        "dispute",
+        "consensus",
+        "advocate",
+        "proponent",
+        "opponent",
+        "contend",
+        "stance",
+        "oppose"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "it's a controversial topic",
+          "turkish": "tartışmalı bir konu",
+          "example": "It's a controversial topic, so let's keep the discussion respectful.",
+          "exampleTr": "Tartışmalı bir konu, o yüzden tartışmayı saygılı tutalım."
+        },
+        {
+          "phrase": "there's no real consensus on",
+          "turkish": "… konusunda gerçek bir uzlaşı yok",
+          "example": "There's no real consensus on how much screen time is too much.",
+          "exampleTr": "Ne kadar ekran süresinin fazla olduğu konusunda gerçek bir uzlaşı yok."
+        },
+        {
+          "phrase": "proponents of the plan argue that",
+          "turkish": "planın savunucuları … olduğunu ileri sürüyor",
+          "example": "Proponents of the plan argue that free tuition would help more students graduate.",
+          "exampleTr": "Planın savunucuları, ücretsiz eğitimin daha fazla öğrencinin mezun olmasına yardım edeceğini ileri sürüyor."
+        },
+        {
+          "phrase": "opponents point out that",
+          "turkish": "karşı çıkanlar … olduğuna dikkat çekiyor",
+          "example": "Opponents point out that someone still has to pay for it.",
+          "exampleTr": "Karşı çıkanlar, birinin yine de bunun bedelini ödemek zorunda olduğuna dikkat çekiyor."
+        },
+        {
+          "phrase": "take a clear stance",
+          "turkish": "net bir tutum almak",
+          "example": "The author never takes a clear stance, which makes the essay hard to follow.",
+          "exampleTr": "Yazar hiçbir zaman net bir tutum almıyor, bu da yazıyı takip etmeyi zorlaştırıyor."
+        },
+        {
+          "phrase": "few people would dispute that",
+          "turkish": "pek az kişi … olduğuna itiraz eder",
+          "example": "Few people would dispute that college has become more expensive.",
+          "exampleTr": "Üniversitenin daha pahalı hâle geldiğine pek az kişi itiraz eder."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a seminar, someone asks for your view on banning phones in high schools. Give your position carefully.",
+          "promptTr": "Bir seminerde biri liselerde telefon yasağı hakkındaki görüşünü soruyor. Tutumunu temkinli biçimde bildir.",
+          "answer": "My stance is somewhere in the middle. I wouldn't oppose limits during class, but a full ban seems hard to enforce, and some students need phones for emergencies.",
+          "answerTr": "Tutumum ortada bir yerde. Ders sırasında sınırlamalara karşı çıkmazdım ama tamamen yasaklamak uygulanması zor görünüyor ve bazı öğrencilerin acil durumlar için telefona ihtiyacı var."
+        },
+        {
+          "prompt": "Report both sides of a debate about four-day school weeks that you read about.",
+          "promptTr": "Okuduğun, dört günlük okul haftası hakkındaki bir tartışmanın iki tarafını aktar.",
+          "answer": "Advocates say a four-day week saves money and improves attendance. Others contend that working parents struggle with childcare on the fifth day, so the controversy is far from settled.",
+          "answerTr": "Savunucular dört günlük haftanın para tasarrufu sağladığını ve devamsızlığı azalttığını söylüyor. Diğerleri ise çalışan ebeveynlerin beşinci gün çocuk bakımında zorlandığını ileri sürüyor; yani tartışma henüz sonuçlanmış değil."
+        },
+        {
+          "prompt": "Sum up a heated class discussion about a new campus housing policy.",
+          "promptTr": "Yeni bir kampüs barınma politikası hakkındaki hararetli bir sınıf tartışmasını özetle.",
+          "answer": "So, there's still a lot of disagreement. Most of us agree that housing is too expensive, but we couldn't reach a consensus on whether the new policy will actually help.",
+          "answerTr": "Özetle, hâlâ pek çok görüş ayrılığı var. Çoğumuz barınmanın çok pahalı olduğunda hemfikiriz ama yeni politikanın gerçekten işe yarayıp yaramayacağı konusunda uzlaşamadık."
+        }
+      ]
+    },
+    {
+      "id": "ac-59",
+      "section": "written",
+      "titleTr": "Kurumlar ve kamu politikası",
+      "titleEn": "Institutions and public policy",
+      "words": [
+        "institution",
+        "institutional",
+        "policy",
+        "regulation",
+        "regulate",
+        "sector",
+        "authority",
+        "legislation",
+        "enforce",
+        "impose"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "from a policy perspective",
+          "turkish": "politika açısından",
+          "example": "From a policy perspective, the question is who pays for the program.",
+          "exampleTr": "Politika açısından soru, programın parasını kimin ödeyeceği."
+        },
+        {
+          "phrase": "the public and private sectors",
+          "turkish": "kamu ve özel sektör",
+          "example": "The report compares wages in the public and private sectors.",
+          "exampleTr": "Rapor kamu ve özel sektördeki ücretleri karşılaştırıyor."
+        },
+        {
+          "phrase": "the rules are rarely enforced",
+          "turkish": "kurallar nadiren uygulanıyor",
+          "example": "The dorm has noise rules, but the rules are rarely enforced.",
+          "exampleTr": "Yurdun gürültü kuralları var ama kurallar nadiren uygulanıyor."
+        },
+        {
+          "phrase": "new legislation on",
+          "turkish": "… hakkında yeni mevzuat, yeni yasa",
+          "example": "Our seminar looked at new legislation on data privacy in schools.",
+          "exampleTr": "Seminerimiz okullarda veri gizliliği hakkındaki yeni mevzuatı inceledi."
+        },
+        {
+          "phrase": "impose limits on",
+          "turkish": "…e sınır koymak",
+          "example": "Some cities impose limits on how much rent can rise each year.",
+          "exampleTr": "Bazı şehirler kiraların her yıl ne kadar artabileceğine sınır koyuyor."
+        },
+        {
+          "phrase": "at the institutional level",
+          "turkish": "kurum düzeyinde",
+          "example": "Change has to happen at the institutional level, not just in one class.",
+          "exampleTr": "Değişimin yalnızca tek bir sınıfta değil, kurum düzeyinde olması gerekiyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a public policy seminar, explain why governments regulate food labels.",
+          "promptTr": "Bir kamu politikası seminerinde hükümetlerin gıda etiketlerini neden düzenlediğini açıkla.",
+          "answer": "Governments regulate labels because buyers can't check ingredients themselves. Clear regulations protect consumers, and an independent authority can test products and fine companies that lie.",
+          "answerTr": "Hükümetler etiketleri düzenliyor, çünkü alıcılar içerikleri kendileri kontrol edemez. Açık düzenlemeler tüketicileri korur; bağımsız bir kurum da ürünleri test edip yalan söyleyen şirketlere ceza verebilir."
+        },
+        {
+          "prompt": "During a debate, a student argues that universities should impose a strict dress code. Disagree politely.",
+          "promptTr": "Bir münazarada bir öğrenci üniversitelerin katı bir kıyafet kuralı koyması gerektiğini savunuyor. Kibarca katılmadığını söyle.",
+          "answer": "I see the point, but that sounds like the wrong policy for adults. Institutions should focus on learning, and a dress code would be hard to enforce fairly anyway.",
+          "answerTr": "Ne demek istediğini anlıyorum ama bu bence yetişkinler için yanlış bir politika. Kurumlar öğrenmeye odaklanmalı; üstelik kıyafet kuralını adil biçimde uygulamak da zor olur."
+        },
+        {
+          "prompt": "Report what a news article says about a city's new rules on short-term rentals.",
+          "promptTr": "Bir haberin, bir şehrin kısa süreli kiralamalarla ilgili yeni kuralları hakkında ne dediğini aktar.",
+          "answer": "According to the news, the city council passed new rules to limit short-term rentals. Owners now need a license, and the city will check that people follow them.",
+          "answerTr": "Habere göre belediye meclisi kısa süreli kiralamaları sınırlayan yeni bir düzenleme getirmiş. Ev sahiplerinin artık ruhsat alması gerekiyor ve belediye kurallara uyulup uyulmadığını denetleyecek."
+        }
+      ]
+    },
+    {
+      "id": "ac-60",
+      "section": "written",
+      "titleTr": "Fon ve kaynak dağıtımı",
+      "titleEn": "Funding and allocating resources",
+      "words": [
+        "allocate",
+        "allocation",
+        "distribute",
+        "distribution",
+        "fund",
+        "funding",
+        "financial",
+        "budget",
+        "invest",
+        "investment",
+        "grant"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "we applied for a research grant",
+          "turkish": "bir araştırma hibesine başvurduk",
+          "example": "We applied for a research grant to pay our participants.",
+          "exampleTr": "Katılımcılarımıza ödeme yapabilmek için bir araştırma hibesine başvurduk."
+        },
+        {
+          "phrase": "how the funds are allocated",
+          "turkish": "fonların nasıl dağıtıldığı",
+          "example": "Students want to know how the funds are allocated between clubs.",
+          "exampleTr": "Öğrenciler fonların kulüpler arasında nasıl dağıtıldığını bilmek istiyor."
+        },
+        {
+          "phrase": "we're over budget",
+          "turkish": "bütçeyi aştık",
+          "example": "We're over budget on printing, so let's share the handouts digitally.",
+          "exampleTr": "Basım masraflarında bütçeyi aştık, o yüzden dağıtılan kâğıtları dijital olarak paylaşalım."
+        },
+        {
+          "phrase": "a good investment of time",
+          "turkish": "zamana değer bir yatırım",
+          "example": "Learning the software is a good investment of time for the whole team.",
+          "exampleTr": "Programı öğrenmek bütün ekip için zamana değer bir yatırım."
+        },
+        {
+          "phrase": "the distribution of income",
+          "turkish": "gelir dağılımı",
+          "example": "This chart shows the distribution of income in our city by neighborhood.",
+          "exampleTr": "Bu grafik şehrimizdeki gelir dağılımını mahalleye göre gösteriyor."
+        },
+        {
+          "phrase": "financial support for",
+          "turkish": "… için maddi destek",
+          "example": "The department offers financial support for students who present at conferences.",
+          "exampleTr": "Bölüm, konferansta sunum yapan öğrencilere maddi destek sağlıyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a budget presentation for a student club, move from last year's spending to this year's plan.",
+          "promptTr": "Bir öğrenci kulübünün bütçe sunumunda geçen yılın harcamalarından bu yılın planına geç.",
+          "answer": "That covers how we spent last year's funding. Moving on to this year, we plan to allocate more money to events and less to printing, because that's where members want us to invest.",
+          "answerTr": "Geçen yılın bütçesini nasıl harcadığımız bu kadar. Bu yıla geçersek, etkinliklere daha fazla, basıma daha az para ayırmayı planlıyoruz, çünkü üyeler paranın oraya yatırılmasını istiyor."
+        },
+        {
+          "prompt": "Describe a pie chart showing how a university's research budget is divided.",
+          "promptTr": "Bir üniversitenin araştırma bütçesinin nasıl bölündüğünü gösteren bir pasta grafiği anlat.",
+          "answer": "Over half of the research budget goes to science and engineering. The rest is split between the social sciences and the arts. Clearly, the allocation is uneven.",
+          "answerTr": "Araştırma bütçesinin yarısından fazlası fen ve mühendislik alanlarına gidiyor. Geri kalanı sosyal bilimler ile sanat arasında bölünüyor. Açıkça görüldüğü gibi dağıtım dengesiz."
+        },
+        {
+          "prompt": "One of your group members wants to spend the whole project fund on one expensive device. Suggest a different plan.",
+          "promptTr": "Grup üyelerinden biri bütün proje fonunu pahalı tek bir cihaza harcamak istiyor. Farklı bir plan öner.",
+          "answer": "Spending the whole fund on one device feels risky to me. Could we distribute it more evenly, maybe half on equipment and half on paying participants?",
+          "answerTr": "Bütün fonu tek bir cihaza harcamak bana riskli geliyor. Fonu daha dengeli dağıtabilir miyiz, mesela yarısını ekipmana, yarısını katılımcılara ödemeye?"
+        }
+      ]
+    },
+    {
+      "id": "ac-61",
+      "section": "written",
+      "titleTr": "Zaman ve süre",
+      "titleEn": "Talking about time and duration",
+      "words": [
+        "duration",
+        "interval",
+        "simultaneously",
+        "ongoing",
+        "temporary",
+        "permanent",
+        "eventually",
+        "precede",
+        "decade",
+        "era"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "for the duration of the study",
+          "turkish": "çalışma süresince",
+          "example": "Participants wore the sensor for the duration of the study.",
+          "exampleTr": "Katılımcılar sensörü çalışma süresince taktı."
+        },
+        {
+          "phrase": "at regular intervals",
+          "turkish": "düzenli aralıklarla",
+          "example": "We measured heart rate at regular intervals, every ten minutes.",
+          "exampleTr": "Kalp atış hızını düzenli aralıklarla, her on dakikada bir ölçtük."
+        },
+        {
+          "phrase": "the project is still ongoing",
+          "turkish": "proje hâlâ sürüyor",
+          "example": "We don't have final results yet; the project is still ongoing.",
+          "exampleTr": "Henüz kesin sonuçlarımız yok; proje hâlâ sürüyor."
+        },
+        {
+          "phrase": "only a temporary solution",
+          "turkish": "yalnızca geçici bir çözüm",
+          "example": "Moving the class online was only a temporary solution.",
+          "exampleTr": "Dersi uzaktan yapmak yalnızca geçici bir çözümdü."
+        },
+        {
+          "phrase": "over the past decade",
+          "turkish": "son on yılda",
+          "example": "Over the past decade, the cost of textbooks has almost doubled.",
+          "exampleTr": "Son on yılda ders kitaplarının fiyatı neredeyse iki katına çıktı."
+        },
+        {
+          "phrase": "in the era of",
+          "turkish": "… çağında",
+          "example": "In the era of smartphones, attention spans may be changing.",
+          "exampleTr": "Akıllı telefon çağında dikkat süreleri değişiyor olabilir."
+        },
+        {
+          "phrase": "do two things simultaneously",
+          "turkish": "iki şeyi aynı anda yapmak",
+          "example": "Most people can't do two things simultaneously, like reading slides and listening.",
+          "exampleTr": "Çoğu insan slayt okumak ve dinlemek gibi iki şeyi aynı anda yapamaz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Describe a timeline in your history presentation: a war, the years before it, and the long period after.",
+          "promptTr": "Tarih sunumundaki bir zaman çizelgesini anlat: bir savaş, ondan önceki yıllar ve sonraki uzun dönem.",
+          "answer": "Several years of unrest preceded the war, which lasted about four years. Afterward, there were almost three decades of peace, and eventually the economy recovered.",
+          "answerTr": "Savaştan önce birkaç yıllık bir huzursuzluk dönemi vardı; savaş yaklaşık dört yıl sürdü. Ardından neredeyse otuz yıl barış oldu ve sonunda ekonomi toparlandı."
+        },
+        {
+          "prompt": "Your instructor mentions a change to the lab schedule. Ask whether it's permanent or only for this semester.",
+          "promptTr": "Hocan laboratuvar programında bir değişiklikten söz ediyor. Değişikliğin kalıcı mı yoksa yalnızca bu dönem için mi olduğunu sor.",
+          "answer": "Just to check, is the new lab time a permanent change, or is it temporary while the building is being repaired? Some of us have jobs on Thursday evenings.",
+          "answerTr": "Emin olmak için soruyorum: yeni laboratuvar saati kalıcı bir değişiklik mi, yoksa bina onarılırken geçici mi? Bazılarımız perşembe akşamları çalışıyor."
+        },
+        {
+          "prompt": "In your presentation, tell the audience you'll first describe a long process and then its results.",
+          "promptTr": "Sunumunda dinleyicilere önce uzun bir süreci, ardından sonuçlarını anlatacağını söyle.",
+          "answer": "I'll start with the process, which took about two years in total, and then we'll look at the results. The ongoing part of the study will come at the very end.",
+          "answerTr": "Toplam yaklaşık iki yıl süren süreçle başlayacağım, sonra sonuçlara bakacağız. Çalışmanın hâlâ süren kısmı en sona kalacak."
+        }
+      ]
+    },
+    {
+      "id": "ac-62",
+      "section": "written",
+      "titleTr": "Büyüklük ve kapsam",
+      "titleEn": "Talking about size and extent",
+      "words": [
+        "considerable",
+        "substantial",
+        "substantially",
+        "marginal",
+        "moderate",
+        "minor",
+        "extensive",
+        "negligible",
+        "predominantly",
+        "widespread"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "a substantial amount of",
+          "turkish": "hatırı sayılır miktarda",
+          "example": "The project took a substantial amount of time, mostly for coding.",
+          "exampleTr": "Proje, çoğu kodlama için olmak üzere hatırı sayılır miktarda zaman aldı."
+        },
+        {
+          "phrase": "the difference is negligible",
+          "turkish": "fark ihmal edilebilir düzeyde",
+          "example": "The difference is negligible, so either method would work for us.",
+          "exampleTr": "Fark ihmal edilebilir düzeyde, yani iki yöntem de bizim için işe yarar."
+        },
+        {
+          "phrase": "only a marginal improvement",
+          "turkish": "yalnızca çok küçük bir iyileşme",
+          "example": "The new version gave only a marginal improvement in speed.",
+          "exampleTr": "Yeni sürüm hızda yalnızca çok küçük bir iyileşme sağladı."
+        },
+        {
+          "phrase": "a moderate increase",
+          "turkish": "orta düzeyde bir artış",
+          "example": "We saw a moderate increase in sign-ups after the email campaign.",
+          "exampleTr": "E-posta kampanyasından sonra kayıtlarda orta düzeyde bir artış gördük."
+        },
+        {
+          "phrase": "this is a widespread problem",
+          "turkish": "bu yaygın bir sorun",
+          "example": "This is a widespread problem: many online surveys have missing data.",
+          "exampleTr": "Bu yaygın bir sorun: birçok internet anketinde eksik veri var."
+        },
+        {
+          "phrase": "to a considerable extent",
+          "turkish": "büyük ölçüde, önemli ölçüde",
+          "example": "Your grade depends to a considerable extent on the final project.",
+          "exampleTr": "Notun büyük ölçüde final projesine bağlı."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Describe the results of a survey about where students live: most live off campus, some on campus, a few at home.",
+          "promptTr": "Öğrencilerin nerede yaşadığına dair bir anketin sonuçlarını anlat: çoğu kampüs dışında, bir kısmı kampüste, birkaçı ailesiyle yaşıyor.",
+          "answer": "Our sample was predominantly off-campus renters, about seventy percent. A substantial group lived in the dorms, and only a few students lived with their families.",
+          "answerTr": "Örneklemimiz ağırlıklı olarak kampüs dışında kirada oturanlardan oluşuyordu, yaklaşık yüzde yetmiş. Hatırı sayılır bir grup yurtlarda kalıyordu; ailesiyle yaşayanlar ise yalnızca birkaç öğrenciydi."
+        },
+        {
+          "prompt": "Your group's new study method improved scores a little. Your study partner wants to call it a huge success. Give a balanced view.",
+          "promptTr": "Grubunun yeni çalışma yöntemi puanları biraz artırdı. Çalışma arkadaşın buna büyük başarı demek istiyor. Dengeli bir görüş bildir.",
+          "answer": "It's a real improvement, but I'd call it moderate rather than huge. Scores went up substantially for some students, but for most, the change was minor.",
+          "answerTr": "Gerçek bir iyileşme ama buna büyük değil, orta düzeyde derdim. Bazı öğrencilerin puanları önemli ölçüde arttı ama çoğu için değişiklik küçüktü."
+        },
+        {
+          "prompt": "Summarize an extensive report about student mental health in two or three sentences.",
+          "promptTr": "Öğrenci ruh sağlığı üzerine kapsamlı bir raporu iki üç cümleyle özetle.",
+          "answer": "It's a very extensive report, but its main message is simple. Stress is widespread among students, and the authors call for more counseling on every campus.",
+          "answerTr": "Çok kapsamlı bir rapor ama ana mesajı basit. Öğrenciler arasında stres yaygın ve yazarlar her kampüste daha fazla psikolojik danışmanlık hizmeti istiyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-63",
+      "section": "written",
+      "titleTr": "Mantık ve akıl yürütme",
+      "titleEn": "Logic and reasoning",
+      "words": [
+        "logic",
+        "logical",
+        "reasoning",
+        "contradiction",
+        "paradox",
+        "fallacy",
+        "plausible",
+        "coincidence",
+        "arbitrary",
+        "objection"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "that's a logical next step",
+          "turkish": "bu mantıklı bir sonraki adım",
+          "example": "That's a logical next step, but we'd need more funding first.",
+          "exampleTr": "Bu mantıklı bir sonraki adım ama önce daha fazla fona ihtiyacımız olur."
+        },
+        {
+          "phrase": "the reasoning goes like this",
+          "turkish": "akıl yürütme şöyle işliyor",
+          "example": "The reasoning goes like this: cheaper housing means fewer students need jobs.",
+          "exampleTr": "Akıl yürütme şöyle işliyor: konut ucuzlarsa daha az öğrencinin işe ihtiyacı olur."
+        },
+        {
+          "phrase": "there's a contradiction here",
+          "turkish": "burada bir çelişki var",
+          "example": "There's a contradiction here: the author praises the policy and then rejects it.",
+          "exampleTr": "Burada bir çelişki var: yazar politikayı önce övüyor, sonra reddediyor."
+        },
+        {
+          "phrase": "it might just be a coincidence",
+          "turkish": "sadece bir tesadüf olabilir",
+          "example": "It might just be a coincidence that both groups improved in March.",
+          "exampleTr": "İki grubun da martta gelişme göstermesi sadece bir tesadüf olabilir."
+        },
+        {
+          "phrase": "a plausible explanation",
+          "turkish": "akla yatkın bir açıklama",
+          "example": "Boredom is a plausible explanation, but we haven't tested it yet.",
+          "exampleTr": "Can sıkıntısı akla yatkın bir açıklama ama henüz sınamadık."
+        },
+        {
+          "phrase": "the cutoff seems arbitrary",
+          "turkish": "bu sınır gelişigüzel seçilmiş gibi",
+          "example": "Why twenty-one and not twenty? The cutoff seems arbitrary to me.",
+          "exampleTr": "Neden yirmi değil de yirmi bir? Bu sınır bana gelişigüzel seçilmiş gibi geliyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Someone in your study group says, \"If a lot of people believe something, it must be true.\" Respond.",
+          "promptTr": "Çalışma grubundan biri \"Pek çok insan bir şeye inanıyorsa doğru olmalı\" diyor. Cevap ver.",
+          "answer": "That's actually a classic fallacy. Popularity isn't evidence, and many people once believed things that turned out to be false, so the logic doesn't hold.",
+          "answerTr": "Bu aslında bilinen bir mantık hatası. Yaygınlık kanıt değildir; pek çok insan bir zamanlar yanlış çıkan şeylere inanıyordu, yani bu mantık geçerli değil."
+        },
+        {
+          "prompt": "In a philosophy seminar, explain a paradox you find interesting.",
+          "promptTr": "Bir felsefe seminerinde ilginç bulduğun bir paradoksu açıkla.",
+          "answer": "My favorite paradox is about learning. The more you study a topic, the more you realize how little you know. That's why experts often sound less confident than beginners.",
+          "answerTr": "En sevdiğim paradoks öğrenmeyle ilgili. Bir konuyu ne kadar çok çalışırsan ne kadar az şey bildiğini o kadar çok fark ediyorsun. Uzmanların çoğu zaman yeni başlayanlardan daha az emin konuşması bu yüzden."
+        },
+        {
+          "prompt": "You disagree with part of your lab's plan for next month. Raise your objection politely in a lab meeting.",
+          "promptTr": "Laboratuvarının gelecek ayki planının bir kısmına katılmıyorsun. Bir laboratuvar toplantısında itirazını kibarca dile getir.",
+          "answer": "Can I raise one small objection? The plan makes sense overall, but testing everyone on the same day might not be realistic with our equipment.",
+          "answerTr": "Küçük bir itirazım olabilir mi? Plan genel olarak mantıklı ama herkesi aynı gün test etmek, ekipmanımızla gerçekçi olmayabilir."
+        }
+      ]
+    },
+    {
+      "id": "ac-64",
+      "section": "written",
+      "titleTr": "Sorunları gidermek ve etkisini azaltmak",
+      "titleEn": "Fixing problems and reducing their impact",
+      "words": [
+        "obstacle",
+        "challenge",
+        "resolve",
+        "resolution",
+        "eliminate",
+        "minimize",
+        "maximize",
+        "mitigate",
+        "compensate",
+        "overcome",
+        "alleviate",
+        "tackle"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "the biggest obstacle is",
+          "turkish": "en büyük engel",
+          "example": "The biggest obstacle is getting busy parents to fill out the survey.",
+          "exampleTr": "En büyük engel, yoğun ebeveynlerin anketi doldurmasını sağlamak."
+        },
+        {
+          "phrase": "minimize the number of",
+          "turkish": "…in sayısını en aza indirmek",
+          "example": "We tried to minimize the number of questions so people would finish.",
+          "exampleTr": "İnsanlar anketi bitirsin diye soru sayısını en aza indirmeye çalıştık."
+        },
+        {
+          "phrase": "one way to tackle this is",
+          "turkish": "bunu ele almanın bir yolu",
+          "example": "One way to tackle this is to send a short reminder after two days.",
+          "exampleTr": "Bunu ele almanın bir yolu, iki gün sonra kısa bir hatırlatma göndermek."
+        },
+        {
+          "phrase": "help mitigate the problem",
+          "turkish": "sorunu hafifletmeye yardım etmek",
+          "example": "Extra office hours could help mitigate the problem before finals.",
+          "exampleTr": "Ek ofis saatleri, finallerden önce sorunu hafifletmeye yardım edebilir."
+        },
+        {
+          "phrase": "to compensate for the small sample",
+          "turkish": "küçük örneklemi telafi etmek için",
+          "example": "To compensate for the small sample, we ran the test three times.",
+          "exampleTr": "Küçük örneklemi telafi etmek için testi üç kez yaptık."
+        },
+        {
+          "phrase": "the issue was resolved",
+          "turkish": "sorun çözüldü",
+          "example": "The software issue was resolved, so we can start collecting data again.",
+          "exampleTr": "Yazılım sorunu çözüldü, yani yeniden veri toplamaya başlayabiliriz."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At a project meeting, explain how your team will deal with low response rates.",
+          "promptTr": "Bir proje toplantısında ekibinin düşük cevap oranlarıyla nasıl başa çıkacağını açıkla.",
+          "answer": "We have two ideas to overcome this challenge. First, we'll shorten the survey to eliminate questions nobody answers, and second, we'll offer a small gift card to maximize participation.",
+          "answerTr": "Bu zorluğun üstesinden gelmek için iki fikrimiz var. Önce kimsenin cevaplamadığı soruları çıkarmak için anketi kısaltacağız; ikinci olarak katılımı en üst düzeye çıkarmak için küçük bir hediye kartı vereceğiz."
+        },
+        {
+          "prompt": "Summarize the solutions an article proposes for traffic near campus.",
+          "promptTr": "Bir makalenin kampüs çevresindeki trafik için önerdiği çözümleri özetle.",
+          "answer": "Basically, the article proposes three steps to alleviate congestion: cheaper bus passes, more bike lanes, and later class times. It says no single solution will fix everything.",
+          "answerTr": "Temelde makale trafik sıkışıklığını hafifletmek için üç adım öneriyor: daha ucuz otobüs kartları, daha fazla bisiklet yolu ve daha geç ders saatleri. Tek bir çözümün her şeyi düzeltmeyeceğini söylüyor."
+        },
+        {
+          "prompt": "Two teammates disagree about who should write the final section. Ask questions to help resolve it.",
+          "promptTr": "İki ekip arkadaşın son bölümü kimin yazacağı konusunda anlaşamıyor. Sorunu çözmeye yardım edecek sorular sor.",
+          "answer": "Can we reach a quick resolution? What does each of you want to write, and could we split the section so the work feels fair?",
+          "answerTr": "Hızlıca bir çözüme varabilir miyiz? Her biriniz ne yazmak istiyorsunuz; iş adil olsun diye bölümü paylaşabilir miyiz?"
+        }
+      ]
+    },
+    {
+      "id": "ac-65",
+      "section": "written",
+      "titleTr": "Araştırma etiği",
+      "titleEn": "Research ethics",
+      "words": [
+        "ethics",
+        "ethical",
+        "consent",
+        "confidential",
+        "confidentiality",
+        "anonymous",
+        "voluntary",
+        "integrity",
+        "disclose",
+        "violate",
+        "approval"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "get informed consent",
+          "turkish": "bilgilendirilmiş onam almak",
+          "example": "Before the interviews, we have to get informed consent from every participant.",
+          "exampleTr": "Görüşmelerden önce her katılımcıdan bilgilendirilmiş onam almamız gerekiyor."
+        },
+        {
+          "phrase": "participation is voluntary",
+          "turkish": "katılım gönüllülük esasına dayanıyor",
+          "example": "Participation is voluntary, and people can stop at any time.",
+          "exampleTr": "Katılım gönüllülük esasına dayanıyor ve insanlar istedikleri an bırakabilir."
+        },
+        {
+          "phrase": "the responses are anonymous",
+          "turkish": "cevaplar anonim",
+          "example": "The responses are anonymous, so nobody can link answers to names.",
+          "exampleTr": "Cevaplar anonim, yani kimse cevapları isimlerle eşleştiremez."
+        },
+        {
+          "phrase": "we need IRB approval",
+          "turkish": "IRB onayına (etik kurul onayına) ihtiyacımız var",
+          "example": "We need IRB approval before we can recruit any students.",
+          "exampleTr": "Herhangi bir öğrenciyi çalışmaya almadan önce IRB onayına (etik kurul onayına) ihtiyacımız var."
+        },
+        {
+          "phrase": "it would violate confidentiality",
+          "turkish": "gizliliği ihlal eder",
+          "example": "I can't send you the recordings; it would violate confidentiality.",
+          "exampleTr": "Kayıtları sana gönderemem; bu gizliliği ihlal eder."
+        },
+        {
+          "phrase": "disclose any conflicts of interest",
+          "turkish": "her türlü çıkar çatışmasını açıklamak",
+          "example": "Authors must disclose any conflicts of interest, like funding from a company.",
+          "exampleTr": "Yazarlar, bir şirketten fon almak gibi her türlü çıkar çatışmasını açıklamak zorunda."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "A participant asks what will happen to their interview data. Reassure them.",
+          "promptTr": "Bir katılımcı görüşme verilerine ne olacağını soruyor. İçini rahatlat.",
+          "answer": "Everything you tell us stays confidential. We'll remove your name before analysis, store the files on an encrypted drive, and delete the recordings when the project ends.",
+          "answerTr": "Bize söylediğiniz her şey gizli kalacak. Analizden önce adınızı çıkaracağız, dosyaları şifreli bir sürücüde saklayacağız ve proje bitince kayıtları sileceğiz."
+        },
+        {
+          "prompt": "Someone on your project suggests using students' social media posts without asking them. Explain why that's a problem.",
+          "promptTr": "Projendeki biri öğrencilerin sosyal medya paylaşımlarını onlara sormadan kullanmayı öneriyor. Bunun neden sorun olduğunu açıkla.",
+          "answer": "Even if the posts are public, using them without consent raises ethical questions. It could violate people's privacy, and the review board probably wouldn't approve it anyway.",
+          "answerTr": "Paylaşımlar herkese açık olsa bile onları bilgilendirilmiş onam almadan kullanmak etik sorular doğurur. İnsanların mahremiyetini ihlal edebilir ve etik kurul büyük olasılıkla buna zaten onay vermez."
+        },
+        {
+          "prompt": "In a research methods class, describe what happened in a well-known case where a researcher faked data.",
+          "promptTr": "Bir araştırma yöntemleri dersinde, bir araştırmacının veri uydurduğu tanınmış bir vakada ne olduğunu anlat.",
+          "answer": "In that case, a researcher invented data for several papers. When it came out, the journals withdrew them, and people still talk about it as a lesson in research integrity and ethics.",
+          "answerTr": "O vakada bir araştırmacı birkaç makale için veri uydurmuştu. Bu ortaya çıkınca dergiler makaleleri geri çekti; olay hâlâ araştırma dürüstlüğü ve etiği konusunda bir ders olarak anılıyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-66",
+      "section": "written",
+      "titleTr": "Toplumsal gruplar ve çeşitlilik",
+      "titleEn": "Social groups and diversity",
+      "words": [
+        "demographic",
+        "ethnic",
+        "gender",
+        "income",
+        "diverse",
+        "diversity",
+        "minority",
+        "status",
+        "urban",
+        "rural",
+        "inequality"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "from diverse backgrounds",
+          "turkish": "farklı geçmişlerden",
+          "example": "Our participants came from diverse backgrounds, which made the interviews richer.",
+          "exampleTr": "Katılımcılarımız farklı geçmişlerden geliyordu; bu da görüşmeleri zenginleştirdi."
+        },
+        {
+          "phrase": "urban and rural areas",
+          "turkish": "kentsel ve kırsal bölgeler",
+          "example": "Internet access is still very different in urban and rural areas.",
+          "exampleTr": "İnternet erişimi kentsel ve kırsal bölgelerde hâlâ çok farklı."
+        },
+        {
+          "phrase": "low-income families",
+          "turkish": "düşük gelirli aileler",
+          "example": "Free meals make a big difference for students from low-income families.",
+          "exampleTr": "Ücretsiz yemek, düşük gelirli ailelerden gelen öğrenciler için büyük fark yaratıyor."
+        },
+        {
+          "phrase": "a growing gap between",
+          "turkish": "… arasında büyüyen bir uçurum",
+          "example": "Inequality shows up as a growing gap between rich and poor neighborhoods.",
+          "exampleTr": "Eşitsizlik, zengin ve yoksul mahalleler arasında büyüyen bir uçurum olarak kendini gösteriyor."
+        },
+        {
+          "phrase": "broken down by gender",
+          "turkish": "cinsiyete göre ayrılmış",
+          "example": "Here are the results broken down by gender and age group.",
+          "exampleTr": "İşte cinsiyete ve yaş grubuna göre ayrılmış sonuçlar."
+        },
+        {
+          "phrase": "students from minority groups",
+          "turkish": "azınlık gruplarından öğrenciler",
+          "example": "The program supports students from minority groups in science majors.",
+          "exampleTr": "Program, fen alanlarında okuyan azınlık gruplarından öğrencileri destekliyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Describe the demographic profile of the people in your survey.",
+          "promptTr": "Anketindeki kişilerin demografik özelliklerini anlat.",
+          "answer": "In terms of demographics, most of our respondents were women between nineteen and twenty-two. About a third came from rural towns, and there was real ethnic diversity.",
+          "answerTr": "Demografik açıdan bakarsak, cevap verenlerin çoğu on dokuz ile yirmi iki yaş arasındaki kadınlardı. Yaklaşık üçte biri kırsal kasabalardan geliyordu ve gerçek bir etnik çeşitlilik vardı."
+        },
+        {
+          "prompt": "Tell your seminar group what a reading says about income and college choice.",
+          "promptTr": "Seminer grubuna bir okumanın gelir ve üniversite seçimi hakkında ne dediğini anlat.",
+          "answer": "The authors found that family income strongly shapes where students apply. Students from poorer homes often choose cheaper local colleges, regardless of their grades, and that adds to inequality.",
+          "answerTr": "Yazarlar, aile gelirinin öğrencilerin hangi okullara başvurduğunu güçlü biçimde belirlediğini bulmuş. Yoksul ailelerden gelen öğrenciler notları ne olursa olsun çoğu zaman daha ucuz yerel üniversiteleri seçiyor ve bu, eşitsizliği artırıyor."
+        },
+        {
+          "prompt": "In a sociology seminar, someone asks whether social status matters more than talent. Give a careful answer.",
+          "promptTr": "Bir sosyoloji seminerinde biri toplumsal statünün yetenekten daha önemli olup olmadığını soruyor. Temkinli bir cevap ver.",
+          "answer": "It's hard to separate the two, but status clearly matters. Talented students without money or contacts often face more barriers, so I'd say status shapes who gets a chance to use their talent.",
+          "answerTr": "İkisini ayırmak zor ama statünün önemli olduğu açık. Parası ya da tanıdığı olmayan yetenekli öğrenciler çoğu zaman daha fazla engelle karşılaşıyor; yani bence statü, yeteneğini kullanma fırsatını kimin bulacağını belirliyor."
+        }
+      ]
+    },
+    {
+      "id": "ac-67",
+      "section": "written",
+      "titleTr": "Fikirleri birbirine bağlamak",
+      "titleEn": "Linking ideas together",
+      "words": [
+        "furthermore",
+        "moreover",
+        "nonetheless",
+        "despite",
+        "additionally",
+        "accordingly",
+        "namely",
+        "albeit",
+        "alternatively",
+        "respectively"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "furthermore, the data show",
+          "turkish": "bunun yanı sıra veriler … gösteriyor",
+          "example": "Costs went down. Furthermore, the data show that students were happier.",
+          "exampleTr": "Maliyetler düştü. Bunun yanı sıra veriler öğrencilerin daha mutlu olduğunu gösteriyor."
+        },
+        {
+          "phrase": "despite the fact that",
+          "turkish": "…mesine rağmen",
+          "example": "Despite the fact that the room was cold, most people stayed until the end.",
+          "exampleTr": "Oda soğuk olmasına rağmen çoğu kişi sonuna kadar kaldı."
+        },
+        {
+          "phrase": "one main factor, namely",
+          "turkish": "tek bir ana etken, yani",
+          "example": "We focus on one main factor, namely the cost of housing.",
+          "exampleTr": "Tek bir ana etkene, yani konut maliyetine odaklanıyoruz."
+        },
+        {
+          "phrase": "albeit on a small scale",
+          "turkish": "küçük ölçekte de olsa",
+          "example": "We repeated the experiment, albeit on a small scale, and got similar results.",
+          "exampleTr": "Deneyi küçük ölçekte de olsa tekrarladık ve benzer sonuçlar elde ettik."
+        },
+        {
+          "phrase": "we adjusted the plan accordingly",
+          "turkish": "planı buna göre değiştirdik",
+          "example": "Several participants dropped out, and we adjusted the plan accordingly.",
+          "exampleTr": "Birkaç katılımcı çalışmadan çekildi, biz de planı buna göre değiştirdik."
+        },
+        {
+          "phrase": "ten and twelve percent respectively",
+          "turkish": "sırasıyla yüzde on ve yüzde on iki",
+          "example": "The two groups improved by ten and twelve percent respectively.",
+          "exampleTr": "İki grup sırasıyla yüzde on ve yüzde on iki gelişme gösterdi."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In a presentation, add a second argument for later school start times after your first one.",
+          "promptTr": "Bir sunumda, okulların daha geç başlaması için ilk savından sonra ikinci bir sav ekle.",
+          "answer": "So later start times improve sleep. Moreover, schools that tried it saw better attendance. Additionally, there were fewer car accidents among teen drivers.",
+          "answerTr": "Yani daha geç başlama saatleri uykuyu iyileştiriyor. Üstelik bunu deneyen okullarda devamsızlık azaldı. Buna ek olarak genç sürücülerin karıştığı trafik kazaları da düştü."
+        },
+        {
+          "prompt": "A reviewer of your grant application says your project can't work because the budget is small. Agree it's a concern but defend your plan.",
+          "promptTr": "Hibe başvurunu değerlendiren biri, bütçe küçük olduğu için projenin işe yaramayacağını söylüyor. Bunun bir endişe olduğunu kabul et ama planını savun.",
+          "answer": "That's a fair concern. Nonetheless, we've kept the design cheap. If money runs short, we could drop the second round of interviews or, alternatively, do them by phone.",
+          "answerTr": "Haklı bir endişe. Yine de tasarımı düşük maliyetli tuttuk. Para yetmezse ikinci görüşme turundan vazgeçebilir ya da alternatif olarak görüşmeleri telefonla yapabiliriz."
+        },
+        {
+          "prompt": "Sum up the two main findings of your project in one or two sentences.",
+          "promptTr": "Projenin iki ana bulgusunu bir iki cümleyle özetle.",
+          "answer": "We found two things, namely that cost matters most and that distance matters less than expected. Both results held, albeit with a fairly small sample.",
+          "answerTr": "İki şey bulduk; şöyle ki maliyet en önemli etken, mesafe ise beklenenden daha az önemli. İki sonuç da, oldukça küçük bir örneklemle de olsa, geçerliliğini korudu."
+        }
+      ]
+    },
+    {
+      "id": "ac-68",
+      "section": "written",
+      "titleTr": "Sistemler ve dinamikler",
+      "titleEn": "Systems and dynamics",
+      "words": [
+        "network",
+        "layer",
+        "core",
+        "integral",
+        "dynamic",
+        "feedback",
+        "equilibrium",
+        "input",
+        "mutual",
+        "reciprocal",
+        "sustain"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "at the core of",
+          "turkish": "…in özünde, merkezinde",
+          "example": "At the core of the model is a simple idea about trust.",
+          "exampleTr": "Modelin özünde güvenle ilgili basit bir fikir var."
+        },
+        {
+          "phrase": "a feedback loop",
+          "turkish": "geri besleme döngüsü",
+          "example": "Melting ice and rising temperatures create a feedback loop that's hard to break.",
+          "exampleTr": "Eriyen buzlar ve yükselen sıcaklıklar, kırılması zor bir geri besleme döngüsü oluşturuyor."
+        },
+        {
+          "phrase": "integral to",
+          "turkish": "…in ayrılmaz parçası",
+          "example": "Group work is integral to how this course is taught.",
+          "exampleTr": "Grup çalışması bu dersin işleniş biçiminin ayrılmaz bir parçası."
+        },
+        {
+          "phrase": "the system reaches equilibrium",
+          "turkish": "sistem dengeye ulaşıyor",
+          "example": "After a few cycles, the system reaches equilibrium and stops changing.",
+          "exampleTr": "Birkaç döngüden sonra sistem dengeye ulaşıyor ve değişmeyi bırakıyor."
+        },
+        {
+          "phrase": "for mutual benefit",
+          "turkish": "karşılıklı yarar için",
+          "example": "The two labs share their data for mutual benefit.",
+          "exampleTr": "İki laboratuvar, karşılıklı yarar için verilerini paylaşıyor."
+        },
+        {
+          "phrase": "hard to sustain over time",
+          "turkish": "zaman içinde sürdürmesi zor",
+          "example": "That pace is hard to sustain over time without more volunteers.",
+          "exampleTr": "Daha fazla gönüllü olmadan o tempoyu zaman içinde sürdürmek zor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "In an ecology seminar, explain how two species can depend on each other.",
+          "promptTr": "Bir ekoloji seminerinde iki türün birbirine nasıl bağımlı olabileceğini açıkla.",
+          "answer": "Bees and flowers have a reciprocal relationship. Bees get food from the flowers, and the flowers get help to reproduce, so the whole network of plants depends on that exchange.",
+          "answerTr": "Arılar ile çiçekler arasında karşılıklı bir ilişki var. Arılar çiçeklerden besin alıyor, çiçekler de üremek için yardım alıyor; yani bütün bitki ağı bu alışverişe dayanıyor."
+        },
+        {
+          "prompt": "Describe a diagram of a three-layer software system for your technology class.",
+          "promptTr": "Teknoloji dersin için üç katmanlı bir yazılım sisteminin şemasını anlat.",
+          "answer": "This diagram shows three layers. User input enters at the top, and the middle layer, where the core logic lives, processes it. The bottom layer stores the data.",
+          "answerTr": "Bu şema üç katman gösteriyor. Kullanıcı girdisi en üstten giriyor ve temel mantığın bulunduğu orta katman onu işliyor. Alt katman da verileri saklıyor."
+        },
+        {
+          "prompt": "Someone in your economics class calls the housing market \"totally chaotic.\" Offer a more careful description.",
+          "promptTr": "Ekonomi dersinden biri konut piyasasına \"tamamen kaotik\" diyor. Daha temkinli bir tanım öner.",
+          "answer": "I'd call it dynamic rather than chaotic. Prices move a lot, but they respond to clear forces like interest rates, and over time the market tends to find a new equilibrium.",
+          "answerTr": "Ben buna kaotik değil, devingen derdim. Fiyatlar çok oynuyor ama faiz oranları gibi belirgin etkenlere tepki veriyor ve zamanla piyasa yeni bir dengeye ulaşma eğiliminde."
+        }
+      ]
+    },
+    {
+      "id": "ac-69",
+      "section": "written",
+      "titleTr": "Gözlemlemek ve tespit etmek",
+      "titleEn": "Detecting and monitoring",
+      "words": [
+        "detect",
+        "detection",
+        "monitor",
+        "track",
+        "isolate",
+        "exhibit",
+        "display",
+        "visible",
+        "apparent",
+        "apparently",
+        "persist"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "we're monitoring the situation",
+          "turkish": "durumu izliyoruz",
+          "example": "We're monitoring the situation closely and will update the class on Friday.",
+          "exampleTr": "Durumu yakından izliyoruz ve cuma günü sınıfı bilgilendireceğiz."
+        },
+        {
+          "phrase": "track changes over time",
+          "turkish": "zaman içindeki değişimleri takip etmek",
+          "example": "The app lets us track changes over time for each participant.",
+          "exampleTr": "Uygulama, her katılımcı için zaman içindeki değişimleri takip etmemizi sağlıyor."
+        },
+        {
+          "phrase": "if we display the data by",
+          "turkish": "verileri … göre gösterirsek",
+          "example": "If we display the data by month, the pattern is easy to see.",
+          "exampleTr": "Verileri aylara göre gösterirsek örüntü kolayca görülüyor."
+        },
+        {
+          "phrase": "early detection of",
+          "turkish": "…in erken tespiti",
+          "example": "Regular checkups allow early detection of most of these problems.",
+          "exampleTr": "Düzenli kontroller bu sorunların çoğunun erken tespit edilmesini sağlıyor."
+        },
+        {
+          "phrase": "to isolate the effect of",
+          "turkish": "…in etkisini ayrı olarak görmek, yalıtmak",
+          "example": "We used two groups to isolate the effect of music on focus.",
+          "exampleTr": "Müziğin odaklanma üzerindeki etkisini ayrı olarak görebilmek için iki grup kullandık."
+        },
+        {
+          "phrase": "the problem persisted",
+          "turkish": "sorun sürdü, geçmedi",
+          "example": "We restarted the software, but the problem persisted for days.",
+          "exampleTr": "Yazılımı yeniden başlattık ama sorun günlerce sürdü."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "Report what your sensors detected during a week-long air quality study near campus.",
+          "promptTr": "Kampüs yakınındaki bir haftalık hava kalitesi çalışması sırasında sensörlerinin neyi tespit ettiğini anlat.",
+          "answer": "Our sensors detected high pollution every morning around eight. The pattern was apparent on all five weekdays, and it matches the times when traffic is heaviest.",
+          "answerTr": "Sensörlerimiz her sabah saat sekiz civarında yüksek kirlilik tespit etti. Bu örüntü beş iş gününün hepsinde belirgindi ve trafiğin en yoğun olduğu saatlerle örtüşüyor."
+        },
+        {
+          "prompt": "Tell your group what a psychology article found about children's behavior in new situations.",
+          "promptTr": "Grubuna bir psikoloji makalesinin çocukların yeni durumlardaki davranışı hakkında ne bulduğunu anlat.",
+          "answer": "Apparently, shy children exhibit more signs of stress in new places, but it doesn't last. The authors say the effect rarely persists beyond the first few weeks of school.",
+          "answerTr": "Görünüşe göre çekingen çocuklar yeni ortamlarda daha fazla stres belirtisi gösteriyor ama bu uzun sürmüyor. Yazarlara göre etki, okulun ilk birkaç haftasından sonra nadiren devam ediyor."
+        },
+        {
+          "prompt": "In your presentation, tell the audience to look at the next figure on the screen.",
+          "promptTr": "Sunumunda dinleyicilerden ekrandaki bir sonraki şekle bakmalarını iste.",
+          "answer": "Now, if you look at the screen, this figure shows the same data by week. Notice how the drop becomes visible only after March.",
+          "answerTr": "Şimdi ekrana bakarsanız, bu şekil aynı verileri haftalara göre gösteriyor. Düşüşün ancak marttan sonra görünür hâle geldiğine dikkat edin."
+        }
+      ]
+    },
+    {
+      "id": "ac-70",
+      "section": "written",
+      "titleTr": "Yeni bilgi ve katkı",
+      "titleEn": "New knowledge and contribution",
+      "words": [
+        "innovation",
+        "innovative",
+        "novel",
+        "insight",
+        "advance",
+        "breakthrough",
+        "prospect",
+        "pioneer",
+        "foundation",
+        "paradigm",
+        "unique"
+      ],
+      "synonyms": {},
+      "phrases": [
+        {
+          "phrase": "a novel approach to",
+          "turkish": "…e özgün bir yaklaşım",
+          "example": "The authors take a novel approach to measuring student stress.",
+          "exampleTr": "Yazarlar öğrenci stresini ölçmeye özgün bir yaklaşım getiriyor."
+        },
+        {
+          "phrase": "this gives us new insight into",
+          "turkish": "bu bize … konusunda yeni bir kavrayış sağlıyor",
+          "example": "This gives us new insight into how first-year students make friends.",
+          "exampleTr": "Bu bize birinci sınıf öğrencilerinin nasıl arkadaş edindiği konusunda yeni bir kavrayış sağlıyor."
+        },
+        {
+          "phrase": "a major breakthrough in",
+          "turkish": "…de büyük bir atılım",
+          "example": "The vaccine was a major breakthrough in public health.",
+          "exampleTr": "Aşı, halk sağlığında büyük bir atılımdı."
+        },
+        {
+          "phrase": "lays the foundation for",
+          "turkish": "…in temelini atıyor",
+          "example": "This study lays the foundation for a larger project next year.",
+          "exampleTr": "Bu çalışma, gelecek yıl yapılacak daha büyük bir projenin temelini atıyor."
+        },
+        {
+          "phrase": "challenges the old paradigm",
+          "turkish": "eski paradigmayı sorguluyor",
+          "example": "Her study challenges the old paradigm that intelligence is fixed at birth.",
+          "exampleTr": "Onun çalışması, zekânın doğuştan sabit olduğu yönündeki eski paradigmayı sorguluyor."
+        },
+        {
+          "phrase": "the prospects for",
+          "turkish": "… için beklentiler, olasılıklar",
+          "example": "The prospects for funding look better than they did last year.",
+          "exampleTr": "Fon bulma olasılıkları geçen yıla göre daha iyi görünüyor."
+        }
+      ],
+      "sayPrompts": [
+        {
+          "prompt": "At the end of the semester, sum up what your research group has contributed this year.",
+          "promptTr": "Dönemin sonunda araştırma grubunun bu yıl neye katkı sağladığını özetle.",
+          "answer": "This year we made real advances. Our survey tool is now used by two other labs, and our findings offer a unique look at how part-time students study.",
+          "answerTr": "Bu yıl gerçek ilerlemeler kaydettik. Anket aracımız artık iki laboratuvar daha tarafından kullanılıyor ve bulgularımız yarı zamanlı öğrencilerin nasıl çalıştığına dair eşsiz bir bakış sunuyor."
+        },
+        {
+          "prompt": "Introduce your classmates to a scientist who pioneered a new method.",
+          "promptTr": "Sınıf arkadaşlarına yeni bir yöntemin öncüsü olan bir bilim insanını tanıt.",
+          "answer": "She pioneered the use of tiny cameras to study birds in the wild. Her work was so innovative that most field researchers now use the same method.",
+          "answerTr": "Kuşları doğal ortamlarında incelemek için minik kameralar kullanmanın öncüsü oldu. Çalışması o kadar yenilikçiydi ki saha araştırmacılarının çoğu artık aynı yöntemi kullanıyor."
+        },
+        {
+          "prompt": "During a class debate, a student claims that every new technology is an innovation that improves education. Give a careful view.",
+          "promptTr": "Bir sınıf tartışmasında bir öğrenci her yeni teknolojinin eğitimi iyileştiren bir yenilik olduğunu öne sürüyor. Temkinli bir görüş bildir.",
+          "answer": "Some tools really help, but not every innovation improves learning. Honestly, the prospect of new gadgets can distract schools from basic needs, like smaller classes.",
+          "answerTr": "Bazı araçlar gerçekten yardımcı oluyor ama her yenilik öğrenmeyi iyileştirmiyor. Açıkçası yeni cihazlara kavuşma beklentisi, okulların dikkatini daha küçük sınıflar gibi temel ihtiyaçlardan uzaklaştırabiliyor."
+        }
+      ]
     }
   ]
 }
